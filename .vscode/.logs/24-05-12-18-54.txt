@@ -1,0 +1,2140 @@
+24-05-12 18:54 Session started
+----------------------------------------
+18:54:43 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+18:55:15 018:024 > .
+18:55:15 018:023 > ..
+18:55:16 018:024 > ..s
+18:55:16 018:025 > ..st
+18:55:16 018:026 > ..stl
+18:55:16 018:023 > .style
+18:55:17 018:029 > .
+18:55:18 018:029 > .display
+18:55:19 018:038 >  =
+18:55:20 018:040 >  = f
+18:55:21 018:040 >  = ff
+18:55:21 018:041 >  = ffl
+18:55:21 018:042 >  = ffle
+18:55:22 018:043 >  = fflex
+18:55:23 018:040 > ""
+18:55:23 018:041 > f
+18:55:23 018:042 > fl
+18:55:23 018:043 > fle
+18:55:24 018:044 > flex
+
+18:55:46 017:030 > #
+
+18:55:55 018:046 > a
+18:55:55 018:047 > aW
+18:55:55 018:048 > aWd
+18:56:01 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:56:01 169:016 > a
+18:56:01 169:017 > aw
+18:56:01 169:018 > awd
+
+18:56:06 174:004 > c
+18:56:06 174:005 > co
+18:56:06 174:006 > col
+18:56:07 174:007 > colo
+18:56:07 174:008 > color
+18:56:07 174:004 > color: ;
+18:56:07 174:011 > b
+18:56:08 174:012 > bl
+18:56:08 174:013 > bls
+18:56:08 174:014 > blsa
+18:56:08 174:015 > blsac
+18:56:09 174:013 > blsaca
+18:56:09 174:014 > blsacac
+18:56:09 174:015 > blsacack
+18:56:10 174:011 > black
+18:56:12 174:011 > black
+18:56:14 174:013 > sac
+18:56:48 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+18:56:49 012:000 > s
+18:56:49 012:001 > su
+18:56:50 012:002 > sub
+18:56:50 012:000 > submitBtn
+18:56:50 012:009 > .
+18:56:51 012:010 > .a
+18:56:51 012:011 > .ac
+18:56:51 012:012 > .act
+18:56:51 012:013 > .acti
+18:56:51 012:014 > .actio
+18:56:52 012:015 > .action
+18:56:54 012:009 > .ATTRIBUTE_NODE
+18:56:54 012:024 > .
+18:56:55 012:010 > ATTRIBUTE_NODE
+18:56:55 012:024 > .
+18:56:59 012:009 > ..
+18:57:09 012:010 > ..t
+18:57:10 012:011 > ..to
+18:57:11 012:012 > ..tog
+18:57:12 012:013 > ..togg
+18:59:02 018:004 > if (document.form.name.value == '') {
+    console.log('invalid');
+    return false;
+  } else {
+    console.log('valid');
+    return true;
+  }
+18:59:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+18:59:22 038:027 > a
+18:59:22 038:028 > ac
+18:59:22 038:029 > act
+18:59:22 038:030 > acti
+18:59:22 038:031 > actio
+18:59:23 038:032 > action
+18:59:24 038:034 > action =
+18:59:24 038:036 > action = a
+18:59:25 038:036 > action = an
+18:59:25 038:037 > action = ano
+18:59:26 038:038 > action = ano;
+18:59:28 038:027 > action = ano;h
+18:59:28 038:028 > action = ano;hr
+18:59:28 038:029 > action = ano;hre
+18:59:28 038:030 > action = ano;href
+18:59:29 038:031 > action = ano;href=
+18:59:29 038:032 > ""
+18:59:31 038:033 > n
+18:59:31 038:033 > n.
+18:59:32 038:034 > n./
+18:59:33 038:035 > hem.html
+19:00:02 038:027 >  o
+19:00:02 038:028 >  on
+19:00:03 038:029 >  onc
+19:00:03 038:030 >  oncl
+19:00:03 038:031 >  oncli
+19:00:03 038:027 > onclick=""
+19:00:06 038:036 > r
+19:00:06 038:037 > re
+19:00:06 038:038 > ret
+19:00:07 038:039 > retu
+19:00:07 038:036 > return
+19:00:08 038:043 >  f
+19:00:08 038:044 >  fa
+19:00:08 038:043 > false
+19:01:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+19:01:08 011:000 > s
+19:01:09 011:001 > sy
+19:01:10 011:001 > syu
+19:01:10 011:000 > submitBtn
+19:01:10 011:009 > .
+19:01:11 011:010 > .e
+19:01:11 011:011 > .ev
+19:01:11 011:012 > .eve
+19:01:12 011:013 > .even
+19:01:18 011:009 > .even.
+19:01:19 011:010 > preventDefault()
+19:01:20 011:026 > ;
+19:01:27 010:000 > submitBtn.preventDefault();
+19:02:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+19:02:43 038:027 > o
+19:02:43 038:028 > on
+19:02:53 038:027 > on a
+19:02:55 038:028 > on ac
+19:02:55 038:029 > on act
+19:02:56 038:030 > on acti
+19:02:56 038:031 > on actio
+19:02:57 038:027 > on actioa
+19:02:58 038:027 > on actioaq
+19:02:59 038:027 > on actioaqw
+19:02:59 038:027 > on actioaqwe
+19:03:00 038:027 > on actioaqwer
+19:03:01 038:027 > on actioaqwert
+19:03:02 038:027 > on actioaqwerty
+19:03:03 038:027 > on actioaqwertyu
+19:03:03 038:027 > on actioaqwertyui
+19:03:05 038:027 > on actioaqwertyuio
+19:03:07 038:027 > on actioaqwertyuioa
+19:03:08 038:027 > on actioaqwertyuioas
+19:03:10 038:027 > on actioaqwertyuioass
+19:03:11 038:027 > on actioaqwertyuioassd
+19:03:13 038:027 > on actioaqwertyuioassdf
+19:03:14 038:027 > on actioaqwertyuioassdfg
+19:03:14 038:027 > on actioaqwertyuioassdfgh
+19:03:15 038:027 > on actioaqwertyuioassdfghj
+19:03:16 038:028 > on actioaqwertyuioassdfghjk
+19:03:16 038:027 > on actioaqwertyuioassdfghjkk
+19:03:17 038:027 > on actioaqwertyuioassdfghjkkl
+19:03:18 038:027 > on actioaqwertyuioassdfghjkklz
+19:03:19 038:027 > on actioaqwertyuioassdfghjkklzx
+19:03:19 038:027 > on actioaqwertyuioassdfghjkklzxc
+19:03:20 038:027 > on actioaqwertyuioassdfghjkklzxcc
+19:03:21 038:027 > on actioaqwertyuioassdfghjkklzxccv
+19:03:21 038:027 > on actioaqwertyuioassdfghjkklzxccvb
+19:03:22 038:027 > on actioaqwertyuioassdfghjkklzxccvbn
+19:03:23 038:027 > on actioaqwertyuioassdfghjkklzxccvbnm
+19:03:25 038:027 > on actioaqwertyuioassdfghjkklzxccvbnm,
+19:03:25 038:027 > on actioaqwertyuioassdfghjkklzxccvbnm,.
+19:03:26 038:027 > on actioaqwertyuioassdfghjkklzxccvbnm,.n
+19:03:42 038:027 > on actioaqwertyuioassdfghjkklzxccvbnm,.n  o
+19:03:42 038:028 > on actioaqwertyuioassdfghjkklzxccvbnm,.n  on
+19:03:43 038:029 > on actioaqwertyuioassdfghjkklzxccvbnm,.n  onl
+19:03:43 038:030 > on actioaqwertyuioassdfghjkklzxccvbnm,.n  onlc
+19:03:43 038:029 > on actioaqwertyuioassdfghjkklzxccvbnm,.n  onlcc
+19:03:44 038:030 > on actioaqwertyuioassdfghjkklzxccvbnm,.n  onlccl
+19:03:44 038:027 > onclick=""
+19:03:45 038:036 > #
+19:03:46 038:036 > #h
+19:03:46 038:037 > #hr
+19:03:46 038:038 > #hre
+19:03:47 038:039 > #href
+19:03:48 038:036 > #hrefd
+19:03:48 038:037 > #hrefdo
+19:03:48 038:038 > #hrefdoc
+19:03:49 038:036 > document
+19:03:49 038:044 > .
+19:03:50 038:045 > .l
+19:03:50 038:046 > .lo
+19:03:50 038:047 > .loc
+19:03:51 038:045 > location
+19:03:51 038:053 > .
+19:03:52 038:054 > .h
+19:03:54 038:053 > .h.
+19:03:55 038:054 > .h.h
+19:03:55 038:055 > .h.hr
+19:03:55 038:056 > .h.hre
+19:03:56 038:054 > href
+19:03:56 038:059 >  0
+19:03:57 038:059 >  0 0
+19:03:58 038:059 >  0 0=
+19:03:58 038:061 >  0 0= "
+19:03:59 038:061 >  0 0= "#
+19:04:01 038:061 > ''
+19:04:01 038:062 > "
+19:04:02 038:062 > "#
+19:04:06 038:064 > ""
+19:04:08 038:064 > ""
+19:05:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+19:05:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:05:56 038:020 > b
+19:05:56 038:021 > bu
+19:05:57 038:022 > but
+19:05:57 038:020 > <button></button>
+19:06:07 038:028 > id ="submit" type="submit" value="Skicka"
+19:06:46 038:070 > Skicka
+19:06:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+19:07:01 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:07:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+19:07:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:07:26 038:033 > submit
+19:07:38 038:041 > type="submit"
+19:07:44 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+19:07:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:08:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+19:08:13 166:004 > h
+19:08:15 166:004 > hg
+19:08:16 166:005 > hgr
+19:08:16 166:006 > hgri
+19:08:16 166:007 > hgrid
+19:08:17 166:008 > hgridc
+19:08:18 166:008 > hgridct
+19:08:18 166:009 > hgridcte
+19:08:18 166:004 > grid-template-columns: ;
+19:08:19 166:027 > 2
+19:08:22 166:027 > 22
+19:08:26 166:009 > 22c
+19:08:26 166:010 > 22co
+19:08:26 166:011 > 22col
+19:08:27 166:004 > grid-column:
+19:08:27 166:017 > 2
+19:08:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:08:54 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+19:09:18 158:054 > ,
+19:09:19 159:000 > .kontainer main .kontakta-oss-formulär #submit
+
+19:09:22 146:048 > ,
+19:09:23 147:000 > .kontainer main .kontakta-oss-formulär #submit
+19:09:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:09:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+19:09:39 166:053 > ,
+19:09:40 167:000 > .kontainer main .kontakta-oss-formulär #submit
+
+19:09:40 167:046 > :
+19:09:41 167:047 > :h
+19:09:42 167:048 > :ho
+19:09:42 167:049 > :hov
+19:09:43 167:046 > :hover
+19:10:02 167:046 > :hov
+19:10:04 171:000 > grid-column: 2;
+19:10:07 166:004 > grid-col
+19:10:08 166:009 > template
+
+19:10:08 166:017 > -
+19:10:09 166:018 > columns
+19:10:09 166:025 > :
+19:10:09 166:027 > :2
+19:10:10 166:027 > :22
+19:10:11 166:004 > gridte
+19:10:11 166:008 > c
+19:11:22 166:000 > c       h
+19:11:23 174:000 > color: blsac;
+19:11:24 174:004 > color
+19:11:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:11:26 038:033 > submit
+19:11:27 038:055 > value="Skicka"
+19:11:27 039:000 > <input onclick="document.location.href = '#'" id ="submit" type="submit" value="Skicka">
+19:11:28 038:020 > but
+
+19:12:06 038:046 > b
+19:12:06 038:047 > bu
+19:12:07 038:046 > button
+19:12:45 038:046 > checkbox
+19:13:09 038:046 > s
+19:13:47 038:027 > s #
+19:13:57 038:046 > s #i
+19:13:58 038:047 > s #in
+19:14:00 038:046 > s #ins
+19:14:00 038:047 > s #insy
+19:14:02 038:047 > s #insyu
+19:14:03 038:048 > s #insyub
+19:14:03 038:046 > submit
+19:14:06 038:046 > b
+19:14:06 038:047 > bu
+19:14:06 038:046 > button
+19:14:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+19:14:44 017:040 > "
+19:14:46 017:039 > ""
+19:14:47 017:040 > ""
+19:14:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+19:14:51 174:004 > d
+19:14:51 174:005 > di
+19:14:51 174:006 > dis
+19:14:52 174:007 > disp
+19:14:52 174:008 > displ
+19:14:52 174:004 > display: ;
+19:14:53 174:013 > :
+19:14:54 174:013 > :f
+19:14:55 174:014 > :fl
+19:14:55 174:015 > :fle
+19:14:56 174:013 > :fley
+19:14:56 174:014 > :fleye
+19:14:57 174:013 > :fleyet
+19:14:57 174:014 > :fleyetr
+19:14:58 174:011 > :fleyetr:
+19:15:10 174:012 > block
+19:15:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+19:15:18 017:041 > b
+19:15:18 017:042 > bl
+19:15:19 017:043 > blo
+19:15:19 017:044 > bloc
+19:15:19 017:045 > block
+19:15:47 017:004 > blocka
+19:15:47 017:005 > blockal
+19:15:47 017:006 > blockale
+19:15:47 017:007 > blockaler
+19:15:47 017:008 > blockalert
+19:15:47 017:004 > alert
+19:15:49 017:009 > ()
+19:15:50 017:010 > ""
+19:15:51 017:011 > n
+19:15:51 017:012 > ni
+19:15:51 017:013 > nig
+19:15:51 017:014 > niga
+19:16:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+19:16:20 163:027 > -
+19:16:20 163:028 > --
+19:16:23 163:027 > --mint
+19:16:31 163:027 > -
+19:16:31 163:028 > --
+19:16:33 163:027 > --dartmouth-green
+19:16:43 163:027 > w
+19:16:45 163:027 > w-
+19:16:45 163:028 > w--
+19:16:50 163:027 > --nyanza
+19:17:37 158:004 > outline: 5px solid var(--nyanza);
+19:18:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:18:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+19:18:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:18:22 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+19:19:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:19:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+19:19:10 012:052 > sändningsmeddelande
+19:19:10 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+19:19:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+19:20:21 016:030 > c
+19:20:21 016:031 > co
+19:20:23 016:030 > color
+19:20:26 016:039 > w
+19:20:26 016:040 > wh
+19:20:26 016:041 > whi
+19:20:26 016:042 > whit
+19:20:26 016:043 > white
+19:20:29 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+19:20:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+19:20:56 018:000 > sändningsmeddelande.style.color = "white"
+
+19:21:10 012:051 > #
+19:21:10 018:000 > sändningsmeddelande.style.color = "white"
+19:21:11 016:039 > block
+19:21:11 016:030 > co
+19:21:12 016:030 > display
+19:21:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+19:21:18 178:004 > display: none;
+19:21:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+19:21:26 017:004 > i
+19:21:26 017:005 > if
+19:21:26 017:004 > if
+19:21:26 017:006 > ()
+19:21:30 017:007 > d
+19:21:30 017:008 > do
+19:21:31 017:009 > doc
+19:21:31 017:010 > docu
+19:21:31 017:011 > docum
+19:21:32 017:007 > document
+19:21:32 017:015 > .
+19:21:33 017:016 > .q
+19:21:33 017:017 > .qu
+19:21:34 017:018 > .que
+19:21:37 017:015 > .querySelectorAll
+19:21:38 017:032 > ()
+19:21:44 017:033 > f
+19:21:44 017:034 > fo
+19:21:45 017:033 > ""
+19:21:45 017:034 > f
+19:21:45 017:035 > fo
+19:21:46 017:036 > for
+19:21:46 017:037 > form
+19:21:47 017:039 > form >
+19:21:48 017:041 > form > i
+19:21:48 017:042 > form > in
+19:21:48 017:043 > form > inp
+19:21:49 017:044 > form > inpu
+19:21:49 017:045 > form > input
+19:21:51 017:039 > form > input.
+19:21:51 017:040 > form > input.i
+19:21:52 017:039 > form > input.ii
+19:21:53 017:040 > form > input.iin
+19:21:53 017:041 > form > input.iinp
+19:21:53 017:042 > form > input.iinpu
+19:21:53 017:043 > form > input.iinput
+19:22:02 018:008 > {}
+19:22:06 010:000 > "git.autofetch": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+
+19:22:07 019:012 > }
+
+19:22:07 016:047 > ;
+
+19:22:15 007:045 > .
+19:22:16 007:046 > .v
+19:22:16 007:047 > .va
+19:22:16 007:048 > .val
+19:22:21 007:046 > .valv
+19:22:22 007:047 > .valva
+19:22:23 007:045 > .valva.
+19:22:25 007:046 > .valva.v
+19:22:25 007:047 > .valva.va
+19:22:25 007:045 > .values
+19:22:28 007:046 > v
+19:22:28 007:047 > va
+19:22:28 007:046 > values
+19:22:29 007:052 > ()
+19:22:42 007:002 > document.querySelectorAll("form input").values()
+
+19:22:48 008:002 > f
+19:22:48 008:003 > fo
+19:22:48 008:004 > for
+19:22:49 008:005 > ()
+19:22:49 008:002 > for
+19:22:50 008:005 > e
+19:22:50 008:006 > ea
+19:22:50 008:007 > eac
+19:22:50 008:008 > each
+19:22:51 008:002 > array.forEach(element => {
+    
+  });
+19:22:52 008:002 > foreach
+19:22:54 008:005 > ()
+19:22:55 008:006 > i
+19:22:55 008:007 > in
+19:22:55 008:008 > int
+19:22:57 008:006 > int v
+19:22:58 008:006 > int vl
+19:22:58 008:007 > int vle
+19:22:58 008:008 > int vlet
+19:22:59 008:010 > int vlet v
+19:22:59 008:011 > int vlet va
+19:22:59 008:012 > int vlet var
+19:23:01 008:010 > int vlet var i
+19:23:02 008:012 > int vlet var i =
+19:23:02 008:014 > int vlet var i = 0
+19:23:05 008:015 > int vlet var i = 0;
+19:23:06 008:017 > int vlet var i = 0; i
+19:23:07 008:018 > int vlet var i = 0; i>
+19:23:07 008:018 > int vlet var i = 0; i><
+19:23:11 008:019 > document.querySelectorAll("form input").values()
+19:23:12 008:067 > ,
+19:23:13 008:068 > ,i
+19:23:13 008:069 > ,i+
+19:23:13 008:070 > ,i++
+19:23:15 009:004 > {}
+19:23:21 008:067 > ;
+
+19:23:31 007:000 > l
+19:23:31 007:001 > le
+19:23:32 007:002 > let
+19:23:33 007:004 > letl
+19:23:33 007:005 > letle
+19:23:33 007:006 > letlet
+19:23:34 007:007 > letleti
+19:23:35 007:008 > letleti i
+19:23:35 007:009 > letleti in
+19:23:35 007:010 > letleti inp
+19:23:35 007:011 > letleti inpu
+19:23:35 007:012 > letleti input
+19:23:37 007:013 > letleti input V
+19:23:37 007:014 > letleti input Va
+19:23:37 007:015 > letleti input Val
+19:23:37 007:016 > letleti input Valu
+19:23:38 007:017 > letleti input Value
+19:23:38 007:018 > letleti input Values
+19:23:40 007:013 > letleti input ValuesV
+19:23:40 007:014 > letleti input ValuesVä
+19:23:40 007:015 > letleti input ValuesVär
+19:23:40 007:016 > letleti input ValuesVärd
+19:23:41 007:017 > letleti input ValuesVärde
+19:23:41 007:018 > letleti input ValuesVärder
+19:23:41 007:018 > letleti input ValuesVärdern
+19:23:42 007:020 > letleti input ValuesVärdern =
+19:23:48 007:022 > document.querySelectorAll("form input").values()
+19:23:50 007:070 > ;
+
+19:23:53 008:019 > i
+19:23:53 008:020 > in
+19:23:53 008:021 > inp
+19:23:54 008:019 > inputVärden
+
+19:23:57 010:008 > i
+19:23:58 010:009 > if
+19:23:58 010:010 > ()
+19:23:58 010:008 > if
+19:23:59 010:011 > i
+19:23:59 010:012 > in
+19:24:00 010:013 > inp
+19:24:00 010:014 > inpu
+19:24:00 010:015 > input
+19:24:01 010:011 > inputVärden
+19:24:02 010:022 > .
+19:24:05 010:023 > .v
+19:24:08 010:023 > []
+19:24:08 010:024 > i
+19:24:10 010:022 > []
+19:24:11 010:023 > k
+19:24:11 010:023 > ki
+19:24:16 010:025 > ki.
+19:24:16 010:026 > ki.v
+19:24:17 010:026 > ki.vv
+19:24:17 010:027 > ki.vva
+19:24:17 010:028 > ki.vval
+19:24:17 010:029 > ki.vvalu
+19:24:17 010:030 > ki.vvalue
+19:24:19 010:032 > ki.vvalue =
+19:24:22 010:034 > ki.vvalue = 0
+19:24:26 010:034 > ""
+19:24:29 011:012 > {}
+
+19:24:30 012:016 > b
+19:24:31 012:017 > br
+19:24:31 012:018 > bre
+19:24:31 012:019 > brea
+19:24:31 012:016 > break
+19:24:31 012:021 > ;
+
+19:24:43 010:037 > )
+19:24:43 010:011 > )(
+19:24:54 010:006 > )(     s
+19:24:54 010:007 > )(     sä
+19:24:55 010:008 > )(     säd
+19:24:55 010:006 > sändningsmeddelande
+19:24:55 010:026 >  =
+19:24:56 010:025 >  =.
+19:24:58 010:026 >  =.v
+19:24:58 010:027 >  =.va
+19:24:58 010:028 >  =.val
+19:24:59 010:025 > .value
+19:25:00 010:032 >  =
+19:25:01 010:034 > ""
+19:25:03 010:035 > d
+19:25:04 010:036 > d u
+19:25:05 010:038 > d u m
+19:25:05 010:039 > d u må
+19:25:05 010:040 > d u mås
+19:25:05 010:041 > d u måst
+19:25:06 010:042 > d u måste
+19:25:07 010:026 > d u måstei
+19:25:07 010:027 > d u måstein
+19:25:08 010:028 > d u måsteinn
+19:25:08 010:029 > d u måsteinne
+19:25:08 010:026 > innerHTML
+19:25:08 010:035 > .
+19:25:10 010:036 > .t
+19:25:10 010:037 > .te
+19:25:10 010:038 > .tex
+19:25:12 010:026 > innerHTML
+19:25:12 010:035 > .
+19:25:13 010:036 > .t
+19:25:14 010:037 > .te
+19:25:14 010:038 > .tex
+19:25:14 010:039 > .text
+19:25:15 010:035 > .text.
+19:25:20 010:025 > .text..
+19:25:21 010:026 > .text..t
+19:25:21 010:027 > .text..te
+19:25:21 010:028 > .text..tex
+19:25:26 010:025 > .innerText
+19:25:26 010:035 > .
+19:25:30 010:026 > .v
+19:25:30 010:027 > .va
+19:25:31 010:026 > value
+19:25:31 010:032 >  =
+19:25:32 010:034 > ""
+19:25:32 010:035 > n
+19:25:32 010:036 > ni
+19:25:33 010:037 > nig
+19:25:33 010:038 > nigg
+19:25:33 010:039 > nigga
+19:25:35 010:041 > nigga:
+19:25:36 010:041 > nigga:;
+19:26:19 010:035 > nigga:;b
+19:26:19 010:036 > nigga:;br
+19:26:19 010:037 > nigga:;bro
+
+19:26:52 008:033 > .
+19:26:53 008:034 > .l
+19:26:53 008:035 > .le
+19:26:54 008:036 > .len
+19:26:54 008:037 > .leng
+19:26:55 008:038 > .lengt
+19:26:55 008:039 > .length
+
+19:27:04 009:031 > =
+19:27:05 009:032 > ==
+19:27:17 010:008 > sändningsmeddelande.textContent = "Please fill out all fields";
+19:27:45 011:006 > return;
+19:27:53 009:023 > t
+19:27:53 009:024 > te
+19:27:53 009:025 > tex
+19:27:54 009:026 > text
+19:27:54 009:023 > textContent
+
+19:29:05 007:060 > -
+19:29:05 007:059 > --
+19:29:05 007:060 > --.
+19:29:06 007:059 > --..
+19:29:06 007:060 > --..t
+19:29:06 007:061 > --..te
+19:29:07 007:062 > --..tex
+19:29:07 007:063 > --..text
+19:29:07 007:059 > .textContent
+19:29:08 007:071 > s
+19:29:08 007:072 > s)
+19:29:09 007:072 > ()
+19:29:09 007:073 > )
+19:29:37 008:002 > let inputVärden = document.querySelectorAll("form input");
+  inputVärden.forEach(function(input) {
+    if (input.value.trim() === "") {
+      sändningsmeddelande.textContent = "Please fill out all fields";
+      return;
+    }
+  });
+
+19:30:45 010:041 > F
+19:30:46 010:042 > Fi
+19:30:46 010:043 > Fil
+19:30:46 010:044 > Fill
+19:30:47 010:046 > Fill i
+19:30:49 010:048 > Fill i A
+19:30:49 010:049 > Fill i Al
+19:30:49 010:050 > Fill i All
+19:30:49 010:051 > Fill i Alla
+
+19:31:38 009:013 > .
+19:31:39 009:014 > .r
+19:31:39 009:015 > .re
+19:31:40 009:016 > .req
+19:31:43 009:017 > .requ
+19:31:43 009:018 > .requi
+19:31:44 009:019 > .requir
+19:31:44 009:020 > .require
+19:31:49 009:013 > .ariaRequired
+
+19:32:04 010:048 > a
+19:32:04 010:049 > al
+19:32:04 010:050 > all
+19:32:04 010:051 > alla
+19:35:21 009:014 > elem.hasAttribute('required')
+19:35:37 010:053 > g
+19:35:37 010:054 > gr
+19:35:38 010:055 > gre
+19:35:38 010:055 > grej
+19:35:38 010:056 > greje
+19:35:39 010:057 > grejer
+19:35:39 010:058 > grejere
+19:35:43 010:041 > grejere F
+19:35:43 010:042 > grejere Fi
+19:35:43 010:043 > grejere Fil
+19:35:43 010:044 > grejere Fill
+19:35:45 010:046 > grejere Fill i
+19:36:25 010:042 > grejere Fill i y
+19:36:25 010:043 > grejere Fill i yl
+19:36:25 010:044 > grejere Fill i yll
+19:36:27 010:046 > grejere Fill i yll i
+19:36:28 010:048 > grejere Fill i yll i a
+19:36:28 010:049 > grejere Fill i yll i al
+19:36:28 010:050 > grejere Fill i yll i all
+19:36:28 010:051 > grejere Fill i yll i alla
+19:36:28 010:053 > grejere Fill i yll i alla r
+19:36:28 010:054 > grejere Fill i yll i alla ru
+19:36:29 010:055 > grejere Fill i yll i alla rut
+19:36:29 010:056 > grejere Fill i yll i alla ruto
+19:36:29 010:057 > grejere Fill i yll i alla rutom
+19:36:29 010:057 > grejere Fill i yll i alla rutomr
+19:36:30 010:059 > grejere Fill i yll i alla rutomr s
+19:36:30 010:060 > grejere Fill i yll i alla rutomr so
+19:36:30 010:061 > grejere Fill i yll i alla rutomr som
+19:36:32 010:063 > grejere Fill i yll i alla rutomr som k
+19:36:32 010:064 > grejere Fill i yll i alla rutomr som kr
+19:36:32 010:065 > grejere Fill i yll i alla rutomr som krä
+19:36:32 010:066 > grejere Fill i yll i alla rutomr som kräv
+19:36:32 010:067 > grejere Fill i yll i alla rutomr som kräve
+19:36:33 010:068 > grejere Fill i yll i alla rutomr som kräver
+19:36:35 010:063 > grejere Fill i yll i alla rutomr som kräverk
+19:36:36 010:064 > grejere Fill i yll i alla rutomr som kräverkr
+19:36:36 010:065 > grejere Fill i yll i alla rutomr som kräverkrä
+19:36:36 010:066 > grejere Fill i yll i alla rutomr som kräverkräv
+19:36:36 010:067 > grejere Fill i yll i alla rutomr som kräverkrävs
+19:36:40 010:069 > grejere Fill i yll i alla rutomr som kräverkrävs o
+19:36:40 010:070 > grejere Fill i yll i alla rutomr som kräverkrävs oc
+19:36:40 010:071 > grejere Fill i yll i alla rutomr som kräverkrävs och
+19:36:41 010:073 > grejere Fill i yll i alla rutomr som kräverkrävs och ä
+19:36:44 010:068 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/
+19:36:45 010:069 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/ä
+19:36:45 010:070 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är
+19:36:46 010:072 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är m
+19:36:46 010:073 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är ma
+19:36:46 010:074 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är mak
+19:36:50 010:063 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makk
+19:36:51 010:064 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkr
+19:36:51 010:065 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrä
+19:36:51 010:066 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkräv
+19:36:51 010:067 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs
+19:36:52 010:068 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs,
+19:36:53 010:070 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, a
+19:36:53 010:071 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, al
+19:36:53 010:072 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, all
+19:36:53 010:073 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla
+19:36:55 010:075 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla r
+19:36:55 010:076 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla ru
+19:36:55 010:077 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rut
+19:36:55 010:078 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla ruto
+19:36:55 010:079 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor
+19:36:56 010:081 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor m
+19:36:56 010:082 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor ma
+19:36:56 010:083 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor mar
+19:36:56 010:084 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor mark
+19:36:56 010:085 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor marke
+19:36:57 010:086 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor marker
+19:36:57 010:087 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor markera
+19:36:57 010:088 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor markerad
+19:36:57 010:089 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor markerade
+19:36:58 010:091 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor markerade m
+19:36:58 010:092 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor markerade me
+19:36:58 010:093 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor markerade med
+19:36:58 010:094 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor markerade med*
+19:37:00 010:095 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor markerade med* *
+19:37:01 010:095 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor markerade med* *(
+19:37:03 010:097 > grejere Fill i yll i alla rutomr som kräverkrävs och ä/är makkrävs, alla rutor markerade med* *()
+
+19:37:27 006:039 > i
+19:37:27 006:040 > in
+19:37:27 006:041 > inl
+19:37:27 006:042 > inli
+19:37:28 006:043 > inlin
+19:37:28 006:044 > inline
+19:37:28 006:045 > inline-
+19:37:28 006:046 > inline-b
+19:37:29 006:047 > inline-bl
+19:37:29 006:048 > inline-blo
+19:37:29 006:049 > inline-bloi
+19:37:29 006:050 > inline-bloic
+19:37:29 006:049 > inline-bloicc
+19:37:30 006:050 > inline-bloicck
+19:37:36 006:039 > inline-bloicckf
+19:37:36 006:040 > inline-bloicckfl
+19:37:36 006:041 > inline-bloicckfle
+19:37:37 006:042 > inline-bloicckflex
+
+19:37:49 010:080 > s
+19:37:55 010:081 > ss
+19:37:56 010:082 > sss
+19:37:56 010:083 > ssss
+19:37:56 010:084 > sssss
+19:41:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+19:42:23 100:000 > .
+19:42:24 100:001 > .l
+19:42:24 100:001 > .lk
+19:42:24 100:002 > .lko
+19:42:25 100:003 > .lkon
+19:42:25 100:000 > .kontainer
+19:42:25 100:011 >  m
+19:42:26 100:012 >  ma
+19:42:26 100:013 >  mai
+19:42:26 100:011 > main
+19:42:27 100:015 > []
+19:42:28 100:015 > {}
+19:42:28 101:004 > .kontainer main {
+        margin: 0 0 40px 0;
+    }
+19:42:32 100:015 > []
+19:42:32 100:011 > mai
+19:42:33 100:000 > .kontainer main {
+        margin: 0 0 40px 0;
+    }
+
+19:42:50 101:016 > 5
+19:42:50 101:017 > 50
+19:43:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+19:43:53 010:008 > s
+19:43:53 010:009 > sä
+19:43:53 010:010 > säm
+19:43:54 010:008 > sändningsmeddelande
+19:43:54 010:027 > -
+19:43:55 010:027 > -.
+19:43:55 010:028 > -.s
+19:43:55 010:029 > -.st
+19:43:56 010:030 > -.sty
+19:43:56 010:027 > .style
+19:43:56 010:033 > .
+19:43:57 010:034 > .c
+19:43:57 010:035 > .co
+19:43:58 010:036 > .col
+19:43:58 010:037 > .colo
+19:43:58 010:038 > .color
+19:43:58 010:033 > .color
+19:43:59 010:040 >   =
+19:44:02 010:042 > ""
+19:44:02 010:043 > f
+19:44:02 010:044 > fe
+19:44:02 010:045 > fed
+19:44:03 010:043 > fedf
+19:44:03 010:044 > fedfd
+19:44:04 010:042 > fedfdr
+19:44:04 010:043 > fedfdre
+19:44:04 010:044 > fedfdred
+19:44:06 010:045 > fedfdred"
+19:44:06 010:042 > fedfdred""
+
+19:44:28 011:098 > .
+
+19:44:41 015:002 > m
+19:44:41 015:003 > me
+19:44:41 015:004 > med
+19:44:41 015:005 > medd
+19:44:43 015:002 > sändningsmeddelande.style.color = "red"
+      sändningsmeddelande.textContent = "Fyll i alla rutor som krävs, alla rutor markerade med (*).";
+19:44:45 015:037 > g
+19:44:46 015:038 > gr
+19:44:46 015:039 > gre
+19:44:46 015:040 > gree
+19:44:47 015:041 > green
+
+19:44:55 016:041 > M
+19:45:00 016:041 > MF
+19:45:01 016:042 > MFö
+19:45:01 016:043 > MFör
+19:45:02 016:044 > MFörm
+19:45:02 016:045 > MFörmi
+19:45:03 016:045 > MFörmiu
+19:45:03 016:046 > MFörmiul
+19:45:04 016:047 > MFörmiulä
+19:45:04 016:048 > MFörmiulär
+19:45:04 016:049 > MFörmiuläre
+19:45:05 016:050 > MFörmiuläret
+19:45:05 016:052 > MFörmiuläret h
+19:45:06 016:053 > MFörmiuläret ha
+19:45:06 016:054 > MFörmiuläret har
+19:45:06 016:056 > MFörmiuläret har n
+19:45:06 016:057 > MFörmiuläret har nu
+19:45:07 016:059 > MFörmiuläret har nu s
+19:45:07 016:060 > MFörmiuläret har nu sk
+19:45:07 016:061 > MFörmiuläret har nu ski
+19:45:07 016:062 > MFörmiuläret har nu skic
+19:45:08 016:063 > MFörmiuläret har nu skick
+19:45:08 016:064 > MFörmiuläret har nu skicka
+19:45:09 016:065 > MFörmiuläret har nu skickat
+19:45:09 016:066 > MFörmiuläret har nu skickats
+19:45:13 016:042 > MFörmiuläret har nu skickatso
+19:45:15 016:067 > MFörmiuläret har nu skickatso½
+19:45:15 016:068 > MFörmiuläret har nu skickatso½!
+19:45:16 016:067 > MFörmiuläret har nu skickatso½!!
+19:45:17 016:068 > MFörmiuläret har nu skickatso½!!½
+19:45:21 016:068 > MFörmiuläret har nu skickatso½!!½!
+19:45:21 016:069 > MFörmiuläret har nu skickatso½!!½!½
+19:45:22 016:070 > MFörmiuläret har nu skickatso½!!½!½½
+19:45:22 016:071 > MFörmiuläret har nu skickatso½!!½!½½½
+19:45:26 016:072 > MFörmiuläret har nu skickatso½!!½!½½½½
+19:45:26 016:073 > MFörmiuläret har nu skickatso½!!½!½½½½½
+19:45:56 016:069 > MFörmiuläret har nu skickatso½!!½!½½½½½  A
+19:45:57 016:071 > MFörmiuläret har nu skickatso½!!½!½½½½½  A D
+19:45:57 016:072 > MFörmiuläret har nu skickatso½!!½!½½½½½  A DW
+19:45:57 016:074 > MFörmiuläret har nu skickatso½!!½!½½½½½  A DW A
+19:45:57 016:075 > MFörmiuläret har nu skickatso½!!½!½½½½½  A DW AW
+19:45:57 016:077 > MFörmiuläret har nu skickatso½!!½!½½½½½  A DW AW D
+19:45:57 016:078 > MFörmiuläret har nu skickatso½!!½!½½½½½  A DW AW DA
+19:45:57 016:079 > MFörmiuläret har nu skickatso½!!½!½½½½½  A DW AW DAW
+19:45:57 016:081 > MFörmiuläret har nu skickatso½!!½!½½½½½  A DW AW DAW D
+19:46:35 016:067 > MFörmiuläret har nu skickatso½!!½!½½½½½  A DW AW DAW D!
+19:46:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+19:46:56 181:004 > J
+19:46:56 181:005 > JU
+19:46:57 181:004 > JUA
+19:46:57 181:005 > JUAL
+19:46:57 181:006 > JUALI
+19:46:58 181:007 > JUALIG
+19:46:58 181:004 > align-items: ;
+19:46:59 181:017 > C
+19:46:59 181:018 > CE
+19:46:59 181:017 > center
+19:47:02 181:004 > s
+19:47:03 181:005 > se
+19:47:03 181:006 > sel
+19:47:04 181:007 > self
+19:47:05 181:004 > align-self: ;
+19:47:05 181:016 > c
+19:47:05 181:017 > ce
+19:47:05 181:016 > center
+19:47:25 181:004 > justify-self: center;
+19:47:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+19:47:37 017:006 > r
+19:47:37 017:007 > re
+19:47:37 017:008 > ret
+19:47:38 017:006 > return
+19:47:39 017:012 > ;
+
+19:47:44 016:002 > i
+19:47:44 016:003 > if
+19:47:45 016:002 > if
+19:47:45 016:004 > ()
+19:47:45 016:005 > /
+
+19:48:26 008:004 > f
+19:48:26 008:005 > fo
+19:48:26 008:006 > for
+19:48:27 008:008 > ()
+19:48:28 008:007 > ()
+19:48:28 008:008 > l
+19:48:28 008:009 > le
+19:48:28 008:010 > let
+19:48:29 008:012 > let i
+19:48:29 008:014 > let i =
+19:48:30 008:016 > let i = 0
+19:48:30 008:017 > let i = 0;
+19:48:31 008:019 > let i = 0; i
+19:48:31 008:020 > let i = 0; i<
+19:48:33 008:021 > let i = 0; i<i
+19:48:33 008:022 > let i = 0; i<in
+19:48:33 008:023 > let i = 0; i<inp
+19:48:34 008:021 > inputVärden
+19:48:34 008:032 > .
+19:48:34 008:033 > .l
+19:48:35 008:034 > .le
+19:48:35 008:032 > .length
+19:48:37 008:039 >  ;
+19:48:37 008:041 >  ; i
+19:48:37 008:042 >  ; i+
+19:48:37 008:043 >  ; i++
+19:48:39 009:008 > []
+19:48:42 009:008 > {}
+
+19:48:45 010:012 > s
+19:48:46 010:013 > sä
+19:48:46 010:014 > sän
+19:48:47 010:012 > sändningsmeddelande
+19:48:47 010:031 > .
+19:48:47 010:032 > .s
+19:48:48 010:033 > .st
+19:48:51 010:012 > .sti
+19:48:51 010:013 > .stif
+19:48:51 010:012 > if
+19:48:51 010:014 > ()
+19:48:52 010:015 > i
+19:48:52 010:016 > in
+19:48:55 010:015 > ini
+19:48:55 010:016 > inin
+19:48:55 010:017 > ininp
+19:48:56 010:015 > inputVärden
+19:48:56 010:026 > .
+19:48:56 010:026 > []
+19:48:57 010:027 > o
+19:48:58 010:027 > oi
+19:49:00 010:029 > oi.
+19:49:00 010:030 > oi.h
+19:49:01 010:031 > oi.ha
+19:49:01 010:032 > oi.has
+19:49:01 010:029 > .hasAttribute
+19:49:02 010:042 > ()
+19:49:03 010:043 > ""
+19:49:04 010:044 > r
+19:49:04 010:045 > re
+19:49:04 010:046 > req
+19:49:04 010:047 > requ
+19:49:05 010:048 > requi
+19:49:05 010:049 > requir
+19:49:05 010:050 > require
+19:49:05 010:051 > required
+19:49:09 011:016 > {}
+19:49:16 012:020 > sändningsmeddelande.style.color = "red"
+      sändningsmeddelande.textContent = "Fyll i alla rutor som krävs, alla rutor markerade med (*).";
+
+19:49:17 014:020 > r
+19:49:17 014:021 > re
+19:49:17 014:022 > ret
+19:49:18 014:020 > return
+19:49:18 014:026 > ;
+
+19:49:25 017:043 > ;
+
+19:49:25 012:059 > ;
+
+19:49:47 009:048 > &
+19:49:47 009:049 > &&
+19:49:48 009:051 > && i
+19:49:49 009:052 > && in
+19:49:49 009:053 > && inp
+19:49:49 009:051 > inputVärden
+19:49:50 009:062 > []
+19:49:50 009:063 > i
+19:49:52 009:066 > i =
+19:49:52 009:067 > i =0
+19:49:53 009:067 > i =0=
+19:49:53 009:068 > ""
+19:49:54 009:068 > =
+19:49:55 009:070 > ""
+19:50:38 009:065 > .
+19:50:39 009:066 > .t
+19:50:39 009:067 > .te
+19:50:39 009:068 > .tex
+19:50:39 009:065 > .textContent
+
+19:51:16 016:002 > i
+19:51:16 016:003 > if
+19:51:16 016:002 > if
+19:51:16 016:004 > ()
+19:51:25 016:005 > i
+19:51:26 016:006 > in
+19:51:26 016:007 > inp
+19:51:26 016:008 > inpu
+19:51:26 016:005 > inputVärden
+19:51:27 016:016 > .
+19:51:29 016:016 > []
+19:51:29 016:017 > ]
+19:51:32 016:017 > ]2
+19:51:34 016:018 > ]2]
+19:51:36 017:004 > {}
+19:51:52 016:019 >  ,
+19:51:53 016:019 >  ,.
+19:51:55 016:020 >  ,.c
+19:51:56 016:021 >  ,.co
+19:51:56 016:022 >  ,.con
+19:51:56 016:023 >  ,.cont
+19:51:56 016:024 >  ,.conta
+19:51:57 016:019 > .contains
+19:51:59 016:028 > ()
+19:51:59 016:029 > )
+19:52:00 016:029 > ""
+19:52:01 016:030 > @
+19:52:08 016:005 > @!
+19:52:16 018:007 > sändningsmeddelande.style.color = "red";
+      sändningsmeddelande.textContent =
+        "Fyll i alla rutor som krävs, alla rutor markerade med (*).";
+
+19:52:19 020:011 > S
+19:52:19 020:012 > Sk
+19:52:19 020:013 > Skr
+19:52:20 020:014 > Skri
+19:52:20 020:015 > Skriv
+19:52:21 020:017 > Skriv K
+19:52:22 020:017 > Skriv KK
+19:52:22 020:018 > Skriv KKo
+19:52:22 020:019 > Skriv KKor
+19:52:22 020:020 > Skriv KKorr
+19:52:23 020:021 > Skriv KKorre
+19:52:23 020:022 > Skriv KKorrec
+19:52:24 020:023 > Skriv KKorreck
+19:52:24 020:022 > Skriv KKorreckk
+19:52:24 020:023 > Skriv KKorreckkt
+19:52:26 020:025 > Skriv KKorreckkt m
+19:52:27 020:026 > Skriv KKorreckkt ma
+19:52:27 020:027 > Skriv KKorreckkt mai
+19:52:27 020:028 > Skriv KKorreckkt mail
+19:52:29 020:025 > Skriv KKorreckkt mailm
+19:52:29 020:026 > Skriv KKorreckkt mailma
+19:52:29 020:027 > Skriv KKorreckkt mailmai
+19:52:29 020:028 > Skriv KKorreckkt mailmail
+19:52:30 020:025 > Skriv KKorreckkt mailmaile
+19:52:31 020:026 > Skriv KKorreckkt mailmailem
+19:52:31 020:027 > Skriv KKorreckkt mailmailema
+19:52:31 020:028 > Skriv KKorreckkt mailmailemai
+19:52:31 020:029 > Skriv KKorreckkt mailmailemail
+19:52:32 020:030 > Skriv KKorreckkt mailmailemail-
+19:52:33 020:031 > Skriv KKorreckkt mailmailemail- a
+19:52:34 020:032 > Skriv KKorreckkt mailmailemail- ad
+19:52:34 020:033 > Skriv KKorreckkt mailmailemail- adr
+19:52:34 020:034 > Skriv KKorreckkt mailmailemail- adre
+19:52:34 020:035 > Skriv KKorreckkt mailmailemail- adres
+19:52:34 020:036 > Skriv KKorreckkt mailmailemail- adress
+19:52:37 020:037 > Skriv KKorreckkt mailmailemail- adress-
+19:52:38 020:037 > Skriv KKorreckkt mailmailemail- adress-.
+19:52:40 020:039 > Skriv KKorreckkt mailmailemail- adress-. D
+19:52:45 020:039 > Skriv KKorreckkt mailmailemail- adress-. D @
+19:52:48 020:039 > Skriv KKorreckkt mailmailemail- adress-. D @ s
+19:52:48 020:040 > Skriv KKorreckkt mailmailemail- adress-. D @ sy
+19:52:49 020:039 > Skriv KKorreckkt mailmailemail- adress-. D @ sys
+19:52:49 020:040 > Skriv KKorreckkt mailmailemail- adress-. D @ sysy
+19:52:49 020:041 > Skriv KKorreckkt mailmailemail- adress-. D @ sysym
+19:52:49 020:042 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymb
+19:52:49 020:043 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbo
+19:52:50 020:044 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbol
+19:52:50 020:045 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbole
+19:52:50 020:046 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen
+19:52:51 020:048 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @
+19:52:52 020:049 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)
+19:52:53 020:048 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)(
+19:52:54 020:052 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( s
+19:52:55 020:053 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( sa
+19:52:55 020:054 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( sak
+19:52:55 020:055 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( sakn
+19:52:55 020:056 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( sakna
+19:52:56 020:057 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( saknas
+19:52:56 020:059 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( saknas i
+19:53:00 020:061 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( saknas i r
+19:53:00 020:062 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( saknas i ru
+19:53:00 020:063 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( saknas i rut
+19:53:00 020:064 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( saknas i ruta
+19:53:00 020:065 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( saknas i rutan
+19:53:01 020:066 > Skriv KKorreckkt mailmailemail- adress-. D @ sysymbolen @)( saknas i rutan.
+
+19:53:31 016:020 > .
+19:53:32 016:021 > .t
+19:53:32 016:022 > .te
+19:53:32 016:020 > .textContent
+19:53:58 016:002 > c
+19:53:58 016:003 > co
+19:53:59 016:004 > con
+19:53:59 016:005 > cons
+19:53:59 016:006 > conso
+19:53:59 016:002 > console
+19:53:59 016:009 > .
+19:54:00 016:010 > .l
+19:54:00 016:009 > .log
+19:54:02 016:013 > ()
+19:54:09 016:014 > !inputVärden[2].textContent.contains("@")
+
+19:54:53 013:008 > d
+19:54:53 013:009 > do
+19:54:54 013:010 > doc
+19:54:54 013:011 > docu
+19:54:54 013:008 > document
+19:54:54 013:016 > -
+19:54:55 013:016 > -.
+19:54:55 013:017 > -.s
+19:54:55 013:018 > -.sr
+19:54:56 013:019 > -.sro
+19:54:56 013:020 > -.srol
+19:55:00 013:016 > -.srol.
+19:55:01 013:017 > -.srol.ö
+19:55:01 013:017 > -.srol.öl
+19:55:02 013:018 > -.srol.ölo
+19:55:02 013:019 > -.srol.öloa
+19:55:03 013:016 > -.srol.öloa.
+19:55:04 013:017 > -.srol.öloa.s
+19:55:05 013:018 > -.srol.öloa.sc
+19:55:05 013:019 > -.srol.öloa.scr
+19:55:12 013:020 > -.srol.öloa.scro
+19:55:12 013:021 > -.srol.öloa.scrol
+19:55:12 013:022 > -.srol.öloa.scroll
+19:55:14 013:017 > -.srol.öloa.scrollp
+19:55:14 013:018 > -.srol.öloa.scrollpa
+19:55:14 013:019 > -.srol.öloa.scrollpag
+19:55:16 013:016 > -.srol.öloa.scrollpag.
+
+19:55:52 012:049 > s
+19:55:52 012:050 > so
+19:55:53 012:051 > som
+19:55:53 012:053 > som r
+19:55:54 012:053 > som rä
+19:55:54 012:054 > som rär
+19:56:21 016:041 > console.log(inputVärden[2].textContent)
+19:56:23 017:002 > console.log(inputVärden[2].textContent)
+19:56:26 017:014 > ""
+
+19:56:26 017:015 > n
+19:56:26 017:016 > ni
+19:56:26 017:017 > nig
+19:56:27 017:018 > niga
+
+19:57:27 028:000 > c
+19:57:27 028:001 > ci
+19:57:27 028:002 > cis
+19:57:27 028:003 > cisb
+19:57:28 028:001 > cisbi
+19:57:29 028:001 > cisbio
+19:57:29 028:002 > cisbion
+19:57:29 028:003 > cisbions
+19:57:29 028:004 > cisbionso
+19:57:29 028:000 > console
+19:57:30 028:007 > .
+19:57:30 028:008 > .c
+19:57:30 028:008 > .cl
+19:57:31 028:007 > .log
+19:57:31 028:011 > ()
+19:57:31 028:012 > #
+19:57:32 028:012 > #n
+19:57:33 028:012 > ""
+19:57:33 028:013 > n
+19:57:33 028:014 > ni
+19:57:33 028:015 > nig
+19:57:33 028:016 > nigg
+19:57:33 028:017 > nigga
+19:57:47 006:004 > console.log("niga")
+19:57:56 018:000 > console.log("niga")
+19:58:10 014:008 > console.log("niga")
+19:58:15 014:020 > !inputVärden[2].textContent.contains("@")
+
+19:58:35 014:048 > i
+19:58:35 014:049 > in
+19:58:35 014:050 > ink
+19:58:36 014:051 > inkl
+19:58:37 014:052 > inklu
+19:58:37 014:053 > inklud
+19:58:37 014:054 > inklude
+19:58:37 014:055 > inkludes
+19:58:49 014:050 > inkludesc
+19:59:10 018:005 > !inputVärden[2].textContent.includes("@")
+20:00:52 014:008 > c
+20:00:53 014:009 > co
+20:00:53 014:010 > con
+20:00:53 014:011 > cons
+20:00:53 014:012 > conso
+20:00:54 014:008 > console
+20:00:54 014:015 > .
+20:00:55 014:015 > .log
+20:00:56 014:019 > ()
+20:00:57 014:020 > i
+20:00:57 014:021 > in
+20:00:58 014:022 > inp
+20:00:58 014:020 > inputVärden
+20:00:58 014:031 > .
+20:01:01 014:032 > .c
+20:01:02 014:033 > .co
+20:01:02 014:034 > .con
+20:01:02 014:035 > .cont
+20:01:02 014:036 > .conte
+20:01:03 014:031 > .textContent
+20:01:05 014:044 > :
+20:01:28 014:031 > []
+20:01:28 014:032 > i
+20:02:17 010:047 > && inputVärden[i].textContent === ""
+20:02:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+20:03:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+20:03:15 118:009 > 2
+20:03:16 118:010 > 20
+20:03:16 118:011 > 200
+20:03:18 118:009 > 2001
+20:03:18 118:010 > 20010
+20:03:18 118:011 > 200100
+20:03:21 118:009 > 2001005
+20:03:21 118:010 > 20010050
+20:03:40 118:009 > 200100502
+20:03:41 118:010 > 2001005025
+
+20:04:06 113:015 > 7
+20:04:06 113:016 > 70
+20:04:06 113:017 > 700
+20:04:12 113:015 > 7003
+20:04:12 113:016 > 70030
+20:04:12 113:017 > 700300
+20:04:17 113:015 > 7003005
+20:04:17 113:016 > 70030050
+20:04:17 113:015 > 700300504
+20:04:17 113:016 > 7003005040
+20:04:18 113:017 > 70030050400
+20:04:32 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+20:04:42 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+20:04:45 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+20:05:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+20:05:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+20:05:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+20:05:27 014:008 > f
+20:05:27 014:009 > fo
+20:05:27 014:010 > for
+20:05:28 014:011 > fore
+20:05:28 014:012 > forea
+20:05:28 014:013 > foreac
+20:05:28 014:014 > foreach
+20:05:39 014:008 > foreachi
+20:05:39 014:009 > foreachin
+20:05:39 014:010 > foreachinp
+20:05:40 014:008 > inputVärden
+20:05:40 014:019 > .
+20:05:43 014:020 > .h
+20:05:45 014:021 > .ha
+20:05:45 014:022 > .has
+20:05:46 014:019 > .
+20:05:46 014:008 > inputVärden
+20:05:47 014:020 > .i
+20:05:47 014:021 > .in
+20:05:47 014:022 > .inp
+20:05:50 014:020 > .inpa
+20:05:50 014:021 > .inpat
+20:05:51 014:022 > .inpatt
+20:05:51 014:023 > .inpattr
+20:05:53 014:020 > []
+20:05:54 014:021 > i
+20:05:55 014:023 > i.
+20:05:56 014:024 > i.a
+20:05:56 014:025 > i.at
+20:05:56 014:026 > i.att
+20:05:56 014:027 > i.attr
+20:05:58 014:023 > .hasAttribute
+20:05:58 014:036 > ()
+20:06:12 014:037 > ""
+20:06:17 014:038 > r
+20:06:17 014:039 > re
+20:06:18 014:040 > req
+20:06:18 014:041 > requ
+20:06:18 014:042 > requi
+20:06:18 014:043 > requir
+20:06:19 014:044 > require
+20:06:19 014:045 > required
+20:06:23 014:047 > required.
+20:06:26 014:047 > required..
+20:06:27 014:047 > required..,
+20:06:30 014:048 > required..,.
+20:06:33 014:023 > required..,..
+20:06:35 014:024 > required..,..a
+20:06:35 014:025 > required..,..at
+20:06:36 014:026 > required..,..att
+20:06:36 014:025 > required..,..attA
+20:06:37 014:026 > required..,..attAt
+20:06:37 014:027 > required..,..attAtt
+20:06:37 014:024 > required..,..attAttA
+20:06:38 014:025 > required..,..attAttAt
+20:06:38 014:026 > required..,..attAttAtt
+20:06:38 014:027 > required..,..attAttAttr
+20:06:39 014:028 > required..,..attAttAttru
+20:07:07 014:023 > required..,..attAttAttru.
+20:07:07 014:024 > required..,..attAttAttru.a
+20:07:08 014:025 > required..,..attAttAttru.at
+20:07:08 014:026 > required..,..attAttAttru.att
+20:07:08 014:027 > required..,..attAttAttru.attr
+20:07:08 014:028 > required..,..attAttAttru.attri
+20:07:09 014:029 > required..,..attAttAttru.attrib
+20:07:09 014:030 > required..,..attAttAttru.attribu
+20:07:09 014:031 > required..,..attAttAttru.attribui
+20:07:10 014:032 > required..,..attAttAttru.attribuit
+20:07:10 014:031 > required..,..attAttAttru.attribuitt
+20:07:10 014:032 > required..,..attAttAttru.attribuitte
+20:07:10 014:033 > required..,..attAttAttru.attribuittes
+20:07:15 014:008 > required..,..attAttAttru.attribuittesc
+20:07:15 014:009 > required..,..attAttAttru.attribuittesco
+20:07:15 014:010 > required..,..attAttAttru.attribuittescon
+20:07:16 014:011 > required..,..attAttAttru.attribuittescons
+20:07:16 014:012 > required..,..attAttAttru.attribuittesconso
+20:07:16 014:008 > console
+20:07:16 014:015 > .
+20:07:16 014:016 > .l
+20:07:17 014:015 > .log
+20:07:17 014:019 > ()
+20:07:18 014:020 > inputVärden.[i].attributes
+
+20:08:51 010:079 > =
+20:10:12 010:065 > =.
+20:10:13 010:066 > =.v
+20:10:14 010:067 > =.va
+20:10:14 010:068 > =.val
+20:10:16 010:066 > =.valv
+20:10:17 010:067 > =.valva
+20:10:17 010:068 > =.valval
+20:10:17 010:069 > =.valvalu
+20:10:17 010:070 > =.valvalue
+20:10:19 010:065 > =.valvalue.
+20:10:20 010:066 > =.valvalue.c
+20:10:20 010:067 > =.valvalue.co
+20:10:21 010:068 > =.valvalue.cor
+20:10:21 010:069 > =.valvalue.corr
+20:10:21 010:070 > =.valvalue.corre
+20:10:21 010:071 > =.valvalue.correc
+20:10:22 010:072 > =.valvalue.correct
+20:10:22 010:073 > =.valvalue.correcte
+20:10:22 010:074 > =.valvalue.corrected
+20:10:23 010:065 > =.valvalue.corrected .
+20:10:23 010:066 > =.valvalue.corrected .v
+20:10:24 010:067 > =.valvalue.corrected .va
+20:10:24 010:068 > =.valvalue.corrected .val
+20:10:24 010:069 > =.valvalue.corrected .valu
+20:10:24 010:070 > =.valvalue.corrected .value
+20:10:28 010:066 > =.valvalue.corrected .valuev
+20:10:28 010:067 > =.valvalue.corrected .valueva
+20:10:28 010:068 > =.valvalue.corrected .valueval
+20:10:29 010:069 > =.valvalue.corrected .valuevalu
+20:10:29 010:070 > =.valvalue.corrected .valuevalue
+
+20:10:49 019:021 > v
+20:10:49 019:022 > va
+20:10:50 019:021 > value
+20:12:42 019:018 > 1
+
+20:12:56 024:010 > r
+20:12:56 024:011 > re
+20:12:56 024:012 > ret
+20:12:57 024:010 > return
+
+20:13:16 023:037 > a
+20:13:16 023:038 > ad
+20:13:16 023:039 > ada
+20:13:20 023:037 > adaS
+
+20:13:44 019:018 > 2
+
+20:13:58 024:016 > ;
+
+20:13:58 014:046 > ;
+20:14:36 Document switched to: extension-output-esbenp.prettier-vscode-#2-Prettier
+----------------------------------------
+20:14:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+20:14:48 027:002 > s
+20:14:49 027:002 > se
+20:14:49 027:003 > ses
+20:14:49 027:004 > sesl
+20:14:50 027:002 > sesle
+20:14:50 027:003 > seslel
+20:14:50 027:004 > seslels
+20:14:50 027:005 > seslelse
+20:14:50 027:002 > else
+20:14:51 027:006 > {}
+20:14:54 028:000 > sändningsmeddelande.style.color = "green";
+  sändningsmeddelande.textContent = "Formuläret har nu skickats!";
+  return;
+
+20:15:46 029:004 > l
+20:15:46 029:005 > lo
+20:15:48 029:004 > lod
+20:15:48 029:005 > lodo
+20:15:48 029:006 > lodoc
+20:15:48 029:004 > document
+20:15:49 029:012 > .
+20:15:49 029:013 > .l
+20:15:49 029:014 > .lo
+20:15:49 029:015 > .loa
+20:15:49 029:012 > .location
+20:15:50 029:021 > .
+20:15:51 029:021 > .href
+20:15:51 029:027 >  =
+20:15:52 029:029 > ""
+20:15:52 029:030 > .
+20:15:53 029:031 > ./
+20:15:57 029:032 > om-oss.html
+20:16:01 029:031 > /
+20:16:03 029:032 > /k
+20:16:03 029:033 > /ko
+20:16:03 029:034 > /kon
+20:16:04 029:032 > kontakta-oss.html
+20:16:28 028:004 > sändningsmeddelande.style.color = "green";
+    sändningsmeddelande.textContent = "Formuläret har nu skickats!";
+
+20:16:42 006:039 > b
+20:16:42 006:040 > bl
+20:16:42 006:041 > blo
+20:16:42 006:042 > blov
+20:16:43 006:043 > blovk
+20:16:43 006:042 > blovkc
+20:16:43 006:043 > blovkck
+20:16:56 027:004 > sändningsmeddelande.style.display = "block";
+20:17:14 027:004 > document.location.href = "./kontakta-oss.html"
+20:18:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+20:18:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+20:18:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+20:18:22 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+
+20:18:27 000:000 > g
+20:18:27 000:001 > gj
+20:18:28 000:002 > gjo
+20:18:28 000:003 > gjof
+20:18:28 000:003 > gjofr
+20:18:28 000:004 > gjofrd
+20:18:29 000:005 > gjofrde
+20:18:29 000:007 > gjofrde k
+20:18:29 000:008 > gjofrde kl
+20:18:29 000:009 > gjofrde kla
+20:18:29 000:010 > gjofrde klar
+20:18:30 000:011 > gjofrde klart
+20:18:30 000:013 > gjofrde klart s
+20:18:30 000:014 > gjofrde klart sc
+20:18:30 000:015 > gjofrde klart scr
+20:18:31 000:016 > gjofrde klart scri
+20:18:32 000:017 > gjofrde klart scrip
+20:18:32 000:018 > gjofrde klart script
+20:18:32 000:019 > gjofrde klart scripte
+20:18:32 000:020 > gjofrde klart scriptet
+20:18:33 000:022 > gjofrde klart scriptet f
+20:18:33 000:023 > gjofrde klart scriptet fö
+20:18:33 000:024 > gjofrde klart scriptet för
+20:18:33 000:026 > gjofrde klart scriptet för a
+20:18:34 000:027 > gjofrde klart scriptet för at
+20:18:34 000:028 > gjofrde klart scriptet för att
+20:18:34 000:030 > gjofrde klart scriptet för att v
+20:18:34 000:031 > gjofrde klart scriptet för att vi
+20:18:34 000:032 > gjofrde klart scriptet för att vis
+20:18:35 000:033 > gjofrde klart scriptet för att visa
+20:18:36 000:035 > gjofrde klart scriptet för att visa m
+20:18:36 000:036 > gjofrde klart scriptet för att visa me
+20:18:37 000:037 > gjofrde klart scriptet för att visa med
+20:18:37 000:038 > gjofrde klart scriptet för att visa medd
+20:18:37 000:039 > gjofrde klart scriptet för att visa medde
+20:18:37 000:040 > gjofrde klart scriptet för att visa meddel
+20:18:37 000:041 > gjofrde klart scriptet för att visa meddela
+20:18:38 000:042 > gjofrde klart scriptet för att visa meddelan
+20:18:38 000:043 > gjofrde klart scriptet för att visa meddeland
+20:18:38 000:044 > gjofrde klart scriptet för att visa meddelande
+20:18:38 000:045 > gjofrde klart scriptet för att visa meddelanded
+20:18:39 000:045 > gjofrde klart scriptet för att visa meddelandedn
+20:18:40 000:047 > gjofrde klart scriptet för att visa meddelandedn n
+20:18:40 000:048 > gjofrde klart scriptet för att visa meddelandedn nä
+20:18:40 000:049 > gjofrde klart scriptet för att visa meddelandedn när
+20:18:41 000:051 > gjofrde klart scriptet för att visa meddelandedn när a
+20:18:41 000:052 > gjofrde klart scriptet för att visa meddelandedn när an
+20:18:41 000:053 > gjofrde klart scriptet för att visa meddelandedn när and
+20:18:42 000:053 > gjofrde klart scriptet för att visa meddelandedn när andv
+20:18:42 000:054 > gjofrde klart scriptet för att visa meddelandedn när andvä
+20:18:42 000:055 > gjofrde klart scriptet för att visa meddelandedn när andvän
+20:18:42 000:056 > gjofrde klart scriptet för att visa meddelandedn när andvänd
+20:18:42 000:057 > gjofrde klart scriptet för att visa meddelandedn när andvända
+20:18:43 000:058 > gjofrde klart scriptet för att visa meddelandedn när andvändar
+20:18:43 000:059 > gjofrde klart scriptet för att visa meddelandedn när andvändare
+20:18:43 000:060 > gjofrde klart scriptet för att visa meddelandedn när andvändaren
+20:18:44 000:062 > gjofrde klart scriptet för att visa meddelandedn när andvändaren k
+20:18:44 000:062 > gjofrde klart scriptet för att visa meddelandedn när andvändaren ks
+20:18:44 000:063 > gjofrde klart scriptet för att visa meddelandedn när andvändaren ksk
+20:18:44 000:064 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kski
+20:18:44 000:065 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskic
+20:18:45 000:066 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskick
+20:18:45 000:067 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskicka
+20:18:45 000:068 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar
+20:18:45 000:070 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar f
+20:18:46 000:071 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar fo
+20:18:46 000:072 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar for
+20:18:46 000:073 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar form
+20:18:46 000:074 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar formu
+20:18:47 000:075 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar formul
+20:18:47 000:076 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar formul'
+20:18:48 000:076 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar formul'ä
+20:18:48 000:077 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar formul'är
+20:18:48 000:078 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar formul'äre
+20:18:48 000:079 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar formul'äret
+20:18:49 000:080 > gjofrde klart scriptet för att visa meddelandedn när andvändaren kskickar formul'äret.
+20:18:54 100:000 > .kontainer main {
+    margin: 0 0 50px 0;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+    font-size: Clamp(1rem, 3vw, 2.5rem);
+}
+
+
+.kontainer main .kontakta-oss-formulär {
+    font-size: Clamp(1rem, 1vw, 1.3rem);
+    margin-top: 7%;
+    width: 50%;
+    max-width: 400px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto 0 auto;
+    grid-template-columns: auto 1fr;
+    gap: 25px;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+    padding: Clamp(5px, 2%, 15px);
+    margin: 20px 20px;
+    display: inline-block;
+    border: solid 3px;
+    border-radius: 4px;
+    background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+    grid-column: 1;
+    width: 100%;
+
+}
+
+.kontainer main .kontakta-oss-formulär input {
+    height: Clamp(35px, 4vh, 150px);
+
+}
+
+
+.kontainer main .kontakta-oss-formulär textarea {
+
+    resize: none;
+    height: Clamp(100px, 15vw, 200px);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+    justify-self: center;
+    grid-column: 2;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: Clamp(125px, 15vw, 200px);
+    border: solid 3px var(--dark-green);
+    background-color: var(--nyanza);
+    border-radius: 4px;
+    padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+    outline: 5px solid var(--nyanza);
+    background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+    outline: 5px solid var(--nyanza);
+}
+
+.kontainer main .kontakta-oss-formulär #submit {
+    font-weight: 900;
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+    cursor: pointer;
+}
+
+.kontainer main .kontakta-oss-formulär #sändningsmeddelande {
+    grid-column: 2;
+    justify-self: center;
+    display: none;
+}
+
+
+.kontainer main .innehåll {
+    font-size: Clamp(1rem, 2.3vw, 1.5rem);
+    position: relative;
+}
+
+.kontainer main .alternativ-kontainer {
+    color: var(--dark-green);
+    border-radius: 3px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 3%;
+    text-align: center;
+    border: solid 5px var(--sea-green);
+    background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+    transition: all 100ms;
+    text-decoration: none;
+    display: block;
+    color: var(--dark-green);
+    border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+    padding: 2% 4%;
+    width: fit-content;
+    /* att elementen bara tar platsen de behöver.*/
+    margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+    border: 0.3vw solid white;
+}
+
+.kontainer main img {
+    display: block;
+    width: 100%;
+
+}
+
+.kontainer footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: var(--celadon-2);
+    border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+    color: white
+}
+
+.kontainer main .innehåll .om-oss {
+    margin: 0 auto 0 auto;
+    width: 50%;
+}
+
+@media(max-width: 700px) {
+
+    .kontainer .alternativ,
+    .kontainer nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .kontainer main .alternativ-kontainer {
+        position: relative;
+    }
+
+    .kontainer main .innehåll {
+        display: grid;
+    }
+
+    .kontainer nav .alternativ a {
+        padding: 5px;
+    }
+
+    .kontainer nav .ikon img {
+        width: 35px;
+20:19:24 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+20:19:37 115:004 > b
+20:19:38 115:005 > bo
+20:19:38 115:006 > bor
+20:19:38 115:004 > border: ;
+20:19:39 115:012 > s
+20:19:39 115:013 > so
+20:19:40 115:014 > sol
+20:19:40 115:012 > solid
+20:19:42 115:018 >  3
+20:19:43 115:019 >  3p
+20:19:43 115:020 >  3pc
+20:19:44 115:020 >  3pcx
+20:19:46 115:018 >  3pcx5
+20:19:47 115:019 >  3pcx5p
+20:19:47 115:020 >  3pcx5pz
+20:19:48 115:020 >  3pcx5pzx
+20:19:54 115:022 >  3pcx5pzx v
+20:19:54 115:023 >  3pcx5pzx va
+20:19:54 115:024 >  3pcx5pzx var
+20:19:54 115:025 >  3pcx5pzx vart
+20:19:57 115:022 >  3pcx5pzx vartb
+20:19:57 115:023 >  3pcx5pzx vartbl
+20:19:57 115:024 >  3pcx5pzx vartbla
+20:19:57 115:025 >  3pcx5pzx vartblac
+20:19:57 115:022 > black
+20:20:01 115:022 > -
+20:20:01 115:023 > --
+20:20:02 115:024 > --d
+20:20:02 115:025 > --da
+20:20:02 115:026 > --dar
+20:20:02 115:022 > --dark-green
+20:20:04 115:022 > v
+20:20:05 115:023 > va
+20:20:05 115:024 > var
+20:20:05 115:022 > var()
+20:20:05 115:026 > -
+20:20:06 115:027 > --
+20:20:06 115:028 > --d
+20:20:06 115:029 > --da
+20:20:07 115:026 > --dark-green
+20:20:10 115:026 > g
+20:20:11 115:027 > gr
+20:20:11 115:028 > gre
+20:20:13 115:026 > --brunswick-green
+
+20:20:19 116:004 > p
+20:20:19 116:005 > pa
+20:20:19 116:006 > pad
+20:20:20 116:007 > padd
+20:20:20 116:004 > padding: ;
+20:20:21 116:013 > 2
+20:20:21 116:014 > 20
+20:20:22 116:015 > 20p
+20:20:22 116:016 > 20px
+20:20:22 116:013 > 20px
+
+20:20:35 115:026 > -
+20:20:35 115:027 > --
+20:20:37 115:026 > --dark-green
+20:21:44 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+20:22:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+20:22:26 041:016 > <p id="sändningsmeddelande">Formuläret har nu skickats!</p>
+20:22:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+20:23:54 183:004 > m
+20:23:54 183:005 > ma
+20:23:54 183:006 > mar
+20:23:54 183:007 > marg
+20:24:06 183:004 > margp
+20:24:06 183:005 > margpa
+20:24:06 183:006 > margpad
+20:24:06 183:004 > pad: ;
+20:24:07 183:009 > 2
+20:24:07 183:010 > 2+
+20:24:07 183:007 > 2+d
+20:24:08 183:004 > padding:
+20:24:08 183:013 > 2
+20:24:08 183:014 > 2+
+20:24:09 183:015 > 2+å
+20:24:09 183:014 > 2+å+
+20:24:09 183:015 > 2+å+0
+20:24:10 183:014 > 2+å+00
+20:24:10 183:015 > 2+å+00p
+20:24:10 183:016 > 2+å+00px
+20:24:10 183:013 > 20px
+20:24:17 183:013 > 1
+20:24:17 183:014 > 10
+20:24:18 183:015 > 100
+20:24:18 183:016 > 100å
+20:24:18 183:017 > 100åp
+20:24:18 183:018 > 100åpx
+20:24:18 183:017 > 100åpxx
+20:24:19 183:018 > 100åpxxp
+20:24:19 183:016 > 100åpxxpp
+20:24:19 183:017 > 100åpxxppx
+20:24:20 183:013 > 100px
+20:24:26 183:004 > m
+20:24:26 183:005 > ma
+20:24:26 183:006 > mar
+20:24:26 183:007 > marg
+20:24:26 183:004 > margin: ;
+20:24:31 183:012 > 2
+20:24:31 183:013 > 20
+20:24:31 183:014 > 20p
+20:24:31 183:015 > 20px
+20:24:34 183:017 > 20px +
+20:24:34 183:017 > 20px +0
+
+20:24:59 181:016 > .
+20:24:59 181:017 > .k
+20:24:59 181:018 > .ko
+20:24:59 181:019 > .kon
+20:24:59 181:020 > .kont
+20:25:00 181:021 > .konta
+20:25:01 181:022 > .kontak
+20:25:02 181:016 > .kontakta-oss-kontainer
+20:27:11 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+20:27:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+20:28:23 225:004 > h
+20:28:23 225:005 > he
+20:28:23 225:004 > height: ;
+20:28:26 225:012 > 3
+20:28:27 225:013 > 30
+20:28:27 225:014 > 30%
+20:28:28 225:012 > 30%
+20:28:32 225:012 > 4
+20:28:32 225:013 > 40
+20:28:32 225:014 > 400
+20:28:33 225:015 > 400p
+20:28:33 225:016 > 400px
+20:28:33 225:012 > 400px
+20:28:42 225:012 > 0
+20:28:43 225:013 > 0+
+20:28:43 225:012 > 0+9
+20:28:43 225:013 > 0+90
+20:28:44 225:014 > 0+900
+20:29:05 225:012 > 0+9007
+20:29:05 225:013 > 0+90070
+20:29:05 225:014 > 0+900700
+
+20:29:13 224:011 > 4
+20:29:13 224:012 > 40
+20:29:13 224:013 > 400
+20:29:16 224:014 > 400p
+20:29:16 224:015 > 400px
+20:29:23 224:004 > 400pxj
+20:29:23 224:005 > 400pxju
+20:29:23 224:006 > 400pxjus
+20:29:24 224:007 > 400pxjust
+20:29:24 224:007 > 400pxjusts
+20:29:25 224:008 > 400pxjustse
+20:29:25 224:004 > justify-self: ;
+20:29:25 224:018 > c
+20:29:26 224:019 > ce
+20:29:26 224:018 > center
+20:29:33 224:004 > a
+20:29:33 224:005 > al
+20:29:33 224:006 > ali
+20:29:33 224:007 > alig
+20:29:33 224:008 > align
+20:29:34 224:009 > aligns
+20:29:34 224:004 > align-self: ;
+20:29:35 224:016 > c
+20:29:35 224:017 > ce
+20:29:35 224:016 > center
+20:29:39 224:004 > m
+20:29:39 224:005 > ma
+20:29:40 224:006 > mar
+20:29:40 224:007 > marg
+20:29:40 224:004 > margin: ;
+20:29:41 224:012 > auto
+
+20:29:47 225:011 > 7
+20:29:47 225:012 > 70
+20:29:47 225:013 > 700
+20:29:50 225:011 > 7002
+20:29:51 225:011 > 70021
+20:29:51 225:012 > 700210
+20:29:51 225:013 > 7002100
+20:29:52 225:014 > 70021000
+20:29:58 225:012 > 700210004
+20:29:58 225:013 > 7002100040
+20:29:58 225:014 > 70021000400
+20:30:02 225:012 > 700210004000
+20:30:03 225:012 > 7002100040003
+20:30:03 225:013 > 70021000400030
+20:30:03 225:014 > 700210004000300
+
+20:30:08 226:012 > 8
+20:30:08 226:013 > 80
+20:30:08 226:014 > 800
+20:30:18 226:012 > 8006
+20:30:19 226:013 > 80060
+20:30:19 226:014 > 800600
+
+20:30:26 224:012 > m
+20:30:26 224:013 > ma
+20:30:26 224:014 > mar
+20:30:27 224:015 > marg
+20:30:31 224:012 > marg5
+20:30:31 224:013 > marg50
+20:30:32 224:014 > marg50p
+20:30:32 224:015 > marg50px
+20:30:34 224:017 > marg50px a
+20:30:34 224:017 > auto
+20:30:42 224:022 >  0
+20:30:47 224:024 >  0 a
+20:30:48 224:024 > auto
+
+20:31:05 225:012 > 0
+20:31:05 225:013 > 00
+20:31:06 225:014 > 000
+20:31:15 225:012 > 0002
+20:31:21 225:012 > 00020
+20:31:39 225:011 > 000204
+20:31:40 225:012 > 0002040
+20:31:42 225:012 > 00020400
+20:31:43 225:013 > 00020400%
+20:31:43 225:011 > 40%
+20:31:52 225:011 > 5
+20:31:53 225:012 > 50
+20:31:56 225:011 > 506
+20:31:57 225:011 > 5067
+20:31:57 225:012 > 50670
+
+20:33:08 226:004 > b
+20:33:08 226:005 > bo
+20:33:09 226:006 > box
+20:33:09 226:007 > boxs
+20:33:09 226:008 > boxsh
+20:33:09 226:009 > boxsha
+20:33:10 226:004 > box-shadow: ;
+20:33:14 226:016 > 5
+20:33:14 226:017 > 50
+20:33:14 226:018 > 50p
+20:33:14 226:019 > 50px
+20:33:15 226:018 > 50pxp
+20:33:15 226:017 > 50pxpp
+20:33:15 226:018 > 50pxppx
+20:33:18 226:020 > 50pxppx 5
+20:33:18 226:021 > 50pxppx 5p
+20:33:18 226:022 > 50pxppx 5px
+20:33:20 226:024 > 50pxppx 5px 1
+20:33:20 226:025 > 50pxppx 5px 10
+20:33:20 226:026 > 50pxppx 5px 10p
+20:33:21 226:027 > 50pxppx 5px 10px
+20:33:22 226:029 > 50pxppx 5px 10px b
+20:33:22 226:030 > 50pxppx 5px 10px bl
+20:33:22 226:031 > 50pxppx 5px 10px bla
+20:33:22 226:032 > 50pxppx 5px 10px blac
+20:33:22 226:033 > 50pxppx 5px 10px black
+20:33:23 226:029 > black
+20:33:30 226:020 > 0
+20:33:36 226:020 > 05
+20:33:39 226:016 > 050
+20:33:46 226:020 > 0501
+20:33:46 226:021 > 05010
+20:33:50 226:026 > 050105
+20:33:54 226:025 > 0501055
+20:33:58 226:025 > 05010556
+20:33:59 226:025 > 050105567
+20:34:01 226:025 > 0501055678
+20:34:09 226:016 > 05010556785
+20:34:11 226:016 > 050105567851
+20:34:12 226:017 > 050105567851+
+20:34:13 226:017 > 050105567851+0
+20:35:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+20:35:06 000:000 > k
+20:35:06 000:001 > kl
+20:35:06 000:002 > kla
+20:35:06 000:003 > klar
+20:35:08 000:000 > klarg
+20:35:09 000:001 > klargj
+20:35:09 000:002 > klargjo
+20:35:09 000:003 > klargjor
+20:35:09 000:004 > klargjord
+20:35:09 000:005 > klargjorde
+20:35:10 000:007 > klargjorde o
+20:35:10 000:008 > klargjorde om
+20:35:10 000:010 > klargjorde om b
+20:35:11 000:011 > klargjorde om bi
+20:35:11 000:012 > klargjorde om bil
+20:35:11 000:013 > klargjorde om bile
+20:35:12 000:014 > klargjorde om biled
+20:35:16 000:012 > klargjorde om biled l
+20:35:16 000:013 > klargjorde om biled ld
+20:35:16 000:014 > klargjorde om biled lde
+20:35:16 000:015 > klargjorde om biled lden
+20:35:17 000:017 > klargjorde om biled lden f
+20:35:17 000:018 > klargjorde om biled lden fö
+20:35:17 000:019 > klargjorde om biled lden för
+20:35:19 000:021 > klargjorde om biled lden för h
+20:35:19 000:022 > klargjorde om biled lden för he
+20:35:19 000:023 > klargjorde om biled lden för hem
+20:35:21 000:025 > klargjorde om biled lden för hem l
+20:35:21 000:026 > klargjorde om biled lden för hem la
+20:35:21 000:027 > klargjorde om biled lden för hem lay
+20:35:22 000:028 > klargjorde om biled lden för hem layo
+20:35:22 000:029 > klargjorde om biled lden för hem layou
+20:35:23 000:030 > klargjorde om biled lden för hem layout
+20:35:23 000:031 > klargjorde om biled lden för hem layoute
+20:35:23 000:032 > klargjorde om biled lden för hem layouten
+20:35:24 000:033 > klargjorde om biled lden för hem layouten.
+20:35:29 000:010 > klargjorde om biled lden för hem layouten.s
+20:35:29 000:011 > klargjorde om biled lden för hem layouten.st
+20:35:30 000:012 > klargjorde om biled lden för hem layouten.sty
+20:35:30 000:013 > klargjorde om biled lden för hem layouten.styl
+20:35:30 000:014 > klargjorde om biled lden för hem layouten.style
+20:35:31 000:013 > klargjorde om biled lden för hem layouten.stylei
+20:35:31 000:014 > klargjorde om biled lden för hem layouten.styleil
+20:35:32 000:012 > klargjorde om biled lden för hem layouten.styleili
+20:35:32 000:013 > klargjorde om biled lden för hem layouten.styleilil
+20:35:32 000:014 > klargjorde om biled lden för hem layouten.styleilile
+20:35:32 000:015 > klargjorde om biled lden för hem layouten.styleililen
+20:35:35 000:017 > klargjorde om biled lden för hem layouten.styleililen p
+20:35:35 000:018 > klargjorde om biled lden för hem layouten.styleililen på
+20:35:40 039:000 > </form>
+                <p id="sändningsmeddelande">Formuläret har nu skickats!</p>
+20:35:58 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+20:36:03 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+20:36:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+20:36:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+20:36:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+20:36:18 227:004 > box-shadow: 10px 10px 8px black;
+
+20:36:23 227:016 > -
+20:36:23 227:017 > -5
+
+20:36:32 226:016 > -
+20:36:32 226:017 > -1
+20:36:32 226:018 > -10
+20:36:55 226:016 > -100
+20:37:03 226:019 > -1000
+20:37:03 226:020 > -10000
+20:37:04 226:018 > -100000
+20:37:11 226:022 > -1000001
+20:37:11 226:023 > -10000010
+20:37:13 226:023 > -100000105
+20:37:15 226:022 > -1000001055
+20:37:18 226:022 > -10000010551
+20:37:21 226:022 > -100000105515
+20:37:21 226:022 > 15
+20:37:21 226:023 > 0
+20:37:21 226:022 > 08
+20:37:22 226:018 > 100
+20:37:22 226:019 > 0
+20:37:22 226:016 > -10px

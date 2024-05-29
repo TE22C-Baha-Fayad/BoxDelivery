@@ -1,0 +1,4491 @@
+24-05-13 22:47 Session started
+----------------------------------------
+22:47:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+22:47:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+23:31:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+23:31:39 029:035 > Box
+23:31:41 029:035 > Box
+23:31:41 029:035 > Box
+
+23:31:54 029:048 > t
+23:31:54 029:049 > tr
+23:31:55 029:050 > tra
+23:31:55 029:047 > &trade;
+23:33:35 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+23:33:57 040:028 > c
+23:33:57 040:029 > cu
+23:33:57 040:030 > cum
+23:34:01 040:028 > cump
+23:34:01 040:028 > <p></p>
+23:34:06 040:031 > B
+23:34:06 040:032 > Ba
+23:34:06 040:033 > Bas
+23:34:07 040:034 > Basi
+23:34:07 040:035 > Basic
+23:34:11 040:037 > Basic p
+23:34:11 040:038 > Basic pr
+23:34:11 040:039 > Basic pre
+23:34:12 040:040 > Basic pren
+23:34:12 040:041 > Basic prenu
+23:34:12 040:042 > Basic prenui
+23:34:13 040:042 > Basic prenuim
+23:34:13 040:043 > Basic prenuima
+23:34:13 040:044 > Basic prenuimat
+23:34:13 040:045 > Basic prenuimati
+23:34:13 040:046 > Basic prenuimatio
+23:34:13 040:047 > Basic prenuimation
+23:34:14 040:048 > Basic prenuimatione
+23:34:14 040:049 > Basic prenuimationen
+23:34:14 040:051 > Basic prenuimationen i
+23:34:15 040:052 > Basic prenuimationen in
+23:34:15 040:053 > Basic prenuimationen ink
+23:34:15 040:054 > Basic prenuimationen inkl
+23:34:16 040:055 > Basic prenuimationen inklu
+23:34:16 040:056 > Basic prenuimationen inklud
+23:34:16 040:057 > Basic prenuimationen inklude
+23:34:16 040:058 > Basic prenuimationen inkluder
+23:34:16 040:059 > Basic prenuimationen inkluderr
+23:34:17 040:059 > Basic prenuimationen inkluderra
+23:34:17 040:060 > Basic prenuimationen inkluderrar
+23:34:21 040:062 > Basic prenuimationen inkluderrar v
+23:34:22 040:063 > Basic prenuimationen inkluderrar va
+23:34:22 040:064 > Basic prenuimationen inkluderrar van
+23:34:22 040:065 > Basic prenuimationen inkluderrar vanl
+23:34:22 040:066 > Basic prenuimationen inkluderrar vanli
+23:34:22 040:067 > Basic prenuimationen inkluderrar vanlig
+23:34:23 040:068 > Basic prenuimationen inkluderrar vanliga
+23:34:24 040:070 > Basic prenuimationen inkluderrar vanliga f
+23:34:24 040:071 > Basic prenuimationen inkluderrar vanliga fr
+23:34:24 040:072 > Basic prenuimationen inkluderrar vanliga frå
+23:34:24 040:073 > Basic prenuimationen inkluderrar vanliga fråg
+23:34:25 040:074 > Basic prenuimationen inkluderrar vanliga frågo
+23:34:25 040:075 > Basic prenuimationen inkluderrar vanliga frågor
+
+23:34:50 039:029 > h
+23:34:51 039:030 > h1
+23:34:52 039:029 > h1
+23:34:54 039:050 > h
+23:34:55 039:051 > h1
+23:34:55 039:049 > /h1
+23:35:04 039:030 > 2
+23:35:05 039:051 > 22
+23:35:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+23:35:41 230:060 > h
+23:35:41 230:061 > h2
+23:35:42 230:060 > h2
+23:36:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+23:36:16 036:000 > <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <h2>Basic från 299kr</h2>
+                            <p>Basic prenumationen inkluderar vanliga frågor</p>
+                        </div>
+                    </li>
+23:36:16 043:000 > <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <h2>Basic från 299kr</h2>
+                            <p>Basic prenumationen inkluderar vanliga frågor</p>
+                        </div>
+                    </li>
+23:36:40 046:032 > <span class="premium">Premium</span> från 599kr
+23:37:04 053:032 > <span class="premium">Premium+</span> från 1099kr
+
+23:37:12 056:024 > >
+23:38:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+23:38:55 239:000 > .kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+    color:var(--nyanza);
+    text-shadow: 5px 4px 4px var(--dark-green);
+    margin-top: 10px;
+    font-family: "Alfa Slab One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: Clamp(1.3rem, 3vw, 1.7rem);
+}
+
+23:38:59 239:060 > p
+
+23:39:10 240:014 > -
+23:39:10 240:015 > --
+23:39:12 240:014 > --dark-green
+23:39:19 240:013 > /
+23:39:22 240:010 > /v
+23:39:23 240:011 > /va
+23:39:23 240:012 > /var
+23:39:23 240:010 > var()
+23:39:23 240:014 > -
+23:39:23 240:015 > --
+23:39:33 240:016 > --0
+23:39:50 240:014 > --nyanza
+23:39:53 240:022 > <
+23:39:54 240:016 > <-
+23:39:56 240:016 > <--
+23:40:19 240:014 > --dark-green
+23:40:28 241:004 > text-shadow: 5px 4px 4px var(--dark-green);
+
+23:40:35 241:021 > 0
+23:40:37 241:017 > 00
+23:40:40 241:025 > 002
+23:40:44 241:025 > 0021
+23:40:50 241:033 > 0021-
+23:40:50 241:034 > 0021--
+23:40:50 241:035 > 0021--b
+23:40:53 241:029 > 0021--bb
+23:40:53 241:030 > 0021--bba
+23:40:54 241:029 > black
+23:41:00 241:025 > 2
+
+23:43:08 224:004 > b
+23:43:08 224:005 > bo
+23:43:08 224:006 > bor
+23:43:08 224:007 > bord
+23:43:08 224:008 > borde
+23:43:08 224:009 > border
+23:43:08 224:004 > border: ;
+23:43:10 224:012 > 5
+23:43:11 224:013 > 5p
+23:43:11 224:014 > 5px
+23:43:12 224:016 > 5px s
+23:43:12 224:017 > 5px so
+23:43:12 224:018 > 5px sol
+23:43:13 224:012 > 5px solo
+23:43:13 224:013 > 5px solos
+23:43:14 224:012 > 5px soloss
+23:43:14 224:013 > 5px solosso
+23:43:14 224:014 > 5px solossol
+23:43:14 224:012 > solid
+23:43:15 224:018 >  5
+23:43:16 224:019 >  5p
+23:43:16 224:020 >  5px
+23:43:23 224:022 >  5px -
+23:43:23 224:023 >  5px --
+23:43:24 224:024 >  5px --d
+23:43:24 224:025 >  5px --da
+23:43:24 224:026 >  5px --dar
+23:43:24 224:027 >  5px --dark
+23:43:24 224:022 > --dark-green
+23:43:29 224:022 > v
+23:43:29 224:023 > va
+23:43:30 224:024 > var
+23:43:30 224:022 > var()
+23:43:30 224:026 > d
+23:43:31 224:027 > da
+23:43:31 224:028 > dar
+23:43:31 224:026 > --dark-green
+
+23:43:35 225:004 > b
+23:43:35 225:005 > bo
+23:43:35 225:006 > bor
+23:43:36 225:004 > border: ;
+23:43:36 225:012 > 2
+23:43:37 225:013 > 2p
+23:43:37 225:014 > 2px
+23:43:40 225:010 > 2px-
+23:43:40 225:011 > 2px-r
+23:43:40 225:012 > 2px-ra
+23:43:40 225:004 > border-radius
+
+23:43:50 224:019 > 1
+23:43:50 224:020 > 10
+23:43:51 224:018 > 101
+23:43:51 224:019 > 1010
+
+23:43:56 225:019 > 5
+
+23:44:10 226:004 > b
+23:44:10 226:005 > bo
+23:44:10 226:006 > box
+23:44:11 226:007 > boxs
+23:44:11 226:008 > boxsh
+23:44:11 226:009 > boxsha
+23:44:11 226:004 > box-shadow: ;
+23:44:13 226:016 > 0
+23:44:14 226:017 > 0p
+23:44:14 226:018 > 0px
+23:44:14 226:020 > 0px 0
+23:44:15 226:021 > 0px 0p
+23:44:15 226:022 > 0px 0px
+23:44:17 226:024 > 0px 0px 1
+23:44:17 226:025 > 0px 0px 10
+23:44:17 226:026 > 0px 0px 10p
+23:44:17 226:027 > 0px 0px 10px
+23:44:19 226:029 > 0px 0px 10px -
+23:44:19 226:030 > 0px 0px 10px --
+23:44:20 226:031 > 0px 0px 10px --v
+23:44:21 226:029 > 0px 0px 10px --vv
+23:44:21 226:030 > 0px 0px 10px --vva
+23:44:22 226:031 > 0px 0px 10px --vvar
+23:44:22 226:029 > var()
+23:44:24 226:033 > --blue-green
+23:44:31 226:033 > -
+23:44:31 226:034 > --
+23:44:32 226:035 > --d
+23:44:32 226:036 > --da
+23:44:32 226:037 > --dar
+23:44:32 226:038 > --darl
+23:44:32 226:033 > --federal-blue
+23:44:34 226:034 > -
+23:44:35 226:035 > -d
+23:44:35 226:036 > -da
+23:44:35 226:037 > -dar
+23:44:35 226:033 > --dark-green
+23:44:43 226:024 > 5
+23:44:48 226:024 > 51
+23:44:48 226:025 > 510
+23:44:52 226:024 > 5102
+23:44:52 226:025 > 51020
+23:44:56 226:029 > 51020  2
+23:44:56 226:030 > 51020  20
+23:44:56 226:031 > 51020  20p
+23:44:56 226:032 > 51020  20px
+23:44:57 226:029 > 20px
+23:45:02 226:024 > 1
+23:45:02 226:025 > 10
+23:45:07 226:029 > 105
+23:45:09 226:029 > 5cap
+23:45:14 226:030 > p
+23:45:14 226:031 > px
+23:45:14 226:029 > 5px
+23:45:23 226:029 > 3
+23:46:30 220:004 > box-shadow: 0px 0px 10px 3px var(--dark-green);
+23:46:47 215:004 > box-shadow: 0px 0px 10px 3px var(--dark-green);
+
+23:46:56 215:040 > n
+23:46:56 215:039 > nn
+23:46:56 215:040 > nny
+23:46:57 215:037 > --nyanza
+23:47:07 215:037 > -
+23:47:07 215:038 > --
+23:47:08 215:039 > --d
+23:47:08 215:040 > --da
+23:47:08 215:041 > --dar
+23:47:08 215:042 > --darl
+23:47:08 215:037 > --federal-blue
+23:47:09 215:039 > d
+23:47:10 215:040 > da
+23:47:10 215:041 > dar
+23:47:10 215:037 > --dark-green
+23:47:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+23:49:12 040:031 > Utforska vårt Basic-alternativ för en enkel och prisvärd prenumerationsplan. Med Basic får du tillgång till grundläggande frågor och information till ett förmånligt pris. Perfekt för dig som vill ha en okomplicerad lösning utan extra kostnader.
+23:49:30 047:031 > Uppgradera till vår Premium-plan för att få tillgång till exklusiva fördelar och utökade funktioner. Med Premium-alternativet får du inte bara tillgång till premiumfrågor och snabbare support, utan även en förbättrad upplevelse som passar din ökade efterfrågan på service.
+23:49:34 005:035 > "esbenp.prettier-vscode"
+
+23:49:34 052:070 > /
+23:49:34 048:011 > </p>
+23:49:34 047:010 > <p>
+
+23:49:34 045:070 > /
+23:49:34 041:013 > </p>
+23:49:34 040:010 > <p>
+
+23:49:34 038:070 > /
+23:49:34 033:008 > <video
+
+23:49:34 020:057 > /
+
+23:49:34 012:097 > /
+
+23:49:34 011:067 > /
+
+23:49:34 010:062 > /
+
+23:49:34 009:117 > /
+
+23:49:34 008:076 > /
+
+23:49:34 007:043 > /
+
+23:49:34 005:072 > /
+
+23:49:34 004:025 > /
+23:49:44 074:019 > För den som söker det bästa av det bästa erbjuder vår Premium+ plan en överlägsen upplevelse. Med avancerade funktioner som personlig rådgivning och exklusiv tillgång till experthjälp, är Premium+ alternativet det perfekta valet för dig som kräver högkvalitativ och skräddarsydd support.
+23:49:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+23:49:59 245:029 > rgb(255, 255, 255)
+
+23:50:07 245:025 > 4
+23:50:19 245:029 > rgb(37, 32, 32)
+23:50:21 245:029 > rgb(134, 80, 80)
+23:50:23 245:029 > rgb(138, 120, 120)
+23:54:27 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+23:54:28 022:047 > c
+23:54:28 022:048 > co
+23:54:28 022:049 > cop
+23:54:29 022:050 > copy
+23:54:29 022:046 > &copy;
+23:54:40 022:051 > ;
+23:54:41 022:046 > &copy
+23:54:41 022:047 > TRADE
+23:55:37 071:012 > <video
+            class="delivery-video"
+            src="videor/6169116-uhd_3840_2160_25fps.mp4"
+            autoplay="true"
+            loop="true"
+          ></video>
+23:57:35 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+23:57:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+23:58:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+23:58:23 218:000 > .kontainer main .våraleveransplaner-kontainer li {
+    --side-padding: Clamp(0px, 1vw, 25px);
+    justify-content: center;
+    border: solid 5px var(--dark-green);
+    padding: 20px var(--side-padding) 50px var(--side-padding);
+    background-color: var(--sea-green);
+    box-shadow: 0px 0px 10px 3px var(--dark-green);
+
+}
+
+23:58:25 218:048 > :
+23:58:25 218:049 > :h
+23:58:25 218:050 > :ho
+23:58:25 218:051 > :hov
+23:58:26 218:048 > :hover
+
+23:58:38 219:004 > å
+23:58:38 219:004 > åp
+23:58:38 219:005 > åpa
+23:58:38 219:006 > åpad
+23:58:39 219:007 > åpadd
+23:58:39 219:004 > padding: ;
+23:58:45 219:003 > padding: 20px var(--side-padding) 50px var(--side-padding);
+23:58:53 219:022 > c
+23:58:53 219:023 > ca
+23:58:55 219:024 > cal
+23:58:57 219:022 > calC
+23:58:57 219:023 > calCa
+23:58:58 219:024 > calCal
+23:58:58 219:025 > calCalc
+23:58:58 219:026 > calCalcu
+23:58:58 219:027 > calCalcul
+23:58:58 219:028 > calCalcula
+23:58:59 219:029 > calCalculat
+23:58:59 219:030 > calCalculate
+23:58:59 219:031 > ()
+23:59:01 219:026 > ()
+23:59:01 219:027 > )
+23:59:05 219:027 > )-
+23:59:05 219:028 > )--
+23:59:07 219:029 > )--s
+23:59:07 219:030 > )--si
+23:59:07 219:031 > )--sid
+23:59:08 219:027 > --side-padding
+23:59:13 219:042 >  +
+23:59:20 219:043 >  +2
+23:59:23 219:044 >  +2p
+23:59:24 219:045 >  +2px
+23:59:25 219:043 > 20px
+23:59:42 219:018 > s
+23:59:42 219:019 > si
+23:59:42 219:020 > siz
+23:59:44 219:019 > sizs
+23:59:44 219:018 > sizss
+23:59:44 219:019 > sizssi
+23:59:45 219:018 > var(--side-padding)
+23:59:45 219:037 > +
+23:59:47 219:036 > +´
+23:59:47 219:037 > +´0
+23:59:48 219:037 > +´00
+23:59:48 219:036 > +´00+
+23:59:48 219:037 > +´00+1
+23:59:49 219:038 > +´00+10
+23:59:58 219:018 > +´00+102
+23:59:58 219:019 > +´00+1020
+23:59:58 219:020 > +´00+1020p
+23:59:58 219:021 > +´00+1020px
+00:00:00 219:023 > +´00+1020px 3
+00:00:00 219:024 > +´00+1020px 30
+00:00:00 219:025 > +´00+1020px 30p
+00:00:00 219:026 > +´00+1020px 30px
+00:00:01 219:028 > +´00+1020px 30px 3
+00:00:01 219:029 > +´00+1020px 30px 30
+00:00:02 219:028 > +´00+1020px 30px 302
+00:00:02 219:029 > +´00+1020px 30px 302p
+00:00:03 219:029 > +´00+1020px 30px 302p0
+00:00:03 219:030 > +´00+1020px 30px 302p0x
+00:00:03 219:031 > +´00+1020px 30px 302p0xp
+00:00:04 219:030 > +´00+1020px 30px 302p0xpp
+00:00:04 219:031 > +´00+1020px 30px 302p0xppx
+00:00:39 220:000 > box-shadow: 0px 0px 10px 3px var(--dark-green);
+
+00:00:43 220:037 > -
+00:00:44 220:038 > --
+00:00:44 220:039 > --n
+00:00:44 220:040 > --ny
+00:00:45 220:037 > --nyanza
+00:01:08 220:004 > c
+00:01:08 220:005 > cu
+00:01:08 220:006 > cur
+00:01:08 220:004 > cursor: pointer;
+00:01:42 221:004 > border: solid 5px var(--dark-green);
+00:01:47 221:038 > --nyanza
+00:01:48 221:037 > --nyanza
+00:01:49 221:046 > --nyanza
+
+00:01:53 221:025 > (
+
+00:02:24 222:004 > w
+00:02:24 222:005 > wi
+00:02:25 222:006 > wid
+00:02:25 222:007 > widt
+00:02:25 222:008 > width
+00:02:25 222:004 > width: ;
+00:02:26 222:011 > 1
+00:02:26 222:012 > 10
+00:02:26 222:013 > 100
+00:02:26 222:014 > 100%
+00:02:27 222:011 > 100%
+00:02:33 222:004 > M
+00:02:33 222:005 > MA
+00:02:34 222:006 > MAR
+00:02:34 222:007 > MARG
+00:02:35 222:004 > margin: ;
+00:02:36 222:012 > auto
+00:04:11 222:004 > p
+00:04:11 222:005 > pa
+00:04:11 222:006 > pad
+00:04:11 222:007 > padd
+00:04:11 222:008 > paddi
+00:04:11 222:009 > paddin
+00:04:11 222:010 > padding
+00:04:12 222:004 > padding: ;
+00:04:12 222:013 > 3
+00:04:13 222:014 > 30
+00:04:13 222:015 > 30p
+00:04:13 222:016 > 30px
+00:04:13 222:013 > 30px
+00:04:26 222:013 > 5
+00:04:27 222:013 > 54
+00:04:27 222:014 > 540
+
+00:04:54 219:004 > t
+00:04:54 219:005 > tr
+00:04:54 219:006 > tra
+00:04:54 219:007 > tran
+00:04:54 219:008 > trans
+00:04:55 219:004 > transform: ;
+00:04:56 219:004 > t
+00:04:56 219:005 > tr
+00:04:57 219:006 > tra
+00:04:57 219:007 > tran
+00:04:57 219:008 > trans
+00:04:58 219:009 > transi
+00:04:58 219:010 > transit
+00:04:58 219:004 > transition:
+00:04:59 219:017 >  a
+00:04:59 219:016 >  aa
+00:04:59 219:017 >  aal
+00:04:59 219:018 >  aall
+00:05:00 219:016 > all
+00:05:00 219:020 >  5
+00:05:00 219:021 >  50
+00:05:01 219:022 >  500
+00:05:01 219:023 >  500m
+00:05:01 219:024 >  500ms
+00:05:01 219:020 > 500ms
+00:05:08 219:020 > 1
+00:05:19 210:004 > transition: all 100ms;
+00:07:24 209:000 > .kontainer main .våraleveransplaner-kontainer li {
+    transition: padding 100ms, border-color 100ms, box-shadow 100ms;
+    --initial-side-padding: clamp(0px, 1vw, 25px); /* Initial padding */
+    --hover-side-padding: 40px; /* Padding on hover */
+    --border-color: var(--dark-green);
+    justify-content: center;
+    border: solid 5px var(--border-color);
+    padding: 20px var(--initial-side-padding) 50px var(--initial-side-padding);
+    background-color: var(--sea-green);
+    box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+    padding: 20px var(--hover-side-padding) 50px var(--hover-side-padding);
+    border-color: var(--nyanza);
+    box-shadow: 0px 0px 10px 3px var(--nyanza);
+    cursor: pointer;
+}
+00:08:17 209:000 > .kontainer main .våraleveransplaner-kontainer li {
+    transition: all 100ms;
+    --side-padding: Clamp(0px, 1vw, 25px);
+    justify-content: center;
+    border: solid 5px var(--dark-green);
+    padding: 20px var(--side-padding) 50px var(--side-padding);
+    background-color: var(--sea-green);
+    box-shadow: 0px 0px 10px 3px var(--dark-green);
+
+}
+.kontainer main .våraleveransplaner-kontainer li:hover {
+    transition: all 100ms;
+    box-shadow: 0px 0px 10px 3px var();
+    cursor: pointer;
+    border: solid 5px var(--nyanza);
+    padding: 40px;
+}
+00:08:48 209:000 > .kontainer main .våraleveransplaner-kontainer li {
+    transition: transform 100ms, border-color 100ms, box-shadow 100ms;
+    --initial-side-padding: clamp(0px, 1vw, 25px); /* Initial padding */
+    --hover-side-padding: 40px; /* Padding on hover */
+    --border-color: var(--dark-green);
+    justify-content: center;
+    border: solid 5px var(--border-color);
+    padding: 20px var(--initial-side-padding) 50px var(--initial-side-padding);
+    background-color: var(--sea-green);
+    box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+    transform: scale(1.1); /* Scale up on hover */
+    border-color: var(--nyanza);
+    box-shadow: 0px 0px 10px 3px var(--nyanza);
+    cursor: pointer;
+}
+00:10:49 216:063 > rt
+
+00:10:49 216:057 > s
+00:10:49 216:030 > rt
+00:10:49 216:024 > s
+00:10:49 211:012 > rt
+
+00:10:49 211:006 > s
+
+00:12:13 210:016 > a
+00:12:14 210:017 > al
+00:12:14 210:018 > all
+00:12:15 210:016 > all
+00:12:15 210:020 >  1
+00:12:16 210:021 >  10
+00:12:16 210:022 >  100
+00:12:16 210:023 >  100m
+00:12:16 210:024 >  100ms
+00:12:16 210:020 > 100ms
+00:13:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+00:13:51 039:016 > a
+00:13:52 039:016 > <a href=""></a>
+00:13:58 039:027 > <div class="leveransplan">
+                <img src="./bilder/package.png" alt="Låda" />
+                <h2>Basic från 299kr</h2>
+                <p>
+                  Utforska vårt Basic-alternativ för en enkel och prisvärd
+                  prenumerationsplan. Med Basic får du tillgång till
+                  grundläggande frågor och information till ett förmånligt pris.
+                  Perfekt för dig som vill ha en okomplicerad lösning utan extra
+                  kostnader.
+                </p>
+              </div>
+
+00:13:59 050:014 > >
+00:13:59 047:021 > extra
+00:13:59 047:020 > utan
+00:13:59 046:020 > pris.
+
+00:14:01 039:023 > #
+
+00:15:17 054:016 > a
+00:15:17 054:016 > <a href=""></a>
+00:15:23 065:020 > </a>
+
+00:15:44 069:016 > a
+00:15:45 069:016 > <a href=""></a>
+
+00:15:50 054:023 > #
+
+00:15:52 069:025 > #
+00:15:55 081:020 > </a>
+00:15:56 078:017 > experthjälp,
+00:15:56 078:016 > till
+00:15:56 077:018 > funktioner som
+00:15:56 076:018 > Premium+
+00:16:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+00:16:34 208:000 > .kontainer main .våraleveransplaner-kontainer li {
+    transition: all 100ms;
+    --side-padding: clamp(0px, 1vw, 25px); 
+    --border-color: var(--dark-green);
+    justify-content: center;
+    border: solid 5px var(--border-color);
+    padding: 20px var(--side-padding) 50px var(--side-padding);
+    background-color: var(--sea-green);
+    box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+00:16:36 208:050 > a
+00:16:37 208:049 > aa
+
+00:16:41 209:004 > t
+00:16:41 209:005 > te
+00:16:42 209:006 > tex
+00:16:42 209:007 > text
+00:16:42 209:008 > textd
+00:16:43 209:004 > text-decoration: ;
+00:16:43 209:021 > n
+00:16:43 209:022 > no
+00:16:44 209:021 > none
+
+00:22:21 246:014 > -
+00:22:21 246:015 > --
+00:23:01 038:004 > /* CSS HEX */
+--ash-gray: #cad2c5ff;
+--cambridge-blue: #84a98cff;
+--hookers-green: #52796fff;
+--dark-slate-gray: #354f52ff;
+--charcoal: #2f3e46ff;
+00:23:06 008:035 > "esbenp.prettier-vscode"
+
+00:23:06 323:016 > ;
+
+00:23:06 260:137 > "
+00:23:06 260:122 > ""
+00:23:06 260:119 > """
+00:23:06 260:109 > """"
+00:23:06 260:071 > """""
+00:23:06 260:062 > """"""
+
+00:23:06 162:138 > "
+00:23:06 162:123 > ""
+00:23:06 162:120 > """
+00:23:06 162:110 > """"
+00:23:06 162:072 > """""
+00:23:06 162:063 > """"""
+
+00:23:06 051:138 > "
+00:23:06 051:123 > ""
+00:23:06 051:120 > """
+00:23:06 051:110 > """"
+00:23:06 051:072 > """""
+00:23:06 051:063 > """"""
+
+00:23:56 236:013 > -
+00:23:56 236:014 > --
+00:24:01 236:013 > --charcoal
+00:24:09 236:013 > -
+00:24:09 236:014 > --
+00:24:14 236:013 > --dartmouth-green
+00:24:17 236:013 > -
+00:24:18 236:014 > --
+00:24:23 236:013 > --ash-gray
+00:28:59 033:015 > #52AD87
+00:29:56 236:013 > -
+00:29:56 236:014 > --
+00:30:01 236:013 > --dark-green
+00:30:03 236:013 > --
+00:30:04 236:015 > d
+00:30:04 236:016 > da
+00:30:05 236:013 > --dark-green
+00:30:06 236:020 > d
+00:30:06 236:021 > da
+00:30:06 236:022 > dar
+00:30:08 236:015 > dard
+00:30:08 236:016 > darda
+00:30:08 236:017 > dardar
+00:30:11 236:013 > --dark-slate-gray
+00:30:16 236:009 > b
+00:30:16 236:010 > bl
+00:30:16 236:011 > bla
+00:30:16 236:009 > black
+00:31:08 236:009 > var(--dark-green)
+
+00:31:14 237:031 > n
+00:31:14 237:032 > ny
+00:31:15 237:031 > --nyanza
+00:31:21 237:031 > .
+00:31:21 237:032 > ..
+00:31:22 237:031 > ..-
+00:31:22 237:032 > ..--
+00:31:24 237:031 > --charcoal
+00:31:30 237:023 > 2
+00:31:36 237:019 > 23
+00:31:37 237:015 > 233
+00:31:42 237:023 > 2331
+00:31:48 237:019 > 23311
+00:31:50 237:015 > 233112
+00:31:50 237:015 > 2331121
+00:31:53 237:015 > 23311212
+00:32:07 237:031 > --dark-green
+00:32:12 237:031 > -
+00:32:12 237:032 > --
+00:32:13 237:033 > --b
+00:32:13 237:034 > --bl
+00:32:14 237:035 > --bla
+00:32:16 237:027 > --blab
+00:32:17 237:028 > --blabl
+00:32:17 237:029 > --blabla
+00:32:17 237:027 > black
+00:32:23 237:023 > 2
+00:32:28 237:015 > 23
+00:32:36 237:027 > 23w
+00:32:37 237:028 > 23wh
+00:32:37 237:029 > 23whi
+00:32:37 237:030 > 23whit
+00:32:37 237:027 > white
+00:32:43 237:027 > -
+00:32:44 237:027 > --
+00:32:44 237:028 > ---
+00:32:45 237:027 > ---v
+00:32:45 237:028 > ---va
+00:32:45 237:029 > ---var
+00:32:45 237:027 > var()
+00:32:46 237:031 > -
+00:32:48 237:031 > --celadon
+00:32:57 237:023 > 3
+00:33:01 237:023 > 32
+00:33:11 237:019 > 323
+00:33:15 237:019 > 3231
+00:33:21 237:023 > 32311
+00:33:26 237:023 > 323112
+00:34:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+00:36:52 085:010 > <video
+              class="delivery-video"
+              src="videor/6169116-uhd_3840_2160_25fps.mp4"
+              autoplay="true"
+              loop="true"
+            ></video>
+00:38:59 Document switched to: 
+----------------------------------------
+00:38:59 000:000 > 1 result - 1 file
+
+Webbplats\leveransplaner.html:
+  7      <link rel="stylesheet" href="style.css" />
+  8:     <link rel="shortcut icon" href="./bilder/679821.png" type="image/x-icon" />
+  9      <meta
+00:39:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+00:39:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+00:40:25 037:008 > </p>
+00:40:25 031:009 > />
+00:40:25 030:010 > <img
+
+00:40:25 017:057 > /
+
+00:40:25 010:096 > /
+
+00:40:25 008:076 > /
+
+00:40:25 007:043 > /
+
+00:40:25 005:072 > /
+
+00:40:25 004:025 > /
+00:40:27 041:059 > </p>
+
+00:40:27 032:042 > >
+00:40:27 031:010 > <img
+00:40:46 025:012 > <div class="ikon">
+                <img src="./bilder/679821.png" alt="ikon">
+            </div>
+
+00:41:01 025:024 > M
+00:41:01 025:025 > Mö
+00:41:01 025:026 > Mör
+00:41:02 025:027 > Mörl
+00:41:03 025:027 > Mörlk
+00:41:04 025:028 > MörlkÖ
+00:41:06 025:024 > MörlkÖ,
+00:41:07 025:024 > MörlkÖ,M
+00:41:07 025:025 > MörlkÖ,MÖ
+00:41:07 025:026 > MörlkÖ,MÖR
+00:41:07 025:027 > MörlkÖ,MÖRK
+00:41:08 025:028 > MörlkÖ,MÖRKL
+00:41:09 025:024 > MörlkÖ,MÖRKLm
+00:41:10 025:025 > MörlkÖ,MÖRKLmö
+00:41:10 025:026 > MörlkÖ,MÖRKLmör
+00:41:10 025:027 > MörlkÖ,MÖRKLmörk
+00:41:10 025:028 > MörlkÖ,MÖRKLmörkl
+00:41:11 025:029 > MörlkÖ,MÖRKLmörklä
+00:41:11 025:030 > MörlkÖ,MÖRKLmörkläg
+00:41:12 025:031 > MörlkÖ,MÖRKLmörkläge
+00:41:15 025:028 > MörlkÖ,MÖRKLmörkläget
+00:41:29 025:029 > MörlkÖ,MÖRKLmörkläget-
+00:41:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+00:41:59 033:008 > <div class="mörkt-läge">
+                <img src="./bilder/679821.png" alt="ikon">
+            </div>
+
+00:42:01 034:053 > /
+00:42:43 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\darkmode-icon.svg
+----------------------------------------
+00:43:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\darkmode-icon.svg
+----------------------------------------
+00:43:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\ikoner\darkmode-icon.svg
+----------------------------------------
+00:43:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+00:43:25 034:022 > /i
+00:43:25 034:023 > /ik
+00:43:25 034:024 > /iko
+00:43:26 034:022 > ikoner/
+00:43:26 034:029 > 679821.png
+00:43:29 034:028 > /
+00:43:30 034:029 > darkmode-icon.svg
+00:44:09 025:029 > "./bilder/679821.png"
+00:44:11 025:029 > 679821.png
+00:44:33 008:035 > ./ikoner/679821.png
+00:44:33 017:025 > ./ikoner/679821.png
+00:44:33 008:035 > ./ikoner/679821.png
+00:44:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+00:44:33 017:025 > "./bilder/679821.png"
+00:44:33 017:025 > ./ikoner/679821.png
+00:44:33 008:035 > "./bilder/679821.png"
+00:44:33 008:035 > ./ikoner/679821.png
+00:44:33 017:025 > ./ikoner/679821.png
+00:44:33 017:025 > "./bilder/679821.png"
+00:44:33 008:035 > "./bilder/679821.png"
+00:44:33 017:025 > ./ikoner/679821.png
+00:44:33 000:000 > <!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, ,initial-scale=1">
+    <title>Box Delivery &trade;</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href=./ikoner/679821.png type="image/x-icon">
+    <meta name="description"
+        content="Box Delivery, Ditt val att leverera paket för både kvalitet och tillänglighet.">
+</head>
+<body>
+    <div class="kontainer">
+        <header><a href="hem.html">Box Delivery &TRADE;</a></header>
+        <nav>
+            <div class="ikon">
+                <img src="./bilder/679821.png" alt="ikon">
+            </div>
+            <div class="alternativ">
+                <a class="aktiv-sida" href="hem.html">Hem</a>
+                <a href="leveransplaner.html">Leveransplaner</a>
+                <a href="kontakta-oss.html">Kontakta oss</a>
+                <a href="om-oss.html">Om oss</a>
+            </div>
+        </nav>
+        <main>
+            <section class="innehåll">
+                <h1>Välkommen till Box Delivery&trade;</h1>
+                <img src="./bilder/pexels-tima-miroshnichenko-6169056.jpg" alt="En Man håller i en låda.">
+                <div class="alternativ-kontainer">
+                    <p>
+                        Box Delivery erbjuder ett smidigt och miljövänligt sätt att få dina paket levererade. Vi
+                        använder återvinningsbara lådor och erbjuder snabba och pålitliga leveranser. Med vår enkla och
+                        användarvänliga plattform kan du spåra dina paket och välja leveranstid och plats som passar dig
+                        bäst. Välkommen till Box Delivery - där bekvämlighet möter hållbarhet.</p>
+                    <a href="./om-oss.html">Om oss</a>
+                    <a href="./leveransplaner.html">Se våra leveransplaner</a>
+                </div>
+            </section>
+        </main>
+        <footer>Box Delivery - 2024&copy;</footer>
+    </div>
+</body>
+
+</html>
+00:44:35 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+00:44:35 017:025 > ./ikoner/679821.png
+00:44:35 008:035 > ./ikoner/679821.png
+00:44:37 025:024 > kon
+00:44:37 007:040 > kon
+00:44:37 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+00:44:38 018:030 > kon
+00:44:38 008:040 > kon
+00:44:40 017:025 > ./ikoner/679821.png
+00:44:40 017:025 > ./ikoner/679821.png
+00:44:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+00:44:40 017:025 > "./bilder/679821.png"
+00:44:40 017:025 > ./ikoner/679821.png
+00:44:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+00:45:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+00:45:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+00:45:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+00:45:29 034:053 > m
+00:45:29 034:054 > mö
+00:45:29 034:055 > mör
+00:45:30 034:056 > mörk
+00:45:30 034:053 > mörkt-läge
+00:48:26 018:004 > <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+00:48:39 035:010 > <span class="material-symbols-outlined">
+dark_mode
+</span>
+
+00:48:51 036:010 > b
+00:48:51 036:011 > bu
+00:48:51 036:012 > but
+00:48:51 036:013 > butt
+00:48:52 036:010 > <button></button>
+00:48:56 036:018 > <span class="material-symbols-outlined"> dark_mode </span>
+00:49:10 036:011 > a
+00:49:11 036:011 > aa
+00:49:12 036:073 > aaa
+00:49:27 036:010 > aaaa
+00:49:28 036:010 > <a href=""></a>
+00:49:30 036:021 > <span class="material-symbols-outlined">
+dark_mode
+</span>
+00:49:31 037:021 > </span></a
+00:50:07 036:013 > o
+00:50:08 036:014 > on
+00:50:08 036:015 > onl
+00:50:08 036:016 > onlc
+00:50:09 036:015 > onlcc
+00:50:09 036:016 > onlccl
+00:50:09 036:017 > onlccli
+00:50:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+00:50:59 084:000 > .kontainer nav .ikon img {
+  width: 59px;
+}
+00:51:01 033:018 > ad
+
+00:51:07 084:015 > .
+00:51:08 084:016 > .d
+00:51:09 084:017 > .di
+00:51:10 084:016 > .dim
+00:51:10 084:017 > .diml
+00:51:11 084:015 > .mörkt-läge
+00:51:25 084:027 > s
+00:51:25 084:028 > sp
+00:51:25 084:029 > spa
+00:51:26 084:027 > span
+00:51:42 084:027 > -
+00:51:44 084:028 > -,
+00:51:44 084:029 > -,a
+00:51:44 084:030 > -,at
+00:51:45 084:027 > -,atm
+00:51:45 084:028 > -,atma
+00:51:46 084:029 > -,atmat
+00:51:47 084:027 > .material-symbols-outlined
+
+00:51:53 085:009 > 1
+00:51:53 085:010 > 10
+00:51:53 085:011 > 100
+00:51:53 085:012 > 100p
+00:51:53 085:013 > 100px
+00:51:54 085:009 > 100px
+00:53:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+00:53:07 018:003 > <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,600,0,0" />
+00:53:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+00:53:16 085:002 > s
+00:53:17 085:003 > si
+00:53:17 085:004 > siz
+00:53:17 085:002 > size: ;
+00:53:18 085:008 > 2
+00:53:19 085:009 > 20
+00:53:19 085:010 > 200
+00:53:19 085:011 > 200p
+00:53:19 085:012 > 200px
+00:53:19 085:008 > 200px
+00:53:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+00:53:47 018:003 > <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+00:54:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+00:54:06 085:002 > <style>
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 600,
+  'GRAD' 0,
+  'opsz' 48
+}
+</style>
+
+00:54:16 091:015 > ;
+00:54:16 091:011 > ;"
+00:54:16 091:006 > ;""
+
+00:54:16 090:011 > "
+00:54:16 090:006 > ""
+
+00:54:16 089:011 > "
+00:54:16 089:001 > ""
+
+00:54:16 088:011 > "
+00:54:16 088:001 > ""
+
+00:54:27 085:066 > 5
+00:54:27 085:067 > 50
+00:54:30 085:066 > 48
+00:54:41 085:044 > 7
+00:54:41 085:045 > 70
+00:54:41 085:046 > 700
+00:54:41 085:047 > 7000
+00:54:44 085:047 > 70000
+00:54:46 085:044 > 600
+00:54:52 085:034 > 1
+00:54:52 085:035 > 10
+00:54:55 085:034 > 100
+00:55:00 085:066 > 1001
+00:55:00 085:067 > 10010
+00:55:00 085:068 > 100100
+00:55:02 085:069 > 100100p
+00:55:02 085:070 > 100100px
+00:55:05 085:066 > 100100px2
+00:55:05 085:067 > 100100px20
+00:55:05 085:068 > 100100px200
+00:55:05 085:069 > 100100px2000
+00:55:08 085:066 > 2000
+00:55:09 085:066 > 100px
+00:55:10 085:066 > 48
+
+00:56:08 086:002 > f
+00:56:08 086:003 > fo
+00:56:08 086:004 > fon
+00:56:08 086:005 > font
+00:56:08 086:006 > fonts
+00:56:09 086:007 > fontsi
+00:56:09 086:002 > font-size: ;
+00:56:10 086:013 > 4
+00:56:10 086:014 > 40
+00:56:10 086:015 > 40p
+00:56:10 086:016 > 40px
+00:56:17 086:013 > 40px5
+00:56:17 086:014 > 40px50
+
+00:56:23 085:044 > 9
+00:57:32 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+00:57:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+00:57:48 354:000 > .
+00:57:49 354:001 > .m
+00:57:49 354:002 > .mö
+00:57:49 354:003 > .mör
+00:57:49 354:004 > .mörk
+00:57:51 354:000 > .mörkt-läge
+00:57:52 354:011 > {}
+
+00:57:59 355:004 > m
+00:57:59 355:004 > m-
+00:58:00 355:004 > m-.
+00:58:01 355:004 > .aktiv-sida
+00:58:01 355:015 > {}
+
+00:58:16 354:000 > .
+00:58:16 354:001 > .m
+00:58:16 354:002 > .mö
+00:58:17 354:003 > .mör
+00:58:17 354:004 > .mörk
+00:58:17 354:005 > .mörkt
+00:58:22 354:006 > {}
+00:58:27 354:006 > -
+00:58:27 354:007 > -ö
+00:58:28 354:007 > -öl
+00:58:29 354:000 > .mörkt-läge
+00:58:29 354:011 > -
+00:58:30 354:012 > -p
+00:58:30 354:013 > -på
+00:59:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+00:59:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:00:12 084:000 > .kontainer nav .mörkt-läge .material-symbols-outlined {
+
+01:00:16 085:027 > A
+01:00:17 085:027 > Aa
+01:00:17 085:027 > Aaa
+
+01:00:19 086:000 > }
+01:00:22 086:000 > }å
+01:00:22 086:001 > }åp
+01:00:23 086:000 > }åpp
+01:00:23 086:001 > }åppa
+01:00:23 086:002 > }åppad
+01:00:23 086:003 > }åppadd
+01:00:24 086:000 > padding: ;
+01:00:30 086:009 > 3
+01:00:30 086:010 > 30
+01:00:30 086:011 > 30p
+01:00:30 086:012 > 30px
+01:00:31 086:009 > 30px
+
+01:00:33 089:013 > 1
+01:00:34 089:014 > 10
+01:00:34 089:015 > 100
+01:00:34 089:016 > 100%
+01:00:34 089:013 > 100%
+01:00:39 089:013 > 3
+01:00:39 089:014 > 30
+01:00:40 089:015 > 30x
+01:00:41 089:015 > 30xp
+01:00:41 089:016 > 30xpx
+01:00:41 089:013 > 30px
+01:00:48 089:013 > 5
+01:00:49 089:014 > 50
+01:00:49 089:015 > 50p
+01:00:49 089:016 > 50px
+01:00:50 089:013 > 50px
+01:01:11 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+01:01:27 033:013 > h
+01:01:27 033:014 > hr
+01:01:27 033:015 > hre
+01:01:27 033:016 > href
+01:01:27 033:013 > href=""
+01:01:28 033:019 > #
+01:01:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:02:17 085:000 > .kontainer nav .mörkt-läge .material-symbols-outlined {
+01:02:18 085:000 > .kontainer nav .mörkt-läge a {
+padding: 30px;}
+
+01:02:23 086:004 > t
+01:02:23 086:005 > te
+01:02:24 086:006 > tex
+01:02:24 086:007 > text
+01:02:24 086:008 > textd
+01:02:24 086:009 > textde
+01:02:25 086:004 > text-decoration: ;
+01:02:25 086:021 > n
+01:02:26 086:022 > no
+01:02:26 086:021 > none
+
+01:02:30 087:004 > c
+01:02:30 087:005 > co
+01:02:30 087:006 > col
+01:02:30 087:007 > colo
+01:02:30 087:008 > color
+01:02:31 087:004 > color: ;
+01:02:33 087:011 > b
+01:02:34 087:012 > br
+01:02:34 087:013 > bro
+
+01:02:40 086:004 > c
+01:02:40 086:005 > co
+01:02:41 086:006 > col
+01:02:41 086:007 > colo
+01:02:41 086:008 > color
+01:02:41 086:004 > color: ;
+01:02:42 086:011 > b
+01:02:42 086:012 > bl
+01:02:42 086:013 > bla
+01:02:43 086:011 > black
+01:02:48 086:011 >  -
+01:02:48 086:012 >  --
+01:02:50 086:011 > var(--charcoal)
+01:02:55 086:015 > -
+01:02:55 086:016 > --
+01:03:11 086:015 > --cambridge-blue
+01:03:19 086:031 > c
+01:03:20 086:032 > cc
+01:03:20 086:033 > ccc
+01:03:24 086:015 > cccc
+01:03:24 086:016 > cccch
+01:03:24 086:017 > ccccha
+01:03:24 086:018 > cccchar
+01:03:25 086:015 > --charcoal
+01:03:26 086:025 > )
+01:04:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:05:01 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+01:05:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:05:03 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:05:11 086:015 > )g
+01:05:12 086:016 > )gr
+01:05:12 086:017 > )gre
+01:05:12 086:018 > )gree
+01:05:12 086:015 > --dark-green
+01:05:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+01:05:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:05:31 Document switched to: Untitled-1
+----------------------------------------
+01:05:34 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:05:34 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:05:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+01:07:04 033:013 > i
+01:07:05 033:014 > id
+01:07:07 033:013 > id=""
+01:07:10 033:017 > m
+01:07:10 033:018 > mö
+01:07:11 033:019 > mör
+01:07:11 033:020 > mörk
+01:07:11 033:021 > mörkt
+01:07:12 033:017 > mörkt-läge
+01:07:12 033:027 > -
+01:07:14 033:028 > -l
+01:07:14 033:029 > -lm
+01:07:15 033:028 > -lmk
+01:07:15 033:029 > -lmkn
+01:07:15 033:030 > -lmkna
+01:07:15 033:031 > -lmknap
+01:07:16 033:032 > -lmknapp
+01:07:29 033:033 > -lmknappe
+01:07:29 033:034 > -lmknappen
+01:07:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+01:07:32 000:000 > l
+01:07:32 000:001 > le
+01:07:33 000:002 > let
+01:07:35 000:004 > let m
+01:07:36 000:005 > let mö
+01:07:36 000:006 > let mör
+01:07:36 000:007 > let mörk
+01:07:39 000:006 > let mörkr
+01:07:39 000:007 > let mörkrk
+01:07:39 000:008 > let mörkrkt
+01:07:40 000:009 > let mörkrktl
+01:07:40 000:010 > let mörkrktlä
+01:07:41 000:011 > let mörkrktläg
+01:07:41 000:012 > let mörkrktläge
+01:07:44 000:009 > let mörkrktlägeL
+01:07:44 000:010 > let mörkrktlägeLä
+01:07:44 000:011 > let mörkrktlägeLäg
+01:07:45 000:012 > let mörkrktlägeLäge
+01:07:45 000:013 > let mörkrktlägeLägeK
+01:07:45 000:014 > let mörkrktlägeLägeKn
+01:07:46 000:015 > let mörkrktlägeLägeKna
+01:07:46 000:016 > let mörkrktlägeLägeKnap
+01:07:46 000:017 > let mörkrktlägeLägeKnapp
+01:07:46 000:018 > let mörkrktlägeLägeKnappe
+01:07:46 000:019 > let mörkrktlägeLägeKnappen
+01:07:47 000:021 > let mörkrktlägeLägeKnappen =
+01:07:48 000:023 > let mörkrktlägeLägeKnappen = d
+01:07:48 000:024 > let mörkrktlägeLägeKnappen = do
+01:07:48 000:025 > let mörkrktlägeLägeKnappen = doc
+01:07:48 000:026 > let mörkrktlägeLägeKnappen = docu
+01:07:49 000:023 > document
+01:07:49 000:031 > .
+01:07:49 000:032 > .q
+01:07:49 000:033 > .qu
+01:07:49 000:034 > .que
+01:07:50 000:035 > .ques
+01:07:50 000:031 > .querySelector
+01:07:50 000:045 > ()
+01:07:54 000:046 > ,
+01:07:54 000:046 > ,.
+01:07:55 000:046 > ""
+01:07:56 000:047 > .
+01:07:58 000:047 > .#
+01:07:58 000:048 > .#"
+01:08:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:08:03 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:08:04 000:047 > mörkt-läge-knappen
+01:08:05 000:047 > #
+01:08:11 000:068 > #;
+
+01:08:16 001:000 > m
+01:08:16 001:001 > ml
+01:08:16 001:002 > mls
+01:08:17 001:000 > MediaList
+01:08:18 001:000 > m
+01:08:19 001:001 > mö
+01:08:19 001:000 > mörktLägeKnappen
+01:08:19 001:016 > .
+01:08:20 001:017 > .a
+01:08:20 001:018 > .ad
+01:08:20 001:019 > .add
+01:08:20 001:016 > .addEventListener
+01:08:21 001:033 > ()
+01:08:23 001:034 > ""
+01:08:24 001:035 > c
+01:08:24 001:036 > cl
+01:08:24 001:037 > cli
+01:08:24 001:038 > clic
+01:08:24 001:039 > click
+01:08:26 001:041 > click.
+01:08:27 001:041 > click.,
+
+01:08:37 003:000 > O
+01:08:38 003:001 > On
+01:08:40 003:002 > On M
+01:08:42 003:003 > On Mö
+01:08:42 003:004 > On Mör
+01:08:42 003:005 > On Mörk
+01:08:43 003:006 > On Mörkt
+01:08:44 003:007 > On Mörktl
+01:08:44 003:008 > On Mörktlä
+01:08:44 003:009 > On Mörktläg
+01:08:45 003:010 > On Mörktläge
+01:08:49 003:011 > On MörktlägeC
+01:08:50 003:012 > On MörktlägeCl
+01:08:50 003:013 > On MörktlägeCli
+01:08:50 003:014 > On MörktlägeClic
+01:08:50 003:015 > On MörktlägeClick
+01:08:51 003:016 > On MörktlägeClicke
+01:08:51 003:017 > On MörktlägeClicked
+01:08:52 003:018 > ()
+01:08:54 004:000 > {}
+01:09:00 003:007 > L
+
+01:09:05 001:042 > o
+01:09:05 001:043 > on
+01:09:06 001:044 > on,
+01:09:07 001:044 > on,m
+01:09:08 001:045 > on,mö
+01:09:08 001:046 > on,mör
+01:09:09 001:047 > on,mörk
+01:09:09 001:042 > OnMörktLägeClicked
+01:09:11 001:061 > ;
+01:09:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+01:09:58 096:006 > s
+01:09:58 096:007 > sc
+01:09:58 096:008 > scr
+01:09:58 096:009 > scri
+01:09:58 096:006 > <script></script>
+01:10:00 096:013 >  s
+01:10:00 096:014 >  sr
+01:10:01 096:014 >  sr s
+01:10:01 096:015 >  sr sr
+01:10:01 096:016 >  sr src
+01:10:01 096:014 > src=""
+01:10:05 096:019 > l
+01:10:05 096:020 > le
+01:10:08 096:019 > leg
+01:10:09 096:020 > lege
+01:10:09 096:021 > legen
+01:10:09 096:019 > generell-script.js
+01:10:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:10:19 047:004 > <script src="generell-script.js"></script>
+01:10:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+01:10:25 099:004 > <script src="generell-script.js"></script>
+01:10:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:10:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:10:30 043:004 > <script src="generell-script.js"></script>
+01:10:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+01:10:42 005:004 > a
+01:10:42 005:005 > al
+01:10:42 005:006 > ale
+01:10:42 005:007 > aler
+01:10:42 005:004 > alert
+01:10:43 005:009 > ()
+01:10:43 005:010 > n
+01:10:44 005:011 > ni
+01:10:44 005:010 > ""
+01:10:45 005:011 > n
+01:10:45 005:012 > ni
+01:10:45 005:013 > nig
+01:10:45 005:014 > nigg
+01:10:45 005:015 > nigga
+01:11:37 001:042 > OnMörktLägeClicked
+01:11:43 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+01:11:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+01:11:49 003:000 > f
+01:11:49 003:001 > fu
+01:11:50 003:002 > fun
+01:11:50 003:003 > func
+01:11:50 003:004 > funct
+01:11:50 003:005 > functi
+01:11:50 003:006 > functio
+01:11:51 003:007 > functio m
+01:11:52 003:007 > functio m n
+
+01:12:09 005:003 > m
+01:12:10 005:003 > mörktLägeKnappen
+01:12:11 005:019 > .
+01:12:14 005:020 > .s
+01:12:14 005:021 > .st
+01:12:15 005:022 > .sty
+01:12:17 005:019 > .ATTRIBUTE_NODE
+01:12:17 005:034 > .
+01:12:18 005:020 > .e
+01:12:18 005:021 > .el
+01:12:18 005:022 > .ele
+01:12:18 005:023 > .elem
+01:12:19 005:024 > .eleme
+01:12:19 005:025 > .elemen
+01:12:19 005:020 > ELEMENT_NODE
+01:12:19 005:032 > .
+01:12:20 005:033 > .s
+01:12:20 005:034 > .st
+01:12:20 005:035 > .sty
+01:12:22 005:019 > .sty.
+01:12:25 005:019 > .sty..
+01:12:31 005:020 > .sty..i
+01:12:31 005:021 > .sty..id
+01:12:32 005:019 > .id
+01:12:32 005:022 > .
+01:12:33 005:023 > .s
+01:12:33 005:024 > .st
+01:12:33 005:025 > .sty
+01:12:36 005:020 > .stye
+01:12:36 005:021 > .styel
+01:12:36 005:022 > .styele
+01:12:37 005:023 > .styelem
+01:12:37 005:024 > .styeleme
+01:12:37 005:025 > .styelemen
+01:13:37 005:020 > .styelemens
+01:13:37 005:021 > .styelemenst
+01:13:37 005:022 > .styelemensty
+01:13:38 005:023 > .styelemenstyl
+01:13:38 005:024 > .styelemenstyle
+01:13:39 005:026 > .styelemenstyle =
+01:13:40 005:025 > .styelemenstyle = .
+01:14:13 005:003 > mörktLägeKnappen.style.backgroundColor = "black";
+    mörktLägeKnappen.style.color = "white";
+    mörktLägeKnappen.style.border = "2px solid white";
+01:14:36 005:004 > mörktLägeKnappen.style.backgroundColor = "black";
+    
+    mörktLägeKnappen.style.border = "2px solid white";
+01:14:40 005:027 > f
+01:14:40 005:028 > fo
+01:14:40 005:029 > fon
+01:14:40 005:030 > font
+01:14:42 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:14:52 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:14:54 005:026 > font.
+01:14:54 005:027 > font-variation-settings: "FILL" 0, "wght" 900, "GRAD" 0, "opsz" 48;
+01:14:59 005:042 >  =
+01:15:08 005:051 >  =  =
+01:15:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+01:15:19 091:002 > f
+01:15:20 091:003 > fo
+01:15:20 091:004 > fom
+01:15:21 091:004 > fomn
+01:15:21 091:005 > fomnt
+01:15:21 091:007 > fomnt f
+01:15:21 091:008 > fomnt fi
+01:15:22 091:006 > fomnt fi-
+01:15:22 091:007 > fomnt fi-f
+01:15:23 091:008 > fomnt fi-fi
+01:15:23 091:009 > fomnt fi-fil
+01:15:23 091:010 > fomnt fi-fill
+01:15:24 091:006 > fomnt fi-fillf
+01:15:24 091:007 > fomnt fi-fillfi
+01:15:25 091:008 > fomnt fi-fillfil
+01:15:26 091:002 > fomnt fi-fillfilf
+01:15:26 091:003 > fomnt fi-fillfilfi
+01:15:26 091:004 > fomnt fi-fillfilfil
+01:15:26 091:005 > fomnt fi-fillfilfill
+01:15:27 091:002 > fill: ;
+01:15:29 091:008 > 1
+01:15:29 091:009 > 10
+01:15:31 091:010 > 10p
+01:15:31 091:011 > 10px
+01:15:34 091:008 > 10px2
+01:15:34 091:009 > 10px20
+01:15:34 091:010 > 10px200
+01:15:35 091:011 > 10px200p
+01:15:35 091:012 > 10px200px
+01:15:40 091:002 > 10px200pxf
+01:15:40 091:003 > 10px200pxfi
+01:15:40 091:004 > 10px200pxfit
+01:15:41 091:004 > 10px200pxfitn
+01:15:41 091:005 > 10px200pxfitnt
+01:15:43 091:003 > 10px200pxfitnto
+01:15:43 091:004 > 10px200pxfitnton
+01:15:43 091:005 > 10px200pxfitntont
+01:15:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+01:15:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+01:16:07 005:059 > =
+01:16:08 005:060 > =1
+01:16:08 005:061 > =10
+01:16:09 005:062 > =10å
+01:16:09 005:063 > =10åx
+01:16:11 005:062 > =10åxp
+01:16:11 005:063 > =10åxpx
+01:16:12 005:064 > =10åxpx"
+01:16:13 005:066 > =10åxpx":
+01:16:14 005:065 > =10åxpx":;
+01:16:54 005:003 > mörktLägeKnappen.style["fontVariationSettings"] = "'FILL=10px'";
+01:16:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+01:17:11 089:034 > 1
+01:17:14 089:034 > 10
+01:17:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:17:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:17:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+01:17:23 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:17:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+01:17:28 005:061 > 1
+01:18:13 005:062 > 1 1
+01:18:20 005:060 > 1 1:
+01:18:27 005:056 > 1 1:ä
+01:18:29 005:056 > 1 1:äf
+01:18:29 005:056 > 1 1:äfF
+01:18:29 005:057 > 1 1:äfFi
+01:18:29 005:058 > 1 1:äfFil
+01:18:30 005:059 > 1 1:äfFill
+01:18:30 005:059 > 1 1:äfFilll
+01:18:36 005:060 > 1 1:äfFilllä
+01:18:38 005:060 > 1 1:äfFilllää
+01:18:39 005:060 > 1 1:äfFilllääö
+01:18:39 005:060 > 1 1:äfFilllääö'
+01:18:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:18:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:18:47 005:062 > 1 1:äfFilllääö' 1
+01:19:02 005:032 > 1 1:äfFilllääö' 1-
+01:19:03 005:042 > 1 1:äfFilllääö' 1--
+01:19:08 005:033 > 1 1:äfFilllääö' 1--v
+01:19:10 005:043 > 1 1:äfFilllääö' 1--vs
+01:19:32 005:003 > mörktLägeKnappen.style.setProperty("font-variation-settings", "'FILL' 1");
+01:19:42 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:20:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:20:05 005:004 > mörktLägeKnappen.style.setProperty("font-variation-settings", "'FILL' 0, 'wght' 900, 'GRAD' 0, 'opsz' 48");
+01:20:22 005:074 > 1
+01:20:53 005:000 > mörktLägeKnappen.style.fontWeight = "900";
+01:21:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:22:43 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:23:11 005:004 > mörktLägeKnappen.style["fontVariationSettings"] = "'FILL' 1";
+01:23:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:23:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:23:21 005:055 > "FILL" 0, "wght" 900, "GRAD" 0, "opsz" 48
+01:23:25 005:055 > '
+01:23:27 005:060 > ''
+01:23:29 005:065 > '''
+01:23:30 005:070 > ''''
+01:23:32 005:077 > '''''
+01:23:34 005:082 > ''''''
+01:23:40 005:087 > '''''''
+01:23:41 005:092 > ''''''''
+01:23:44 005:062 > ''''''''1
+01:27:11 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:27:18 019:001 > <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+01:27:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:27:45 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:28:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:28:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:28:37 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:28:41 040:037 > href="#"
+01:28:42 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:28:43 005:021 > s
+01:28:44 005:022 > st
+01:28:44 005:023 > sty
+01:28:44 005:024 > styl
+01:28:44 005:025 > style
+01:28:50 005:021 > style.
+01:28:51 005:020 > style..
+01:28:51 005:021 > style..i
+01:28:52 005:022 > style..in
+01:28:52 005:023 > style..inn
+01:28:52 005:024 > style..inne
+01:28:53 005:020 > .innerHTML
+01:28:54 005:030 > .
+01:29:07 005:031 > . =
+01:29:42 005:033 > <span class="material-symbols-outlined">
+light_mode
+</span>
+01:29:45 005:033 > "
+
+01:29:46 006:014 > "
+
+01:29:49 005:072 > '
+01:29:51 005:046 > ''
+
+01:29:58 006:014 > '
+
+01:30:01 007:011 > <
+01:30:02 007:012 > <<
+01:30:02 007:013 > <<<
+01:30:02 007:014 > <<<<
+01:30:02 007:015 > <<<<<
+01:30:02 007:016 > <<<<<<
+01:30:02 007:017 > <<<<<<<
+01:30:02 007:018 > <<<<<<<<
+01:30:02 007:019 > <<<<<<<<<
+01:30:02 007:020 > <<<<<<<<<<
+01:30:02 007:021 > <<<<<<<<<<<
+01:30:02 007:022 > <<<<<<<<<<<<
+01:30:02 007:023 > <<<<<<<<<<<<<
+01:30:02 007:024 > <<<<<<<<<<<<<<
+01:30:02 007:025 > <<<<<<<<<<<<<<<
+01:30:02 007:026 > <<<<<<<<<<<<<<<<
+01:30:02 007:027 > <<<<<<<<<<<<<<<<<
+01:30:02 007:028 > <<<<<<<<<<<<<<<<<<
+01:30:02 007:029 > <<<<<<<<<<<<<<<<<<<
+01:30:02 007:030 > <<<<<<<<<<<<<<<<<<<<
+01:30:03 007:031 > <<<<<<<<<<<<<<<<<<<<<
+01:30:03 007:032 > <<<<<<<<<<<<<<<<<<<<<<
+01:30:03 007:033 > <<<<<<<<<<<<<<<<<<<<<<<
+01:30:05 007:011 > <<<<<<<<<<<<<<<<<<<<<<<"
+
+01:30:25 005:093 > ;
+
+01:31:14 006:004 > i
+01:31:14 006:005 > if
+01:31:15 006:004 > if
+01:31:15 006:006 > ()
+01:31:20 006:007 > ,
+01:31:20 006:008 > ,ö
+01:31:21 006:007 > ,ö,
+01:31:22 006:007 > ,ö,m
+01:31:22 006:008 > ,ö,mö
+01:31:22 006:009 > ,ö,mör
+01:31:23 006:007 > mörktLägeKnappen
+01:31:23 006:023 > .
+01:31:26 006:024 > .g
+01:31:26 006:025 > .ge
+01:31:26 006:026 > .get
+01:31:29 006:024 > .getq
+01:31:29 006:025 > .getqu
+01:31:31 006:023 > .
+01:31:31 006:007 > mörktLägeKnappen
+01:31:31 006:024 > .g
+01:31:33 006:024 > .gq
+01:31:33 006:025 > .gqu
+01:31:33 006:026 > .gque
+01:31:34 006:023 > .querySelector
+01:31:34 006:037 > ()
+01:31:36 006:038 > .
+01:31:37 006:039 > .m
+01:31:37 006:040 > .ma
+01:31:37 006:041 > .mat
+01:31:38 006:038 > ""
+01:31:38 006:039 > m
+01:31:39 006:040 > ma
+01:31:39 006:039 > ma.
+01:31:39 006:040 > ma.m
+01:31:39 006:041 > ma.ma
+01:31:40 006:042 > ma.mae
+01:31:40 006:042 > ma.maet
+01:31:40 006:043 > ma.maete
+01:31:41 006:044 > ma.maeter
+01:31:41 006:045 > ma.maeteri
+01:31:41 006:046 > ma.maeteria
+01:31:41 006:047 > ma.maeterial
+01:31:49 006:039 > material-symbols-outlined
+01:31:52 006:039 > ,
+01:31:53 006:039 > ,.
+01:31:56 007:008 > {}
+01:32:06 006:066 >  .
+01:32:08 006:067 >  .t
+01:32:08 006:068 >  .te
+01:32:08 006:069 >  .tex
+01:32:09 006:066 > .textContent
+01:32:10 006:079 >  =
+01:32:10 006:081 > ""
+01:32:15 006:082 > light_mode
+01:32:18 006:080 > =
+01:32:18 006:081 > ==
+01:32:21 006:081 > ===
+01:32:35 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:32:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:32:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:32:52 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:32:52 007:004 > <span class="material-symbols-outlined">dark_mode</span>
+
+01:32:54 007:060 > ;
+
+01:33:00 009:002 > e
+01:33:00 009:003 > el
+01:33:00 009:004 > els
+01:33:00 009:005 > else
+01:33:00 009:006 > {}
+01:33:13 010:004 > mörktLägeKnappen.innerHTML =
+    "<span class='material-symbols-outlined'>light_mode</span>";
+01:33:22 008:004 > mörktLägeKnappen.innerHTML =
+    "<span class='material-symbols-outlined'>light_mode</span>";
+
+01:33:28 007:016 > '
+01:33:30 007:042 > ''
+01:33:32 007:060 > ""
+01:33:37 009:005 > <span class='material-symbols-outlined'>dark_mode</span>
+01:33:41 008:032 > "<span class='material-symbols-outlined'>dark_mode</span>";
+01:33:42 007:003 >  {
+01:33:42 007:002 >  {)
+01:33:43 008:016 > ) {
+01:33:44 007:003 >  {
+01:33:44 007:002 >  {)
+01:37:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:38:01 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:38:04 025:012 > <div class="mörkt-läge">
+          <a id="mörkt-läge-knappen" href="#"
+            ><span class="material-symbols-outlined">dark_mode</span></a
+          >
+        </div>
+01:38:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:38:09 025:012 > <div class="mörkt-läge">
+          <a id="mörkt-läge-knappen" href="#"
+            ><span class="material-symbols-outlined">dark_mode</span></a
+          >
+        </div>
+01:38:10 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+01:38:15 026:012 > <div class="mörkt-läge">
+          <a id="mörkt-läge-knappen" href="#"
+            ><span class="material-symbols-outlined">dark_mode</span></a
+          >
+        </div>
+
+01:38:16 096:027 > /
+01:38:16 096:012 > </p>
+01:38:16 095:013 > snabb
+01:38:16 095:012 > för
+01:38:16 095:011 > krav
+
+01:38:16 090:027 > /
+01:38:16 090:012 > </p>
+01:38:16 088:119 > vår
+01:38:16 086:081 > Svar: Vi
+
+01:38:16 084:027 > /
+01:38:16 084:012 > </p>
+01:38:16 083:013 > hela
+01:38:16 083:012 > under
+01:38:16 083:011 > sig
+01:38:16 082:023 > paket
+01:38:16 082:022 > ditt
+01:38:16 082:021 > följa
+
+01:38:16 078:027 > /
+01:38:16 078:012 > </p>
+01:38:16 077:016 > några
+01:38:16 077:015 > inom
+01:38:16 077:014 > ske
+01:38:16 075:119 > vi efter
+01:38:16 075:016 > TM?
+01:38:16 075:015 > Delivery
+01:38:16 075:014 > Box
+
+01:38:16 072:027 > /
+01:38:16 072:012 > </p>
+01:38:16 071:015 > dina
+01:38:16 071:014 > hantera
+01:38:16 068:012 > <p>
+
+01:38:16 066:023 > /
+01:38:16 066:012 > </p>
+
+01:38:16 058:023 > /
+01:38:16 058:008 > </p>
+01:38:16 056:034 > för
+
+01:38:16 050:023 > /
+01:38:16 050:009 > </p>
+
+01:38:16 042:023 > /
+01:38:16 042:008 > </p>
+01:38:16 041:014 > teknologiska
+
+01:38:16 010:096 > /
+
+01:38:16 007:043 > /
+
+01:38:16 005:072 > /
+
+01:38:16 004:025 > /
+01:38:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:38:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+01:38:19 043:068 > /
+01:38:19 041:012 > />
+01:38:19 040:012 > <input
+
+01:38:19 038:085 > /
+01:38:19 037:011 > />
+01:38:19 036:012 > <input
+
+01:38:19 009:117 > /
+
+01:38:19 007:043 > /
+
+01:38:19 005:072 > /
+
+01:38:19 004:025 > /
+01:38:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:38:21 041:012 > </p>
+01:38:21 035:006 > />
+01:38:21 034:010 > <img
+
+01:38:21 010:096 > /
+
+01:38:21 007:043 > /
+
+01:38:21 005:072 > /
+
+01:38:21 004:025 > /
+01:38:22 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:38:27 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:38:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+01:38:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:38:29 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:38:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:38:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:38:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:38:54 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:38:56 012:004 > <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+01:38:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:39:01 012:004 > <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+01:39:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+01:39:08 012:004 > <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+01:39:48 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:40:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:40:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+01:40:13 003:000 > m
+01:40:13 003:001 > mö
+01:40:14 003:002 > mör
+01:40:16 003:000 > mörl
+01:40:16 003:001 > mörle
+01:40:16 003:002 > mörlet
+01:40:17 003:004 > mörlet b
+01:40:18 003:004 > mörlet bm
+01:40:18 003:005 > mörlet bmö
+01:40:18 003:006 > mörlet bmöl
+01:40:19 003:006 > mörlet bmölk
+01:40:19 003:006 > mörlet bmölkr
+01:40:20 003:007 > mörlet bmölkrk
+01:40:20 003:008 > mörlet bmölkrkt
+01:40:21 003:004 > mörktLägeKnappen
+01:40:24 003:013 > P
+01:40:24 003:014 > På
+01:40:25 003:016 > På ?
+01:40:26 003:016 > På ?=
+01:40:27 003:018 > På ?= t
+01:40:28 003:018 > På ?= tf
+01:40:28 003:019 > På ?= tfa
+01:40:28 003:020 > På ?= tfal
+01:40:28 003:021 > På ?= tfals
+01:40:29 003:018 > false
+01:40:29 003:023 > ;
+
+01:40:43 010:006 > m
+01:40:44 010:007 > mö
+01:40:44 010:008 > mör
+01:40:46 010:006 > mörktLägePå
+01:40:47 010:018 >  =
+01:40:47 010:020 >  = f
+01:40:47 010:021 >  = fa
+01:40:48 010:020 > false
+01:40:48 010:025 > ;
+01:40:52 014:006 > mörktLägePå = false;
+
+01:40:55 014:020 > t
+01:40:55 014:021 > tr
+01:40:55 014:020 > true
+
+01:44:11 003:000 > s
+01:44:11 003:001 > st
+01:44:11 003:002 > sta
+01:44:11 003:003 > stat
+01:44:13 003:004 > stati
+01:44:13 003:005 > static
+01:44:16 003:000 > static
+01:44:17 003:000 > let
+
+01:46:21 002:000 > l
+01:46:21 002:001 > lo
+01:46:22 002:002 > loc
+01:46:22 002:003 > loca
+01:46:22 002:004 > local
+01:46:22 002:000 > localStorage
+01:46:23 002:012 > .
+01:46:23 002:013 > .s
+01:46:25 002:012 > .setItem
+01:46:25 002:020 > ()
+01:46:28 002:021 > ""
+01:46:29 002:022 > n
+01:46:30 002:023 > ni
+01:46:30 002:024 > nig
+01:46:31 002:025 > nigg
+01:46:31 002:026 > nigga
+01:46:44 002:022 > nigga,
+01:46:44 002:022 > nigga,m
+01:46:47 002:022 > nigga,mM
+01:46:53 002:022 > nigga,mMM
+01:46:53 002:023 > nigga,mMMÖ
+01:46:54 002:022 > nigga,mMMÖm
+01:46:54 002:023 > nigga,mMMÖmö
+01:46:54 002:024 > nigga,mMMÖmör
+01:46:56 002:025 > nigga,mMMÖmörk
+01:46:56 002:026 > nigga,mMMÖmörkt
+01:46:56 002:027 > nigga,mMMÖmörktl
+01:46:57 002:028 > nigga,mMMÖmörktlä
+01:46:57 002:029 > nigga,mMMÖmörktläg
+01:46:57 002:030 > nigga,mMMÖmörktläge
+
+01:47:09 014:011 > l
+01:47:09 014:006 > är
+
+01:47:09 010:011 > l
+01:47:09 010:006 > är
+
+01:47:09 003:009 > l
+01:47:09 003:004 > är
+
+01:47:25 014:008 > M
+
+01:47:25 010:008 > M
+
+01:47:25 003:006 > M
+
+01:47:30 002:032 > ,
+01:47:31 002:033 > ,ä
+01:47:31 002:034 > ,är
+01:47:32 002:033 > ärMörktläge
+01:47:41 010:006 > localStorage.setItem("mörktläge",ärMörktläge)
+
+01:47:53 003:018 > l
+01:47:53 003:019 > lo
+01:47:54 003:020 > loc
+01:47:54 003:021 > loca
+01:47:55 003:018 > localStorage
+01:47:55 003:030 > .
+01:47:56 003:031 > .g
+01:47:56 003:032 > .ge
+01:47:56 003:033 > .get
+01:47:56 003:030 > .getItem
+01:47:57 003:038 > ()
+01:47:58 003:039 > ""
+01:48:04 003:000 > s
+01:48:05 003:001 > st
+01:48:05 003:002 > str
+01:48:05 003:000 > structuredClone
+01:48:06 003:000 > s
+01:48:06 003:001 > st
+01:48:06 003:002 > str
+01:48:06 003:003 > stri
+01:48:07 003:004 > strin
+01:48:07 003:005 > string
+01:48:09 003:007 > string m
+01:48:10 003:008 > string mö
+01:48:10 003:009 > string mör
+01:48:11 003:010 > string mörk
+01:48:11 003:011 > string mörkt
+01:48:11 003:012 > string mörktl
+01:48:12 003:012 > string mörktlL
+01:48:12 003:013 > string mörktlLä
+01:48:13 003:014 > string mörktlLäg
+01:48:13 003:015 > string mörktlLäge
+01:48:15 003:016 > string mörktlLägeN
+01:48:15 003:017 > string mörktlLägeNy
+01:48:16 003:018 > string mörktlLägeNyc
+01:48:16 003:019 > string mörktlLägeNyck
+01:48:16 003:020 > string mörktlLägeNycke
+01:48:16 003:021 > string mörktlLägeNyckel
+01:48:17 003:023 > string mörktlLägeNyckel =
+01:48:17 003:025 > mörktläge
+01:48:18 003:025 > ""
+01:48:19 003:026 > mörktläge
+01:48:20 003:036 > ;
+01:48:23 003:000 > ;l
+01:48:23 003:001 > ;le
+01:48:23 003:002 > ;let
+01:48:23 003:000 > let
+
+01:48:36 011:027 > "
+01:48:41 011:027 > "m
+01:48:42 011:028 > "mö
+01:48:44 011:027 > mörktLägeNyckel
+
+01:48:48 004:039 > m
+01:48:49 004:039 > mörktLägeKnappen
+01:48:55 004:039 > mörktLägeNyckel
+01:48:57 004:054 > ,
+01:48:59 004:055 > ""
+01:49:00 004:055 > t
+01:49:00 004:056 > tr
+01:49:01 004:057 > tre
+01:49:01 004:057 > treu
+01:49:02 004:058 > treue
+01:49:02 004:055 > true
+
+01:49:39 003:032 > S
+01:49:40 003:033 > St
+01:49:40 003:034 > Sta
+01:49:40 003:035 > Stat
+01:49:41 003:036 > Statu
+01:49:41 003:037 > Status
+01:49:45 003:028 > StatusL
+
+01:50:04 011:055 > ;
+01:50:08 015:006 > localStorage.setItem(mörktLägeNyckel,ärMörktläge);
+
+01:50:25 018:000 > i
+01:50:25 018:001 > if
+01:50:26 018:000 > if
+01:50:26 018:002 > ()
+01:50:26 018:003 > m
+01:50:28 018:003 > ml
+01:50:28 018:004 > mlo
+01:50:30 018:003 > mloö
+01:50:30 018:004 > mloör
+01:50:31 018:003 > mloörä
+01:50:31 018:004 > mloörär
+01:50:31 018:003 > ärMörktläge
+01:50:34 019:004 > {}
+
+01:50:35 020:008 > a
+01:50:35 020:009 > al
+01:50:35 020:010 > ale
+01:50:35 020:011 > aler
+01:50:35 020:008 > alert
+01:50:36 020:013 > ()
+01:50:36 020:014 > h
+01:50:36 020:015 > hi
+01:50:37 020:016 > hit
+01:50:37 020:017 > hitl
+01:50:37 020:018 > hitle
+01:50:37 020:019 > hitler
+01:50:38 020:014 > ""
+01:50:38 020:015 > h
+01:50:39 020:016 > hi
+01:50:39 020:017 > hit
+01:50:39 020:018 > hitl
+01:50:39 020:019 > hitle
+01:50:39 020:020 > hitler
+01:50:40 020:023 > hitler:
+01:50:42 020:023 > hitler::
+01:50:43 020:023 > hitler::;
+
+01:50:52 008:003 > )
+
+01:51:33 013:042 > f
+01:51:33 013:043 > fa
+01:51:34 013:042 > false
+
+01:51:35 017:042 > t
+01:51:35 017:043 > tr
+01:51:35 017:042 > true
+01:53:24 000:000 > // Function to handle dark mode toggle button click
+function OnMörktLägeClicked() {
+  const icon = mörktLägeKnappen.querySelector(".material-symbols-outlined");
+  if (icon.textContent === "light_mode") {
+    icon.textContent = "dark_mode";
+    localStorage.setItem(mörktLägeNyckel, "true"); // Store dark mode status as "true"
+    document.body.classList.add("dark-mode"); // Apply dark mode styles to the body
+  } else {
+    icon.textContent = "light_mode";
+    localStorage.setItem(mörktLägeNyckel, "false"); // Store dark mode status as "false"
+    document.body.classList.remove("dark-mode"); // Remove dark mode styles from the body
+  }
+}
+
+// DOM content loaded event listener
+document.addEventListener("DOMContentLoaded", function() {
+  let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+  let mörktLägeNyckel = "mörktLägeStatus";
+  let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+  // Check if dark mode is enabled in localStorage
+  if (ärMörktläge === "true") {
+    document.body.classList.add("dark-mode"); // Apply dark mode styles to the body
+  }
+
+  // Add event listener to the dark mode toggle button
+  mörktLägeKnappen.addEventListener("click", OnMörktLägeClicked);
+});
+01:53:35 000:000 > let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+mörktLägeKnappen.addEventListener("click", OnMörktLägeClicked);
+
+let mörktLägeNyckel = "mörktLägeStatus";
+let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+function OnMörktLägeClicked() {
+  if (
+    mörktLägeKnappen.querySelector(".material-symbols-outlined").textContent ===
+    "light_mode"
+  ) {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>dark_mode</span>";
+    localStorage.setItem(mörktLägeNyckel, false);
+  } else {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>light_mode</span>";
+    localStorage.setItem(mörktLägeNyckel, true);
+  }
+}
+if (ärMörktläge) {
+  alert("hitler");
+}
+01:53:44 003:000 > // Function to handle dark mode toggle button click
+function OnMörktLägeClicked() {
+  const icon = mörktLägeKnappen.querySelector(".material-symbols-outlined");
+  if (icon.textContent === "light_mode") {
+    icon.textContent = "dark_mode";
+    localStorage.setItem(mörktLägeNyckel, "true"); // Store dark mode status as "true"
+    document.body.classList.add("dark-mode"); // Apply dark mode styles to the body
+  } else {
+    icon.textContent = "light_mode";
+    localStorage.setItem(mörktLägeNyckel, "false"); // Store dark mode status as "false"
+    document.body.classList.remove("dark-mode"); // Remove dark mode styles from the body
+  }
+}
+
+// DOM content loaded event listener
+document.addEventListener("DOMContentLoaded", function() {
+  let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+  let mörktLägeNyckel = "mörktLägeStatus";
+  let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+  // Check if dark mode is enabled in localStorage
+  if (ärMörktläge === "true") {
+    document.body.classList.add("dark-mode"); // Apply dark mode styles to the body
+  }
+
+  // Add event listener to the dark mode toggle button
+  mörktLägeKnappen.addEventListener("click", OnMörktLägeClicked);
+});
+01:53:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:54:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:54:01 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:54:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:54:03 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:54:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:54:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:54:22 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+01:54:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:54:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:54:48 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:54:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+01:54:53 003:000 > let mörktLägeNyckel = "mörktLägeStatus";
+let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+function OnMörktLägeClicked() {
+  if (
+    mörktLägeKnappen.querySelector(".material-symbols-outlined").textContent ===
+    "light_mode"
+  ) {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>dark_mode</span>";
+    localStorage.setItem(mörktLägeNyckel, false);
+  } else {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>light_mode</span>";
+    localStorage.setItem(mörktLägeNyckel, true);
+  }
+}
+if (ärMörktläge) {
+  alert("hitler");
+}
+
+01:55:28 006:000 > u
+01:55:28 006:001 > uf
+01:55:29 006:002 > uf/
+01:55:30 006:000 > uf/i
+01:55:30 006:001 > uf/if
+01:55:31 006:000 > if
+01:55:31 006:002 > ()
+01:55:33 006:003 > ä
+01:55:33 006:004 > är
+01:55:33 006:005 > ärm
+01:55:34 006:003 > ärMörktläge
+01:55:37 007:005 > {}
+01:55:49 007:004 > mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>dark_mode</span>";
+    localStorage.setItem(mörktLägeNyckel, false);
+
+01:55:52 011:000 > e
+01:55:52 011:001 > es
+01:55:54 011:001 > esl
+01:55:54 011:002 > esls
+01:55:55 011:000 > else
+01:55:55 011:004 > {}
+01:56:06 012:004 > mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>light_mode</span>";
+    localStorage.setItem(mörktLägeNyckel, true);
+  }
+01:56:12 012:004 > mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>light_mode</span>";
+    localStorage.setItem(mörktLägeNyckel, true);
+  }
+
+01:56:51 017:004 > i
+01:56:51 017:005 > if
+01:56:51 017:006 > if8
+01:56:52 017:006 > ()
+01:56:53 017:007 > m
+01:56:54 017:007 > mä
+01:56:55 017:007 > ärMörktläge
+01:57:06 018:010 > {}
+01:57:24 017:004 > mörktLägeKnappen.innerHTML =
+    "<span class='material-symbols-outlined'>dark_mode</span>";
+  localStorage.setItem(mörktLägeNyckel, false);
+
+01:57:29 021:002 > e
+01:57:30 021:002 > else
+01:57:30 021:006 > {}
+01:57:35 022:004 > mörktLägeKnappen.innerHTML =
+    "<span class='material-symbols-outlined'>light_mode</span>";
+  localStorage.setItem(mörktLägeNyckel, true);
+
+01:57:59 016:006 > !
+01:59:49 014:004 > let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+02:00:18 014:019 > 1
+
+02:00:19 015:017 > 1
+
+02:00:23 014:019 > v
+
+02:00:24 015:017 > v
+02:00:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:01:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+02:01:09 018:042 > t
+02:01:09 018:043 > tr
+02:01:10 018:042 > true
+
+02:01:11 022:042 > f
+02:01:11 022:043 > fa
+02:01:12 022:042 > false
+02:01:25 024:002 > if (ärMörktläge) {
+  mörktLägeKnappen.innerHTML =
+    "<span class='material-symbols-outlined'>dark_mode</span>";
+} else {
+  mörktLägeKnappen.innerHTML =
+    "<span class='material-symbols-outlined'>light_mode</span>";
+}
+
+02:01:42 024:000 > }
+
+02:01:50 015:002 > c
+02:01:50 015:003 > co
+02:01:50 015:004 > con
+02:01:50 015:005 > cons
+02:01:51 015:006 > conso
+02:01:51 015:007 > consol
+02:01:51 015:002 > console
+02:01:51 015:009 > .
+02:01:51 015:010 > .l
+02:01:51 015:011 > .lo
+02:01:52 015:009 > .log
+02:01:52 015:013 > ()
+02:01:53 015:014 > ä
+02:01:53 015:015 > är
+02:01:54 015:014 > ärMörktläge
+02:01:55 015:025 > v
+02:01:56 015:027 > v:
+02:01:57 015:027 > v:;
+
+02:02:14 019:042 > f
+02:02:14 019:043 > fa
+02:02:14 019:042 > false
+
+02:02:15 023:042 > t
+02:02:16 023:043 > tr
+02:02:16 023:042 > true
+02:03:47 021:004 > console.log(ärMörktlägev);
+02:03:54 021:016 > localStorage.getItem(mörktLägeNyckel)
+
+02:04:25 018:042 > 1
+02:04:28 018:041 > 1!
+02:04:30 018:042 > 1!Ä
+02:04:30 018:043 > 1!ÄR
+02:04:30 018:044 > 1!ÄRM
+02:04:31 018:042 > ärMörktläge
+02:04:34 023:042 > ärMörktläge
+
+02:04:34 023:042 > !
+
+02:06:30 006:016 > =
+02:06:30 006:017 > ==
+02:06:30 006:018 > ===
+02:06:32 006:020 > ""
+02:06:32 006:021 > T
+02:06:32 006:022 > TR
+02:06:33 006:021 > TRt
+02:06:34 006:022 > TRtr
+02:06:34 006:023 > TRtru
+02:06:34 006:024 > TRtrue
+
+02:06:41 015:018 > =
+02:06:41 015:019 > ==
+02:06:42 015:020 > ===
+02:06:42 015:021 > ""
+02:06:43 015:022 > t
+02:06:43 015:023 > tr
+02:06:43 015:024 > tru
+02:06:43 015:025 > true
+
+02:06:55 023:042 > t
+02:06:55 023:043 > tr
+02:06:56 023:042 > true
+
+02:07:02 018:041 > f
+02:07:02 018:042 > fa
+02:07:02 018:041 > false
+02:07:58 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:08:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:08:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+02:08:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:08:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+02:08:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:09:10 022:046 > false
+02:09:13 018:041 > true
+02:09:20 022:042 > true
+02:09:21 018:041 > false
+02:09:43 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:10:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+02:10:07 091:002 > t
+02:10:07 091:003 > te
+02:10:07 091:004 > tex
+02:10:07 091:005 > text
+02:10:08 091:006 > textd
+02:10:08 091:007 > textde
+02:10:08 091:002 > text-decoration: ;
+02:10:09 091:019 > n
+02:10:09 091:019 > none
+
+02:10:11 092:002 > c
+02:10:12 092:003 > cu
+02:10:12 092:004 > cur
+02:10:12 092:005 > curs
+02:10:12 092:002 > cursor: ;
+02:10:13 092:010 > p
+02:10:13 092:010 > pointer
+
+02:10:27 091:002 > s
+02:10:27 091:003 > se
+02:10:28 091:004 > sel
+02:10:28 091:005 > sele
+02:10:28 091:006 > selec
+02:10:29 091:002 > user-select: ;
+02:10:30 091:015 > n
+02:10:31 091:015 > none
+02:17:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:19:59 017:004 > "<span class='material-symbols-outlined'>light_mode</span>";
+02:20:03 022:006 > "<span class='material-symbols-outlined'>dark_mode</span>";
+02:21:48 025:001 > ''
+
+02:21:48 025:002 > '
+02:21:48 025:003 > ''
+02:21:51 030:000 > // Dark mode toggle button
+const darkModeToggle = document.getElementById('darkModeToggle');
+
+// Function to toggle dark mode
+function toggleDarkMode() {
+    const body = document.body;
+    body.classList.toggle('dark-mode');
+    
+    // Save dark mode state in localStorage
+    const isDarkMode = body.classList.contains('dark-mode');
+    localStorage.setItem('darkMode', isDarkMode);
+}
+
+// Event listener for dark mode toggle button
+darkModeToggle.addEventListener('click', toggleDarkMode);
+
+// Check dark mode state from localStorage on page load
+window.addEventListener('DOMContentLoaded', () => {
+    const isDarkMode = localStorage.getItem('darkMode') === 'true';
+    if (isDarkMode) {
+        document.body.classList.add('dark-mode');
+    }
+});
+
+02:22:24 026:000 > z
+02:22:25 030:000 > // Dark mode toggle button
+const darkModeToggle = document.getElementById('darkModeToggle');
+
+// Function to toggle dark mode
+function toggleDarkMode() {
+    const body = document.body;
+    body.classList.toggle('dark-mode');
+    
+    // Save dark mode state in localStorage
+    const isDarkMode = body.classList.contains('dark-mode');
+    localStorage.setItem('darkMode', isDarkMode);
+}
+
+// Event listener for dark mode toggle button
+darkModeToggle.addEventListener('click', toggleDarkMode);
+
+// Check dark mode state from localStorage on page load
+window.addEventListener('DOMContentLoaded', () => {
+    const isDarkMode = localStorage.getItem('darkMode') === 'true';
+    if (isDarkMode) {
+        document.body.classList.add('dark-mode');
+    }
+});
+02:22:49 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+02:23:02 330:000 > /
+02:23:02 330:001 > /Ä
+02:23:04 330:001 > /ÄÄ
+02:23:04 330:001 > /ÄÄ*
+02:23:07 330:002 > /ÄÄ*m
+02:23:07 330:003 > /ÄÄ*mö
+02:23:07 330:004 > /ÄÄ*mör
+02:23:07 330:005 > /ÄÄ*mörk
+02:23:07 330:006 > /ÄÄ*mörkt
+02:23:08 330:008 > /ÄÄ*mörkt l
+02:23:08 330:009 > /ÄÄ*mörkt lä
+02:23:08 330:010 > /ÄÄ*mörkt läg
+02:23:09 330:011 > /ÄÄ*mörkt läge
+02:23:09 330:012 > /ÄÄ*mörkt lägeÄ
+02:23:10 330:012 > /ÄÄ*mörkt lägeÄ*
+02:23:11 330:013 > /ÄÄ*mörkt lägeÄ*/
+
+02:23:14 333:000 > /
+02:23:15 333:001 > /*
+02:23:15 333:002 > /*a
+02:23:15 333:003 > /*am
+02:23:16 333:003 > /*amn
+02:23:16 333:004 > /*amnp
+02:23:18 333:002 > /*amnpr
+02:23:19 333:003 > /*amnpre
+02:23:20 333:002 > /*amnprea
+02:23:20 333:003 > /*amnprean
+02:23:20 333:004 > /*amnpreanp
+02:23:20 333:005 > /*amnpreanpa
+02:23:21 333:006 > /*amnpreanpas
+02:23:21 333:007 > /*amnpreanpass
+02:23:21 333:008 > /*amnpreanpassa
+02:23:21 333:010 > /*amnpreanpassa e
+02:23:22 333:011 > /*amnpreanpassa ef
+02:23:22 333:012 > /*amnpreanpassa eft
+02:23:22 333:013 > /*amnpreanpassa efte
+02:23:22 333:014 > /*amnpreanpassa efter
+02:23:22 333:016 > /*amnpreanpassa efter o
+02:23:23 333:017 > /*amnpreanpassa efter ol
+02:23:23 333:018 > /*amnpreanpassa efter oli
+02:23:23 333:019 > /*amnpreanpassa efter olik
+02:23:23 333:020 > /*amnpreanpassa efter olika
+02:23:23 333:022 > /*amnpreanpassa efter olika e
+02:23:23 333:023 > /*amnpreanpassa efter olika en
+02:23:24 333:024 > /*amnpreanpassa efter olika enh
+02:23:24 333:025 > /*amnpreanpassa efter olika enhe
+02:23:24 333:026 > /*amnpreanpassa efter olika enhet
+02:23:24 333:027 > /*amnpreanpassa efter olika enhete
+02:23:24 333:028 > /*amnpreanpassa efter olika enheter
+02:23:24 333:029 > /*amnpreanpassa efter olika enheter.
+02:23:26 333:029 > /*amnpreanpassa efter olika enheter..
+02:23:26 333:030 > /*amnpreanpassa efter olika enheter..*
+02:23:27 333:031 > /*amnpreanpassa efter olika enheter..*(
+02:23:27 333:031 > /*amnpreanpassa efter olika enheter..*(/
+02:23:30 332:000 > /* Dark mode styles */
+body.dark-mode {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    /* Add more dark mode styles as needed */
+}
+02:23:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+02:23:48 031:048 > ,
+02:23:48 031:049 > ,ö
+02:23:49 031:048 > ,öm
+02:23:49 031:049 > ,ömö
+02:24:05 031:023 > ,ömöm
+02:24:06 031:023 > mörktLägeKnappen
+02:24:07 031:039 > ;
+02:26:04 016:004 > const body = document.body;
+    body.classList.toggle('dark-mode');
+    
+    // Save dark mode state in localStorage
+    const isDarkMode = body.classList.contains('dark-mode');
+    localStorage.setItem('darkMode', isDarkMode);
+
+02:26:06 044:046 > "
+02:26:06 044:036 > ""
+
+02:26:06 042:065 > "
+02:26:06 042:060 > ""
+02:26:06 042:053 > """
+02:26:06 042:044 > """"
+
+02:26:06 041:041 > "
+02:26:06 041:024 > ""
+
+02:26:06 021:034 > "
+02:26:06 021:025 > ""
+
+02:26:06 020:057 > "
+02:26:06 020:047 > ""
+
+02:26:06 017:036 > "
+02:26:06 017:026 > ""
+02:27:11 017:065 > "")
+
+02:27:11 016:004 > (
+02:27:14 016:004 > const body = document.body;
+    body.classList.toggle("dark-mode");
+
+    // Save dark mode state in localStorage
+    const isDarkMode = body.classList.contains("dark-mode");
+    localStorage.setItem("darkMode", isDarkMode);
+    mörktLägeKnappen.innerHTML =
+02:27:25 015:002 > const body = document.body;
+    body.classList.toggle("dark-mode");
+
+    // Save dark mode state in localStorage
+    const isDarkMode = body.classList.contains("dark-mode");
+    localStorage.setItem("darkMode", isDarkMode);
+02:27:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+02:28:15 332:005 > m
+02:28:15 332:006 > mö
+02:28:16 332:007 > mör
+02:28:16 332:004 > .mörkt-läge
+02:28:20 332:015 > -
+02:28:22 332:016 > -p
+02:28:22 332:017 > -på
+02:28:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:28:31 020:024 > mörkt-läge-på
+02:28:36 019:046 > mörkt-läge-på
+02:28:38 016:025 > mörkt-läge-på
+02:28:59 020:046 > tLäg
+02:28:59 020:042 > Mö
+02:28:59 019:014 > tLäg
+02:28:59 019:010 > Mö
+02:29:04 020:040 > är
+02:29:04 019:008 > är
+02:29:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+02:29:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:29:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+02:29:27 337:000 > .
+02:29:27 337:001 > .k
+02:29:28 337:002 > .ko
+02:29:29 337:000 > .kontainer
+02:29:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:29:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:30:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:30:11 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:30:13 337:011 >  n
+02:30:14 337:012 >  na
+02:30:14 337:013 >  nav
+02:30:15 337:014 > {}
+
+02:30:21 332:018 > ,
+02:30:21 332:019 > .kontainer nav
+
+02:30:32 333:014 > .
+02:30:36 333:015 > mörkt-läge-på
+02:32:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:33:40 017:000 > const body = document.body;
+  body.classList.toggle("mörkt-läge-på");
+
+02:33:42 017:024 > q
+02:33:42 017:025 > qu
+02:33:43 017:026 > que
+02:33:43 017:027 > quer
+02:33:43 017:024 > querySelector
+02:33:44 017:037 > ()
+02:33:47 017:023 > .
+02:33:48 017:023 > .body
+02:33:48 017:028 > .
+02:33:49 017:029 > .n
+02:33:49 017:030 > .na
+02:33:49 017:031 > .nav
+02:33:52 017:024 > .navn
+02:33:52 017:025 > .navna
+02:33:52 017:026 > .navnav
+02:33:54 017:024 > .navnavq
+02:33:54 017:025 > .navnavqu
+02:33:54 017:026 > .navnavque
+02:33:54 017:027 > .navnavquer
+02:33:54 017:024 > querySelector
+02:33:55 017:037 > ()
+02:33:56 017:038 > ""
+02:33:56 017:039 > n
+02:33:56 017:040 > na
+02:33:57 017:041 > nav
+02:33:59 017:039 > nav.
+02:33:59 017:040 > nav.k
+02:33:59 017:041 > nav.ko
+02:34:00 017:042 > nav.kon
+02:34:00 017:043 > nav.kont
+02:34:00 017:044 > nav.konta
+02:34:00 017:045 > nav.kontai
+02:34:00 017:046 > nav.kontain
+02:34:00 017:047 > nav.kontaine
+02:34:01 017:048 > nav.kontainer
+02:34:01 017:049 > nav.kontainer.
+02:34:01 017:050 > nav.kontainer. n
+02:34:02 017:051 > nav.kontainer. na
+02:34:02 017:052 > nav.kontainer. nav
+02:34:06 017:055 > nav.kontainer. nav-
+02:34:06 017:055 > nav.kontainer. nav-.
+02:34:07 017:056 > nav.kontainer. nav-.c
+02:34:07 017:057 > nav.kontainer. nav-.cl
+02:34:07 017:058 > nav.kontainer. nav-.cla
+02:34:07 017:059 > nav.kontainer. nav-.clas
+02:34:08 017:055 > .classList
+02:34:09 017:065 > ,
+02:34:10 017:066 > ,t
+02:34:10 017:067 > ,to
+02:34:10 017:068 > ,tod
+02:34:11 017:068 > ,todg
+02:34:11 017:066 > toggle
+02:34:11 017:072 > ()
+02:34:17 017:073 > "mörkt-läge-på"
+02:34:22 017:008 > n
+02:34:22 017:009 > na
+02:34:22 017:010 > nav
+02:34:22 017:011 > navc
+02:34:32 017:064 > navc.
+02:35:37 015:002 > const body = document.body;
+  body.classList.toggle("mörkt-läge-på");
+  const nav = document
+    .querySelector(".kontainer nav")
+    .classList.toggle("mörkt-läge-på");
+  body.classList.toggle("mörkt-läge-på");
+  // Save dark mode state in localStorage
+  const ärMörktLäge = body.classList.contains("mörkt-läge-på");
+
+02:36:14 016:004 > d
+02:36:14 016:005 > do
+02:36:14 016:006 > doc
+02:36:14 016:004 > document
+02:36:14 016:012 > .
+02:36:15 016:012 > .querySelector
+02:36:21 016:013 > b
+02:36:21 016:014 > bo
+02:36:21 016:015 > bod
+02:36:21 016:013 > body
+02:36:23 016:017 > .
+02:36:23 016:018 > .c
+02:36:23 016:019 > .cl
+02:36:23 016:020 > .cla
+02:36:23 016:017 > .classList
+02:36:23 016:027 > .
+02:36:26 016:028 > .t
+02:36:26 016:029 > .to
+02:36:26 016:030 > .tog
+02:36:26 016:027 > .toggle
+02:36:27 016:034 > ()
+02:36:28 016:035 > ""
+02:36:28 016:036 > "mörkt-läge-på"
+02:36:30 016:035 > "mörkt-läge-på"
+02:36:31 016:051 > -
+02:36:32 016:051 > -;
+
+02:36:35 017:004 > d
+02:36:35 017:005 > do
+02:36:35 017:006 > doc
+02:36:35 017:007 > docm
+02:36:36 017:004 > document
+02:36:36 017:012 > .
+02:36:38 017:013 > .q
+02:36:38 017:014 > .qu
+02:36:38 017:012 > .querySelector
+02:36:39 017:026 > ()
+02:36:40 017:027 > "mörkt-läge-på"
+02:36:42 017:043 > -
+02:36:51 017:028 > -.
+02:36:51 017:029 > -.k
+02:36:51 017:030 > -.ko
+02:36:51 017:031 > -.kon
+02:36:51 017:032 > -.kont
+02:36:51 017:033 > -.konta
+02:36:51 017:034 > -.kontai
+02:36:52 017:035 > -.kontain
+02:36:52 017:036 > -.kontaine
+02:36:52 017:037 > -.kontainer
+02:36:52 017:038 > -.kontainer.
+02:36:53 017:039 > -.kontainer. n
+02:36:53 017:040 > -.kontainer. na
+02:36:54 017:041 > -.kontainer. na v
+02:36:56 017:044 > -.kontainer. na v.
+02:36:57 017:044 > "mörkt-läge-på"
+02:37:01 017:042 > ")"
+02:37:02 017:044 > .
+02:37:03 017:045 > .c
+02:37:04 017:046 > .cl
+02:37:04 017:047 > .cla
+02:37:04 017:044 > .classList
+02:37:04 017:054 > .
+02:37:05 017:054 > .toggle
+02:37:05 017:061 > "mörkt-läge-på"
+02:37:08 017:061 > ()
+02:37:08 017:062 > "mörkt-läge-på"
+02:37:09 017:078 > :
+02:37:10 017:078 > :;
+02:37:22 015:002 > document.body.classList.toggle("mörkt-läge-på");
+    document.querySelector(".kontainer nav").classList.toggle("mörkt-läge-på");
+02:38:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:38:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:39:15 009:004 > document.body.classList.toggle("mörkt-läge-på");
+  document.querySelector(".kontainer nav").classList.toggle("mörkt-läge-på");
+02:40:52 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+02:41:10 091:002 > c
+02:41:10 091:003 > co
+02:41:10 091:004 > col
+02:41:10 091:005 > colo
+02:41:10 091:006 > color
+02:41:10 091:002 > color: ;
+02:41:11 091:009 > w
+02:41:11 091:010 > wh
+02:41:11 091:011 > whi
+02:41:11 091:012 > whit
+02:41:11 091:013 > white
+02:41:11 091:009 > white
+
+02:41:32 094:000 > .
+02:41:32 094:001 > .k
+02:41:32 094:002 > .ko
+02:41:32 094:003 > .kon
+02:41:32 094:004 > .kona
+02:41:33 094:000 > .kontainer
+02:41:33 094:010 > .
+02:41:34 094:011 > . n
+02:41:34 094:012 > . na
+02:41:34 094:013 > . nav
+02:41:35 094:015 > {}
+
+02:41:37 095:004 > c
+02:41:37 095:005 > co
+02:41:37 095:006 > col
+02:41:37 095:007 > colo
+02:41:37 095:008 > color
+02:41:38 095:004 > color: ;
+02:41:38 095:011 > w
+02:41:38 095:012 > wa
+02:41:38 095:013 > wah
+02:41:39 095:012 > wahh
+02:41:39 095:013 > wahhi
+02:41:39 095:014 > wahhit
+02:41:39 095:015 > wahhite
+02:41:39 095:011 > white
+02:42:03 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:42:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:42:10 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:42:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:42:33 088:016 > mörkt-läge
+02:42:33 085:016 > mörkt-läge
+02:42:44 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+02:42:49 039:030 > -
+02:42:49 039:031 > -l
+02:42:50 039:031 > -lk
+02:42:50 039:032 > -lko
+02:42:50 039:033 > -lkon
+02:42:50 039:034 > -lkont
+02:42:50 039:035 > -lkonta
+02:42:51 039:036 > -lkontai
+02:42:51 039:037 > -lkontain
+02:42:51 039:038 > -lkontaine
+02:42:51 039:039 > -lkontainer
+02:42:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:43:13 088:026 > -kontainer
+02:43:13 085:026 > -kontainer
+02:43:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:43:40 039:031 > l
+02:43:58 032:020 > mörkt-läge-kontainer
+02:43:58 033:017 > mörkt-läge-kontainer
+02:43:58 032:020 > mörkt-läge-kontainer
+02:43:58 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:43:58 033:017 > mörkt-läge
+02:43:58 033:017 > mörkt-läge-kontainer
+02:43:58 032:020 > mörkt-läge
+02:43:58 032:020 > mörkt-läge-kontainer
+02:43:58 033:017 > mörkt-läge-kontainer
+02:43:58 033:017 > mörkt-läge
+02:43:58 032:020 > mörkt-läge-kontainer
+02:43:58 032:020 > mörkt-läge
+02:43:58 033:017 > mörkt-läge-kontainer
+02:43:58 000:000 > <!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, ,initial-scale=1" />
+    <title>Box Delivery &trade;</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href=./ikoner/679821.png type="image/x-icon">
+    <meta
+      name="description"
+      content="Box Delivery, Ditt val att leverera paket för både kvalitet och tillänglighet."
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+  </head>
+  <body>
+    <div class="kontainer">
+      <header><a href="hem.html">Box Delivery &TRADE;</a></header>
+      <nav>
+        <div class="ikon"><img src=./ikoner/679821.png alt="ikon"></div>
+        <div class="alternativ">
+          <a class="aktiv-sida" href="hem.html">Hem</a>
+          <a href="leveransplaner.html">Leveransplaner</a>
+          <a href="kontakta-oss.html">Kontakta oss</a>
+          <a href="om-oss.html">Om oss</a>
+        </div>
+        <div class="mörkt-läge-kontainer">
+          <a id="mörkt-läge-knappen" href="#"
+            ></a
+          >
+        </div>
+      </nav>
+      <main>
+        <section class="innehåll">
+          <h1>Välkommen till Box Delivery&trade;</h1>
+          <img
+            src="./bilder/pexels-tima-miroshnichenko-6169056.jpg"
+            alt="En Man håller i en låda."
+          />
+          <div class="alternativ-kontainer">
+            <p>
+              Box Delivery erbjuder ett smidigt och miljövänligt sätt att få
+              dina paket levererade. Vi använder återvinningsbara lådor och
+              erbjuder snabba och pålitliga leveranser. Med vår enkla och
+              användarvänliga plattform kan du spåra dina paket och välja
+              leveranstid och plats som passar dig bäst. Välkommen till Box
+              Delivery - där bekvämlighet möter hållbarhet.
+            </p>
+            <a href="./om-oss.html">Om oss</a>
+            <a href="./leveransplaner.html">Se våra leveransplaner</a>
+          </div>
+        </section>
+      </main>
+      <footer>Box Delivery - 2024&copy;</footer>
+    </div>
+    <script src="generell-script.js"></script>
+  </body>
+</html>
+02:43:58 032:020 > mörkt-läge-kontainer
+02:43:59 034:017 > mörkt-läge-kontainer
+02:43:59 033:020 > mörkt-läge-kontainer
+02:43:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:43:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:43:59 033:017 > mörkt-läge
+02:43:59 033:017 > mörkt-läge-kontainer
+02:43:59 032:020 > mörkt-läge
+02:43:59 032:020 > mörkt-läge-kontainer
+02:44:00 033:017 > mörkt-läge-kontainer
+02:44:00 040:017 > mörkt-läge-kontainer
+02:44:00 039:020 > mörkt-läge-kontainer
+02:44:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:44:00 040:017 > mörkt-läge
+02:44:00 040:017 > mörkt-läge-kontainer
+02:44:00 039:020 > mörkt-läge-kontainer
+02:44:00 039:020 > mörkt-läge
+02:44:00 033:017 > mörkt-läge-kontainer
+02:44:00 040:017 > mörkt-läge
+02:44:00 040:017 > mörkt-läge
+02:44:00 040:017 > mörkt-läge-kontainer
+02:44:00 040:017 > mörkt-läge-kontainer
+02:44:00 039:020 > mörkt-läge
+02:44:00 039:020 > mörkt-läge
+02:44:00 039:020 > mörkt-läge-kontainer
+02:44:00 039:020 > mörkt-läge-kontainer
+02:44:00 033:017 > mörkt-läge-kontainer
+02:44:00 040:017 > mörkt-läge
+02:44:00 040:017 > mörkt-läge-kontainer
+02:44:00 040:017 > mörkt-läge
+02:44:00 040:017 > mörkt-läge-kontainer
+02:44:00 039:020 > mörkt-läge
+02:44:00 039:020 > mörkt-läge-kontainer
+02:44:00 039:020 > mörkt-läge-kontainer
+02:44:00 039:020 > mörkt-läge
+02:44:00 033:017 > mörkt-läge-kontainer
+02:44:00 040:017 > mörkt-läge-kontainer
+02:44:00 040:017 > mörkt-läge
+02:44:00 040:017 > mörkt-läge
+02:44:00 040:017 > mörkt-läge-kontainer
+02:44:00 039:020 > mörkt-läge-kontainer
+02:44:00 039:020 > mörkt-läge
+02:44:00 039:020 > mörkt-läge
+02:44:00 039:020 > mörkt-läge-kontainer
+02:44:01 033:017 > mörkt-läge-kontainer
+02:44:01 040:017 > mörkt-läge
+02:44:01 040:017 > mörkt-läge-kontainer
+02:44:01 040:017 > mörkt-läge
+02:44:01 040:017 > mörkt-läge-kontainer
+02:44:01 039:020 > mörkt-läge
+02:44:01 039:020 > mörkt-läge-kontainer
+02:44:01 039:020 > mörkt-läge-kontainer
+02:44:01 039:020 > mörkt-läge
+02:44:02 033:017 > mörkt-läge-kontainer
+02:44:02 040:017 > mörkt-läge
+02:44:02 040:017 > mörkt-läge-kontainer
+02:44:02 040:017 > mörkt-läge-kontainer
+02:44:02 040:017 > mörkt-läge
+02:44:02 039:020 > mörkt-läge
+02:44:02 039:020 > mörkt-läge
+02:44:02 039:020 > mörkt-läge-kontainer
+02:44:02 039:020 > mörkt-läge-kontainer
+02:44:29 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:44:32 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:44:32 033:017 > mörkt-läge-kontainer
+02:44:32 032:020 > mörkt-läge-kontainer
+02:44:33 033:017 > mörkt-läge
+02:44:33 033:017 > mörkt-läge-kontainer
+02:44:33 032:020 > mörkt-läge
+02:44:33 032:020 > mörkt-läge-kontainer
+02:44:41 033:017 > mörkt-läge
+02:44:41 032:020 > mörkt-läge
+02:44:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:44:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+02:45:03 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:45:12 039:030 > -
+02:45:12 039:031 > -k
+02:45:12 039:032 > -kn
+02:45:13 039:032 > -kno
+02:45:13 039:033 > -knon
+02:45:13 039:034 > -knont
+02:45:14 039:035 > -knonta
+02:45:14 039:036 > -knontai
+02:45:14 039:037 > -knontain
+02:45:14 039:038 > -knontaine
+02:45:14 039:039 > -knontainer
+02:45:14 039:020 > mörkt-läge-kontainer
+02:45:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:45:25 000:000 > <!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, ,initial-scale=1" />
+    <title>Box Delivery &trade;</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href=./ikoner/679821.png type="image/x-icon">
+    <meta
+      name="description"
+      content="Box Delivery, Ditt val att leverera paket för både kvalitet och tillänglighet."
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+  </head>
+  <body>
+    <div class="kontainer">
+      <header><a href="hem.html">Box Delivery &TRADE;</a></header>
+      <nav>
+        <div class="ikon"><img src=./ikoner/679821.png alt="ikon"></div>
+        <div class="alternativ">
+          <a class="aktiv-sida" href="hem.html">Hem</a>
+          <a href="leveransplaner.html">Leveransplaner</a>
+          <a href="kontakta-oss.html">Kontakta oss</a>
+          <a href="om-oss.html">Om oss</a>
+        </div>
+        <div class="mörkt-läge-kontainer">
+          <a id="mörkt-lägeknappen" href="#"
+            ></a
+          >
+        </div>
+      </nav>
+      <main>
+        <section class="innehåll">
+          <h1>Välkommen till Box Delivery&trade;</h1>
+          <img
+            src="./bilder/pexels-tima-miroshnichenko-6169056.jpg"
+            alt="En Man håller i en låda."
+          />
+          <div class="alternativ-kontainer">
+            <p>
+              Box Delivery erbjuder ett smidigt och miljövänligt sätt att få
+              dina paket levererade. Vi använder återvinningsbara lådor och
+              erbjuder snabba och pålitliga leveranser. Med vår enkla och
+              användarvänliga plattform kan du spåra dina paket och välja
+              leveranstid och plats som passar dig bäst. Välkommen till Box
+              Delivery - där bekvämlighet möter hållbarhet.
+            </p>
+            <a href="./om-oss.html">Om oss</a>
+            <a href="./leveransplaner.html">Se våra leveransplaner</a>
+          </div>
+        </section>
+      </main>
+      <footer>Box Delivery - 2024&copy;</footer>
+    </div>
+    <script src="generell-script.js"></script>
+  </body>
+</html>
+
+02:45:26 033:027 > -
+02:45:27 000:000 > <!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, ,initial-scale=1" />
+    <title>Box Delivery &trade;</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href=./ikoner/679821.png type="image/x-icon">
+    <meta
+      name="description"
+      content="Box Delivery, Ditt val att leverera paket för både kvalitet och tillänglighet."
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+  </head>
+  <body>
+    <div class="kontainer">
+      <header><a href="hem.html">Box Delivery &TRADE;</a></header>
+      <nav>
+        <div class="ikon"><img src=./ikoner/679821.png alt="ikon"></div>
+        <div class="alternativ">
+          <a class="aktiv-sida" href="hem.html">Hem</a>
+          <a href="leveransplaner.html">Leveransplaner</a>
+          <a href="kontakta-oss.html">Kontakta oss</a>
+          <a href="om-oss.html">Om oss</a>
+        </div>
+        <div class="mörkt-läge-kontainer">
+          <a id="mörkt-läge-knappen" href="#"
+            ></a
+          >
+        </div>
+      </nav>
+      <main>
+        <section class="innehåll">
+          <h1>Välkommen till Box Delivery&trade;</h1>
+          <img
+            src="./bilder/pexels-tima-miroshnichenko-6169056.jpg"
+            alt="En Man håller i en låda."
+          />
+          <div class="alternativ-kontainer">
+            <p>
+              Box Delivery erbjuder ett smidigt och miljövänligt sätt att få
+              dina paket levererade. Vi använder återvinningsbara lådor och
+              erbjuder snabba och pålitliga leveranser. Med vår enkla och
+              användarvänliga plattform kan du spåra dina paket och välja
+              leveranstid och plats som passar dig bäst. Välkommen till Box
+              Delivery - där bekvämlighet möter hållbarhet.
+            </p>
+            <a href="./om-oss.html">Om oss</a>
+            <a href="./leveransplaner.html">Se våra leveransplaner</a>
+          </div>
+        </section>
+      </main>
+      <footer>Box Delivery - 2024&copy;</footer>
+    </div>
+    <script src="generell-script.js"></script>
+  </body>
+</html>
+02:45:29 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+02:45:36 033:030 > -
+02:45:36 033:031 > -k
+02:45:37 033:020 > mörkt-läge-knappen
+02:45:38 033:031 > j
+02:45:39 033:031 > jk
+02:45:39 033:032 > jko
+02:45:39 033:033 > jkon
+02:45:39 033:034 > jkont
+02:45:39 033:035 > jkonta
+02:45:40 033:020 > mörkt-läge-kontainer
+02:45:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:46:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:46:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+02:46:42 333:028 > ,
+
+02:46:46 334:000 > .
+02:46:46 334:001 > .k
+02:46:46 334:002 > .ko
+02:46:47 334:000 > .kontainer
+02:46:47 334:011 >  n
+02:46:48 334:012 >  na
+02:46:48 334:013 >  nav
+02:46:51 334:015 >  nav .
+02:47:01 334:016 >  nav .m
+02:47:01 334:017 >  nav .mö
+02:47:01 334:018 >  nav .mör
+02:47:03 334:015 > .mörkt-läge-kontainer
+
+02:47:09 336:002 > w
+02:47:09 336:002 > wc
+02:47:10 336:003 > wco
+02:47:10 336:004 > wcol
+02:47:10 336:005 > wcolo
+02:47:10 336:006 > wcolow
+02:47:13 336:005 > wcolowo
+02:47:13 336:006 > wcolowor
+02:47:13 336:007 > wcolowor.
+02:47:14 336:007 > wcolowor.:
+02:47:14 336:008 > wcolowor.:w
+02:47:15 336:009 > wcolowor.:wh
+02:47:15 336:008 > wheat
+
+02:47:22 334:037 > m
+02:47:23 334:038 > mö
+02:47:23 334:039 > mör
+02:47:23 334:040 > mörk
+02:47:23 334:041 > mörkl
+02:47:27 334:037 > .mörkt-läge-kontainer
+02:47:29 334:049 > l
+02:47:29 334:050 > ln
+02:47:30 334:049 > lnk
+02:47:30 334:050 > lnkn
+02:47:30 334:051 > lnkna
+02:47:31 334:052 > lnknap
+02:47:31 334:053 > lnknapp
+02:47:31 334:054 > lnknappe
+02:47:31 334:055 > lnknappen
+
+02:47:34 336:007 > :
+02:47:34 336:008 > :w
+02:47:34 336:009 > :wh
+02:47:34 336:010 > :whi
+02:47:35 336:011 > :whit
+02:47:35 336:012 > :white
+02:47:35 336:008 > white
+
+02:47:47 334:057 > a
+02:47:52 334:037 > aa
+02:48:30 334:038 > aa.
+02:48:32 334:039 > aa.m
+02:48:32 334:040 > aa.mö
+02:48:32 334:041 > aa.mör
+02:48:35 334:038 > .mörkt-läge-kontainer
+02:48:37 334:050 > p
+02:48:37 334:051 > på
+02:48:42 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+02:48:46 011:002 > d
+02:48:46 011:003 > do
+02:48:46 011:004 > doc
+02:48:47 011:002 > document
+02:48:47 011:010 > .
+02:48:47 011:011 > .q
+02:48:47 011:012 > .qu
+02:48:48 011:010 > .querySelector
+02:48:49 011:024 > ()
+02:48:49 011:025 > ""
+02:48:50 011:026 > .kontainer nav .mörkt-läge-kontainer a
+02:48:53 011:066 > -
+02:48:53 011:066 > -.
+02:48:53 011:067 > -.c
+02:48:53 011:068 > -.cö
+02:48:54 011:069 > -.cöa
+02:48:59 011:067 > classList.toggle("mörkt-läge-på")
+02:48:59 010:043 > classList.toggle("mörkt-läge-på")
+02:49:08 011:100 > ;
+02:49:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:49:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:50:00 020:002 > document.querySelector(".kontainer nav .mörkt-läge-kontainer a").classList.toggle("mörkt-läge-på");
+02:50:37 020:000 > document.querySelector(".kontainer nav .mörkt-läge-kontainer a").classList.toggle("mörkt-läge-på");
+
+02:50:46 021:036 > h
+02:50:46 021:037 > he
+02:50:46 021:038 > hea
+02:50:46 021:039 > head
+02:50:47 021:040 > heade
+02:50:47 021:041 > header
+02:50:48 021:027 > headerk
+02:50:49 021:028 > headerko
+02:50:49 021:029 > headerkon
+02:50:49 021:030 > headerkont
+02:50:49 021:031 > headerkonta
+02:50:49 021:032 > headerkontai
+02:50:50 021:033 > headerkontain
+02:50:50 021:034 > headerkontaine
+02:50:50 021:035 > headerkontainer
+02:50:50 021:037 > headerkontainer h
+02:50:50 021:038 > headerkontainer he
+02:50:50 021:039 > headerkontainer hea
+02:50:50 021:040 > headerkontainer head
+02:50:51 021:041 > headerkontainer heade
+02:50:51 021:042 > headerkontainer header
+02:50:51 021:044 > headerkontainer header h
+02:50:51 021:045 > headerkontainer header h1
+02:51:04 021:044 > headerkontainer header h1a
+02:51:14 012:002 > document.querySelector(".kontainer header a").classList.toggle("mörkt-läge-på");
+02:51:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:51:21 334:000 > .kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på{
+
+02:51:27 335:011 > h
+02:51:27 335:012 > he
+02:51:28 335:013 > hea
+02:51:28 335:014 > head
+02:51:28 335:015 > heade
+02:51:28 335:016 > header
+
+02:52:45 334:052 > ,
+02:53:28 339:000 > .kontainer header a.mörkt-läge-på{
+
+02:53:31 340:000 > }
+02:53:36 340:004 > background-color: #1a1a1a;
+02:53:44 340:022 > #131313
+
+02:53:52 339:011 > f
+02:53:52 339:012 > fo
+02:53:52 339:013 > foo
+02:53:52 339:014 > foot
+02:53:53 339:015 > foote
+02:53:53 339:016 > footer
+02:53:53 339:011 > footer
+02:53:58 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:53:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:54:03 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+02:54:11 022:000 > document.querySelector(".kontainer header a").classList.toggle("mörkt-läge-på");
+02:54:14 023:026 > .kontainer footer
+02:54:22 013:002 > document.querySelector(".kontainer footer").classList.toggle("mörkt-läge-på");
+02:56:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+02:57:12 125:004 > b
+02:57:12 125:005 > ba
+02:57:13 125:006 > bac
+02:57:13 125:007 > back
+02:57:14 125:004 > background-color: ;
+02:57:24 125:022 > v
+02:57:24 125:023 > va
+02:57:24 125:024 > var
+02:57:25 125:022 > var()
+02:57:30 125:026 > --celadon-2
+
+02:59:26 207:010 > 5
+02:59:26 207:011 > 50
+02:59:29 207:010 > 502
+02:59:29 207:011 > 5025
+02:59:52 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+03:00:08 037:000 > f
+03:00:09 037:001 > fu
+03:00:09 037:002 > fun
+03:00:09 037:003 > func
+03:00:09 037:004 > funct
+03:00:10 037:000 > function
+03:00:11 037:009 >  T
+03:00:12 037:010 >  To
+03:00:13 037:009 >  ToT
+03:00:13 037:010 >  ToTo
+03:00:14 037:011 >  ToToo
+03:00:14 037:011 >  ToToog
+03:00:14 037:012 >  ToToogg
+03:00:14 037:013 >  ToTooggl
+03:00:14 037:014 >  ToTooggle
+03:00:16 037:015 >  ToTooggleE
+03:00:17 037:015 >  ToTooggleED
+03:00:18 037:016 >  ToTooggleEDa
+03:00:18 037:017 >  ToTooggleEDar
+03:00:18 037:018 >  ToTooggleEDark
+03:00:19 037:019 >  ToTooggleEDarkM
+03:00:19 037:020 >  ToTooggleEDarkMo
+03:00:19 037:021 >  ToTooggleEDarkMod
+03:00:19 037:022 >  ToTooggleEDarkMode
+03:00:21 037:023 >  ToTooggleEDarkModeF
+03:00:22 037:023 > ()
+03:00:24 038:000 > {}
+
+03:00:35 020:002 > T
+03:00:35 020:003 > TO
+03:00:35 020:004 > TOG
+03:00:36 020:002 > ToggleDarkMode
+03:00:36 020:016 > ()
+03:00:36 020:017 > )
+03:00:37 020:018 > );
+03:00:38 035:000 > document.body.classList.toggle("mörkt-läge-på");
+  document.querySelector(".kontainer nav").classList.toggle("mörkt-läge-på");
+  document.querySelector(".kontainer nav .mörkt-läge-kontainer a").classList.toggle("mörkt-läge-på");
+  document.querySelector(".kontainer header a").classList.toggle("mörkt-läge-på");
+  document.querySelector(".kontainer footer").classList.toggle("mörkt-läge-på");
+
+03:00:42 009:002 > T
+03:00:44 009:002 > ToggleDarkMode
+03:00:44 009:016 > ()
+03:00:44 009:017 > )
+03:00:45 009:018 > );
+03:01:52 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+03:01:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+03:01:54 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+03:01:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+03:01:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+03:03:13 029:019 > tLäg
+03:03:13 029:017 > Mö
+03:03:13 029:009 > Väx
+03:03:13 016:012 > tLäg
+03:03:13 016:010 > Mö
+03:03:13 016:002 > Väx
+03:03:13 009:012 > tLäg
+03:03:13 009:010 > Mö
+03:03:13 009:002 > Väx
+
+03:03:26 031:004 > l
+03:03:27 031:005 > li
+03:03:27 031:006 > lis
+03:03:27 031:007 > list
+03:03:29 031:004 > listl
+03:03:29 031:005 > listle
+03:03:29 031:006 > listlet
+03:03:31 031:008 > listlet b
+03:03:32 031:009 > listlet br
+03:03:32 031:010 > listlet bro
+03:03:33 031:012 > listlet bro =
+03:03:35 031:014 > {}
+03:03:36 031:015 > a
+03:03:36 031:016 > aw
+03:03:36 031:017 > awd
+03:03:37 031:018 > awd,
+03:03:37 031:019 > awd,w
+03:03:37 031:020 > awd,wa
+03:03:37 031:021 > awd,wad
+03:03:37 031:022 > awd,wad,
+03:03:38 031:023 > awd,wad,a
+03:03:38 031:024 > awd,wad,aw
+03:03:38 031:025 > awd,wad,awd
+03:03:38 031:026 > awd,wad,awd,
+03:03:38 031:027 > awd,wad,awd,a
+03:03:38 031:028 > awd,wad,awd,aw
+03:03:38 031:029 > awd,wad,awd,awd
+03:03:38 031:030 > awd,wad,awd,awd,
+03:03:46 031:008 > awd,wad,awd,awd,e
+03:03:46 031:009 > awd,wad,awd,awd,el
+03:03:46 031:010 > awd,wad,awd,awd,ele
+03:03:47 031:011 > awd,wad,awd,awd,elem
+03:03:47 031:012 > awd,wad,awd,awd,eleme
+03:03:47 031:013 > awd,wad,awd,awd,elemen
+03:03:48 031:014 > awd,wad,awd,awd,element
+03:03:48 031:015 > awd,wad,awd,awd,elements
+03:03:51 031:017 > awd,wad,awd,awd,elements =
+03:03:52 031:019 > {}
+03:03:55 031:015 > e
+03:03:55 031:016 > er
+03:03:56 031:015 > ers
+03:03:56 031:017 > ers =
+03:03:57 031:019 > {}
+03:04:04 031:020 > document.querySelector(".kontainer nav")
+03:04:06 031:060 > ,
+03:04:06 031:061 > document.querySelector(".kontainer nav")
+03:04:11 031:102 > ;
+03:05:35 031:103 > ;]
+03:05:35 031:019 > ;][
+03:05:38 031:020 > {document.querySelector(".kontainer nav"),document.querySelector(".kontainer nav")};
+03:05:47 031:021 > ;
+
+03:05:48 032:004 > l
+03:05:49 032:005 > li
+03:05:49 032:004 > lie
+03:05:49 032:005 > liel
+03:05:49 032:006 > liele
+03:05:50 032:007 > lielem
+03:05:50 032:004 > elements
+03:05:51 032:012 > .
+03:05:54 032:004 > elements
+03:05:54 032:012 > .
+03:05:55 032:013 > .a
+03:05:55 032:014 > .ad
+03:05:55 032:015 > .add
+03:05:57 032:004 > elements
+03:05:57 032:012 > .
+03:06:53 032:013 > .p
+03:06:53 032:014 > .pu
+03:06:53 032:015 > .pus
+03:06:54 032:013 > push
+03:06:55 032:017 > ()
+03:07:05 032:018 > document.querySelector(".kontainer nav")
+
+03:07:51 040:004 > f
+03:07:51 040:005 > fu
+03:07:51 040:006 > fuc
+03:07:51 040:007 > fucn
+03:07:52 040:004 > function
+03:07:59 040:013 >  b
+03:07:59 040:014 >  br
+03:08:00 040:015 >  bro
+03:08:00 040:016 > ()
+03:08:02 041:004 > []
+03:08:03 041:004 > {}
+03:08:12 040:013 > Q
+03:08:12 040:014 > Qu
+03:08:12 040:015 > Quw
+03:08:13 040:015 > Quwe
+03:08:13 040:016 > Quwer
+03:08:14 040:017 > Quwery
+03:08:16 040:018 > QuweryM
+03:08:16 040:019 > QuweryMa
+03:08:16 040:020 > QuweryMak
+03:08:16 040:021 > QuweryMake
+03:08:16 040:022 > QuweryMaker
+03:08:20 040:018 > QuweryMakerS
+03:08:21 040:019 > QuweryMakerSk
+03:08:21 040:020 > QuweryMakerSka
+03:08:21 040:021 > QuweryMakerSkap
+03:08:21 040:022 > QuweryMakerSkapa
+03:08:22 040:023 > QuweryMakerSkapar
+03:08:22 040:024 > QuweryMakerSkapare
+03:08:28 040:013 > QuweryMakerSkapareH
+03:08:29 040:014 > QuweryMakerSkapareHö
+03:08:29 040:015 > QuweryMakerSkapareHön
+03:08:30 040:014 > QuweryMakerSkapareHönä
+03:08:31 040:015 > QuweryMakerSkapareHönäm
+03:08:31 040:016 > QuweryMakerSkapareHönämt
+03:08:31 040:017 > QuweryMakerSkapareHönämta
+03:08:32 040:018 > QuweryMakerSkapareHönämta e
+03:08:33 040:018 > QuweryMakerSkapareHönämta eE
+03:08:34 040:018 > QuweryMakerSkapareHönämta eEe
+03:08:34 040:019 > QuweryMakerSkapareHönämta eEeL
+03:08:35 040:020 > QuweryMakerSkapareHönämta eEeLE
+03:08:35 040:021 > QuweryMakerSkapareHönämta eEeLEM
+03:08:35 040:022 > QuweryMakerSkapareHönämta eEeLEME
+03:08:35 040:023 > QuweryMakerSkapareHönämta eEeLEMEN
+03:08:35 040:024 > QuweryMakerSkapareHönämta eEeLEMENT
+03:08:39 040:018 > QuweryMakerSkapareHönämta eEeLEMENTe
+03:08:40 040:019 > QuweryMakerSkapareHönämta eEeLEMENTeL
+03:08:40 040:018 > QuweryMakerSkapareHönämta eEeLEMENTeLE
+03:08:42 040:013 > QuweryMakerSkapareHönämta eEeLEMENTeLEh
+03:08:43 040:013 > QuweryMakerSkapareHönämta eEeLEMENTeLEhH
+03:08:43 040:014 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHi
+03:08:43 040:015 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHit
+03:08:44 040:016 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHitt
+03:08:44 040:017 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHitta
+03:08:45 040:018 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaE
+03:08:45 040:019 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaEl
+03:08:45 040:020 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaEle
+03:08:45 040:021 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElem
+03:08:45 040:022 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaEleme
+03:08:45 040:023 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElemen
+03:08:46 040:024 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElement
+03:08:53 040:026 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElements
+03:08:53 040:027 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementst
+03:08:54 040:028 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstr
+03:08:58 040:026 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrn
+03:08:58 040:027 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrna
+03:08:58 040:028 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnam
+03:08:59 040:029 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamn
+03:09:05 040:026 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamnc
+03:09:06 040:027 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncs
+03:09:06 040:028 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss
+03:09:07 040:029 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-
+03:09:07 040:030 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-s
+03:09:07 040:031 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-se
+03:09:08 040:031 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-see
+03:09:08 040:032 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-seel
+03:09:09 040:033 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-seele
+03:09:10 040:029 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-seeleS
+03:09:11 040:030 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-seeleSe
+03:09:11 040:031 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-seeleSel
+03:09:11 040:032 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-seeleSele
+03:09:11 040:033 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-seeleSelec
+03:09:11 040:034 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-seeleSelect
+03:09:12 040:035 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-seeleSelecto
+03:09:12 040:036 > QuweryMakerSkapareHönämta eEeLEMENTeLEhHittaElementstrnamncss-seeleSelector
+
+03:09:28 042:008 > d
+03:09:29 042:009 > do
+03:09:29 042:010 > doc
+03:09:30 042:008 > document
+03:09:30 042:016 > -
+03:09:31 042:016 > -.
+03:09:31 042:017 > -.q
+03:09:32 042:018 > -.qu
+03:09:32 042:019 > -.que
+03:09:32 042:020 > -.quer
+03:09:32 042:016 > .querySelector
+03:09:33 042:030 > )
+03:09:34 042:030 > ()
+03:09:36 042:031 > .
+03:09:37 042:032 > .l
+03:09:37 042:032 > .lk
+03:09:38 042:033 > .lko
+03:09:39 042:032 > kontainer
+03:09:40 042:042 >  n
+03:09:40 042:043 >  na
+03:09:41 042:044 >  nav
+03:09:44 042:031 >  navc
+03:09:45 042:032 >  navcs
+03:09:45 042:033 >  navcss
+03:09:45 042:031 > cssSelector
+03:09:47 042:043 > .
+03:09:48 042:044 > .c
+03:09:48 042:045 > .cl
+03:09:48 042:046 > .cla
+03:09:48 042:043 > .classList
+03:09:49 042:053 > .
+03:09:49 042:054 > .t
+03:09:49 042:055 > .to
+03:09:49 042:056 > .tog
+03:09:50 042:053 > .toggle
+03:09:51 042:060 > ()
+03:09:51 042:061 > ""
+03:09:52 042:062 > .
+03:09:57 042:062 > mörkt-läge-på
+03:09:59 042:077 > ;
+03:10:32 040:013 > Växle
+03:10:43 040:025 > Läge
+
+03:10:58 040:031 > s
+03:10:59 040:032 > st
+03:10:59 040:033 > str
+03:11:01 040:034 > str_
+
+03:14:41 028:000 > /
+03:14:41 028:001 > //
+03:14:41 028:002 > ///
+03:14:45 028:000 > ///@
+03:14:46 028:001 > ///@p
+03:14:46 028:002 > ///@pa
+03:14:46 028:003 > ///@par
+03:14:46 028:004 > ///@para
+03:14:47 028:005 > ///@param
+03:14:50 028:006 > ///@param s
+03:15:11 028:000 > /**
+ * @param {string} somebody
+ */
+03:15:23 039:000 > /**
+ * @param {string} somebody
+ */
+
+03:15:24 032:059 > ;
+
+03:15:26 043:021 > c
+03:15:26 043:022 > cs
+03:15:27 043:023 > css
+03:15:28 043:024 > csss
+03:15:29 043:025 > csssS
+03:15:32 043:024 > csssSs
+03:15:33 043:024 > csssSsS
+03:15:33 043:025 > csssSsSe
+03:15:34 043:026 > csssSsSeö
+03:15:34 043:027 > csssSsSeöe
+03:15:34 043:028 > csssSsSeöec
+03:15:35 043:027 > csssSsSeöecl
+03:15:35 043:028 > csssSsSeöecle
+03:15:36 043:026 > csssSsSeöeclel
+03:15:36 043:027 > csssSsSeöeclele
+03:15:36 043:028 > csssSsSeöeclelec
+03:15:36 043:029 > csssSsSeöeclelect
+03:15:36 043:030 > csssSsSeöeclelecto
+03:15:37 043:031 > csssSsSeöeclelector
+
+03:15:59 030:004 > e
+03:15:59 030:005 > el
+03:16:02 030:004 > elv
+03:16:02 030:005 > elvä
+03:16:02 030:006 > elväx
+03:16:05 030:004 > VäxleElementLäge
+03:16:06 030:020 > )
+03:16:07 030:020 > ()
+03:16:07 030:021 > /
+03:16:08 030:021 > ""
+03:16:27 030:022 > ".kontainer nav"
+03:16:35 031:000 > elements.push(document.querySelector(".kontainer nav"));
+03:16:39 030:022 > lements.push(document.querySelector(".kontainer nav"));
+03:16:44 030:022 > .kontainer nav
+03:16:51 030:000 > VäxleElementLäge(".kontainer nav")
+03:16:51 031:000 > VäxleElementLäge(".kontainer nav")
+03:16:51 032:000 > VäxleElementLäge(".kontainer nav")
+03:16:51 033:000 > VäxleElementLäge(".kontainer nav")
+03:16:51 034:000 > VäxleElementLäge(".kontainer nav")
+03:16:51 035:000 > VäxleElementLäge(".kontainer nav")
+03:17:11 030:004 > document.body.classList.toggle("mörkt-läge-på");
+03:17:29 032:036 > .kontainer nav .mörkt-läge-kontainer a
+
+03:17:31 032:022 > w
+03:17:41 033:036 > .kontainer header a
+03:17:58 034:022 > .kontainer footer
+
+03:18:10 034:041 > ;
+
+03:18:12 033:043 > ,
+03:18:14 033:043 > ,;
+
+03:18:17 032:062 > ;
+
+03:18:19 031:038 > ;
+03:18:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+03:19:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+03:19:44 036:000 > document.querySelector(".kontainer nav").classList.toggle("mörkt-läge-på");
+  document
+    .querySelector("")
+    .classList.toggle("mörkt-läge-på");
+  document
+    .querySelector("")
+    .classList.toggle("mörkt-läge-på");
+  document.querySelector(".kontainer footer").classList.toggle("mörkt-läge-på");
+
+03:20:10 034:004 > v
+03:20:10 034:005 > vä
+03:20:10 034:006 > väc
+03:20:11 034:006 > väcx
+03:20:12 034:004 > VäxleElementLäge
+03:20:13 034:020 > ()
+03:20:18 034:021 > .kontainer nav
+03:20:20 034:021 > ""
+03:20:21 034:037 > "
+03:20:33 034:038 > ";
+
+03:21:25 035:004 > .
+03:21:25 035:004 > .v
+03:21:25 035:005 > .vä
+03:21:26 035:006 > .väc
+03:21:26 035:006 > .väcx
+03:21:27 035:007 > .väcxe
+03:21:27 035:008 > .väcxel
+03:21:27 035:009 > .väcxele
+03:21:28 035:004 > VäxleElementLäge
+03:21:28 035:020 > ()
+03:21:29 035:021 > ""
+03:22:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+03:22:22 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+03:22:24 035:022 > .
+03:22:25 035:023 > .k
+03:22:25 035:024 > .ko
+03:22:25 035:025 > .kon
+03:22:25 035:026 > .kont
+03:22:25 035:027 > .konta
+03:22:25 035:028 > .kontai
+03:22:26 035:029 > .kontain
+03:22:26 035:030 > .kontaine
+03:22:26 035:031 > .kontainer
+03:22:29 035:033 > .kontainer k
+03:22:29 035:034 > .kontainer ko
+03:22:29 035:035 > .kontainer kon
+03:22:29 035:036 > .kontainer kont
+03:22:29 035:037 > .kontainer konta
+03:22:30 035:038 > .kontainer kontak
+03:22:30 035:039 > .kontainer kontakt
+03:22:30 035:040 > .kontainer kontakta
+03:22:31 035:041 > .kontainer kontakta-
+03:22:31 035:042 > .kontainer kontakta-o
+03:22:31 035:043 > .kontainer kontakta-op
+03:22:32 035:043 > .kontainer kontakta-ops
+03:22:32 035:044 > .kontainer kontakta-opss
+03:22:32 035:045 > .kontainer kontakta-opss-
+03:22:33 035:046 > .kontainer kontakta-opss-f
+03:22:33 035:047 > .kontainer kontakta-opss-fo
+03:22:34 035:048 > .kontainer kontakta-opss-for
+03:22:34 035:049 > .kontainer kontakta-opss-form
+03:22:34 035:050 > .kontainer kontakta-opss-formu
+03:22:35 035:051 > .kontainer kontakta-opss-formul
+03:22:35 035:052 > .kontainer kontakta-opss-formulä
+03:22:36 035:053 > .kontainer kontakta-opss-formulär
+03:22:48 035:033 > .kontainer kontakta-opss-formulär .
+03:22:52 035:057 > .kontainer kontakta-opss-formulär .;
+03:22:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+03:23:05 336:033 > ,
+03:23:06 337:000 > .kontainer .kontakta-oss-formulär
+03:23:18 337:033 > .mörkt-läge-på
+
+03:23:43 343:000 > -
+03:23:45 343:000 > -.
+03:23:45 343:000 > .kontainer .kontakta-oss-formulär.mörkt-läge-på
+03:23:47 343:047 > {}
+
+03:23:50 344:004 > r
+03:23:50 344:005 > ru
+03:23:50 344:006 > rul
+03:23:50 344:007 > rule
+03:23:54 344:004 > rulec
+03:23:54 344:005 > rulecp
+03:23:54 344:006 > rulecpö
+03:23:55 344:007 > rulecpöp
+03:23:55 344:008 > rulecpöpr
+03:23:56 344:005 > rulecpöpro
+03:23:56 344:006 > rulecpöprol
+03:23:56 344:007 > rulecpöprolo
+03:23:56 344:008 > rulecpöprolor
+03:23:56 344:004 > color: ;
+03:23:57 344:011 > v
+03:23:58 344:012 > va
+03:23:58 344:013 > var
+03:23:58 344:011 > var()
+
+03:24:07 337:004 > -
+03:24:08 337:005 > --
+03:24:09 337:006 > --d
+03:24:09 337:007 > --da
+03:24:09 337:008 > --dar
+03:24:10 337:009 > --darl
+03:24:10 337:009 > --darll
+03:24:11 337:009 > --darllk
+03:24:14 337:006 > --darllk,
+03:24:15 337:006 > --darllk,m
+03:24:15 337:007 > --darllk,mö
+03:24:15 337:008 > --darllk,mör
+03:24:16 337:009 > --darllk,mörk
+03:24:16 337:010 > --darllk,mörkt
+03:24:17 337:011 > --darllk,mörktl
+03:24:20 337:011 > --darllk,mörktl-
+03:24:20 337:012 > --darllk,mörktl-L
+03:24:21 337:013 > --darllk,mörktl-LÄ
+03:24:22 337:012 > --darllk,mörktl-LÄl
+03:24:22 337:013 > --darllk,mörktl-LÄlä
+03:24:22 337:014 > --darllk,mörktl-LÄläg
+03:24:22 337:015 > --darllk,mörktl-LÄläge
+03:24:25 337:016 > --darllk,mörktl-LÄläge :
+03:24:30 337:017 > #1a1a1a
+03:24:32 337:024 > ;
+
+03:24:34 338:021 > v
+03:24:34 338:022 > va
+03:24:35 338:020 > vav
+03:24:35 338:021 > vava
+03:24:35 338:022 > vavar
+03:24:36 338:020 > var()
+03:24:37 338:024 > ,
+03:24:37 338:024 > ,.
+03:24:39 338:024 > ,.m
+03:24:39 338:025 > ,.mö
+03:24:40 338:025 > ,.möö
+03:24:40 338:024 > --mörkt-läge
+03:24:46 345:011 > var(--mörkt-läge);
+
+03:25:02 346:004 > b
+03:25:02 346:005 > bo
+03:25:02 346:006 > bor
+03:25:02 346:007 > bord
+03:25:03 346:008 > borde
+03:25:03 346:009 > border
+03:25:03 346:004 > border: ;
+03:25:04 346:012 > #081c15ff
+03:25:23 346:010 > -
+03:25:23 346:011 > -c
+03:25:23 346:012 > -co
+03:25:23 346:013 > -col
+03:25:23 346:014 > -colo
+03:25:23 346:015 > -color
+03:25:24 346:004 > border-color
+03:25:28 346:004 > border-color
+03:25:31 346:018 > c
+03:25:32 346:018 > cv
+03:25:32 346:019 > cva
+03:25:32 346:020 > cvar
+03:25:32 346:018 > var()
+03:25:33 346:022 > --ash-gray
+03:25:38 346:022 > -
+03:25:39 346:022 > --brunswick-green
+03:25:43 346:022 > -
+03:25:43 346:023 > --
+03:25:47 346:022 > --mint
+03:25:52 346:022 > -
+03:25:52 346:023 > --
+03:25:58 346:022 > --sea-green
+03:26:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+03:26:24 035:047 > k
+03:26:24 035:048 > ko
+03:26:24 035:049 > kon
+03:26:24 035:050 > kont
+03:26:24 035:051 > konta
+03:26:24 035:052 > kontai
+03:26:24 035:053 > kontain
+03:26:25 035:054 > kontaine
+03:26:25 035:055 > kontainer
+03:26:29 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+03:26:34 344:025 > k
+03:26:34 344:026 > ko
+03:26:34 344:027 > kon
+03:26:34 344:028 > kont
+03:26:34 344:029 > konta
+03:26:34 344:030 > kontai
+03:26:35 344:031 > kontain
+03:26:35 344:032 > kontaine
+03:26:35 344:033 > kontainer
+03:28:16 137:004 > font-size: Clamp(1rem, 3vw, 2.5rem);
+
+03:28:19 337:013 > ;
+
+03:28:28 127:002 > b
+03:28:29 127:003 > bo
+03:28:29 127:004 > bor
+03:28:29 127:005 > bord
+03:28:30 127:006 > bordr
+03:28:30 127:007 > bordra
+03:28:30 127:002 > border-radius: ;
+03:28:31 127:017 > 3
+03:28:32 127:017 > 34
+03:28:33 127:018 > 34p
+03:28:33 127:019 > 34pr
+03:28:33 127:019 > 34prx
+03:28:34 127:017 > 4px
+
+03:28:42 128:002 > n
+03:28:42 128:003 > no
+03:28:43 128:002 > nob
+03:28:43 128:003 > nobo
+03:28:43 128:004 > nobox
+03:28:44 128:005 > noboxs
+03:28:44 128:006 > noboxsh
+03:28:44 128:007 > noboxsha
+03:28:45 128:002 > box-shadow: ;
+03:28:47 128:014 > 5
+03:28:47 128:015 > 50
+03:28:48 128:015 > 50p
+03:28:48 128:017 > 50p x
+03:28:48 128:016 > 50p xx
+03:28:49 128:018 > 50p xx 5
+03:28:49 128:019 > 50p xx 50
+03:28:49 128:020 > 50p xx 50p
+03:28:50 128:019 > 50p xx 50pp
+03:28:50 128:020 > 50p xx 50ppx
+03:28:56 128:022 > 50p xx 50ppx 3
+03:28:57 128:023 > 50p xx 50ppx 3p
+03:28:57 128:024 > 50p xx 50ppx 3px
+03:28:58 128:026 > 50p xx 50ppx 3px 3
+03:28:58 128:027 > 50p xx 50ppx 3px 3p
+03:28:59 128:029 > 50p xx 50ppx 3px 3p x
+03:28:59 128:028 > 50p xx 50ppx 3px 3p xx
+03:29:00 128:030 > 50p xx 50ppx 3px 3p xx v
+03:29:01 128:031 > 50p xx 50ppx 3px 3p xx va
+03:29:01 128:032 > 50p xx 50ppx 3px 3p xx var
+03:29:01 128:030 > var()
+03:29:02 128:034 > --ash-gray
+03:29:12 128:018 > 3
+03:29:15 128:018 > 32
+03:29:19 128:014 > 323
+03:29:24 128:022 > 3232
+03:29:25 128:022 > 32321
+03:29:28 128:022 > 323214
+03:29:28 128:022 > 3232143
+03:29:29 128:023 > 32321430
+03:29:29 128:024 > 323214300
+03:29:32 128:026 > 3232143001
+03:29:32 128:027 > 32321430010
+03:29:38 128:026 > 323214300103
+03:29:40 128:022 > 3232143001031
+03:29:40 128:023 > 32321430010310
+03:29:47 128:018 > 323214300103100
+03:29:48 128:014 > 3232143001031000
+03:32:03 128:035 > 3232143001031000ظ
+03:32:03 128:036 > 3232143001031000ظظ
+03:32:09 128:035 > 3232143001031000ظظ-
+03:32:09 128:036 > 3232143001031000ظظ--
+03:32:12 128:035 > --cambridge-blue
+
+03:32:36 000:000 > l
+03:32:36 000:001 > la
+03:32:36 000:003 > la t
+03:32:37 000:004 > la ti
+03:32:37 000:005 > la til
+03:32:37 000:006 > la till
+03:32:39 000:008 > la till d
+03:32:39 000:009 > la till da
+03:32:39 000:010 > la till dar
+03:32:40 000:011 > la till dark
+03:32:40 000:012 > la till darko
+03:32:41 000:012 > la till darkom
+03:32:41 000:013 > la till darkomo
+03:32:41 000:014 > la till darkomod
+03:32:41 000:015 > la till darkomode
+03:32:51 002:000 > <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, ,initial-scale=1" />
+    <title>Box Delivery &trade;</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href=./ikoner/679821.png type="image/x-icon">
+    <meta
+      name="description"
+      content="Box Delivery, Ditt val att leverera paket för både kvalitet och tillänglighet."
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+  </head>
+
+  <body>
+    <div class="kontainer">
+      <header><a href="hem.html">Box Delivery &TRADE;</a></header>
+      <nav>
+        <div class="ikon"><img src=./ikoner/679821.png alt="ikon"></div>
+        <div class="alternativ">
+          <a href="hem.html">Hem</a>
+          <a href="leveransplaner.html">Leveransplaner</a>
+          <a class="aktiv-sida" href="kontakta-oss.html">Kontakta oss</a>
+          <a href="om-oss.html">Om oss</a>
+        </div>
+        <div class="mörkt-läge-kontainer">
+          <a id="mörkt-läge-knappen" href="#"
+            ></a
+          >
+        </div>
+      </nav>
+      <main>
+        <div class="kontakta-oss-kontainer">
+          <h1>Fyll i formuläret nedan</h1>
+          <form class="kontakta-oss-formulär" action="/action_page.php">
+            <label for="fname">*Förnamn:</label>
+            <input
+              type="text"
+              placeholder="Anders"
+              id="fname"
+              name="fname"
+              required
+            />
+            <label for="lname">Efternamn:</label>
+            <input type="text" placeholder="Eriksson" id="lname" name="lname" />
+            <label for="email">*Email:</label>
+            <input
+              type="email"
+              placeholder="Ex: Anderseriksson@gmail.com"
+              id="email"
+              name="email"
+              required
+            />
+            <label for="kommentar">*Kommentar:</label>
+            <textarea
+              type="text"
+              placeholder="Beskriv kontakt orsaken."
+              id="kommentar"
+              name="kommentar"
+              required
+            ></textarea>
+            <input id="submit" type="button" value="Skicka" />
+          </form>
+          <p id="sändningsmeddelande">Formuläret har nu skickats!</p>
+        </div>
+      </main>
+      <footer>Box Delivery - 2024&copy;</footer>
+    </div>
+    <script src="./kontakt-script.js"></script>
+    <script src="generell-script.js"></script>
+  </body>
+03:32:51 001:006 > box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/*sidans regler*/
+
+:root {
+  /* CSS HEX */
+  --nyanza: #d8f3dcff;
+  --celadon: #b7e4c7ff;
+  --celadon-2: rgb(149, 213, 178);
+  --mint: #74c69dff;
+  --mint-2: #52b788ff;
+  --sea-green: #52ad87;
+  --dartmouth-green: #2d6a4fff;
+  --brunswick-green: #1b4332ff;
+  --dark-green: #081c15ff;
+  /* CSS HEX */
+  --ash-gray: #cad2c5ff;
+  --cambridge-blue: #84a98cff;
+  --hookers-green: #52796fff;
+  --dark-slate-gray: #354f52ff;
+  --charcoal: #2f3e46ff;
+}
+
+body {
+  background-color: var(--celadon-2);
+}
+
+.kontainer {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.kontainer header {
+  font-size: Clamp(1.5rem, 5vw, 2.5rem);
+}
+
+.kontainer header a {
+  text-decoration: none;
+  color: var(--dark-green);
+}
+
+.kontainer nav {
+  font-size: Clamp(0.8rem, 1.4vw, 1rem);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: sticky;
+  background-color: var(--celadon-2);
+  top: 0;
+  z-index: 1;
+  align-items: center;
+  padding: 15px;
+  border-bottom: solid 3px var(--dark-green);
+}
+
+.kontainer nav .ikon img {
+  width: 59px;
+}
+
+.kontainer nav .mörkt-läge-kontainer a {
+  color: var(--dark-green);
+}
+.kontainer nav .mörkt-läge-kontainer .material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 900, "GRAD" 0, "opsz" 48;
+  font-size: 50px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.kontainer .alternativ {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.kontainer nav .alternativ a {
+  transition: all 100ms;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 15px;
+  color: var(--celadon-2);
+  background-color: var(--dark-green);
+  border-radius: 5px;
+  border: 4px solid transparent;
+}
+
+.kontainer nav .alternativ a:hover {
+  border-color: white;
+}
+
+.kontainer main {
+  margin: 0 0 50px 0;
+}
+
+.kontainer main .kontakta-oss-formulär {
+  background-color: var(--celadon);
+  font-size: Clamp(1rem, 1vw, 1.3rem);
+  margin-top: 7%;
+  width: 50%;
+  max-width: 400px;
+  display: grid;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 3px var(--cambridge-blue);
+  border: solid 5px var(--dark-green);
+  padding: 20px;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto 0 auto;
+  grid-template-columns: auto 1fr;
+  gap: 25px;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+  font-size: Clamp(1rem, 3vw, 2.5rem);
+  padding: Clamp(5px, 2%, 15px);
+  margin: 20px 20px;
+  display: inline-block;
+  border: solid 3px;
+  border-radius: 4px;
+  background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+  grid-column: 1;
+  width: 100%;
+}
+
+.kontainer main .kontakta-oss-formulär input {
+  height: Clamp(35px, 4vh, 150px);
+}
+
+.kontainer main .kontakta-oss-formulär textarea {
+  resize: none;
+  height: Clamp(100px, 15vw, 200px);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+  justify-self: center;
+  grid-column: 2;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: Clamp(125px, 15vw, 200px);
+  border: solid 3px var(--dark-green);
+  background-color: var(--nyanza);
+  border-radius: 4px;
+  padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+  outline: 5px solid var(--nyanza);
+  background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+  outline: 5px solid var(--nyanza);
+}
+
+.kontainer main .kontakta-oss-formulär #submit {
+  font-weight: 900;
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+  cursor: pointer;
+}
+
+.kontainer main .kontakta-oss-kontainer #sändningsmeddelande {
+  grid-column: 2;
+  margin: 20px 0;
+  display: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  width: 50%;
+  margin: 25px auto;
+}
+.kontainer main .våraleveransplaner-kontainer li a {
+  text-decoration: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer li {
+  transition: all 100ms;
+  --side-padding: clamp(0px, 1vw, 25px);
+  --border-color: var(--dark-green);
+  justify-content: center;
+  border: solid 5px var(--border-color);
+  padding: 20px var(--side-padding) 50px var(--side-padding);
+  background-color: var(--sea-green);
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+  transform: scale(1.1);
+  border-color: var(--nyanza);
+  box-shadow: 0px 0px 10px 3px var(--nyanza);
+  cursor: pointer;
+}
+
+.kontainer main .leveransplan {
+  width: Clamp(160px, 30vw, 200px);
+}
+
+.kontainer main .våraleveransplaner-kontainer .delivery-video {
+  width: Clamp(50px, 90vw, 1200px);
+  border: solid 10px var(--dark-green);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan img {
+  width: 80%;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+  color: var(--dark-green);
+  text-shadow: 3px 1px 2px var(--celadon);
+  margin-top: 10px;
+  font-family: "Alfa Slab One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: Clamp(1.3rem, 3vw, 1.7rem);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan p {
+  color: var(--dark-green);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan .premium {
+  color: rgb(255, 198, 27);
+  text-shadow: 3px 3px var(--dark-green);
+  margin-top: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  font-size: Clamp(1.5rem, 5vw, 1.9rem);
+}
+
+.kontainer main .våraleveransplaner-kontainer h1 {
+  font-size: Clamp(0.6rem, 4vw, 2.3rem);
+  font-weight: 900;
+  padding: Clamp(0px, 1vw, 20px);
+}
+
+.kontainer main .innehåll {
+  font-size: Clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+
+.kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  /* att elementen bara tar platsen de behöver.*/
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+.kontainer main .innehåll .om-oss {
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+/*mörkt läge*/
+
+body.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på {
+  --mörkt-läge: #1a1a1a;
+  background-color: var(--mörkt-läge);
+  color: white;
+}
+.kontainer footer.mörkt-läge-på {
+  background-color: #131313;
+}
+.kontainer .kontakta-oss-kontainer.mörkt-läge-på {
+  color: var(--mörkt-läge);
+}
+
+/*anpassa efter olika enheter.*/
+@media (max-width: 700px) {
+  .kontainer .alternativ,
+  .kontainer nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .kontainer main .alternativ-kontainer {
+    position: relative;
+  }
+
+  .kontainer main .innehåll {
+    display: grid;
+  }
+
+  .kontainer nav .alternativ a {
+    padding: 5px;
+  }
+
+  .kontainer nav .ikon img {
+    width: 35px;
+  }
+
+  .kontainer main .kontakta-oss-formulär {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

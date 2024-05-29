@@ -1,0 +1,2386 @@
+24-05-12 14:53 Session started
+----------------------------------------
+14:53:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:53:16 Document switched to: extension-output-esbenp.prettier-vscode-#1-Prettier
+----------------------------------------
+14:53:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:53:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+14:53:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:57:11 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+14:57:11 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+14:59:53 118:013 > 2
+14:59:54 118:014 > 2%
+14:59:56 118:013 > 2%
+15:00:38 118:013 > c
+15:00:38 118:014 > cl
+15:00:38 118:015 > cla
+15:00:39 118:016 > clam
+15:00:39 118:017 > clamp
+15:00:40 118:013 > clampc
+15:00:41 118:014 > clampc,
+15:00:41 118:013 > clampc,C
+15:00:42 118:014 > clampc,Cl
+15:00:42 118:015 > clampc,Clp
+15:00:42 118:016 > clampc,Clpa
+15:00:42 118:015 > clampc,Clpaa
+15:00:42 118:016 > clampc,Clpaam
+15:00:43 118:017 > clampc,Clpaamp
+15:00:43 118:018 > clampc,Clpaamp)
+15:00:43 118:019 > ()
+15:00:44 118:018 > ()
+15:00:47 118:019 > 1
+15:00:47 118:020 > 10
+15:00:50 118:019 > 100
+15:00:50 118:020 > 100p
+15:00:50 118:021 > 100px
+15:00:52 118:019 > 100px5
+15:00:52 118:020 > 100px5p
+15:00:52 118:021 > 100px5px
+15:00:53 118:019 > 5px
+15:00:53 118:022 > ,
+15:00:55 118:023 > ,2
+15:00:56 118:024 > ,2%
+15:00:56 118:025 > ,2%,
+15:00:58 118:026 > ,2%,1
+15:00:58 118:027 > ,2%,10
+15:00:59 118:025 > ,2%,102
+15:01:00 118:025 > ,2%,102,
+15:01:02 118:026 > ,2%,102,1
+15:01:02 118:027 > ,2%,102,15
+15:01:03 118:028 > ,2%,102,15,
+15:01:03 118:028 > ,2%,102,15,p
+15:01:03 118:029 > ,2%,102,15,px
+15:01:03 118:026 > 15px
+15:01:24 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+15:01:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+15:01:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+15:01:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+15:03:39 229:004 > .kontainer main .kontakta-oss-formulär {
+    margin-top: 7%;
+    width: 30%;
+    display: grid;
+    margin: 0 auto 0 auto;
+    grid-template-columns: auto 1fr;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+15:03:56 234:031 > 1
+15:03:57 234:032 > 1f
+15:03:57 234:033 > 1fr
+15:03:57 234:031 > 1fr
+
+15:04:45 230:008 > d
+15:04:45 230:009 > d9
+15:04:45 230:010 > d90
+15:04:46 230:009 > d90i
+15:04:47 230:010 > d90is
+15:04:47 230:011 > d90isp
+15:04:47 230:008 > display: ;
+15:04:48 230:017 > f
+15:04:48 230:018 > fl
+15:04:48 230:019 > fle
+15:04:48 230:017 > flex
+
+15:04:52 231:008 > c
+15:04:52 231:009 > co
+15:04:53 231:010 > col
+15:04:54 231:008 > colf
+15:04:54 231:009 > colfl
+15:04:54 231:010 > colfle
+15:04:55 231:011 > colflex
+15:04:56 231:008 > flex-direction: ;
+15:04:57 231:024 > column
+15:06:17 114:016 > 1;
+
+15:07:12 138:004 > f
+15:07:12 138:005 > fo
+15:07:12 138:006 > fon
+15:07:12 138:007 > font
+15:07:13 138:008 > fontz
+15:07:13 138:004 > font-size: ;
+15:07:16 138:015 > c
+15:07:16 138:016 > cl
+15:07:16 138:017 > cla
+15:07:17 138:015 > clac
+15:07:17 138:015 > clacC
+15:07:18 138:016 > clacCl
+15:07:18 138:017 > clacCla
+15:07:18 138:018 > clacClap
+15:07:19 138:018 > clacClapm
+15:07:19 138:019 > clacClapmp
+15:07:20 138:020 > ()
+15:07:21 138:021 > 1
+15:07:21 138:022 > 1r
+15:07:21 138:023 > 1re
+15:07:22 138:021 > 1rem
+15:07:22 138:025 > ,
+15:07:28 138:026 > ,5
+15:07:28 138:027 > ,5v
+15:07:29 138:028 > ,5vh
+15:07:31 138:028 > ,5vhw
+15:07:33 138:029 > ,5vhw,
+15:07:34 138:030 > ,5vhw,2
+15:07:35 138:031 > ,5vhw,2r
+15:07:35 138:032 > ,5vhw,2re
+15:07:35 138:030 > 2.5rem
+15:07:47 138:026 > 4
+15:07:50 138:026 > 43
+15:07:54 138:026 > 431
+15:08:01 138:021 > 4310
+15:08:02 138:022 > 4310.
+15:08:02 138:023 > 4310.5
+15:08:05 138:023 > 4310.51
+15:08:08 138:023 > 4310.511
+15:08:09 138:022 > 4310.5111
+15:08:10 138:021 > 4310.51111
+15:08:12 138:021 > 4310.511111
+
+15:08:16 139:013 > 3
+15:08:16 139:014 > 30
+15:08:16 139:015 > 300
+15:08:17 139:016 > 300p
+15:08:17 139:017 > 300på
+15:08:17 139:018 > 300påx
+15:08:17 139:017 > 300påxx
+15:08:21 139:013 > 300px
+15:08:28 139:013 > 5
+15:08:28 139:014 > 50
+15:08:28 139:015 > 500
+15:08:29 139:016 > 500p
+15:08:29 139:017 > 500px
+15:08:30 139:013 > 500px
+
+15:09:00 136:000 > k
+15:09:00 136:001 > ko
+15:09:01 136:002 > kon
+15:09:01 136:003 > kont
+15:09:01 136:004 > konta
+15:09:02 136:005 > kontak
+15:09:02 136:006 > kontaka
+15:09:05 136:000 > kontakak
+15:09:05 136:000 > kontakak.
+15:09:05 136:001 > kontakak.k
+15:09:06 136:002 > kontakak.ko
+15:09:06 136:000 > .kontainer
+15:09:08 136:011 >  m
+15:09:08 136:012 >  ma
+15:09:08 136:013 >  mai
+15:09:08 136:011 > main
+15:09:10 136:016 >  .
+15:09:10 136:017 >  .k
+15:09:10 136:018 >  .ko
+15:09:10 136:019 >  .kon
+15:09:11 136:020 >  .kont
+15:09:11 136:021 >  .konta
+15:09:12 136:016 > .kontakta-oss-kontainer
+15:09:13 136:039 > {}
+15:09:18 137:004 > font-size: Clamp(1rem,1vw,2.5rem);
+    padding: 500px;
+    margin: 0 auto 0 auto;
+15:09:32 101:000 > .kontainer main .kontakta-oss-kontainer{
+    font-size: Clamp(1rem,1vw,2.5rem);
+    padding: 500px;
+    margin: 0 auto 0 auto;
+}
+
+15:09:40 101:040 > h
+15:09:41 101:041 > h1
+
+15:09:53 102:026 > 5
+15:09:58 102:026 > 53
+
+15:11:23 131:012 > 1
+15:11:23 131:013 > 1%
+
+15:11:28 132:011 > 5
+15:11:29 132:012 > 5%
+15:11:36 132:011 > 5%1
+15:11:36 132:012 > 5%10
+
+15:11:41 131:012 > 1
+15:11:41 131:013 > 10
+
+15:11:54 132:011 > 2
+15:11:54 132:012 > 25
+
+15:11:58 131:012 > 2
+15:11:58 131:013 > 25
+15:12:07 131:012 > 252
+15:12:07 131:013 > 252v
+15:12:08 131:014 > 252vh
+15:12:08 131:012 > 2vh
+15:12:14 131:012 > 2
+15:12:15 131:013 > 2.
+15:12:15 131:014 > 2.5
+
+15:12:21 132:011 > 4
+15:12:24 132:012 > 4v
+15:12:25 132:013 > 4vh
+15:12:25 132:011 > 4vh
+15:12:29 132:013 > w
+15:12:33 132:011 > w5
+15:12:35 132:011 > w51
+15:12:35 132:012 > w510
+15:13:03 138:011 > 10vw
+15:13:05 137:012 > 10vw
+
+15:13:14 131:012 > c
+15:13:15 131:012 > cC
+15:13:16 131:013 > cCl
+15:13:16 131:014 > cCla
+15:13:16 131:015 > cClam
+15:13:16 131:016 > cClamp
+15:13:17 131:017 > ()
+15:13:32 131:018 > r
+15:13:32 131:019 > re
+15:13:32 131:020 > rem
+15:13:33 131:018 > rem1
+15:13:33 131:019 > rem1r
+15:13:33 131:020 > rem1re
+15:13:33 131:021 > rem1rem
+15:13:34 131:022 > rem1rem,
+15:13:38 131:023 > 2.5vh
+15:13:39 131:028 > ,
+15:13:39 131:029 > ,3
+15:13:40 131:030 > ,3r
+15:13:40 131:031 > ,3re
+15:13:40 131:032 > ,3rem
+15:13:51 132:011 > Clamp(1rem,2.5vh,3rem)
+15:13:55 132:022 > 10vw
+15:14:04 131:029 > 6
+15:14:07 131:029 > 61
+15:14:07 131:030 > 610
+15:14:07 131:031 > 6100
+
+15:14:13 132:028 > 0
+15:14:13 132:029 > 00
+15:15:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+15:15:23 030:020 > -
+15:15:24 030:020 > -.
+15:15:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+15:15:50 116:000 > .kontainer main .kontakta-oss-formulär {
+    margin-top: 7%;
+    width: 30%;
+    display: grid;
+    margin: 0 auto 0 auto;
+    grid-template-columns: auto 1fr;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+15:15:52 116:039 > i
+15:15:52 116:040 > in
+15:15:52 116:041 > inp
+15:15:53 116:042 > inpu
+15:15:53 116:043 > input
+
+15:16:01 133:004 > a
+15:16:01 133:005 > al
+15:16:01 133:006 > ali
+15:16:02 133:007 > alig
+15:16:02 133:008 > aligs
+15:16:02 133:009 > aligse
+15:16:02 133:004 > align-self: ;
+15:16:03 133:016 > a
+15:16:04 133:016 > ac
+15:16:04 133:017 > ace
+15:16:04 133:016 > center
+15:16:09 133:004 > j
+15:16:09 133:005 > ju
+15:16:09 133:006 > jus
+15:16:09 133:004 > justify-content: ;
+15:16:10 133:021 > c
+15:16:10 133:022 > ce
+15:16:10 133:021 > center
+15:16:15 133:004 > s
+15:16:15 133:005 > se
+15:16:15 133:006 > sel
+15:16:15 133:007 > self
+15:16:16 133:008 > selfa
+15:16:17 133:004 > selfaa
+15:16:17 133:005 > selfaal
+15:16:17 133:004 > align-items: ;
+15:16:19 133:010 > s
+15:16:19 133:011 > se
+15:16:19 133:004 > align-self:
+15:16:20 133:016 > a
+15:16:20 133:016 > ac
+15:16:20 133:017 > ace
+15:16:20 133:016 > center
+15:16:27 133:004 > t
+15:16:27 133:005 > te
+15:16:27 133:006 > tex
+15:16:27 133:007 > text
+15:16:28 133:004 > text-align: ;
+15:16:28 133:016 > center
+
+15:20:54 132:017 > 2
+15:20:57 132:017 > 23
+15:21:00 132:017 > 234
+15:21:03 132:017 > 2345
+15:25:50 133:004 > justify-self: center;
+
+15:26:28 112:013 > ;
+15:26:43 139:004 > justify-self: center;
+15:27:27 108:004 > width: 90%; /* Adjust width to fit the screen size */
+    max-width: 600px; /* Set a maximum width if needed */
+15:27:57 119:004 > width: 100%;
+15:28:01 125:000 > .kontainer main .kontakta-oss-formulär label {
+    grid-column: 1;
+    width: 100%;
+}
+15:28:32 131:004 > width: 100%;
+15:28:36 136:004 > width: 100%;
+15:29:46 133:004 > /* Adjust width of input fields to fit screen size */
+    width: calc(100% - 20px); /* Adjust as needed */
+    max-width: 300px; /* Set a maximum width if needed */
+    box-sizing: border-box; /* Ensure padding and border are included in width */
+15:30:12 141:004 > width: 100%;
+15:30:17 135:004 > width: 100%;
+15:31:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+15:31:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+15:44:12 232:008 > j
+15:44:12 232:009 > ju
+15:44:13 232:008 > justify-content: ;
+15:44:14 232:025 > c
+15:44:15 232:026 > ce
+15:44:15 232:025 > center
+15:45:00 232:008 > a
+15:45:00 232:009 > al
+15:45:01 232:008 > align-items: ;
+15:45:03 232:021 > center
+15:45:07 232:027 > ;
+
+15:54:10 117:023 > 3
+15:54:15 117:023 > 32
+
+15:55:29 129:018 > 0
+15:55:29 129:019 > 0p
+15:55:29 129:020 > 0px
+15:55:30 129:019 > 0pxp
+15:55:31 129:020 > 0pxpx
+
+15:55:35 130:017 > 0
+15:55:37 130:018 > 0p
+15:55:39 130:019 > 0px
+15:55:44 129:028 > 0px
+
+15:55:45 129:031 > 1
+15:55:45 129:032 > 10
+15:55:46 129:033 > 100
+15:55:47 129:028 > 1001
+15:55:47 129:029 > 10010
+15:55:47 129:030 > 100100
+15:55:47 129:031 > 100100p
+15:55:48 129:032 > 100100px
+15:55:56 129:028 > 100100px1
+15:55:56 129:029 > 100100px15
+15:55:56 129:030 > 100100px150
+
+15:56:02 130:026 > 3
+15:56:02 130:027 > 30
+15:56:02 130:028 > 300
+15:56:04 130:029 > 300p
+15:56:04 130:030 > 300px
+15:57:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+15:57:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+15:57:09 107:004 > f
+15:57:09 107:005 > fo
+15:57:09 107:006 > fon
+15:57:09 107:007 > fons
+15:57:10 107:008 > fonst
+15:57:10 107:004 > font-size: ;
+15:57:11 107:015 > c
+15:57:11 107:016 > cl
+15:57:12 107:015 > clC
+15:57:12 107:016 > clCl
+15:57:12 107:017 > clCla
+15:57:13 107:018 > clClam
+15:57:13 107:019 > clClamp
+15:57:14 107:020 > ()
+15:57:17 107:021 > 1
+15:57:17 107:022 > 1e
+15:57:18 107:023 > 1em
+15:57:23 107:021 > 1em1
+15:57:23 107:022 > 1em1e
+15:57:23 107:023 > 1em1em
+15:57:25 107:024 > 1em1em ,
+15:57:27 107:026 > 1em1em , 3
+15:57:30 107:026 > 1em1em , 32
+15:57:40 107:025 > 1em1em , 32v
+15:57:41 107:025 > 1em1em , 32v3
+15:57:42 107:026 > 1em1em , 32v3v
+15:57:42 107:027 > 1em1em , 32v3vw
+15:57:46 107:029 > 1em1em , 32v3vw,
+15:57:47 107:030 > 1em1em , 32v3vw,2
+15:57:48 107:031 > 1em1em , 32v3vw,24
+15:57:49 107:031 > 1em1em , 32v3vw,24)
+15:57:50 107:031 > 1em1em , 32v3vw,24)e
+15:57:51 107:032 > 1em1em , 32v3vw,24)em
+15:57:58 107:025 > 1em1em , 32v3vw,24)em2
+15:58:17 107:022 > 1em1em , 32v3vw,24)em2r
+15:58:17 107:023 > 1em1em , 32v3vw,24)em2re
+15:58:17 107:021 > 1rem
+15:58:19 107:032 > r
+15:58:22 107:027 > r1
+15:58:23 107:026 > r11
+15:58:25 107:026 > r111
+15:58:51 119:000 > margin: 20px 20px;
+
+15:58:56 119:017 > 0
+15:58:59 119:017 > 20
+15:59:00 107:026 > 11
+
+15:59:01 107:026 > 1
+
+15:59:07 119:012 > 2
+
+15:59:42 125:011 > 2
+15:59:42 125:012 > 29
+15:59:43 125:012 > 290
+15:59:44 125:013 > 290%
+15:59:45 125:011 > 20%
+15:59:48 125:011 > 20%
+15:59:49 125:011 > 1
+15:59:50 125:012 > 10
+15:59:50 125:013 > 100
+15:59:50 125:014 > 100%
+15:59:51 125:011 > 100%
+
+16:01:07 131:024 > 0
+16:01:10 131:024 > 05
+
+16:01:26 110:015 > 4
+16:01:26 110:016 > 40
+16:01:27 110:017 > 400
+
+16:02:01 108:004 > c
+16:02:01 108:005 > ca
+16:02:02 108:006 > car
+16:02:02 108:007 > carr
+16:02:02 108:008 > carre
+16:02:02 108:004 > caret-color: ;
+16:02:03 108:017 > b
+16:02:03 108:018 > bl
+16:02:03 108:019 > bla
+16:02:04 108:017 > black
+16:02:05 108:017 > b
+16:02:05 108:018 > bl
+16:02:06 108:019 > blu
+16:02:06 108:020 > blue
+
+16:02:18 107:031 > 1
+16:02:18 107:032 > 1.
+16:02:18 107:033 > 1.5
+16:02:18 107:031 > 1.5rem
+16:02:23 107:033 > 2
+16:02:25 107:033 > 21
+16:02:30 107:033 > 215
+16:02:35 107:026 > 2153
+16:02:39 107:026 > 21535
+16:02:42 107:026 > 215351
+16:02:42 107:027 > 2153510
+16:02:46 107:034 > 21535104
+16:02:49 107:034 > 215351043
+16:03:27 107:026 > 2153510435
+16:03:34 107:026 > 21535104353
+16:03:46 107:026 > 215351043532
+16:04:15 107:026 > 2153510435321
+
+16:07:47 131:022 > 4
+
+17:35:58 103:014 > +
+17:35:59 103:014 > +0
+17:36:16 103:015 > +00
+17:36:45 102:000 > font-size: Clamp(1rem,3vw,2.5rem);
+
+17:37:21 130:017 > 5
+17:37:22 130:017 > 51
+17:37:22 130:018 > 510
+17:37:22 130:019 > 5100
+
+17:37:26 129:018 > 5
+17:37:26 129:019 > 50
+17:37:45 129:018 > 502
+17:37:45 129:019 > 5025
+
+17:38:22 130:023 > 1
+17:38:22 130:024 > 15
+17:38:36 130:028 > 151
+17:38:36 130:029 > 1510
+17:38:36 130:030 > 15100
+17:38:39 130:028 > 151002
+17:38:39 130:029 > 1510020
+17:38:39 130:030 > 15100200
+17:38:49 133:000 > .kontainer main .kontakta-oss-formulär input {
+17:38:52 142:000 > .kontainer main .kontakta-oss-formulär input {
+
+17:38:55 142:044 > ,
+17:38:56 142:045 > .kontainer main .kontakta-oss-formulär textarea
+
+17:38:58 143:000 > }
+17:39:24 147:004 > justify-self: center;
+17:39:28 142:003 > justify-self: center;
+}
+17:39:36 147:004 > grid-column: 2;
+
+17:39:39 132:036 > ;
+17:39:53 132:030 > ;1
+17:39:53 132:031 > ;19
+17:39:54 132:032 > ;190
+17:39:57 132:030 > ;1902
+17:39:57 132:031 > ;19020
+17:39:57 132:032 > ;190200
+17:40:31 138:004 > width: Clamp(100px, 15vw, 200px);
+
+17:40:44 138:004 > r
+17:40:45 138:005 > re
+17:40:45 138:006 > res
+17:40:45 138:004 > html, body, div, span, applet, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, abbr, acronym, address, big, cite, code,
+    del, dfn, em, img, ins, kbd, q, s, samp,
+    small, strike, strong, sub, sup, tt, var,
+    b, u, i, center,
+    dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend,
+    table, caption, tbody, tfoot, thead, tr, th, td,
+    article, aside, canvas, details, embed,
+    figure, figcaption, footer, header, hgroup,
+    menu, nav, output, ruby, section, summary,
+    time, mark, audio, video {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font: inherit;
+      vertical-align: baseline;
+    }
+    /* HTML5 display-role reset for older browsers */
+    article, aside, details, figcaption, figure,
+    footer, header, hgroup, menu, nav, section {
+      display: block;
+    }
+    body {
+      line-height: 1;
+    }
+    ol, ul {
+      list-style: none;
+    }
+    blockquote, q {
+      quotes: none;
+    }
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+      content: '';
+      content: none;
+    }
+    table {
+      border-collapse: collapse;
+      border-spacing: 0;
+    }
+
+17:40:46 180:004 > }
+17:40:46 138:004 > res
+
+17:40:48 138:004 > r
+17:40:48 138:005 > re
+17:40:48 138:006 > res
+17:40:49 138:007 > resi
+17:40:49 138:004 > resize: ;
+17:40:50 138:012 > 0
+17:40:50 138:012 > 0n
+17:40:51 138:012 > none
+
+17:40:59 140:004 > h
+17:40:59 140:005 > he
+17:41:00 140:004 > height: ;
+17:41:00 140:012 > Clamp(100px, 15vw, 200px);
+
+17:42:32 108:004 > w
+17:42:32 108:005 > wd
+17:42:32 108:006 > wdi
+17:42:33 108:005 > wdii
+17:42:34 108:006 > wdiid
+17:42:35 108:004 > width: ;
+17:42:35 108:011 > a
+17:42:35 108:011 > auto
+17:42:39 108:011 > 0
+17:42:39 108:012 > 0p
+17:42:39 108:013 > 0px
+17:42:40 108:011 > 0px
+17:43:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+17:43:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:43:41 105:000 > .kontainer main .kontakta-oss-kontainer h1 {
+    font-size: Clamp(1rem, 3vw, 2.5rem);
+}
+
+17:43:49 106:004 > m
+17:43:49 106:005 > ma
+17:43:49 106:006 > mar
+17:43:49 106:006 > mare
+17:43:50 106:007 > mareg
+17:43:50 106:008 > maregf
+17:43:50 106:007 > maregfg
+17:43:51 106:008 > maregfgi
+17:43:54 106:004 > maregfgia
+17:43:54 106:005 > maregfgial
+17:43:54 106:006 > maregfgiali
+17:43:55 106:007 > maregfgialig
+17:43:55 106:004 > align-items: ;
+17:43:55 106:017 > s
+17:43:56 106:017 > sc
+17:43:56 106:018 > sce
+17:43:56 106:017 > center
+17:43:59 106:004 > j
+17:43:59 106:005 > ju
+17:43:59 106:006 > jus
+17:44:00 106:004 > justify-content:
+17:44:00 106:021 > c
+17:44:00 106:022 > ce
+17:44:00 106:021 > center
+17:44:04 106:004 > m
+17:44:04 106:005 > ma
+17:44:04 106:006 > mar
+17:44:04 106:007 > marg
+17:44:05 106:004 > margin: ;
+17:44:05 106:012 > a
+17:44:05 106:012 > auto
+
+17:44:11 105:040 > {
+
+17:44:44 109:004 > w
+17:44:44 109:005 > wi
+17:44:44 109:006 > wid
+17:44:45 109:004 > width: ;
+17:44:47 109:011 > 7
+17:44:47 109:011 > 75
+17:44:47 109:012 > 750
+17:44:48 109:013 > 750%
+17:44:49 109:011 > 50%
+
+17:45:26 111:004 > g
+17:45:26 111:005 > gr
+17:45:28 111:004 > grid-template-columns: ;
+17:45:29 111:027 > 1
+17:45:30 111:028 > 1f
+17:45:30 111:029 > 1fr
+17:45:30 111:031 > 1fr 1
+17:45:31 111:032 > 1fr 1f
+17:45:31 111:033 > 1fr 1fr
+17:45:31 111:031 > 1fr
+
+17:47:15 110:004 > m
+17:47:15 110:005 > ma
+17:47:15 110:006 > max
+17:47:19 110:004 > max-width: ;
+17:47:21 110:015 > 2
+17:47:21 110:016 > 20
+17:47:21 110:017 > 200
+17:47:21 110:018 > 200p
+17:47:21 110:019 > 200px
+17:47:22 110:015 > 200px
+
+17:47:31 115:004 > g
+17:47:31 115:005 > ga
+17:47:32 115:006 > gap
+17:47:32 115:004 > gap: ;
+17:47:33 115:009 > 1
+17:47:33 115:010 > 10
+17:47:33 115:011 > 10p
+17:47:33 115:012 > 10px
+
+17:47:35 110:015 > 3
+17:47:36 110:016 > 30
+17:47:36 110:017 > 300
+17:47:38 110:018 > 300p
+17:47:38 110:019 > 300px
+17:47:39 110:015 > 300px
+17:47:49 110:015 > 5
+17:47:49 110:016 > 50
+17:47:49 110:017 > 500
+17:47:50 110:018 > 500p
+17:47:50 110:019 > 500px
+17:47:50 110:015 > 500px
+17:48:00 110:015 > 3
+17:48:00 110:016 > 30
+17:48:00 110:017 > 300
+17:49:11 148:004 > height: Clamp(100px, 15vw, 200px);
+17:49:27 140:000 > width: Clamp(100px, 15vw, 200px);
+17:49:28 133:003 > width: Clamp(100px, 15vw, 200px);
+17:49:33 146:003 > width: Clamp(100px, 15vw, 200px);
+
+17:49:42 146:017 > 1
+17:49:43 146:018 > 12
+17:49:43 146:019 > 125
+17:49:58 146:004 > width: Clamp(125px, 15vw, 200px);
+17:49:58 146:017 > 100
+17:49:58 146:003 > height: Clamp(100px, 15vw, 200px);
+17:49:59 139:000 > width: Clamp(100px, 15vw, 200px);
+17:50:00 133:003 > width: Clamp(100px, 15vw, 200px);
+17:50:03 141:004 > height: Clamp(100px, 15vw, 200px);
+17:50:03 110:015 > 500
+17:50:05 148:004 > width: Clamp(125px, 15vw, 200px);
+17:50:37 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+17:50:46 031:039 > h
+17:50:48 031:039 > hq
+17:50:48 031:039 > hqa
+17:50:50 031:039 > hqah
+17:50:50 031:040 > hqahi
+17:50:51 031:041 > hqahin
+17:50:51 031:042 > hqahint
+17:50:52 031:044 > hqahint =
+17:50:53 031:043 > hqahint ==
+17:50:53 031:044 > ""
+17:50:54 031:045 > n
+17:50:54 031:046 > ni
+17:50:54 031:047 > nig
+17:50:54 031:048 > nigg
+17:50:54 031:049 > nigga
+17:51:15 031:040 > nigga p
+17:51:15 031:041 > nigga pl
+17:51:15 031:042 > nigga pla
+17:51:16 031:043 > nigga plac
+17:51:16 031:040 > placeholder
+17:51:18 031:040 > placid
+17:51:20 031:039 >  p
+17:51:20 031:040 >  pl
+17:51:20 031:041 >  pla
+17:51:20 031:039 > placeholder=""
+17:51:22 031:052 > N
+17:51:22 031:053 > Ni
+17:51:22 031:054 > Nig
+17:51:22 031:055 > Nigg
+17:51:22 031:056 > Nigga
+17:51:36 031:052 > NiggaA
+17:51:36 031:053 > NiggaAn
+17:51:37 031:054 > NiggaAnd
+17:51:37 031:055 > NiggaAnde
+17:51:37 031:056 > NiggaAnder
+17:51:37 031:057 > NiggaAnders
+17:51:48 033:039 > placeholder="Anders"
+
+17:51:58 033:052 > a
+17:52:01 033:052 > ah
+17:52:02 033:053 > ahA
+17:52:02 033:054 > ahAN
+17:52:02 033:055 > ahANS
+17:52:02 033:056 > ahANSS
+17:52:08 033:052 > ahANSSe
+17:52:08 033:052 > ahANSSeE
+17:52:09 033:053 > ahANSSeEr
+17:52:09 033:054 > ahANSSeEri
+17:52:09 033:055 > ahANSSeErik
+17:52:09 033:056 > ahANSSeEriks
+17:52:10 033:057 > ahANSSeErikss
+17:52:10 033:058 > ahANSSeEriksso
+17:52:10 033:059 > ahANSSeEriksson
+
+17:52:22 035:040 > p
+17:52:22 035:041 > pl
+17:52:22 035:042 > pla
+17:52:22 035:043 > plac
+17:52:22 035:040 > placeholder
+17:52:23 035:040 > placid
+17:52:25 035:040 >  p
+17:52:25 035:041 >  pl
+17:52:25 035:042 >  pla
+17:52:25 035:043 >  plac
+17:52:25 035:040 > placeholder=""
+17:52:27 035:053 > B
+17:52:28 035:054 > Br
+17:52:28 035:055 > Bro
+17:52:31 035:053 > BroA
+17:52:31 035:054 > BroAn
+17:52:31 035:055 > BroAns
+17:52:32 035:055 > BroAnsd
+17:52:32 035:056 > BroAnsde
+17:52:32 035:057 > BroAnsder
+17:52:32 035:058 > BroAnsders
+17:52:33 035:059 > BroAnsdersE
+17:52:33 035:060 > BroAnsdersEr
+17:52:34 035:059 > BroAnsdersEre
+17:52:34 035:060 > BroAnsdersErer
+17:52:34 035:061 > BroAnsdersEreri
+17:52:34 035:062 > BroAnsdersErerik
+17:52:35 035:063 > BroAnsdersEreriks
+17:52:35 035:064 > BroAnsdersErerikss
+17:52:35 035:065 > BroAnsdersEreriksso
+17:52:36 035:066 > BroAnsdersEreriksson
+17:52:36 035:067 > BroAnsdersEreriksson.
+17:52:37 035:067 > BroAnsdersEreriksson.@
+17:52:38 035:068 > BroAnsdersEreriksson.@e
+17:52:39 035:068 > BroAnsdersEreriksson.@eg
+17:52:39 035:069 > BroAnsdersEreriksson.@egm
+17:52:39 035:070 > BroAnsdersEreriksson.@egma
+17:52:39 035:071 > BroAnsdersEreriksson.@egmai
+17:52:39 035:072 > BroAnsdersEreriksson.@egmail
+17:52:39 035:073 > BroAnsdersEreriksson.@egmail.
+17:52:40 035:074 > BroAnsdersEreriksson.@egmail.c
+17:52:40 035:075 > BroAnsdersEreriksson.@egmail.co
+17:52:40 035:076 > BroAnsdersEreriksson.@egmail.com
+17:52:50 035:053 > BroAnsdersEreriksson.@egmail.come
+17:52:51 035:054 > BroAnsdersEreriksson.@egmail.comez
+17:52:52 035:054 > BroAnsdersEreriksson.@egmail.comezx
+17:52:52 035:055 > BroAnsdersEreriksson.@egmail.comezx_
+17:52:53 035:056 > BroAnsdersEreriksson.@egmail.comezx_:
+17:52:53 035:055 > BroAnsdersEreriksson.@egmail.comezx_::
+
+17:53:07 031:052 > E
+17:53:07 031:053 > EX
+17:53:08 031:054 > EX:
+
+17:53:31 035:053 > e
+17:53:31 035:054 > eX
+17:53:32 035:053 > eXE
+17:53:32 035:054 > eXEX
+17:53:33 035:055 > eXEX:
+17:53:37 035:054 > eXEX: x
+17:53:39 035:053 > eXEX: xe
+17:53:39 035:054 > eXEX: xex
+17:53:43 035:053 > eXEX: xexX
+17:53:43 035:053 > eXEX: xexXE
+17:53:43 035:054 > eXEX: xexXEX
+17:53:48 035:054 > eXEX: xexXEXe
+17:53:49 035:054 > eXEX: xexXEXex
+
+17:54:05 037:042 > p
+17:54:05 037:043 > pc
+17:54:06 037:043 > pcl
+17:54:06 037:044 > pcla
+17:54:06 037:042 > placeholder=""
+17:54:08 037:055 > T
+17:54:09 037:056 > Th
+17:54:09 037:057 > The
+17:54:13 037:055 > The N
+17:54:14 037:055 > The NB
+17:54:15 037:056 > The NBe
+17:54:15 037:057 > The NBes
+17:54:15 037:058 > The NBesk
+17:54:15 037:059 > The NBeskr
+17:54:15 037:060 > The NBeskri
+17:54:15 037:061 > The NBeskriv
+17:54:16 037:063 > The NBeskriv d
+17:54:16 037:064 > The NBeskriv di
+17:54:17 037:065 > The NBeskriv dit
+17:54:17 037:066 > The NBeskriv ditt
+17:54:21 037:063 > The NBeskriv ditt k
+17:54:21 037:064 > The NBeskriv ditt ko
+17:54:21 037:065 > The NBeskriv ditt kon
+17:54:21 037:066 > The NBeskriv ditt kont
+17:54:22 037:067 > The NBeskriv ditt konta
+17:54:22 037:068 > The NBeskriv ditt kontak
+17:54:22 037:069 > The NBeskriv ditt kontakt
+17:54:23 037:071 > The NBeskriv ditt kontakt o
+17:54:23 037:072 > The NBeskriv ditt kontakt or
+17:54:23 037:073 > The NBeskriv ditt kontakt ors
+17:54:23 037:074 > The NBeskriv ditt kontakt orsa
+17:54:23 037:075 > The NBeskriv ditt kontakt orsak
+17:54:23 037:076 > The NBeskriv ditt kontakt orsake
+17:54:24 037:077 > The NBeskriv ditt kontakt orsaken
+17:54:33 037:078 > The NBeskriv ditt kontakt orsaken.
+17:54:43 037:055 > The NBeskriv ditt kontakt orsaken.H
+17:54:43 037:056 > The NBeskriv ditt kontakt orsaken.HE
+17:54:43 037:057 > The NBeskriv ditt kontakt orsaken.HEJ
+17:54:47 037:055 > The NBeskriv ditt kontakt orsaken.HEJB
+17:54:48 037:056 > The NBeskriv ditt kontakt orsaken.HEJBe
+17:54:48 037:057 > The NBeskriv ditt kontakt orsaken.HEJBes
+17:54:48 037:058 > The NBeskriv ditt kontakt orsaken.HEJBesl
+17:54:49 037:059 > The NBeskriv ditt kontakt orsaken.HEJBeslr
+17:54:49 037:060 > The NBeskriv ditt kontakt orsaken.HEJBeslro
+17:54:50 037:058 > The NBeskriv ditt kontakt orsaken.HEJBeslrok
+17:54:50 037:059 > The NBeskriv ditt kontakt orsaken.HEJBeslrokr
+17:54:50 037:060 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrv
+17:54:50 037:061 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi
+17:54:51 037:060 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi i
+17:54:51 037:061 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv
+17:54:54 037:058 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv k
+17:54:54 037:059 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kr
+17:54:54 037:060 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kri
+17:54:54 037:061 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv
+17:54:54 037:063 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv k
+17:54:55 037:064 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv ko
+17:54:55 037:065 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kon
+17:54:55 037:066 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kont
+17:54:55 037:067 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv konta
+17:54:55 037:068 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kontak
+17:54:56 037:069 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kontakt
+17:54:56 037:071 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kontakt o
+17:54:56 037:072 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kontakt or
+17:54:56 037:073 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kontakt ors
+17:54:57 037:074 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kontakt orsa
+17:54:57 037:075 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kontakt orsak
+17:54:57 037:076 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kontakt orsake
+17:54:57 037:077 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kontakt orsaken
+17:54:59 037:078 > The NBeskriv ditt kontakt orsaken.HEJBeslrokrvi iv kriv kontakt orsaken.
+17:55:24 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:55:28 133:004 > b
+17:55:29 133:005 > bo
+17:55:29 133:006 > bor
+17:55:29 133:007 > bord
+17:55:29 133:008 > borde
+17:55:29 133:009 > border
+17:55:29 133:004 > border: ;
+17:55:31 133:012 > s
+17:55:31 133:013 > so
+17:55:31 133:014 > sol
+17:55:31 133:012 > solid
+17:55:33 133:018 >  2
+17:55:34 133:018 >  23
+17:55:35 133:019 >  23p
+17:55:35 133:020 >  23px
+17:55:35 133:018 > 3px
+17:55:40 133:022 >  v
+17:55:40 133:023 >  va
+17:55:40 133:024 >  var
+17:55:40 133:022 > var()
+17:55:41 133:026 > --brunswick-green
+17:55:54 148:004 > border: solid 3px var(--brunswick-green);
+
+17:55:58 149:004 > v
+17:55:58 149:004 > vb
+17:55:58 149:005 > vba
+17:55:59 149:006 > vbac
+17:55:59 149:007 > vback
+17:55:59 149:004 > background-color: ;
+17:56:00 149:022 > v
+17:56:00 149:023 > va
+17:56:01 149:024 > var
+17:56:01 149:022 > var()
+17:56:03 149:026 > --dartmouth-green
+17:56:07 149:025 > ()
+17:56:08 149:025 > ()
+17:56:10 149:026 > v
+17:56:11 149:026 > v.
+17:56:11 149:026 > v.-
+17:56:13 149:026 > --mint
+17:56:34 149:026 > -
+17:56:34 149:027 > --
+17:56:40 149:026 > --celadon-2
+
+17:56:46 148:026 > -
+17:56:46 148:027 > --
+17:56:50 148:026 > --dark-green
+
+17:57:16 149:026 > -
+17:57:17 149:027 > --
+17:57:18 149:026 > --celadon
+17:57:27 149:025 > ()
+17:57:28 149:026 > -
+17:57:29 149:027 > --
+17:57:31 149:026 > --nyanza
+
+17:57:41 150:004 > b
+17:57:41 150:005 > bo
+17:57:41 150:006 > bor
+17:57:41 150:007 > bord
+17:57:46 150:004 > bordb
+17:57:47 150:005 > bordbo
+17:57:47 150:006 > bordbor
+17:57:48 150:004 > border-radius: ;
+17:57:50 150:019 > 4
+17:57:51 150:019 > 44
+17:57:51 150:020 > 44p
+17:57:51 150:021 > 44px
+17:57:51 150:019 > 4px
+
+17:57:56 151:004 > p
+17:57:56 151:005 > pa
+17:57:56 151:006 > pad
+17:57:56 151:007 > padd
+17:57:56 151:004 > padding: ;
+17:57:58 151:013 > 2
+17:57:58 151:014 > 2%
+17:57:59 151:013 > 2%
+17:58:59 153:000 > .kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+    justify-self: center;
+    grid-column: 2;
+    width: Clamp(125px, 15vw, 200px);
+    border: solid 3px var(--dark-green);
+    background-color: var(--nyanza);
+    border-radius: 4px;
+    padding: 2%;
+}
+
+17:59:09 154:048 > s
+17:59:09 154:049 > se
+17:59:10 154:050 > sel
+17:59:10 154:051 > sele
+17:59:12 154:048 > sele_
+17:59:13 154:048 > sele_:
+17:59:13 154:049 > sele_:s
+17:59:14 154:050 > sele_:se
+17:59:14 154:051 > sele_:sel
+17:59:16 154:050 > sele_:sele
+17:59:16 154:051 > sele_:selel
+17:59:26 154:048 > :focus
+17:59:30 153:044 > :focus{
+
+17:59:37 155:004 > f
+17:59:38 155:005 > fo
+17:59:38 155:006 > fok
+17:59:39 155:006 > fokc
+17:59:39 155:007 > fokcu
+17:59:39 155:008 > fokcus
+
+18:00:34 156:001 > a
+18:00:34 156:002 > aw
+18:00:34 156:003 > awd
+
+18:00:39 155:004 > o
+18:00:40 155:004 > outline: 2px solid orange
+18:00:53 155:023 > -
+18:00:55 155:023 > -v
+18:00:56 155:024 > -va
+18:00:56 155:025 > -var
+18:00:56 155:023 > var()
+18:00:57 155:027 > --celadon
+18:01:06 155:013 > 5
+18:01:29 155:037 > 5;
+18:01:48 153:000 > .kontainer main .kontakta-oss-formulär input:focus,
+18:02:29 155:038 > !important;
+18:02:31 155:039 > !important;
+18:02:33 155:038 > !important;
+18:03:05 156:004 > outline: none !important;
+    border:1px solid red;
+    box-shadow: 0 0 10px #719ECE;
+
+18:03:40 156:004 > b
+18:03:40 156:005 > ba
+18:03:40 156:006 > bac
+18:03:40 156:007 > back
+18:03:41 156:004 > background-color: ;
+18:03:42 156:022 > b
+18:03:42 156:023 > bl
+18:03:43 156:024 > blu
+18:03:43 156:025 > blue
+18:03:43 156:022 > blue
+18:04:06 156:022 > -
+18:04:07 156:022 > -v
+18:04:07 156:023 > -va
+18:04:07 156:024 > -var
+18:04:07 156:022 > var()
+18:04:10 156:026 > --celadon-2
+18:04:45 156:026 > -
+18:04:45 156:027 > --
+18:04:49 156:026 > --mint-2
+18:06:24 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:06:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:06:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:06:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:06:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+18:06:40 038:027 > i
+18:06:40 038:028 > id
+18:06:41 038:030 > id )
+18:06:42 038:030 > id )=
+18:06:42 038:031 > id )=s
+18:06:43 038:032 > id )=su
+18:06:43 038:033 > id )=sub
+18:06:43 038:034 > id )=subm
+18:06:44 038:035 > id )=submi
+18:06:44 038:036 > id )=submit
+18:06:52 038:031 > id )=submit"
+18:06:52 038:038 > id )=submit""
+18:06:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:06:58 158:000 > #
+18:06:59 158:001 > #s
+18:06:59 158:002 > #sy
+18:06:59 158:003 > #syb
+18:07:00 158:002 > #sybu
+18:07:00 158:003 > #sybub
+18:07:00 158:004 > #sybubm
+18:07:01 158:005 > #sybubmi
+18:07:01 158:006 > #sybubmit
+18:07:02 158:007 > {}
+18:07:15 158:000 > .kontainer main .kontakta-oss-formulär
+18:07:19 158:046 >   :
+18:07:19 158:047 >   :f
+18:07:20 158:048 >   :fo
+18:07:20 158:046 > :focus
+
+18:07:24 159:000 > p
+18:07:24 159:001 > po
+18:07:25 159:002 > poi
+18:07:25 159:003 > poin
+18:07:25 159:004 > point
+18:07:25 159:005 > pointe
+18:07:27 159:000 > pointem
+18:07:27 159:001 > pointemo
+18:07:27 159:002 > pointemou
+18:07:27 159:003 > pointemous
+18:07:30 159:000 > pointemousc
+18:07:30 159:001 > pointemouscu
+18:07:30 159:002 > pointemouscur
+18:07:30 159:003 > pointemouscurs
+18:07:31 159:000 > cursor: ;
+18:07:32 159:008 > h
+18:07:32 159:009 > hg
+18:07:32 159:008 > hgh
+18:07:33 159:008 > hghp
+18:07:33 159:009 > hghpo
+18:07:33 159:008 > pointer
+
+18:07:39 158:047 > f
+18:07:40 158:047 > fh
+18:07:41 158:048 > fho
+18:07:41 158:049 > fhov
+18:07:41 158:046 > :hover
+18:08:09 158:000 > .kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus{
+    outline: 5px solid var(--celadon); 
+    background-color: var(--mint-2);
+}
+18:08:11 158:045 > h
+18:08:11 158:046 > ho
+18:08:11 158:047 > hov
+18:08:12 158:048 > hove
+18:08:12 158:049 > hover
+18:08:12 158:044 > :hover
+
+18:08:14 159:048 > h
+18:08:14 159:049 > ho
+18:08:14 159:050 > hov
+18:08:14 159:051 > hove
+18:08:15 159:052 > hover
+18:08:15 159:047 > :hover
+
+18:08:24 160:026 > -
+18:08:24 160:027 > --
+18:08:33 160:026 > --dartmouth-green
+18:08:50 160:004 > outline: 5px solid var(--celadon);
+
+18:09:24 123:004 > b
+18:09:24 123:005 > bp
+18:09:25 123:006 > bpr
+18:09:25 123:005 > bpro
+18:09:25 123:006 > bpror
+18:09:25 123:007 > bprord
+18:09:26 123:008 > bprordr
+18:09:26 123:009 > bprordra
+18:09:26 123:004 > border-radius: ;
+18:09:27 123:019 > 4
+18:09:27 123:020 > 4p
+18:09:27 123:021 > 4px
+18:09:28 123:019 > 4px
+
+18:09:32 124:004 > b
+18:09:32 124:005 > ba
+18:09:32 124:006 > bac
+18:09:32 124:007 > bacl
+18:09:33 124:004 > background-color: ;
+18:09:34 124:022 > b
+18:09:36 124:022 > bc
+18:09:36 124:022 > bcv
+18:09:36 124:021 > bcvv
+18:09:37 124:022 > bcvva
+18:09:37 124:023 > bcvvar
+18:09:37 124:021 > var()
+18:09:38 124:025 > --celadon
+18:10:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+18:10:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\script.js
+----------------------------------------
+
+18:11:04 000:000 > l
+18:11:04 000:001 > le
+18:11:04 000:002 > let
+18:11:13 000:004 > let s
+18:11:13 000:005 > let su
+18:11:13 000:006 > let sub
+18:11:14 000:007 > let subm
+18:11:14 000:008 > let submi
+18:11:14 000:009 > let submit
+18:11:15 000:010 > let submitb
+18:11:16 000:011 > let submitbt
+18:11:16 000:012 > let submitbtn
+18:11:17 000:010 > let submitbtnB
+18:11:18 000:011 > let submitbtnBt
+18:11:18 000:012 > let submitbtnBtn
+18:11:36 000:014 > let submitbtnBtn =
+18:11:37 000:016 > let submitbtnBtn = q
+18:11:37 000:017 > let submitbtnBtn = qu
+18:11:37 000:018 > let submitbtnBtn = que
+18:11:37 000:019 > let submitbtnBtn = quer
+18:11:37 000:020 > let submitbtnBtn = quers
+18:11:38 000:021 > let submitbtnBtn = quersl
+18:11:38 000:022 > let submitbtnBtn = quersle
+18:11:39 000:016 > let submitbtnBtn = quersled
+18:11:39 000:017 > let submitbtnBtn = quersledo
+18:11:39 000:018 > let submitbtnBtn = quersledoc
+18:11:39 000:019 > let submitbtnBtn = quersledocu
+18:11:40 000:016 > document
+18:11:40 000:024 > .
+18:11:40 000:025 > .q
+18:11:40 000:026 > .qu
+18:11:41 000:027 > .que
+18:11:41 000:028 > .quer
+18:11:41 000:024 > .querySelector
+18:11:42 000:038 > ()
+18:11:42 000:039 > )
+18:11:43 000:039 > ))
+18:11:44 000:039 > ""
+18:11:46 000:040 > #
+18:11:47 000:041 > #s
+18:11:47 000:042 > #su
+18:11:47 000:043 > #sub
+18:11:47 000:044 > #subm
+18:11:47 000:045 > #submi
+18:11:48 000:046 > #submit
+18:11:49 000:049 > #submit.
+18:11:50 000:050 > #submit.a
+18:11:50 000:051 > #submit.ad
+18:11:50 000:052 > #submit.add
+18:11:50 000:049 > .addEventListener
+18:11:51 000:066 > ()
+18:11:52 000:067 > {}
+18:11:54 000:067 > ()
+18:11:56 000:069 > =
+18:11:57 000:070 > =>
+18:11:57 000:071 > {}
+
+18:12:01 002:002 > ;
+
+18:12:11 000:049 > ;
+
+18:12:13 001:000 > s
+18:12:13 001:001 > su
+18:12:13 001:002 > sub
+18:12:13 001:000 > submitBtn
+18:12:14 001:009 > .
+18:12:14 001:010 > .a
+18:12:16 001:009 > .addEventListener
+18:12:17 001:026 > ()
+18:12:20 001:027 > {}
+18:12:22 001:027 > ()
+18:12:24 001:027 > ()
+18:12:26 001:029 > >
+18:12:27 001:029 > >=
+18:12:27 001:030 > >=>
+18:12:32 001:027 > >=>t
+18:12:33 001:028 > >=>ty
+18:12:33 001:029 > >=>typ
+18:12:35 001:027 > ""
+18:12:36 001:028 > c
+18:12:36 001:029 > cl
+18:12:38 001:027 > ''
+18:12:38 001:028 > c
+18:12:38 001:029 > cö
+18:12:39 001:027 > cöc
+18:12:40 001:028 > cöcl
+18:12:40 001:029 > cöcli
+18:12:40 001:030 > cöclic
+18:12:40 001:031 > cöclick
+18:12:46 001:027 > cöclickt
+18:12:46 001:028 > cöclickty
+18:12:47 001:027 > typeof
+18:12:47 001:034 >  c
+18:12:48 001:035 >  cl
+18:12:48 001:036 >  cli
+18:12:48 001:037 >  clic
+18:12:48 001:038 >  click
+18:12:48 001:039 >  clicke
+18:12:49 001:040 >  clicked
+18:12:50 001:027 >  clickedc
+18:12:50 001:028 >  clickedcö
+18:12:51 001:028 >  clickedcöl
+18:12:51 001:029 >  clickedcöli
+18:12:51 001:030 >  clickedcölic
+18:12:51 001:031 >  clickedcölick
+18:12:51 001:032 >  clickedcölicke
+18:12:52 001:033 >  clickedcölicked
+18:12:53 001:027 > ""
+18:12:54 001:028 > c
+18:12:54 001:029 > cl
+18:12:54 001:030 > cli
+18:12:54 001:031 > clic
+18:12:55 001:032 > click
+18:12:55 001:033 > clicke
+18:12:55 001:034 > clicked
+18:12:58 001:028 > clickedC
+18:12:59 001:029 > clickedCl
+18:12:59 001:030 > clickedCli
+18:12:59 001:031 > clickedClic
+18:12:59 001:032 > clickedClick
+18:13:01 001:034 > clickedClick.
+18:13:02 001:034 > clickedClick.,
+
+18:13:08 002:000 > o
+18:13:09 002:001 > on
+
+18:13:11 003:000 > O
+18:13:11 003:000 > OV
+18:13:12 003:000 > OVo
+18:13:12 003:001 > OVov
+18:13:13 003:002 > OVovo
+18:13:13 003:003 > OVovoi
+18:13:13 003:000 > OVovoiv
+18:13:13 003:001 > OVovoivo
+18:13:14 003:002 > OVovoivoi
+18:13:14 003:000 > OVovoivoif
+18:13:14 003:001 > OVovoivoifu
+18:13:15 003:002 > OVovoivoifun
+18:13:15 003:003 > OVovoivoifunc
+18:13:15 003:004 > OVovoivoifunct
+18:13:15 003:005 > OVovoivoifuncti
+18:13:15 003:006 > OVovoivoifunctio
+18:13:16 003:007 > OVovoivoifunctio n
+18:13:17 003:009 > OVovoivoifunctio n o
+18:13:17 003:010 > OVovoivoifunctio n on
+18:13:18 003:011 > OVovoivoifunctio n onS
+18:13:19 003:012 > OVovoivoifunctio n onSu
+18:13:19 003:013 > OVovoivoifunctio n onSub
+18:13:22 003:009 > OVovoivoifunctio n onSubS
+18:13:22 003:010 > OVovoivoifunctio n onSubSu
+18:13:23 003:011 > OVovoivoifunctio n onSubSum
+18:13:23 003:012 > OVovoivoifunctio n onSubSumb
+18:13:23 003:011 > OVovoivoifunctio n onSubSumbb
+18:13:23 003:012 > OVovoivoifunctio n onSubSumbbm
+18:13:24 003:013 > OVovoivoifunctio n onSubSumbbmi
+18:13:24 003:014 > OVovoivoifunctio n onSubSumbbmit
+18:13:25 003:015 > OVovoivoifunctio n onSubSumbbmit C
+18:13:25 003:016 > OVovoivoifunctio n onSubSumbbmit Cl
+18:13:25 003:017 > OVovoivoifunctio n onSubSumbbmit Cli
+18:13:25 003:018 > OVovoivoifunctio n onSubSumbbmit Clic
+18:13:25 003:019 > OVovoivoifunctio n onSubSumbbmit Click
+18:13:26 003:020 > OVovoivoifunctio n onSubSumbbmit Clicke
+18:13:26 003:021 > OVovoivoifunctio n onSubSumbbmit Clicked
+18:13:26 003:022 > ()
+18:13:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+18:13:34 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\script.js
+----------------------------------------
+18:13:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+18:13:58 004:000 > {}
+18:14:03 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+18:14:14 046:004 > s
+18:14:14 046:005 > sc
+18:14:14 046:006 > scr
+18:14:14 046:007 > scri
+18:14:15 046:004 > <script></script>
+18:14:16 046:012 >  h
+18:14:17 046:013 >  hr
+18:14:17 046:014 >  hre
+18:14:17 046:015 >  href
+18:14:18 046:016 >  href=
+18:14:18 046:017 > ""
+18:14:20 046:018 > -
+18:14:20 046:018 > -.
+18:14:20 046:019 > ()
+18:14:21 046:019 > /
+18:14:23 046:020 > kontakt-script.js
+18:14:34 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+18:14:38 005:004 > c
+18:14:38 005:005 > co
+18:14:38 005:006 > con
+18:14:38 005:007 > cons
+18:14:39 005:008 > conso
+18:14:39 005:009 > consol
+18:14:39 005:004 > console
+18:14:39 005:011 > .
+18:14:40 005:012 > .l
+18:14:40 005:011 > .log
+18:14:40 005:015 > ()
+18:14:41 005:016 > ""
+18:14:41 005:017 > b
+18:14:41 005:018 > br
+18:14:41 005:019 > bro
+
+18:14:43 004:001 > ;
+
+18:14:45 005:022 > ;
+
+18:14:48 001:035 > s
+18:14:48 001:036 > sy
+18:14:48 001:037 > syb
+18:14:50 001:036 > sybS
+18:14:51 001:035 > sybSS
+18:14:51 001:036 > sybSSy
+18:14:51 001:037 > sybSSyb
+18:14:52 001:038 > sybSSybn
+18:14:55 001:036 > sybSSybny
+18:14:55 001:036 > sybSSybnyu
+18:14:56 001:037 > sybSSybnyub
+18:14:56 001:038 > sybSSybnyubm
+18:14:57 001:035 > SubmitClicked
+
+18:15:07 003:009 > O
+18:15:07 003:010 > On
+
+18:15:10 001:035 > O
+18:15:10 001:036 > On
+18:15:36 001:051 > On;
+18:15:40 001:028 > On;c
+
+18:16:32 005:004 > a
+18:16:32 005:005 > al
+18:16:32 005:006 > ale
+18:16:32 005:007 > aler
+18:16:32 005:004 > alert
+18:16:33 005:009 > ()
+18:16:33 005:010 > ""
+18:16:34 005:011 > r
+18:16:34 005:012 > re
+18:16:34 005:013 > red
+18:16:34 005:015 > red a
+18:16:35 005:016 > red ak
+18:16:35 005:017 > red ake
+18:16:35 005:018 > red aker
+18:16:36 005:016 > red akerl
+18:16:36 005:017 > red akerle
+18:16:36 005:018 > red akerlet
+18:16:37 005:018 > red akerletr
+18:16:37 005:019 > red akerletrt
+18:16:40 005:022 > red akerletrt;
+18:16:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+18:16:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:16:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+18:17:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:17:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+18:17:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:18:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:18:44 148:004 > f
+18:18:44 148:005 > fo
+18:18:44 148:006 > fom
+18:18:44 148:007 > fomt
+18:18:46 148:008 > fomts
+18:18:47 148:006 > fomtsm
+18:18:47 148:007 > fomtsmt
+18:18:47 148:008 > fomtsmts
+18:18:48 148:006 > fomtsmtsn
+18:18:48 148:007 > fomtsmtsnt
+18:18:49 148:008 > fomtsmtsnts
+18:18:49 148:004 > font-size: ;
+18:18:52 149:019 > font-size: ;
+
+18:18:57 149:015 > s
+18:18:57 149:016 > sy
+18:18:59 149:013 > sy:
+18:19:00 149:014 > sy:u
+18:19:00 149:014 > sy:us
+18:19:03 149:008 > sy:us-
+18:19:03 149:009 > sy:us-f
+18:19:03 149:010 > sy:us-fa
+18:19:04 149:004 > font-family: ;
+18:19:04 149:017 > s
+18:19:05 149:018 > sy
+18:19:05 149:017 > system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+18:20:04 134:018 > 4
+18:20:04 134:019 > 40
+18:20:05 134:018 > 40px
+18:20:09 134:018 > 3
+18:20:10 134:019 > 30
+18:20:13 134:019 > 304
+18:20:15 134:019 > 3045
+18:27:48 165:000 > .kontainer main .kontakta-oss-formulär #submit:hover{
+
+18:27:54 166:000 > }
+18:27:57 166:000 > }f
+18:27:58 166:001 > }fo
+18:27:58 166:002 > }fon
+18:27:58 166:003 > }font
+18:27:59 166:004 > }fontw
+18:27:59 166:000 > font-weight: ;
+18:28:00 166:013 > 5
+18:28:00 166:014 > 50
+18:28:00 166:015 > 500
+18:28:01 166:016 > 500p
+18:28:03 166:013 > 500p9
+18:28:04 166:014 > 500p90
+18:28:04 166:015 > 500p900
+
+18:28:40 000:000 > s
+18:28:40 000:001 > st
+18:28:40 000:002 > sty
+18:28:41 000:003 > styl
+18:28:41 000:004 > style
+18:28:41 000:004 > stylea
+18:28:41 000:005 > stylead
+18:28:42 000:006 > styleade
+18:28:42 000:008 > styleade f
+18:28:42 000:009 > styleade fo
+18:28:43 000:010 > styleade fom
+18:28:44 000:011 > styleade fomu
+18:28:44 000:012 > styleade fomul
+18:28:45 000:013 > styleade fomulä
+18:28:45 000:014 > styleade fomulär
+18:28:45 000:015 > styleade fomuläre
+18:28:45 000:016 > styleade fomuläret
+18:28:46 000:018 > styleade fomuläret i
+18:28:49 000:020 > styleade fomuläret i k
+18:28:49 000:021 > styleade fomuläret i ko
+18:28:49 000:022 > styleade fomuläret i kon
+18:28:50 000:023 > styleade fomuläret i kont
+18:28:50 000:024 > styleade fomuläret i konta
+18:28:50 000:025 > styleade fomuläret i kontak
+18:28:50 000:026 > styleade fomuläret i kontakt
+18:28:50 000:027 > styleade fomuläret i kontakta
+18:28:51 000:029 > styleade fomuläret i kontakta o
+18:28:51 000:030 > styleade fomuläret i kontakta os
+18:28:51 000:031 > styleade fomuläret i kontakta oss
+18:28:51 000:033 > styleade fomuläret i kontakta oss s
+18:28:52 000:034 > styleade fomuläret i kontakta oss si
+18:28:52 000:035 > styleade fomuläret i kontakta oss sid
+18:28:52 000:036 > styleade fomuläret i kontakta oss sida
+18:28:52 000:037 > styleade fomuläret i kontakta oss sidan
+18:28:53 000:038 > styleade fomuläret i kontakta oss sidan.
+18:28:53 000:038 > styleade fomuläret i kontakta oss sidan.,
+18:28:54 000:040 > styleade fomuläret i kontakta oss sidan., o
+18:28:54 000:041 > styleade fomuläret i kontakta oss sidan., oc
+18:28:54 000:042 > styleade fomuläret i kontakta oss sidan., och
+18:28:55 000:044 > styleade fomuläret i kontakta oss sidan., och h
+18:28:55 000:045 > styleade fomuläret i kontakta oss sidan., och ha
+18:28:55 000:046 > styleade fomuläret i kontakta oss sidan., och har
+18:28:58 000:048 > styleade fomuläret i kontakta oss sidan., och har j
+18:28:58 000:049 > styleade fomuläret i kontakta oss sidan., och har ja
+18:28:58 000:050 > styleade fomuläret i kontakta oss sidan., och har jav
+18:28:58 000:051 > styleade fomuläret i kontakta oss sidan., och har java
+18:28:59 000:052 > styleade fomuläret i kontakta oss sidan., och har javas
+18:28:59 000:053 > styleade fomuläret i kontakta oss sidan., och har javasc
+18:28:59 000:054 > styleade fomuläret i kontakta oss sidan., och har javascr
+18:28:59 000:055 > styleade fomuläret i kontakta oss sidan., och har javascri
+18:29:00 000:056 > styleade fomuläret i kontakta oss sidan., och har javascrit
+18:29:01 000:057 > styleade fomuläret i kontakta oss sidan., och har javascritå
+18:29:04 000:038 > styleade fomuläret i kontakta oss sidan., och har javascritå.
+18:29:08 101:000 > .kontainer main .kontakta-oss-kontainer h1 {
+    font-size: Clamp(1rem, 3vw, 2.5rem);
+}
+
+
+.kontainer main .kontakta-oss-formulär {
+    font-size: Clamp(1rem, 1vw, 1.3rem);
+    margin-top: 7%;
+    width: 50%;
+    max-width: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto 0 auto;
+    grid-template-columns: auto 1fr;
+    gap: 10px;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+    padding: Clamp(5px, 2%, 15px);
+    margin: 20px 20px;
+    display: inline-block;
+    border: solid 3px;
+    border-radius: 4px;
+    background-color:var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+    grid-column: 1;
+    width: 100%;
+
+}
+
+.kontainer main .kontakta-oss-formulär input {
+    height: Clamp(35px, 4vh, 150px);
+    
+}
+
+
+.kontainer main .kontakta-oss-formulär textarea {
+
+    resize: none;
+    height: Clamp(100px, 15vw, 200px);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+    justify-self: center;
+    grid-column: 2;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: Clamp(125px, 15vw, 200px);
+    border: solid 3px var(--dark-green);
+    background-color: var(--nyanza);
+    border-radius: 4px;
+    padding: 2%;
+}
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus{
+    outline: 5px solid var(--celadon); 
+    background-color: var(--mint-2);
+}
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover{
+    outline: 5px solid var(--celadon);
+}
+.kontainer main .kontakta-oss-formulär #submit{
+font-weight: 900;
+}
+.kontainer main .kontakta-oss-formulär #submit:hover{
+cursor: pointer;
+}
+
+
+.kontainer main .innehåll {
+    font-size: Clamp(1rem, 2.3vw, 1.5rem);
+    position: relative;
+}
+
+.kontainer main .alternativ-kontainer {
+    color: var(--dark-green);
+    border-radius: 3px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 3%;
+    text-align: center;
+    border: solid 5px var(--sea-green);
+    background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+    transition: all 100ms;
+    text-decoration: none;
+    display: block;
+    color: var(--dark-green);
+    border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+    padding: 2% 4%;
+    width: fit-content;
+    /* att elementen bara tar platsen de behöver.*/
+    margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+    border: 0.3vw solid white;
+}
+
+.kontainer main img {
+    display: block;
+    width: 100%;
+
+}
+
+.kontainer footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: var(--celadon-2);
+    border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+    color: white
+}
+
+.kontainer main .innehåll .om-oss {
+    margin: 0 auto 0 auto;
+    width: 50%;
+}
+
+@media(max-width: 700px) {
+
+    .kontainer .alternativ,
+    .kontainer nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .kontainer main .alternativ-kontainer {
+        position: relative;
+    }
+
+    .kontainer main .innehåll {
+        display: grid;
+    }
+
+    .kontainer nav .alternativ a {
+        padding: 5px;
+    }
+
+    .kontainer nav .ikon img {
+        width: 35px;
+    }
+
+    .kontainer main {
+        margin: 0 0 40px 0;
+    }
+
+    .kontainer main .kontakta-oss-formulär {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+18:29:08 031:000 > <input type="text" placeholder="Anders" id="fname" name="fname"><br><br>
+                    <label for="lname">Efternamn:</label>
+                    <input type="text" placeholder="Eriksson" id="lname" name="lname"><br><br>
+                    <label for="email">Email:</label>
+                    <input type="email" placeholder="Ex: Anderseriksson@gmail.com" id="email" name="email"><br><br>
+                    <label for="kommentar">Kommentar:</label>
+                    <textarea type="text" placeholder="Beskriv kontakt orsaken." id="kommentar" name="kommentar"></textarea>
+                    <input id ="submit" type="submit" value="Skicka">
+                </form>
+            </div>
+
+
+        </main>
+        <footer>Box Delivery - 2024&copy;</footer>
+    </div>
+    <script href="./kontakt-script.js"></script>
+18:30:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:31:45 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+18:31:58 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:31:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+18:32:04 007:000 > a
+18:32:04 007:001 > al
+18:32:04 007:002 > ale
+18:32:04 007:003 > aler
+18:32:04 007:000 > alert
+18:32:05 007:005 > )
+18:32:05 007:005 > ()
+18:32:06 007:006 > ""
+18:32:06 007:007 > n
+18:32:07 007:008 > nu
+18:32:07 007:009 > nug
+18:32:07 007:010 > nugg
+18:32:07 007:011 > nugga
+18:32:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+18:32:27 046:012 > s
+18:32:27 046:013 > sr
+18:32:27 046:014 > src
+18:32:28 046:012 > src
+
+18:32:46 038:027 > h
+18:32:46 038:028 > hr
+18:32:46 038:029 > hre
+18:32:47 038:030 > href
+18:32:47 038:031 > href=
+18:32:48 038:032 > ""
+18:32:48 038:033 > n
+18:32:49 038:034 > no
+18:32:49 038:035 > non
+18:32:49 038:036 > none
+18:34:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+18:34:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:34:43 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+18:36:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+18:36:56 005:004 > w
+
+18:36:59 001:034 > "
+18:36:59 001:027 > ""
+18:37:02 001:027 > ""
+18:37:04 001:028 > c
+18:37:04 001:029 > cl
+18:37:04 001:030 > clc
+18:37:04 001:031 > clci
+18:37:05 001:030 > clcii
+18:37:05 001:031 > clciic
+18:37:05 001:032 > clciick
+18:37:11 001:032 > clciickk
+18:37:13 001:033 > clciickki
+18:37:13 001:034 > clciickkii
+18:38:11 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+18:38:27 014:004 > b
+18:38:27 014:005 > bu
+18:38:27 014:006 > bug
+18:38:27 014:007 > bugg
+18:38:28 014:008 > bugga
+18:38:29 014:004 > buggab
+18:38:29 014:005 > buggabi
+18:38:29 014:006 > buggabig
+18:38:30 014:004 > buggabign
+18:38:30 014:005 > buggabigni
+18:38:30 014:006 > buggabignig
+18:38:30 014:007 > buggabignigg
+18:38:30 014:008 > buggabignigga
+18:38:33 014:004 > buggabignigga v
+18:38:34 014:005 > buggabignigga va
+18:38:34 014:006 > buggabignigga var
+18:38:34 014:008 > buggabignigga var b
+18:38:35 014:009 > buggabignigga var ba
+18:38:35 014:010 > buggabignigga var bad
+18:38:43 014:004 > buggabignigga var badh
+18:38:43 014:005 > buggabignigga var badhr
+18:38:43 014:006 > buggabignigga var badhre
+18:38:43 014:007 > buggabignigga var badhref
+18:38:46 014:004 > buggabignigga var badhrefd
+18:38:46 014:005 > buggabignigga var badhrefdo
+18:38:46 014:006 > buggabignigga var badhrefdoc
+18:38:46 014:004 > document
+18:38:47 014:012 > .
+18:38:48 014:013 > .l
+18:38:48 014:014 > .lo
+18:38:48 014:015 > .loa
+18:38:48 014:016 > .load
+18:38:51 014:013 > .loadr
+18:38:51 014:014 > .loadre
+18:38:51 014:015 > .loadrel
+18:38:51 014:016 > .loadrelo
+18:38:52 014:017 > .loadreloa
+18:38:52 014:018 > .loadreload
+18:38:53 014:012 > .loadreload.
+18:38:56 014:013 > .loadreload.s
+18:38:56 014:013 > .loadreload.sl
+18:38:57 014:014 > .loadreload.slo
+18:38:57 014:015 > .loadreload.sloa
+18:38:58 014:012 > .location
+18:38:58 014:021 > .
+18:39:01 014:022 > .a
+18:39:02 014:021 > .href
+18:39:03 014:026 > =
+18:39:04 014:027 > =  =
+18:39:06 014:029 > =  = .
+18:39:07 014:030 > ()
+18:39:07 014:030 > /
+18:39:08 014:031 > /.
+18:39:10 014:029 > ""
+18:39:10 014:030 > .
+18:39:11 014:031 > .(
+18:39:11 014:031 > .(/
+18:39:19 014:031 > .(/(
+18:39:19 014:031 > .(/()
+18:39:19 014:032 > .(/()=
+18:39:20 014:031 > .(/()=(
+18:39:21 014:031 > .(/()=(/
+18:39:24 014:031 > .(/()=(//
+18:39:25 014:032 > leveransplaner.html
+18:39:28 014:032 > k
+18:39:28 014:033 > ko
+18:39:28 014:034 > kon
+18:39:28 014:035 > kont
+18:39:30 014:031 > kont/
+18:39:31 014:032 > kontakta-oss.html
+18:39:33 014:050 > ;
+18:39:45 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+18:39:50 038:027 > a
+18:39:50 038:028 > ac
+18:39:50 038:029 > act
+18:39:51 038:030 > acto
+18:39:51 038:031 > actop
+18:39:51 038:032 > actopm
+18:39:53 038:031 > actopmi
+18:39:53 038:032 > actopmin
+18:39:55 038:027 > actopmin a
+18:39:55 038:028 > actopmin ac
+18:39:55 038:029 > actopmin act
+18:39:55 038:030 > actopmin acti
+18:39:56 038:031 > actopmin actio
+18:39:56 038:032 > actopmin action
+
+18:41:12 031:084 > r
+18:41:12 031:085 > re
+18:41:12 031:086 > req
+18:41:13 031:084 > required
+18:41:24 035:106 > required
+18:41:27 037:112 > required
+18:41:49 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+18:42:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+18:42:15 030:046 > *
+18:42:19 030:039 > **
+
+18:42:22 034:039 > *
+18:42:24 034:040 > *Ä
+
+18:42:28 036:043 > *
+18:43:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+18:43:02 014:004 > document.location.href = "./kontakta-oss.html";
+
+18:43:15 014:052 > /
+18:43:15 014:053 > //
+18:43:16 014:054 > //f
+18:43:16 014:055 > //fö
+18:43:16 014:056 > //för
+18:43:17 014:058 > //för a
+18:43:17 014:059 > //för at
+18:43:17 014:060 > //för att
+18:43:19 014:062 > //för att r
+18:43:19 014:063 > //för att re
+18:43:19 014:064 > //för att res
+18:43:19 014:065 > //för att rese
+18:43:19 014:066 > //för att reset
+18:43:20 014:067 > //för att reseta
+18:43:20 014:062 > //för att resetas
+18:43:21 014:063 > //för att resetast
+18:43:21 014:064 > //för att resetasto
+18:43:21 014:065 > //för att resetastop
+18:43:21 014:066 > //för att resetastopp
+18:43:21 014:067 > //för att resetastoppa
+18:43:22 014:069 > //för att resetastoppa s
+18:43:22 014:070 > //för att resetastoppa su
+18:43:22 014:071 > //för att resetastoppa sub
+18:43:23 014:072 > //för att resetastoppa subm
+18:43:23 014:073 > //för att resetastoppa submi
+18:43:23 014:074 > //för att resetastoppa submit
+18:43:24 014:076 > //för att resetastoppa submit f
+18:43:25 014:077 > //för att resetastoppa submit fr
+18:43:25 014:078 > //för att resetastoppa submit frå
+18:43:25 014:079 > //för att resetastoppa submit från
+18:43:26 014:081 > //för att resetastoppa submit från a
+18:43:26 014:082 > //för att resetastoppa submit från at
+18:43:26 014:083 > //för att resetastoppa submit från att
+18:43:26 014:085 > //för att resetastoppa submit från att f
+18:43:26 014:086 > //för att resetastoppa submit från att fu
+18:43:27 014:087 > //för att resetastoppa submit från att fun
+18:43:27 014:088 > //för att resetastoppa submit från att fung
+18:43:27 014:089 > //för att resetastoppa submit från att funge
+18:43:27 014:090 > //för att resetastoppa submit från att funger
+18:43:27 014:091 > //för att resetastoppa submit från att fungera
+18:43:28 014:093 > //för att resetastoppa submit från att fungera f
+18:43:29 014:094 > //för att resetastoppa submit från att fungera fö
+18:43:29 014:095 > //för att resetastoppa submit från att fungera för
+18:43:29 014:097 > //för att resetastoppa submit från att fungera för d
+18:43:29 014:098 > //för att resetastoppa submit från att fungera för de
+18:43:29 014:099 > //för att resetastoppa submit från att fungera för det
+18:43:30 014:101 > //för att resetastoppa submit från att fungera för det f
+18:43:30 014:102 > //för att resetastoppa submit från att fungera för det fi
+18:43:30 014:103 > //för att resetastoppa submit från att fungera för det fin
+18:43:30 014:104 > //för att resetastoppa submit från att fungera för det finn
+18:43:30 014:105 > //för att resetastoppa submit från att fungera för det finns
+18:43:31 014:107 > //för att resetastoppa submit från att fungera för det finns i
+18:43:31 014:108 > //för att resetastoppa submit från att fungera för det finns in
+18:43:31 014:109 > //för att resetastoppa submit från att fungera för det finns ing
+18:43:31 014:110 > //för att resetastoppa submit från att fungera för det finns inge
+18:43:31 014:111 > //för att resetastoppa submit från att fungera för det finns ingen
+18:43:32 014:113 > //för att resetastoppa submit från att fungera för det finns ingen s
+18:43:32 014:114 > //för att resetastoppa submit från att fungera för det finns ingen su
+18:43:32 014:115 > //för att resetastoppa submit från att fungera för det finns ingen sur
+18:43:33 014:114 > //för att resetastoppa submit från att fungera för det finns ingen sure
+18:43:33 014:115 > //för att resetastoppa submit från att fungera för det finns ingen surer
+18:43:33 014:116 > //för att resetastoppa submit från att fungera för det finns ingen surerv
+18:43:33 014:117 > //för att resetastoppa submit från att fungera för det finns ingen surerve
+18:43:33 014:118 > //för att resetastoppa submit från att fungera för det finns ingen surerver
+18:43:34 014:119 > //för att resetastoppa submit från att fungera för det finns ingen surerver.
+18:43:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:43:46 040:016 > <h1>Fyll i formuläret nedan</h1>
+18:44:04 039:020 > <h1>Fyll i formuläret nedan</h1>
+
+18:44:23 039:021 > p
+18:44:24 039:021 > pp
+18:44:27 039:048 > ppp
+18:44:41 039:023 > pppD
+18:44:42 039:024 > pppDu
+18:44:54 039:023 > pppDu D
+18:44:55 039:024 > pppDu Di
+18:44:55 039:025 > pppDu Dit
+18:44:55 039:026 > pppDu Ditt
+18:44:56 039:028 > pppDu Ditt f
+18:44:57 039:029 > pppDu Ditt fö
+18:44:57 039:030 > pppDu Ditt för
+18:44:58 039:031 > pppDu Ditt förm
+18:45:02 039:028 > pppDu Ditt förmm
+18:45:03 039:029 > pppDu Ditt förmme
+18:45:03 039:030 > pppDu Ditt förmmed
+18:45:03 039:031 > pppDu Ditt förmmedd
+18:45:03 039:032 > pppDu Ditt förmmedde
+18:45:03 039:033 > pppDu Ditt förmmeddel
+18:45:03 039:034 > pppDu Ditt förmmeddela
+18:45:04 039:035 > pppDu Ditt förmmeddelan
+18:45:04 039:036 > pppDu Ditt förmmeddeland
+18:45:04 039:037 > pppDu Ditt förmmeddelande
+18:45:05 039:039 > pppDu Ditt förmmeddelande ä
+18:45:05 039:040 > pppDu Ditt förmmeddelande är
+18:45:05 039:042 > pppDu Ditt förmmeddelande är n
+18:45:05 039:043 > pppDu Ditt förmmeddelande är nu
+18:45:06 039:045 > pppDu Ditt förmmeddelande är nu s
+18:45:06 039:046 > pppDu Ditt förmmeddelande är nu sk
+18:45:06 039:047 > pppDu Ditt förmmeddelande är nu ski
+18:45:06 039:048 > pppDu Ditt förmmeddelande är nu skic
+18:45:06 039:049 > pppDu Ditt förmmeddelande är nu skick
+18:45:06 039:050 > pppDu Ditt förmmeddelande är nu skicka
+18:45:11 039:023 > pppDu Ditt förmmeddelande är nu skickaF
+18:45:11 039:024 > pppDu Ditt förmmeddelande är nu skickaFö
+18:45:11 039:025 > pppDu Ditt förmmeddelande är nu skickaFör
+18:45:11 039:026 > pppDu Ditt förmmeddelande är nu skickaFörm
+18:45:12 039:027 > pppDu Ditt förmmeddelande är nu skickaFörmu
+18:45:12 039:028 > pppDu Ditt förmmeddelande är nu skickaFörmul
+18:45:13 039:028 > pppDu Ditt förmmeddelande är nu skickaFörmull
+18:45:14 039:029 > pppDu Ditt förmmeddelande är nu skickaFörmullä
+18:45:14 039:030 > pppDu Ditt förmmeddelande är nu skickaFörmullär
+18:45:14 039:031 > pppDu Ditt förmmeddelande är nu skickaFörmulläre
+18:45:14 039:032 > pppDu Ditt förmmeddelande är nu skickaFörmulläret
+18:45:32 039:024 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o
+18:45:34 039:034 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ä
+18:45:35 039:035 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o är
+18:45:36 039:034 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärh
+18:45:36 039:035 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärha
+18:45:36 039:036 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar
+18:45:36 039:038 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar n
+18:45:37 039:039 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar nu
+18:45:37 039:041 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar nu s
+18:45:37 039:042 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar nu sk
+18:45:37 039:043 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar nu ski
+18:45:37 039:044 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar nu skic
+18:45:38 039:045 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar nu skick
+18:45:38 039:046 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar nu skicka
+18:45:38 039:047 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar nu skickat
+18:45:38 039:048 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar nu skickats
+18:45:39 039:049 > pppDu Ditt förmmeddelande är nu skickaFörmulläret o ärhar nu skickats!
+18:45:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:46:06 171:000 > .kontainer main .kontakta-oss-formulär
+18:46:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:46:23 039:023 >   #
+18:46:24 039:023 >   #i
+18:46:24 039:024 >   #id
+18:46:25 039:023 > id=""
+18:46:29 039:027 > m
+18:46:29 039:028 > me
+18:46:29 039:029 > med
+18:46:30 039:030 > medd
+18:46:30 039:031 > medde
+18:46:30 039:032 > meddel
+18:46:30 039:033 > meddela
+18:46:31 039:034 > meddelan
+18:46:31 039:035 > meddeland
+18:46:31 039:036 > meddelande
+18:46:33 039:027 > meddelande i
+18:46:33 039:028 > meddelande in
+18:46:33 039:029 > meddelande inf
+18:46:33 039:030 > meddelande info
+18:46:34 039:031 > meddelande infor
+18:46:34 039:032 > meddelande inform
+18:46:34 039:033 > meddelande informa
+18:46:34 039:034 > meddelande informat
+18:46:34 039:035 > meddelande informati
+18:46:34 039:036 > meddelande informatio
+18:46:35 039:037 > meddelande information
+18:46:51 039:027 > meddelande informations
+18:46:52 039:027 > meddelande informationss
+18:46:52 039:028 > meddelande informationssk
+18:46:52 039:029 > meddelande informationsski
+18:46:53 039:030 > meddelande informationsskic
+18:46:53 039:031 > meddelande informationsskick
+18:46:53 039:032 > meddelande informationsskicka
+18:46:53 039:033 > meddelande informationsskickad
+18:46:57 039:027 > meddelande informationsskickads
+18:46:57 039:028 > meddelande informationsskickadsä
+18:46:57 039:029 > meddelande informationsskickadsän
+18:46:58 039:030 > meddelande informationsskickadsänd
+18:46:58 039:031 > meddelande informationsskickadsändi
+18:46:58 039:032 > meddelande informationsskickadsändin
+18:46:59 039:031 > meddelande informationsskickadsändinn
+18:46:59 039:032 > meddelande informationsskickadsändinni
+18:46:59 039:033 > meddelande informationsskickadsändinnin
+18:47:00 039:034 > meddelande informationsskickadsändinning
+18:47:00 039:035 > meddelande informationsskickadsändinnings
+18:47:02 039:036 > meddelande informationsskickadsändinningss
+18:47:03 039:037 > meddelande informationsskickadsändinningsst
+18:47:04 039:036 > meddelande informationsskickadsändinningsst-
+18:47:04 039:037 > meddelande informationsskickadsändinningsst-s
+18:47:04 039:038 > meddelande informationsskickadsändinningsst-st
+18:47:04 039:039 > meddelande informationsskickadsändinningsst-sta
+18:47:05 039:040 > meddelande informationsskickadsändinningsst-stat
+18:47:05 039:041 > meddelande informationsskickadsändinningsst-statu
+18:47:05 039:042 > meddelande informationsskickadsändinningsst-status
+18:47:11 039:043 > meddelande informationsskickadsändinningsst-status-
+18:47:12 039:044 > meddelande informationsskickadsändinningsst-status-m
+18:47:12 039:045 > meddelande informationsskickadsändinningsst-status-me
+18:47:12 039:046 > meddelande informationsskickadsändinningsst-status-med
+18:47:12 039:047 > meddelande informationsskickadsändinningsst-status-medd
+18:47:13 039:048 > meddelande informationsskickadsändinningsst-status-medd4
+18:47:13 039:049 > meddelande informationsskickadsändinningsst-status-medd4e
+18:47:13 039:050 > meddelande informationsskickadsändinningsst-status-medd4el
+18:47:13 039:048 > meddelande informationsskickadsändinningsst-status-medd4ele
+18:47:14 039:049 > meddelande informationsskickadsändinningsst-status-medd4elel
+18:47:14 039:050 > meddelande informationsskickadsändinningsst-status-medd4elela
+18:47:14 039:051 > meddelande informationsskickadsändinningsst-status-medd4elelan
+18:47:14 039:052 > meddelande informationsskickadsändinningsst-status-medd4eleland
+18:47:14 039:053 > meddelande informationsskickadsändinningsst-status-medd4elelande
+18:47:45 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:47:47 171:039 > #
+18:47:48 171:040 > #d
+18:47:48 171:040 > #ds
+18:47:48 171:039 > #sändningsmeddelande
+18:47:49 171:059 > {}
+
+18:47:59 172:004 > g
+18:47:59 172:005 > gr
+18:47:59 172:006 > grd
+18:48:00 172:007 > grdo
+18:48:00 172:004 > grid-column: ;
+18:48:01 172:017 > 1
+18:48:01 172:017 > 12
+
+18:48:05 173:004 > c
+18:48:06 173:005 > co
+18:48:06 173:006 > col
+18:48:06 173:007 > colo
+18:48:06 173:008 > color
+18:48:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+18:48:52 012:000 > l
+18:48:53 012:001 > le
+18:48:53 012:002 > let
+18:48:58 012:004 > let S
+18:48:58 012:005 > let Sä
+18:48:58 012:006 > let Sän
+18:48:58 012:007 > let Sänd
+18:49:00 012:004 > let Sänds
+18:49:00 012:005 > let Sändsä
+18:49:00 012:006 > let Sändsän
+18:49:01 012:007 > let Sändsänd
+18:49:01 012:008 > let Sändsändd
+18:49:01 012:009 > let Sändsänddn
+18:49:01 012:010 > let Sändsänddni
+18:49:02 012:008 > let Sändsänddnin
+18:49:03 012:009 > let Sändsänddnini
+18:49:03 012:010 > let Sändsänddninin
+18:49:03 012:011 > let Sändsänddnining
+18:49:03 012:012 > let Sändsänddninings
+18:49:04 012:013 > let Sändsänddniningsm
+18:49:05 012:014 > let Sändsänddniningsme
+18:49:05 012:015 > let Sändsänddniningsmed
+18:49:05 012:016 > let Sändsänddniningsmedd
+18:49:05 012:017 > let Sändsänddniningsmedde
+18:49:05 012:018 > let Sändsänddniningsmeddel
+18:49:05 012:019 > let Sändsänddniningsmeddela
+18:49:06 012:020 > let Sändsänddniningsmeddelan
+18:49:06 012:021 > let Sändsänddniningsmeddeland
+18:49:06 012:022 > let Sändsänddniningsmeddelande
+18:49:10 012:024 > let Sändsänddniningsmeddelande =
+18:49:11 012:026 > let Sändsänddniningsmeddelande = q
+18:49:11 012:026 > let Sändsänddniningsmeddelande = qd
+18:49:11 012:027 > let Sändsänddniningsmeddelande = qdo
+18:49:12 012:028 > let Sändsänddniningsmeddelande = qdoc
+18:49:12 012:026 > document
+18:49:12 012:034 > .
+18:49:12 012:035 > .q
+18:49:12 012:036 > .qu
+18:49:13 012:037 > .que
+18:49:13 012:034 > .querySelector
+18:49:13 012:048 > ()
+18:49:14 012:049 > ""
+18:49:15 012:049 > #
+18:49:16 012:049 > ""
+18:49:16 012:050 > #
+18:49:21 012:051 > #s
+18:49:22 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:49:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+18:49:25 012:052 > sändningsmeddelande
+18:50:09 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+18:50:11 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:50:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+18:50:13 012:051 > sändningsmeddelande
+18:50:18 012:072 > ;
+
+18:50:44 017:004 > i
+18:50:44 017:005 > if
+18:50:44 017:004 > if
+18:50:44 017:006 > ()
+18:50:50 017:007 > u
+18:50:50 017:007 > ui
+18:51:05 017:004 > uis
+18:51:05 017:005 > uisä
+18:51:05 017:006 > uisän
+18:51:06 017:004 > sändningsmeddelande
+18:51:06 017:023 > .
+18:51:08 017:024 > .c
+18:51:08 017:025 > .cs
+18:51:08 017:026 > .css
+18:51:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:51:13 173:004 > d
+18:51:13 173:005 > di
+18:51:14 173:006 > dis
+18:51:14 173:004 > display: ;
+18:51:15 173:013 > n
+18:51:15 173:014 > no
+18:51:15 173:015 > non
+18:51:15 173:013 > none
+18:51:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+
+18:51:20 017:024 > d
+18:51:20 017:025 > di
+18:51:20 017:026 > dis
+18:51:21 017:024 > disc
+18:51:21 017:025 > discs
+18:51:22 017:024 > discss
+18:51:22 017:025 > discsst
+18:51:23 017:026 > discssty
+18:51:23 017:024 > computedStyleMap
+18:51:24 017:023 > .
+18:51:24 017:024 > .s
+18:51:25 017:025 > .st
+18:51:25 017:026 > .sty
+18:51:27 017:023 > .computedStyleMap
+18:51:29 017:023 > .
+18:51:39 017:024 > .g
+18:51:39 017:025 > .ge
+18:51:39 017:026 > .get
+18:51:40 017:027 > .gets
+18:51:40 017:028 > .getst
+18:51:42 017:024 > .getste
+18:51:42 017:025 > .getstel
+18:51:43 017:026 > .getstele
+18:51:43 017:027 > .getstelem
+18:51:43 017:028 > .getsteleme
+18:51:43 017:029 > .getstelemen
+18:51:44 017:030 > .getstelement
+18:51:44 017:024 > .getstelements
+18:51:45 017:025 > .getstelementst
+18:51:45 017:026 > .getstelementsty
+18:51:45 017:027 > .getstelementstyl
+18:51:45 017:028 > .getstelementstyle
+18:51:46 017:024 > computedStyleMap
+18:51:47 017:040 > ()
+18:51:48 017:042 > .
+18:51:50 017:043 > .s
+18:51:51 017:044 > .st
+18:51:51 017:045 > .sty
+18:52:12 017:023 > .sty-
+18:52:13 017:023 > .sty-.
+18:52:20 017:024 > .sty-.s
+18:52:20 017:025 > .sty-.st
+18:52:20 017:026 > .sty-.sty
+18:52:21 017:027 > .sty-.styl
+18:52:21 017:028 > .sty-.style
+18:52:22 017:023 > .computedStyleMap
+18:52:22 017:040 > .
+18:52:23 017:024 > .S
+18:52:23 017:025 > .St
+18:52:24 017:026 > .Sty
+18:52:24 017:024 > .Stys
+18:52:25 017:025 > .Styst
+18:52:25 017:026 > .Stysty
+18:52:25 017:027 > .Stystyl
+18:52:25 017:028 > .Stystyle
+18:52:26 017:024 > computedStyleMap
+18:52:26 017:040 > .
+18:52:29 017:041 > .c
+18:52:29 017:042 > .cp
+18:52:30 017:042 > .cpo
+18:52:30 017:043 > .cpob
+18:52:30 017:044 > .cpobl
+18:52:32 017:024 > .cpobl.
+18:52:32 017:023 > .cpobl..
+18:52:33 017:024 > .cpobl..s
+18:52:33 017:025 > .cpobl..st
+18:52:33 017:026 > .cpobl..sty
+18:52:33 017:027 > .cpobl..styl
+18:52:33 017:028 > .cpobl..style
+
+18:52:45 012:035 > g
+18:52:45 012:036 > ge
+18:52:45 012:037 > get
+18:52:46 012:035 > getElementById
+
+18:53:08 010:000 > s
+18:53:08 010:001 > su
+18:53:08 010:002 > sub
+18:53:08 010:003 > subm
+18:53:08 010:004 > submi
+18:53:11 010:000 > SubmitEvent
+18:53:12 010:000 > s
+18:53:12 010:001 > sy
+18:53:13 010:000 > submitBtn
+18:53:13 010:009 > .
+18:53:14 010:010 > .e
+18:53:14 010:011 > .ev
+18:53:15 010:012 > .eve
+18:53:15 010:013 > .evel
+18:53:17 010:013 > .eveln
+18:53:17 010:014 > .evelnt
+18:53:18 010:009 > .addEventListener
+18:53:18 010:026 > .
+18:53:21 010:009 > ..
+18:53:22 010:010 > ..e
+18:53:22 010:011 > ..ev
+18:53:22 010:012 > ..eve
+18:53:22 010:013 > ..even
+18:53:22 010:014 > ..event
+18:53:31 010:009 > .previousElementSibling
+18:53:33 010:010 > p
+18:53:33 010:011 > pr
+18:53:33 010:012 > pre
+18:53:33 010:013 > prev
+18:53:35 010:010 > preve
+18:53:35 010:011 > prevev
+18:53:36 010:012 > preveve
+18:53:36 010:013 > preveven
+18:53:36 010:014 > prevevent
+18:53:39 010:010 > removeEventListener
+18:53:40 010:029 > ()
+18:53:41 010:031 > :
+18:53:42 010:031 > :;
+18:53:44 010:030 > ""
+18:53:44 010:031 > c
+18:53:44 010:032 > cl
+18:53:45 010:033 > cli
+18:53:45 010:034 > clic
+18:53:45 010:035 > click

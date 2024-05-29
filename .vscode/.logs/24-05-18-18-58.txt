@@ -1,0 +1,1030 @@
+24-05-18 18:58 Session started
+----------------------------------------
+18:58:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:58:58 365:002 > f
+18:58:58 365:003 > fo
+18:58:58 365:004 > fon
+18:58:59 365:005 > font
+18:58:59 365:006 > fonts
+18:58:59 365:007 > fontsi
+18:58:59 365:002 > font-size: ;
+18:59:00 365:013 > C
+18:59:01 365:014 > Cl
+18:59:01 365:015 > Cla
+18:59:01 365:016 > Clam
+18:59:02 365:017 > Clamp
+18:59:03 365:018 > ()
+18:59:03 365:019 > )
+18:59:05 365:019 > )1
+18:59:05 365:020 > )1r
+18:59:05 365:021 > )1re
+18:59:06 365:019 > 1rem
+18:59:07 365:023 >  ,
+18:59:07 365:025 >  , 1
+18:59:08 365:026 >  , 1v
+18:59:08 365:027 >  , 1vw
+18:59:08 365:025 > 1vw
+18:59:09 365:028 > ,
+18:59:10 365:029 > ,1
+18:59:10 365:030 > ,1,
+18:59:11 365:031 > ,1,.
+18:59:11 365:030 > ,1,..
+18:59:11 365:031 > ,1,..5
+18:59:12 365:030 > 1.5rem
+18:59:19 365:025 > 2
+18:59:22 365:025 > 24
+18:59:27 365:029 > 242
+18:59:37 365:025 > 2423
+18:59:46 365:019 > 24232
+18:59:52 365:019 > 242321
+18:59:52 365:020 > 242321.
+18:59:52 365:021 > 242321.4
+18:59:53 365:021 > 242321.45
+19:00:57 370:009 > rgb(240, 73, 81)
+19:01:03 364:009 > rgb(238, 61, 70)
+19:01:07 364:009 > rgb(61, 238, 238)
+19:02:30 370:009 > rgb(73, 140, 240)
+19:02:32 370:009 > rgb(21, 108, 238)
+19:02:34 370:009 > rgb(0, 90, 226)
+19:02:38 370:009 > rgb(0, 136, 226)
+19:02:41 370:009 > rgb(4, 0, 226)
+19:02:44 370:009 > rgb(41, 0, 226)
+19:02:45 370:009 > rgb(40, 11, 167)
+19:02:47 370:009 > rgb(127, 98, 255)
+19:02:49 370:009 > rgb(93, 59, 245)
+19:02:51 370:009 > rgb(44, 0, 241)
+19:02:54 370:009 > rgb(0, 36, 241)
+19:02:55 370:009 > rgb(0, 97, 241)
+19:03:00 370:009 > rgb(64, 0, 241)
+19:03:13 360:008 > rgb(223, 1, 1)
+19:03:15 360:008 > rgb(0, 0, 0)
+19:03:16 370:009 > rgb(0, 97, 241)
+19:03:19 370:009 > rgb(64, 0, 241)
+19:03:25 370:009 > rgb(241, 205, 0)
+19:03:28 370:009 > rgb(241, 96, 0)
+19:03:31 370:009 > rgb(241, 28, 0)
+19:06:05 370:001 > rgb(5, 5, 5)
+19:06:12 369:009 > rgb(37, 37, 37)
+19:06:15 369:009 > rgb(92, 92, 92)
+19:06:18 369:009 > rgb(32, 32, 32)
+19:06:39 357:020 > rgb(113, 255, 100)
+19:06:42 357:020 > rgb(100, 255, 183)
+19:06:43 357:020 > rgb(113, 255, 100)
+19:06:45 357:020 > rgb(255,209,100)
+19:06:51 369:009 > rgb(236, 42, 42)
+19:06:53 369:009 > rgb(78, 42, 236)
+19:06:56 369:009 > rgb(46, 11, 204)
+19:06:56 369:009 > rgb(37, 0, 204)
+19:06:59 369:009 > rgb(47, 0, 255)
+19:07:24 369:009 > rgb(34, 0, 185)
+19:07:29 369:009 > rgb(0, 12, 185)
+19:07:30 369:009 > rgb(15, 27, 182)
+19:07:44 360:008 > rgb(173, 15, 15)
+19:07:47 360:008 > rgb(0, 0, 0)
+19:08:10 358:021 > rgb(145, 3, 3)
+19:08:16 358:021 > rgb(3, 81, 145)
+19:08:17 358:021 > rgb(87, 87, 87)
+19:10:53 078:027 > rgb(87, 87, 87)
+19:11:09 129:020 > rgb(87, 87, 87)
+19:11:39 142:020 > rgb(87, 87, 87)
+19:11:46 168:020 > rgb(87, 87, 87)
+19:12:33 215:018 > rgb(87, 87, 87)
+19:12:47 220:034 > rgb(87, 87, 87)
+19:12:48 220:034 > (--dark-green)
+19:12:51 220:031 > rgb(87, 87, 87)
+19:13:15 220:031 > var(--dark-green)
+19:13:21 220:031 > rgb(87, 87, 87)
+19:13:34 236:021 > rgb(87, 87, 87)
+19:14:02 282:021 > rgb(87, 87, 87)
+19:14:42 282:021 > rgb(87, 87, 87)
+19:14:46 236:021 > var(--dark-green)
+19:14:48 236:021 > rgb(87, 87, 87)
+19:14:49 282:021 > rgb(87, 87, 87)
+19:15:08 289:020 > rgb(87, 87, 87)
+19:15:20 298:039 > rgb(87, 87, 87)
+19:15:22 298:039 > var(--dark-green)
+19:15:24 289:020 > var(--sea-green)
+19:15:40 321:024 > rgb(87, 87, 87)
+
+19:17:35 342:002 > b
+
+19:17:49 343:011 > 1
+19:17:49 343:012 > 10
+19:17:51 343:011 > 104
+
+19:18:38 342:020 > b
+19:18:39 342:020 > bisque
+19:18:46 342:020 > b
+19:18:46 342:020 > var(--mint-2)
+
+19:19:11 341:014 > e
+
+19:19:54 342:020 > #
+19:19:57 342:020 > #1a1a1a
+
+19:20:03 344:023 > #
+19:20:04 344:020 > # 3
+19:20:05 344:021 > # 3#
+19:20:06 344:020 > # 3##
+19:20:07 344:020 > #131313
+19:20:11 342:020 > #030303
+19:20:12 342:020 > #1d1d1d
+19:20:13 342:020 > #050505
+19:20:15 342:020 > #1d1d1d
+19:20:20 344:020 > #000000
+19:20:23 342:020 > #7a7a7a
+19:20:27 342:020 > #7a7a7a
+19:20:29 342:020 > #0121d6
+19:20:32 342:020 > #01d696
+
+19:20:49 343:002 > c
+19:20:50 343:003 > co
+19:20:50 343:004 > col
+19:20:50 343:005 > colo
+19:20:50 343:006 > color
+19:20:51 343:002 > color: ;
+19:20:54 343:009 > #000000
+19:20:56 343:009 > v
+19:20:57 343:010 > va
+19:20:57 343:011 > var
+19:20:59 343:012 > ()
+19:21:00 343:013 > -
+19:21:08 343:013 > --sea-green
+19:21:20 345:020 > #000000
+19:21:21 345:020 > #0063a5
+19:21:25 345:020 > #00a508
+19:21:26 345:020 > #09520c
+19:21:53 342:020 > #000000
+19:21:56 342:020 > #3f3f3f
+19:22:10 342:020 > rgb(87, 87, 87)
+19:22:18 342:020 > rgb(58, 58, 58)
+19:22:24 345:020 > #109414
+19:22:27 345:020 > #104d94
+19:22:29 345:020 > #109494
+19:22:32 345:020 > #109437
+19:22:33 345:020 > #109468
+
+19:22:45 345:002 > b
+19:22:45 345:003 > bo
+19:22:46 345:004 > bor
+19:22:46 345:005 > bora
+19:22:46 345:006 > borar
+19:22:47 345:002 > border-radius: ;
+19:22:48 345:017 > 5
+19:22:48 345:018 > 5p
+19:22:48 345:019 > 5px
+19:22:49 345:017 > 5px
+19:22:53 345:017 > 1
+19:22:53 345:018 > 10
+
+19:23:03 344:011 > 8
+
+19:23:26 343:013 > -
+19:23:27 343:014 > --
+19:23:27 343:015 > --m
+19:23:27 343:016 > --mi
+19:23:29 343:013 > --mint-2
+19:23:46 341:000 > .copyright-info {
+  align-content: center;
+}
+
+19:23:50 341:016 > a
+19:23:56 341:016 > a p
+
+19:23:57 342:001 > a
+19:23:58 342:001 > ac
+19:23:58 342:002 > aco
+19:23:58 342:003 > acol
+19:23:58 342:004 > acolo
+19:23:58 342:005 > acolor
+19:23:59 342:001 > color: ;
+19:24:00 342:008 > b
+19:24:01 342:009 > bl
+19:24:01 342:010 > bla
+19:24:01 342:011 > blac
+19:24:01 342:012 > black
+19:24:01 342:008 > black
+19:24:07 344:000 > .copyright-info p a{
+ color: black;
+}
+
+19:24:10 344:019 > :
+19:24:10 344:020 > :v
+19:24:10 344:021 > :vi
+19:24:10 344:022 > :vis
+19:24:10 344:019 > :visited
+19:24:13 345:009 > rgb(102, 31, 31)
+19:24:26 344:011 > r
+19:24:27 344:012 > re
+19:24:27 344:000 > .copyright-referens
+
+19:24:28 341:011 > r
+19:24:28 341:012 > re
+19:24:29 341:000 > .copyright-referens
+19:24:34 345:009 > rgb(31, 74, 102)
+19:24:35 345:009 > rgb(0, 105, 175)
+19:24:49 342:007 > rgb(0, 105, 175)
+19:24:56 342:009 > rgb(7, 146, 238)
+19:25:10 344:000 > .copyright-referens p a {
+  color: rgb(7, 146, 238);
+}
+
+19:25:15 344:023 > :
+19:25:16 344:024 > :h
+19:25:16 344:025 > :hp
+19:25:16 344:026 > :hpv
+19:25:17 344:025 > :hpvo
+19:25:17 344:026 > :hpvov
+19:25:17 344:027 > :hpvove
+19:25:17 344:028 > :hpvover
+19:25:18 344:023 > :hover
+19:25:29 345:009 > rgb(6, 102, 165)
+19:25:36 342:009 > rgb(190, 214, 230)
+19:25:41 345:009 > rgb(165, 141, 6)
+19:26:54 348:009 > rgb(6, 69, 110)
+19:27:02 348:009 > rgb(0, 153, 255)
+19:27:04 348:009 > rgb(0, 38, 255)
+19:27:10 348:009 > rgb(15, 50, 248)
+19:27:28 348:009 > rgb(43, 73, 240)
+19:27:34 348:009 > rgb(240, 43, 158)
+19:27:45 348:009 > rgb(230, 6, 136)
+19:27:47 348:009 > rgb(230, 6, 92)
+19:27:56 348:009 > rgb(155, 2, 61)
+19:28:03 348:009 > rgb(155, 2, 2)
+19:28:03 348:009 > rgb(255, 0, 0)
+19:28:13 348:009 > rgb(17, 0, 255)
+19:28:19 348:009 > rgb(0, 26, 255)
+19:28:26 348:009 > rgb(0, 183, 255)
+19:28:54 342:002 > color: rgb(0, 183, 255);
+
+19:29:52 341:000 > .
+19:29:53 341:001 > .c
+19:29:53 341:002 > .co
+19:29:53 341:003 > .cop
+19:29:54 341:004 > .copr
+19:29:55 341:005 > .coprr
+19:29:55 341:006 > .coprre
+19:29:55 341:000 > .copyright-referens
+19:30:07 348:009 > rgb(255, 0, 157)
+19:30:21 348:009 > rgb(0, 255, 136)
+19:30:31 348:009 > rgb(251, 255, 0)
+19:30:43 341:000 > .copyright-referens p a{
+  color: rgb(0, 183, 255);
+}
+.copyright-referens p a:hover{
+  color: rgb(165, 141, 6);
+}
+.copyright-referens p a:visited{
+  color: rgb(251, 255, 0);
+}
+19:31:02 348:026 > color: rgb(0, 183, 255);
+19:31:05 342:002 > color: rgb(251, 255, 0);color
+19:31:09 348:002 > color
+
+19:31:42 350:000 > /
+19:31:44 350:001 > /*
+19:31:44 350:002 > /*f
+19:31:44 350:003 > /*fi
+19:31:44 350:004 > /*fix
+19:31:45 350:006 > /*fix n
+19:31:45 350:007 > /*fix no
+19:31:45 350:008 > /*fix noi
+19:31:45 350:008 > /*fix noin
+19:31:46 350:010 > /*fix noin v
+19:31:46 350:011 > /*fix noin vi
+19:31:46 350:012 > /*fix noin vis
+19:31:46 350:013 > /*fix noin visi
+19:31:47 350:014 > /*fix noin visit
+19:31:47 350:015 > /*fix noin visite
+19:31:47 350:016 > /*fix noin visited
+19:31:48 350:018 > /*fix noin visited l
+19:31:49 350:019 > /*fix noin visited li
+19:31:49 350:020 > /*fix noin visited lin
+19:31:49 350:021 > /*fix noin visited link
+19:31:49 350:022 > /*fix noin visited links
+19:31:50 350:023 > /*fix noin visited links,
+19:31:50 350:025 > /*fix noin visited links, o
+19:31:50 350:026 > /*fix noin visited links, on
+19:31:51 350:028 > /*fix noin visited links, on h
+19:31:51 350:029 > /*fix noin visited links, on ho
+19:31:51 350:030 > /*fix noin visited links, on hov
+19:31:51 350:031 > /*fix noin visited links, on hove
+19:31:51 350:032 > /*fix noin visited links, on hover
+19:31:51 350:033 > /*fix noin visited links, on hover:
+19:31:52 350:033 > /*fix noin visited links, on hover:(
+19:31:53 350:033 > /*fix noin visited links, on hover:(*
+19:31:53 350:034 > /*fix noin visited links, on hover:(*/
+
+20:48:51 000:000 > ä
+20:48:52 000:001 > än
+20:48:52 000:002 > änd
+20:48:53 000:000 > ändl
+20:48:53 000:001 > ändla
+20:48:53 000:003 > ändla t
+20:48:54 000:004 > ändla ti
+20:48:54 000:005 > ändla til
+20:48:54 000:006 > ändla till
+20:48:54 000:008 > ändla till c
+20:48:54 000:009 > ändla till co
+20:48:54 000:010 > ändla till cop
+20:48:55 000:011 > ändla till copy
+20:48:55 000:012 > ändla till copyr
+20:48:55 000:013 > ändla till copyri
+20:48:56 000:014 > ändla till copyrig
+20:48:56 000:015 > ändla till copyrigh
+20:48:56 000:016 > ändla till copyright
+20:48:57 000:018 > ändla till copyright r
+20:48:57 000:019 > ändla till copyright re
+20:48:57 000:020 > ändla till copyright ref
+20:48:57 000:021 > ändla till copyright refr
+20:48:57 000:022 > ändla till copyright refre
+20:48:57 000:023 > ändla till copyright refren
+20:48:58 000:024 > ändla till copyright refrens
+20:49:03 078:000 > border-bottom: solid 3px rgb(87, 87, 87);
+}
+
+.kontainer nav .ikon img {
+  width: 59px;
+}
+
+.kontainer nav .mörkt-läge-kontainer a {
+  color: var(--dark-green);
+}
+.kontainer nav .mörkt-läge-kontainer .material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 900, "GRAD" 0, "opsz" 48;
+  font-size: 50px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.kontainer .alternativ {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.kontainer nav .alternativ a {
+  transition: all 100ms;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 15px;
+  color: var(--celadon-2);
+  background-color: var(--dark-green);
+  border-radius: 5px;
+  border: 4px solid transparent;
+}
+
+.kontainer nav .alternativ a:hover {
+  border-color: white;
+}
+
+.kontainer main {
+  margin: 0 0 50px 0;
+}
+
+.kontainer main .kontakta-oss-formulär {
+  background-color: var(--celadon);
+  font-size: Clamp(1rem, 1vw, 1.3rem);
+  margin-top: 7%;
+  width: 50%;
+  max-width: 400px;
+  display: grid;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 3px var(--cambridge-blue);
+  border: solid 5px rgb(87, 87, 87);
+  padding: 20px;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto 0 auto;
+  grid-template-columns: auto 1fr;
+  gap: 25px;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+  font-size: Clamp(1rem, 3vw, 2.1rem);
+  padding: Clamp(5px, 2%, 15px);
+  margin: 20px 20px;
+  display: inline-block;
+  border: solid 3px rgb(87, 87, 87);
+  border-radius: 4px;
+  background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+  grid-column: 1;
+  width: 100%;
+}
+
+.kontainer main .kontakta-oss-formulär input {
+  height: Clamp(35px, 4vh, 150px);
+}
+
+.kontainer main .kontakta-oss-formulär textarea {
+  resize: none;
+  height: Clamp(100px, 15vw, 200px);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+  justify-self: center;
+  grid-column: 2;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: Clamp(125px, 15vw, 200px);
+  border: solid 3px rgb(87, 87, 87);
+  background-color: var(--nyanza);
+  border-radius: 4px;
+  padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+  outline: 5px solid var(--nyanza);
+  background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+  outline: 5px solid var(--nyanza);
+}
+
+.kontainer main .kontakta-oss-formulär #submit {
+  font-weight: 900;
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+  cursor: pointer;
+}
+
+.kontainer main .kontakta-oss-kontainer #sändningsmeddelande {
+  grid-column: 2;
+  margin: 20px 0;
+  display: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  width: 50%;
+  margin: 25px auto;
+}
+.kontainer main .våraleveransplaner-kontainer li a {
+  text-decoration: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer li {
+  transition: all 100ms;
+  --side-padding: clamp(0px, 1vw, 25px);
+  --border-color: rgb(87, 87, 87);
+  justify-content: center;
+  border: solid 5px var(--border-color);
+  padding: 20px var(--side-padding) 50px var(--side-padding);
+  background-color: var(--sea-green);
+  box-shadow: 0px 0px 10px 3px rgb(87, 87, 87);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+  transform: scale(1.1);
+  border-color: var(--nyanza);
+  box-shadow: 0px 0px 10px 3px var(--nyanza);
+  cursor: pointer;
+}
+
+.kontainer main .leveransplan {
+  width: Clamp(160px, 30vw, 200px);
+}
+
+.kontainer main .våraleveransplaner-kontainer .delivery-video {
+  width: Clamp(50px, 90vw, 1200px);
+  border: solid 10px rgb(87, 87, 87);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan img {
+  width: 80%;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+  color: var(--dark-green);
+  text-shadow: 3px 1px 2px var(--celadon);
+  margin-top: 10px;
+  font-family: "Alfa Slab One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: Clamp(1.3rem, 3vw, 1.7rem);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan p {
+  color: var(--dark-green);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan .premium {
+  color: rgb(255, 198, 27);
+  text-shadow: 3px 3px var(--dark-green);
+  margin-top: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  font-size: Clamp(1.5rem, 5vw, 1.9rem);
+}
+
+.kontainer main h1 {
+  color: var(--dark-green);
+  padding: Clamp(0px, 1vw, 20px);
+  font-size: Clamp(1rem, 4vw, 2.3rem);
+}
+.kontainer main .innehåll {
+  font-size: Clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+h1 {
+  font-weight: 900;
+}
+
+.kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  /* att elementen bara tar platsen de behöver.*/
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px rgb(87, 87, 87);
+}
+.kontainer footer .rubrik {
+  justify-content: center;
+}
+.copyright-kontainer {
+  display: grid;
+
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+}
+.copyright-referens {
+  grid-column: 2;
+  margin: auto;
+  display: flex;
+  gap: 20px;
+}
+.copyright-info {
+  align-content: center;
+}
+
+/*fix non visited links, on hover*/
+.copyright-referens p {
+  background-color: rgb(58, 58, 58);
+  color: var(--mint-2);
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+.kontainer main .innehåll .om-oss {
+  margin: 100px auto 0 auto;
+  background-color: rgb(255, 209, 100);
+  border: solid 10px rgb(87, 87, 87);
+  border-radius: 20px;
+  color: rgb(0, 0, 0);
+  width: 50%;
+}
+.kontainer main .innehåll .om-oss h2 {
+  font-size: Clamp(1.5rem, 3vw, 2.5rem);
+}
+.kontainer main .innehåll .om-oss h3 {
+  font-size: Clamp(1.4rem, 2vw, 2.2rem);
+  padding: 20px;
+  color: rgb(15, 27, 182);
+}
+/*mörkt läge*/
+
+body.mörkt-läge-på,
+.kontainer main h1.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på,
+.kontainer main .innehåll.mörkt-läge-på {
+  --mörkt-läge: #1a1a1a;
+  background-color: var(--mörkt-läge);
+  color: white;
+}
+.kontainer footer.mörkt-läge-på {
+  background-color: #131313;
+}
+.kontainer .kontakta-oss-kontainer.mörkt-läge-på {
+  color: var(--mörkt-läge);
+}
+
+/*Responsiv Design*/
+@media (max-width: 700px) {
+  .kontainer .alternativ,
+  .kontainer nav {
+    position: relative;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .kontainer main .alternativ-kontainer {
+    position: relative;
+  }
+  .kontainer main .innehåll {
+    display: grid;
+  }
+  .copyright-kontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .copyright-refrens {
+    flex-direction: column;
+    width: 40%;
+  }
+21:29:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+21:29:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+21:33:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+21:33:54 344:020 > rgb(255, 255, 255)
+21:34:05 344:020 > rgb(255, 255, 255)
+21:34:10 344:020 > rgb(255, 255, 255)
+21:34:11 344:020 > rgb(58, 58, 58)
+21:34:16 344:020 > rgb(255, 255, 255)
+
+21:35:16 344:020 > b
+21:35:17 344:021 > bl
+21:35:17 344:022 > bla
+21:35:17 344:020 > black
+21:35:39 344:020 > b
+21:35:39 344:021 > ba
+21:35:40 344:022 > bar
+21:35:41 344:020 > barv
+21:35:41 344:021 > barva
+21:35:41 344:022 > barvar
+21:35:42 344:020 > var()
+21:35:42 344:024 > d
+21:35:42 344:025 > da
+21:35:42 344:026 > dar
+21:35:43 344:024 > --dark-green
+21:36:09 344:020 > b
+21:36:10 344:021 > bl
+21:36:10 344:022 > bla
+21:36:11 344:020 > black
+22:18:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+22:18:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+22:18:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+22:32:35 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+22:32:35 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+22:32:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+22:32:37 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+22:32:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+22:32:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+22:32:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+22:51:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+22:51:36 344:020 > rgb(145, 0, 0)
+22:51:40 344:020 > rgb(0, 0, 0)
+22:53:46 344:009 > b
+22:53:46 344:010 > bl
+22:53:46 344:011 > bla
+22:53:46 344:012 > blac
+22:53:46 344:009 > black
+22:54:02 344:009 > ,
+22:54:03 344:009 > ,m
+22:54:03 344:010 > ,mi
+22:54:03 344:011 > ,min
+22:54:04 344:012 > ,min3
+22:54:05 344:012 > ,min32
+22:54:06 344:009 > var(--mint-2)
+22:54:11 344:009 > d
+22:54:11 344:010 > da
+22:54:11 344:011 > dar
+22:54:12 344:012 > dark
+22:54:13 344:013 > darkh
+22:54:14 344:013 > darkhh
+22:54:15 344:013 > darkhhg
+22:54:15 344:014 > darkhhgr
+22:54:15 344:015 > darkhhgrt
+22:54:17 344:015 > darkhhgrtr
+22:54:17 344:016 > darkhhgrtrr
+22:54:18 344:015 > darkhhgrtrre
+22:54:18 344:016 > darkhhgrtrree
+22:54:19 344:009 > var(--dark-green)
+22:54:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+22:54:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+22:54:58 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+22:55:04 376:039 > .copyright-referens p
+
+22:55:07 376:039 > ,
+22:55:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+22:55:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+22:55:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+22:55:18 026:002 > .copyright-referens p
+
+22:55:18 026:024 > ,
+22:55:20 026:023 > ,"
+22:55:21 026:002 > ""
+22:55:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+22:55:44 377:021 > :
+22:55:47 377:021 > :.
+22:55:48 377:022 > :.m
+22:55:49 377:023 > :.mö
+22:55:49 377:024 > :.mör
+22:55:49 377:025 > :.mörk
+22:55:50 377:026 > :.mörkt
+22:55:50 377:021 > .mörkt-läge-kontainer
+22:55:52 377:033 > p
+22:55:52 377:034 > på
+23:04:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+23:05:10 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+
+23:05:25 044:038 > A
+23:05:25 044:039 > Ak
+23:05:26 044:039 > Akl
+23:05:26 044:040 > Akll
+23:05:27 044:025 > querySelectorAll
+
+23:05:30 045:002 > f
+23:05:30 045:003 > fr
+23:05:31 045:003 > fro
+23:05:31 045:004 > fror
+23:05:32 045:005 > frore
+23:05:32 045:006 > frorea
+23:05:33 045:002 > froreae
+23:05:33 045:003 > froreael
+23:05:33 045:004 > froreaele
+23:05:34 045:002 > element
+23:05:34 045:009 > .
+23:05:42 045:002 > .a
+23:05:42 045:003 > .al
+23:05:42 045:004 > .all
+23:05:42 045:005 > .alla
+23:05:44 045:006 > .allaE
+
+23:05:46 044:006 > A
+23:05:46 044:007 > Al
+23:05:47 044:006 > AlA
+23:05:48 044:007 > AlAL
+23:05:48 044:008 > AlALL
+23:05:48 044:009 > AlALLA
+23:05:48 044:006 > AlALLAa
+23:05:49 044:007 > AlALLAaL
+23:05:49 044:008 > AlALLAaLL
+23:05:49 044:009 > AlALLAaLLA
+23:05:50 044:009 > AlALLAaLLAa
+23:05:51 044:010 > AlALLAaLLAaE
+23:05:52 044:006 > allaElement
+23:05:55 044:006 > allaElementlement
+
+23:06:00 045:013 > .
+23:06:00 045:014 > .f
+23:06:00 045:015 > .fo
+23:06:00 045:016 > .for
+23:06:01 045:013 > .forEach
+23:06:01 045:021 > ()
+23:06:01 045:022 > /
+23:06:10 045:022 > /e
+23:06:11 045:022 > ()
+23:06:11 045:023 > e
+23:06:12 045:024 > el
+23:06:12 045:025 > ele
+23:06:13 045:026 > elem
+23:06:13 045:027 > eleme
+23:06:13 045:028 > elemel
+23:06:13 045:028 > elemeln
+23:06:13 045:029 > elemelnt
+23:06:15 045:031 > elemelnt=
+23:06:16 045:032 > elemelnt=>
+23:06:17 045:033 > {}
+23:06:21 046:000 > if (element) {
+    element.classList.toggle("mörkt-läge-på");
+  }
+}
+23:06:34 049:003 > ()
+
+23:06:34 049:003 > )
+
+23:06:36 050:000 > ]
+23:06:37 050:000 > ]}
+
+23:06:41 049:003 > )
+23:16:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+23:16:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+23:23:54 348:000 > /* Non-visited link color */
+.copyright-referens a:link {
+  color: var(--dark-green); /* Adjust the color as needed */
+}
+
+/* Visited link color within .copyright-referens */
+.copyright-referens a:visited {
+  color: var(--celadon); /* Adjust the color as needed */
+}
+23:26:48 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+23:26:57 137:012 > <p>
+              media - <a href="https://www.pexels.com/search/boxes/" target="_blank">Pexels</a>
+            </p>
+
+23:27:02 138:067 > s
+23:27:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+23:28:50 352:000 > .copyright-referens a:visited {
+  color: var(--celadon); 
+}
+
+23:28:58 352:022 > h
+23:29:00 352:021 > :hover
+23:29:05 353:013 > --cambridge-blue
+23:29:38 357:001 > rgb(255,209,100)
+23:29:39 357:001 > color: var(--celadon);
+23:29:42 357:009 > rgb(255,209,100)
+23:30:06 350:013 > rgb(15,27,182)
+
+23:30:28 353:013 > -
+23:30:28 353:014 > --
+23:30:30 353:013 > --dark-green
+
+23:30:55 357:009 > r
+23:30:55 357:010 > re
+23:30:56 357:011 > red
+23:30:56 357:009 > red
+23:33:46 357:009 > #12510b
+23:34:09 353:013 > rgb(15,27,182)
+
+23:34:11 353:027 > )
+23:34:14 353:013 > rgb(12, 20, 134)
+23:34:27 353:013 > rgb(3, 8, 65)
+23:34:39 353:013 > rgb(247, 247, 248)
+23:34:57 353:013 > rgb(3, 8, 65)
+23:34:58 353:013 > rgb(12, 20, 134)
+23:35:03 353:013 > rgb(15,27,182)
+23:35:05 353:013 > --dark-green)
+23:35:15 353:013 > rgb(15,27,182)
+23:35:20 353:013 > rgb(33, 33, 37)
+23:36:05 353:009 > rgb(33, 33, 37)
+23:36:11 353:009 > rgb(8, 8, 59)
+23:36:25 353:009 > rgb(7, 7, 102)
+23:43:44 419:004 > align-items: center;
+23:43:57 419:003 > align-items: center;
+23:44:05 419:003 > align-items: center;
+23:44:12 419:003 > align-items: center;
+
+23:47:08 422:004 > d
+23:47:08 422:005 > di
+23:47:08 422:006 > dis
+23:47:08 422:007 > disp
+23:47:09 422:004 > display: ;
+23:47:09 422:013 > block
+23:47:27 423:004 > flex-direction: column;
+
+23:47:34 421:016 > e
+
+23:47:37 422:004 > f
+23:47:37 422:005 > fö
+23:47:38 422:005 > föl
+23:47:38 422:006 > föle
+00:05:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+00:05:13 087:010 > <a href="https://www.flaticon.com/free-icons/package" title="package icons">Package icons created by Freepik - Flaticon</a>
+00:05:54 078:012 > <a href="https://www.flaticon.com/free-icons/package" title="package icons">Package icons created by Freepik - Flaticon</a>
+
+00:06:11 078:012 > p
+00:06:12 078:012 > <p></p>
+00:06:16 078:015 > <a href="https://www.flaticon.com/free-icons/package" title="package icons">Package icons created by Freepik - Flaticon</a>
+00:08:48 078:068 > target="_blank"
+00:22:30 085:012 > <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+00:22:31 085:012 > This page features royalty-free images, videos, and text.
+00:22:37 085:012 > <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+00:23:14 085:012 > <p
+00:23:14 085:916 > </p>
+00:23:23 085:012 > <p
+00:23:23 085:916 > </p>
+00:23:29 084:010 > <p
+00:23:29 086:010 > </p>
+00:23:36 085:012 > <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+00:23:40 085:012 > <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+00:23:47 085:015 > class="copyright-info"
+00:23:54 087:010 > </p>
+00:23:54 086:010 > /></a>
+
+00:23:54 085:769 > /
+00:23:54 084:010 > <p
+00:23:59 138:022 > ></a></p>
+
+00:23:59 123:042 > ;
+00:23:59 100:011 > <p
+00:24:02 087:010 > </p>
+00:24:02 086:010 > /></a>
+
+00:24:02 085:769 > /
+00:24:02 084:010 > <p
+00:24:10 138:022 > ></a></p>
+
+00:24:10 123:042 > ;
+00:24:10 100:011 > <p
+00:24:12 087:010 > </p>
+00:24:12 086:010 > /></a>
+
+00:24:12 085:769 > /
+00:24:12 084:010 > <p
+00:24:46 138:022 > ></a></p>
+
+00:24:46 123:042 > ;
+00:24:46 100:011 > <p
+
+00:24:52 085:602 > 2
+00:26:26 084:012 > <p class="copyright-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 2.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+00:26:28 085:602 > 4
+00:26:28 086:010 > </p>
+00:26:28 084:010 > <p >
+00:26:28 084:013 > class="copyright-info"
+00:26:28 085:012 > <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+00:26:28 085:012 > This page features royalty-free images, videos, and text.
+00:26:28 078:142 > <a href="https://www.flaticon.com/free-icons/package" title="package icons">Package icons created by Freepik - Flaticon</a>
+
+00:26:28 078:012 > p
+00:26:30 078:012 > <p></p>
+00:26:30 078:015 > <a href="https://www.flaticon.com/free-icons/package" title="package icons">Package icons created by Freepik - Flaticon</a>
+00:26:31 078:068 > target="_blank"
+00:26:31 085:012 > <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+00:26:33 085:012 > This page features royalty-free images, videos, and text.
+00:53:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+00:53:41 072:000 > (async () => {
+  const purgecss = await new PurgeCSS().purge({
+    content: ['index.html'],
+    css: ['style.css'],
+  });
+
+  console.log(purgecss);
+})();
+
+00:53:42 075:020 > "
+00:53:42 075:010 > ""
+
+00:53:42 074:025 > "
+00:53:42 074:014 > ""
+
+00:53:42 049:004 > ;
+00:55:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------

@@ -1,0 +1,18 @@
+24-05-15 18:07 Session started
+----------------------------------------
+18:07:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:07:44 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+18:13:14 012:064 > VäxlaMörktLäge();
+18:13:44 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:13:44 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+18:14:01 035:059 > localStorage.setItem(mörktLägeNyckel, false);
+
+18:14:46 019:065 > ;
+18:19:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:19:51 075:013 > top: 0;
+18:19:54 072:019 > top: 0;

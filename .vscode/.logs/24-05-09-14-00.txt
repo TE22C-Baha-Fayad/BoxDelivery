@@ -1,0 +1,3070 @@
+24-05-09 14:00 Session started
+----------------------------------------
+14:02:21 Document switched to: c:\Users\bahaa\AppData\Roaming\Code\User\snippets\WebDevelopment.code-snippets
+----------------------------------------
+14:02:37 Document switched to: c:\Users\bahaa\AppData\Roaming\Code\User\snippets\WebDevelopment.code-snippets
+----------------------------------------
+14:02:39 017:001 > "HTML5_grundkod": {
+		"prefix": "html5",
+		"description": "HTML5 grundkod",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"sv\">",
+			"<head>",
+			"\t<meta charset=\"utf-8\">",
+			"\t<meta name=\"viewport\" content=\"width=device-width, ,initial-scale=1\">",
+			"\t<title>Box Delivery &trade;</title>",
+			"\t<link rel=\"stylesheet\" href=\"style.css\">",
+			"</head>",
+			"<body>",
+			"\t${1}",
+			"</body>",
+			"</html>"
+		]
+	}
+14:03:07 035:001 > "Css Reset": {
+		"prefix": "reset",
+		"body": [
+			"html, body, div, span, applet, object, iframe,",
+			"h1, h2, h3, h4, h5, h6, p, blockquote, pre,",
+			"a, abbr, acronym, address, big, cite, code,",
+			"del, dfn, em, img, ins, kbd, q, s, samp,",
+			"small, strike, strong, sub, sup, tt, var,",
+			"b, u, i, center,",
+			"dl, dt, dd, ol, ul, li,",
+			"fieldset, form, label, legend,",
+			"table, caption, tbody, tfoot, thead, tr, th, td,",
+			"article, aside, canvas, details, embed,",
+			"figure, figcaption, footer, header, hgroup,",
+			"menu, nav, output, ruby, section, summary,",
+			"time, mark, audio, video {",
+			"  margin: 0;",
+			"  padding: 0;",
+			"  border: 0;",
+			"  font-size: 100%;",
+			"  font: inherit;",
+			"  vertical-align: baseline;",
+			"}",
+			"/* HTML5 display-role reset for older browsers */",
+			"article, aside, details, figcaption, figure,",
+			"footer, header, hgroup, menu, nav, section {",
+			"  display: block;",
+			"}",
+			"body {",
+			"  line-height: 1;",
+			"}",
+			"ol, ul {",
+			"  list-style: none;",
+			"}",
+			"blockquote, q {",
+			"  quotes: none;",
+			"}",
+			"blockquote:before, blockquote:after,",
+			"q:before, q:after {",
+			"  content: '';",
+			"  content: none;",
+			"}",
+			"table {",
+			"  border-collapse: collapse;",
+			"  border-spacing: 0;",
+			"}"
+		],
+		"description": "a simple css reset"
+	}
+
+14:03:12 034:002 > ;
+14:03:13 034:002 > ;:
+14:03:14 034:002 > ;:.
+14:03:16 034:002 > ;:..
+14:03:16 034:002 > ;:..:
+14:03:17 034:002 > ;:..:;
+14:03:21 017:001 > "Css Reset": {
+		"prefix": "reset",
+		"body": [
+			"html, body, div, span, applet, object, iframe,",
+			"h1, h2, h3, h4, h5, h6, p, blockquote, pre,",
+			"a, abbr, acronym, address, big, cite, code,",
+			"del, dfn, em, img, ins, kbd, q, s, samp,",
+			"small, strike, strong, sub, sup, tt, var,",
+			"b, u, i, center,",
+			"dl, dt, dd, ol, ul, li,",
+			"fieldset, form, label, legend,",
+			"table, caption, tbody, tfoot, thead, tr, th, td,",
+			"article, aside, canvas, details, embed,",
+			"figure, figcaption, footer, header, hgroup,",
+			"menu, nav, output, ruby, section, summary,",
+			"time, mark, audio, video {",
+			"  margin: 0;",
+			"  padding: 0;",
+			"  border: 0;",
+			"  font-size: 100%;",
+			"  font: inherit;",
+			"  vertical-align: baseline;",
+			"}",
+			"/* HTML5 display-role reset for older browsers */",
+			"article, aside, details, figcaption, figure,",
+			"footer, header, hgroup, menu, nav, section {",
+			"  display: block;",
+			"}",
+			"body {",
+			"  line-height: 1;",
+			"}",
+			"ol, ul {",
+			"  list-style: none;",
+			"}",
+			"blockquote, q {",
+			"  quotes: none;",
+			"}",
+			"blockquote:before, blockquote:after,",
+			"q:before, q:after {",
+			"  content: '';",
+			"  content: none;",
+			"}",
+			"table {",
+			"  border-collapse: collapse;",
+			"  border-spacing: 0;",
+			"}"
+		],
+		"description": "a simple css reset"
+	}
+14:03:26 Document switched to: c:\Users\bahaa\AppData\Roaming\Code\User\snippets\WebDevelopment.code-snippets
+----------------------------------------
+14:03:30 Document switched to: c:\Users\bahaa\AppData\Roaming\Code\User\snippets\WebDevelopment.code-snippets
+----------------------------------------
+
+14:03:33 065:002 > ,
+14:04:05 009:000 > },
+    "git.autofetch": true
+14:08:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+14:08:31 028:016 > B
+14:08:31 028:017 > Bo
+14:08:31 028:018 > Box
+14:08:32 028:020 > Box T
+14:08:33 028:021 > Box Tr
+14:08:33 028:022 > Box Tra
+14:08:33 028:023 > Box Tran
+14:08:34 028:024 > Box Trans
+14:08:34 028:025 > Box Transp
+14:08:34 028:026 > Box Transpo
+14:08:34 028:027 > Box Transpor
+14:08:35 028:028 > Box Transport
+14:08:35 028:029 > Box Transporte
+14:08:35 028:030 > Box Transporter
+14:08:44 028:030 > Box Transporterr
+14:09:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\script.js
+----------------------------------------
+14:09:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+14:09:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\script.js
+----------------------------------------
+14:09:48 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+14:09:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+14:09:55 012:000 > k
+14:09:55 012:001 > ko
+14:09:56 012:000 > .kontainer
+14:09:57 012:010 > []
+14:09:57 012:011 > {}
+14:09:58 012:010 > {}
+14:10:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+14:11:02 022:020 > i
+14:11:02 022:021 > im
+14:11:02 022:022 > img
+14:11:03 022:020 > <img src="" alt="">
+14:12:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+14:12:31 022:030 > .
+14:12:31 022:031 > ./
+14:12:32 022:032 > bilder/
+14:12:33 022:039 > pexels-norma-mortenson-4391478.jpg
+
+14:13:07 028:020 > D
+14:13:08 028:021 > De
+14:13:08 028:022 > Dek
+14:13:09 028:022 > Dekl
+14:13:09 028:023 > Dekli
+14:13:09 028:024 > Dekliv
+14:13:09 028:025 > Deklive
+14:13:09 028:026 > Dekliver
+14:13:10 028:027 > Deklivery
+14:13:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+14:13:26 013:004 > d
+14:13:27 013:004 > display: block;
+14:13:29 013:013 > g
+14:13:29 013:014 > gr
+14:13:29 013:013 > grid
+
+14:13:32 014:004 > g
+14:13:32 014:005 > gr
+14:13:32 014:006 > gri
+14:13:32 014:007 > grid
+14:13:38 014:004 > grid-template-columns: ;
+14:13:41 014:018 > a
+14:13:41 014:019 > ar
+14:13:41 014:020 > are
+14:13:42 014:004 > grid-template-areas:
+14:14:02 014:025 > H
+14:14:02 014:026 > He
+14:14:03 014:027 > Hea
+14:14:03 014:028 > Head
+14:14:06 014:030 > Head H
+14:14:06 014:031 > Head He
+14:14:06 014:032 > Head Hea
+14:14:06 014:033 > Head Head
+
+14:14:11 015:025 > N
+14:14:12 015:026 > Na
+14:14:12 015:027 > Nav
+14:14:13 015:029 > Nav N
+14:14:13 015:030 > Nav Na
+14:14:14 015:031 > Nav Nav
+
+14:14:22 014:025 > "
+14:14:22 014:035 > ""
+
+14:14:24 015:025 > "
+14:14:24 015:033 > ""
+14:14:25 016:025 > ""
+
+14:14:28 016:026 > M
+14:14:28 016:027 > Ma
+14:14:29 016:028 > Mai
+14:14:29 016:029 > Main
+14:14:30 016:031 > Main M
+14:14:30 016:032 > Main Ma
+14:14:30 016:033 > Main Mai
+14:14:31 016:034 > Main Main
+14:14:37 016:036 > Main Main;
+14:14:41 017:025 > ""
+
+14:14:42 017:026 > f
+14:14:42 017:026 > fF
+14:14:43 017:027 > fFo
+14:14:43 017:028 > fFoo
+14:14:43 017:029 > fFoot
+14:14:43 017:030 > fFoote
+14:14:43 017:031 > fFooter
+14:14:44 017:033 > fFooter F
+14:14:44 017:034 > fFooter Fo
+14:14:44 017:035 > fFooter Foo
+14:14:44 017:036 > fFooter Foot
+14:14:45 017:037 > fFooter Foote
+14:14:45 017:038 > fFooter Footer
+
+14:14:48 018:004 > g
+14:14:49 018:005 > gr
+14:14:49 018:006 > gri
+14:14:49 018:007 > grid
+14:14:51 018:004 > grid-template-rows: ;
+14:14:52 018:024 > 1
+14:14:52 018:025 > 1f
+14:14:52 018:026 > 1fr
+14:14:53 018:028 > 1fr 1
+14:14:53 018:029 > 1fr 1f
+14:14:54 018:030 > 1fr 1fr
+14:14:54 018:028 > 1fr
+14:15:19 018:028 > 2
+
+14:15:21 019:004 > g
+14:15:21 019:005 > ga
+14:15:21 019:006 > gap
+14:15:21 019:004 > gap: ;
+14:15:22 019:009 > 1
+14:15:22 019:010 > 10
+14:15:22 019:011 > 10p
+14:15:23 019:012 > 10px
+
+14:15:50 022:000 > .
+14:15:50 022:001 > .k
+14:15:50 022:002 > .ko
+14:15:51 022:000 > .kontainer
+14:15:58 022:011 >  H
+14:15:59 022:012 >  He
+14:15:59 022:013 >  Hea
+14:15:59 022:014 >  Head
+14:16:00 022:011 > header
+14:16:02 022:017 > {}
+
+14:16:04 025:000 > .
+14:16:04 025:001 > .k
+14:16:04 025:000 > .kontainer
+14:16:07 025:011 >  N
+14:16:07 025:012 >  Na
+14:16:08 025:013 >  Nav
+14:16:08 025:014 >  Navc
+14:16:09 025:014 > {}
+
+14:16:11 027:000 > }
+14:16:13 026:001 > .kontainer Nav{
+14:16:14 025:000 > .kontainer Nav{
+14:16:16 027:001 > }
+14:16:16 027:001 > }}
+14:16:20 027:001 > }}}
+14:16:25 025:000 > .kontainer Nav{
+
+}
+14:16:26 028:000 > .kontainer Nav{
+
+}
+
+14:16:28 028:011 > M
+14:16:29 028:012 > Ma
+14:16:29 028:013 > MaI
+14:16:29 028:014 > MaIN
+14:16:32 028:011 > main
+
+14:16:34 031:011 > F
+14:16:35 031:012 > FO
+14:16:35 031:013 > FOO
+14:16:35 031:014 > FOOY
+14:16:36 031:011 > footer
+
+14:16:39 023:000 > g
+14:16:39 023:001 > gr
+14:16:40 023:002 > gri
+14:16:40 023:003 > grid
+14:16:40 023:004 > grida
+14:16:40 023:005 > gridar
+14:16:40 023:000 > grid-area: ;
+14:16:42 023:011 > h
+14:16:42 023:012 > he
+14:16:42 023:013 > hea
+14:16:43 023:011 > heaH
+14:16:43 023:012 > heaHe
+14:16:43 023:013 > heaHea
+14:16:44 023:014 > heaHear
+14:16:44 023:014 > heaHeard
+14:16:44 023:015 > heaHearde
+14:16:44 023:016 > heaHearder
+
+14:16:46 028:016 > }
+
+14:16:46 025:015 > }
+14:16:50 040:004 > grid-area: Header;
+14:16:52 044:004 > grid-area: Header;
+14:16:54 048:004 > grid-area: Header;
+
+14:16:56 040:015 > N
+14:16:57 040:016 > Na
+14:16:57 040:017 > Nav
+
+14:17:01 044:015 > M
+14:17:01 044:016 > Ma
+14:17:01 044:017 > Mai
+14:17:01 044:018 > Main
+
+14:17:05 048:015 > F
+14:17:05 048:016 > Fo
+14:17:06 048:017 > Foo
+14:17:06 048:018 > Foot
+14:17:06 048:019 > Foote
+14:17:06 048:020 > Footer
+
+14:17:34 045:004 > i
+14:17:34 045:005 > im
+14:17:34 045:006 > img
+14:17:35 045:007 > imgs
+14:17:36 045:004 > imgsw
+14:17:37 045:005 > imgswi
+14:17:37 045:006 > imgswid
+14:17:37 045:004 > width: ;
+14:17:38 045:011 > 1
+14:17:38 045:012 > 10
+14:17:39 045:013 > 100
+14:17:39 045:014 > 100p
+14:17:39 045:015 > 100px
+14:17:40 045:011 > 100px
+14:17:43 045:011 > 100px
+14:17:49 043:000 > .kontainer main {
+    grid-area: Main;
+    
+}
+
+14:17:53 047:016 > i
+14:17:53 047:017 > im
+14:17:54 047:018 > img
+14:17:54 047:019 > imgt
+
+14:18:00 048:004 > 1
+14:18:00 048:004 > 1w
+14:18:00 048:005 > 1wi
+14:18:01 048:004 > width: ;
+14:18:01 048:011 > 1
+14:18:01 048:012 > 10
+14:18:01 048:013 > 100
+14:18:02 048:014 > 100p
+14:18:02 048:015 > 100px
+
+14:18:33 031:018 > c
+14:18:34 031:004 > grid-template-columns
+14:18:42 031:031 > 1
+14:19:04 031:018 > 1r
+14:19:05 031:004 > grid-template-rows
+
+14:28:25 046:011 > 2
+14:28:26 046:012 > 20
+14:28:26 046:013 > 200
+14:28:27 046:014 > 200p
+14:28:28 046:015 > 200px
+
+14:30:33 028:013 > e
+14:30:33 028:014 > er
+
+14:30:45 026:004 > t
+14:30:45 026:005 > te
+14:30:45 026:006 > tex
+14:30:45 026:007 > text
+14:30:46 026:008 > texta
+14:30:46 026:004 > text-align: ;
+14:30:46 026:016 > center
+14:30:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+14:30:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+14:31:01 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+14:31:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:31:03 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:31:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+14:31:21 022:080 > B
+14:31:22 022:080 > BL
+14:31:23 022:081 > BLå
+14:31:23 022:082 > BLåd
+14:31:23 022:083 > BLåda
+14:31:26 022:085 > BLåda L
+14:31:26 022:086 > BLåda Le
+14:31:27 022:087 > BLåda Lev
+14:31:27 022:088 > BLåda Leve
+14:31:27 022:089 > BLåda Lever
+14:31:27 022:090 > BLåda Levera
+14:31:29 022:090 > BLåda Leverae
+14:31:29 022:091 > BLåda Leveraer
+14:31:29 022:092 > BLåda Leveraera
+14:31:32 022:080 > BLåda LeveraeraE
+14:31:33 022:081 > BLåda LeveraeraEn
+14:31:33 022:083 > BLåda LeveraeraEn p
+14:31:33 022:084 > BLåda LeveraeraEn pe
+14:31:33 022:085 > BLåda LeveraeraEn per
+14:31:34 022:086 > BLåda LeveraeraEn pers
+14:31:34 022:087 > BLåda LeveraeraEn perso
+14:31:34 022:088 > BLåda LeveraeraEn person
+14:31:37 022:090 > BLåda LeveraeraEn person h
+14:31:38 022:091 > BLåda LeveraeraEn person hå
+14:31:38 022:092 > BLåda LeveraeraEn person hål
+14:31:38 022:093 > BLåda LeveraeraEn person håll
+14:31:38 022:094 > BLåda LeveraeraEn person hålle
+14:31:38 022:095 > BLåda LeveraeraEn person håller
+14:31:45 022:083 > BLåda LeveraeraEn person håller p
+14:31:46 022:084 > BLåda LeveraeraEn person håller pe
+14:31:46 022:085 > BLåda LeveraeraEn person håller per
+14:31:46 022:086 > BLåda LeveraeraEn person håller pers
+14:31:46 022:087 > BLåda LeveraeraEn person håller perso
+14:31:48 022:083 > BLåda LeveraeraEn person håller persoa
+14:31:48 022:084 > BLåda LeveraeraEn person håller persoar
+14:31:48 022:085 > BLåda LeveraeraEn person håller persoarb
+14:31:49 022:086 > BLåda LeveraeraEn person håller persoarbe
+14:31:49 022:087 > BLåda LeveraeraEn person håller persoarbet
+14:31:49 022:088 > BLåda LeveraeraEn person håller persoarbeta
+14:31:49 022:089 > BLåda LeveraeraEn person håller persoarbetar
+14:31:50 022:090 > BLåda LeveraeraEn person håller persoarbetare
+14:31:50 022:092 > BLåda LeveraeraEn person håller persoarbetare s
+14:31:50 022:093 > BLåda LeveraeraEn person håller persoarbetare so
+14:31:50 022:094 > BLåda LeveraeraEn person håller persoarbetare som
+14:31:51 022:096 > BLåda LeveraeraEn person håller persoarbetare som h
+14:31:51 022:097 > BLåda LeveraeraEn person håller persoarbetare som hå
+14:31:51 022:098 > BLåda LeveraeraEn person håller persoarbetare som hål
+14:31:52 022:099 > BLåda LeveraeraEn person håller persoarbetare som håll
+14:31:52 022:100 > BLåda LeveraeraEn person håller persoarbetare som hålle
+14:31:52 022:101 > BLåda LeveraeraEn person håller persoarbetare som håller
+14:31:52 022:103 > BLåda LeveraeraEn person håller persoarbetare som håller i
+14:31:53 022:105 > BLåda LeveraeraEn person håller persoarbetare som håller i e
+14:31:54 022:106 > BLåda LeveraeraEn person håller persoarbetare som håller i en
+14:31:54 022:108 > BLåda LeveraeraEn person håller persoarbetare som håller i en l
+14:31:54 022:109 > BLåda LeveraeraEn person håller persoarbetare som håller i en lå
+14:31:55 022:110 > BLåda LeveraeraEn person håller persoarbetare som håller i en låd
+14:31:55 022:111 > BLåda LeveraeraEn person håller persoarbetare som håller i en lådf
+14:31:55 022:112 > BLåda LeveraeraEn person håller persoarbetare som håller i en lådfa
+14:31:55 022:111 > BLåda LeveraeraEn person håller persoarbetare som håller i en lådfad
+14:31:56 022:112 > BLåda LeveraeraEn person håller persoarbetare som håller i en lådfada
+14:31:56 022:113 > BLåda LeveraeraEn person håller persoarbetare som håller i en lådfadaa
+14:31:56 022:114 > BLåda LeveraeraEn person håller persoarbetare som håller i en lådfadaaa
+14:31:56 022:113 > BLåda LeveraeraEn person håller persoarbetare som håller i en lådfadaaaa
+14:31:57 022:111 > BLåda LeveraeraEn person håller persoarbetare som håller i en lådfadaaaaa
+14:32:24 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+14:32:25 049:011 > 1
+14:32:25 049:012 > 10
+14:32:25 049:013 > 100
+14:32:26 049:014 > 1000
+14:32:27 049:014 > 1000%
+14:32:27 049:011 > 100%
+
+14:32:42 044:004 > w
+14:32:43 044:004 > width: ;
+14:32:43 044:011 > 1
+14:32:43 044:012 > 10
+14:32:44 044:013 > 100
+14:32:44 044:014 > 100%
+14:32:45 044:011 > 100%
+14:32:48 044:011 > 100%
+
+14:32:59 026:004 > w
+14:32:59 026:005 > wi
+14:32:59 026:006 > wid
+14:32:59 026:004 > width: ;
+14:33:00 026:011 > 1
+14:33:00 026:012 > 10
+14:33:00 026:013 > 100
+14:33:00 026:014 > 100%
+14:33:01 026:011 > 100%
+
+14:33:15 049:004 > p
+14:33:16 049:005 > pa
+14:33:16 049:006 > pad
+14:33:16 049:004 > pad: ;
+14:33:17 049:006 > a
+14:33:18 049:007 > ad
+14:33:18 049:008 > add
+14:33:19 049:006 > addd
+14:33:19 049:007 > adddd
+14:33:19 049:004 > padding:
+14:33:19 049:013 > 0
+14:33:22 049:014 > 0p
+14:33:22 049:015 > 0px
+14:33:22 049:016 > 0pxp
+14:33:23 049:016 > 0pxpx
+
+14:33:26 050:004 > m
+14:33:26 050:005 > ma
+14:33:26 050:006 > mar
+14:33:27 050:007 > marg
+14:33:27 050:004 > margin: ;
+14:33:27 050:012 > 0
+14:33:29 050:013 > 0p
+14:33:29 050:014 > 0px
+
+14:34:28 048:016 > f
+14:34:28 048:017 > fi
+14:34:29 048:018 > fig
+14:34:29 048:019 > figu
+14:34:29 048:020 > figur
+14:34:29 048:021 > figure
+
+14:34:39 047:000 > f
+14:34:39 047:001 > fi
+14:34:40 047:002 > fig
+14:34:41 047:003 > figu
+14:34:41 047:000 > figure
+14:34:43 047:000 > .
+14:34:43 047:001 > .k
+14:34:43 047:000 > .kontainer
+14:34:45 047:011 >  m
+14:34:45 047:012 >  ma
+14:34:45 047:011 > main
+14:34:45 047:016 >  f
+14:34:46 047:017 >  fi
+14:34:46 047:018 >  fig
+14:34:47 047:019 >  figu
+14:34:47 047:020 >  figur
+14:34:48 047:016 > figure
+14:34:49 047:022 > {}
+
+14:34:52 048:004 > p
+14:34:52 048:005 > pa
+14:34:52 048:006 > pad
+14:34:52 048:007 > padd
+14:34:53 048:004 > padding: ;
+14:34:53 048:013 > 0
+14:34:55 048:004 > 0m
+14:34:55 048:005 > 0ma
+14:34:55 048:006 > 0mar
+14:34:56 048:007 > 0marg
+14:34:56 048:004 > margin:
+14:34:56 048:013 >  0
+14:34:57 048:012 >  00
+
+14:35:18 051:015 > ;
+
+14:35:19 052:004 > h
+14:35:20 052:005 > he
+14:35:20 052:006 > heu
+14:35:21 052:006 > heui
+14:35:22 052:004 > height: ;
+14:35:23 052:012 > 5
+14:35:23 052:013 > 50
+14:35:24 052:014 > 50%
+14:35:24 052:012 > 50%
+14:35:32 052:012 > 3
+14:36:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+14:36:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:36:11 042:000 > .kontainer Nav {
+    grid-area: Nav;
+}
+
+14:36:12 042:011 > a
+14:36:13 042:011 > Nav
+14:36:15 042:015 >  a
+
+14:36:24 043:004 > t
+14:36:24 043:005 > te
+14:36:25 043:006 > tex
+14:36:25 043:007 > text
+14:36:25 043:008 > texta
+14:36:25 043:009 > textat
+14:36:27 043:010 > textatd
+14:36:28 043:009 > textatdd
+14:36:28 043:010 > textatdde
+14:36:28 043:004 > text-decoration-line: ;
+14:36:31 043:019 > :
+14:36:32 043:020 > :n
+14:36:32 043:020 > none
+
+14:36:42 044:004 > p
+14:36:43 044:005 > pa
+14:36:43 044:006 > pad
+14:36:43 044:007 > padd
+14:36:43 044:004 > padding: ;
+14:36:45 044:013 > 2
+14:36:45 044:014 > 20
+14:36:45 044:015 > 20p
+14:36:45 044:016 > 20px
+14:36:46 044:013 > 20px
+
+14:36:54 045:004 > b
+14:36:54 045:005 > ba
+14:36:54 045:006 > bac
+14:36:54 045:007 > back
+14:36:55 045:004 > background-color: ;
+14:36:58 045:022 > g
+14:36:58 045:023 > gr
+14:36:58 045:024 > gre
+14:37:00 045:022 > grey
+14:37:06 045:004 > t
+14:37:06 045:005 > te
+14:37:06 045:006 > tex
+14:37:07 045:007 > text
+14:37:07 045:004 > text-align: ;
+14:37:07 045:016 > a
+14:37:08 045:016 > ac
+14:37:08 045:017 > ace
+14:37:08 045:016 > center
+14:37:14 045:004 > j
+14:37:14 045:005 > ju
+14:37:14 045:006 > jus
+14:37:15 045:004 > justify-content: ;
+14:37:16 045:021 > c
+14:37:16 045:022 > ce
+14:37:16 045:021 > center
+
+14:37:27 033:008 > g
+14:37:27 033:009 > ga
+14:37:27 033:010 > gap
+14:37:27 033:008 > gap: ;
+14:37:28 033:013 > 1
+14:37:28 033:014 > 10
+14:37:28 033:015 > 10p
+14:37:28 033:016 > 10px
+
+14:37:48 046:004 > c
+14:37:48 046:005 > co
+14:37:48 046:006 > col
+14:37:48 046:007 > colo
+14:37:48 046:008 > color
+14:37:48 046:004 > color: ;
+14:37:50 046:011 > b
+14:37:50 046:012 > bl
+14:37:50 046:013 > bla
+14:37:51 046:014 > blac
+14:37:51 046:015 > black
+14:37:51 046:011 > black
+
+14:38:02 048:004 > r
+14:38:02 048:005 > ra
+14:38:02 048:006 > rad
+14:38:03 048:007 > radi
+14:38:03 048:004 > border-radius: ;
+14:38:04 048:019 > 5
+14:38:05 048:020 > 5p
+14:38:05 048:021 > 5px
+14:38:44 045:004 > padding: 20px
+14:38:47 042:004 > padding: 20px;
+14:39:01 046:003 > padding: 20px;
+
+14:40:27 026:000 > r
+14:40:27 026:001 > r0
+14:40:28 026:002 > r0o
+14:40:28 026:001 > r0oo
+14:40:28 026:002 > r0ooo
+14:40:28 026:003 > r0ooot
+14:40:29 026:000 > :root
+14:40:30 026:005 > []
+14:40:30 026:005 > {}
+14:40:31 027:004 > /* CSS HEX */
+--nyanza: #d8f3dcff;
+--celadon: #b7e4c7ff;
+--celadon-2: #95d5b2ff;
+--mint: #74c69dff;
+--mint-2: #52b788ff;
+--sea-green: #40916cff;
+--dartmouth-green: #2d6a4fff;
+--brunswick-green: #1b4332ff;
+--dark-green: #081c15ff;
+14:46:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+14:47:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+14:47:53 062:009 > :
+14:47:55 062:010 > #40916cff
+
+14:48:03 063:020 > :
+14:48:05 063:021 > #40916cff
+14:48:09 063:020 > .
+14:48:09 063:020 > .:
+14:48:13 063:020 > .::
+14:48:17 063:020 > .:::
+14:48:18 063:021 > #081c15ff
+
+14:48:35 061:004 > g
+14:48:36 061:005 > ga
+14:48:36 061:006 > gap
+14:48:37 061:004 > gap: ;
+14:48:37 061:009 > 1
+14:48:37 061:009 > 12
+14:48:37 061:010 > 12+
+14:48:38 061:010 > 12+0
+14:48:38 061:011 > 12+0p
+14:48:39 061:012 > 12+0px
+14:48:42 061:004 > 12+0pxm
+14:48:42 061:005 > 12+0pxma
+14:48:42 061:006 > 12+0pxmag
+14:48:42 061:004 > margin: ;
+14:48:45 061:012 > 3
+14:48:45 061:013 > 30
+14:48:47 061:014 > 30p
+14:48:48 061:015 > 30px
+
+14:49:00 062:013 > 1
+14:49:00 062:014 > 10
+14:49:03 062:014 > 105
+
+14:49:33 057:004 > b
+
+14:49:40 048:004 > b
+14:49:40 048:005 > ba
+14:49:40 048:006 > bac
+14:49:40 048:007 > bacl
+14:49:41 048:004 > background-color: ;
+14:49:42 048:022 > #081c15ff
+14:49:53 048:020 > :
+14:49:54 048:021 > #95d5b2ff
+
+14:50:08 064:009 > :
+14:50:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:50:57 064:009 > ::
+14:50:59 064:009 > :::
+14:51:00 064:009 > ::::
+14:51:02 064:009 > :::::
+14:51:03 064:009 > ::::::
+14:51:04 064:009 > :::::::
+14:51:05 064:009 > ::::::::
+14:51:05 064:010 > #081c15ff
+14:51:06 064:019 > ;
+14:51:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+14:51:19 066:004 > c
+14:51:20 066:005 > co
+14:51:20 066:006 > col
+14:51:20 066:004 > columns: ;
+14:51:21 066:004 > c
+14:51:21 066:005 > co
+14:51:21 066:006 > col
+14:51:22 066:007 > colo
+14:51:22 066:008 > color
+14:51:22 066:004 > color:
+14:51:22 066:011 > -
+14:51:23 066:011 > --
+14:51:24 066:010 > ---
+14:51:25 066:011 > ----
+14:51:27 066:010 > -----
+14:51:28 066:009 > -----:
+14:51:32 066:010 > -----:-
+14:51:32 066:011 > -----:--
+14:51:45 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:51:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+14:51:49 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:51:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+14:52:00 064:010 > -
+14:52:00 064:011 > --
+14:52:02 064:010 > var(--brunswick-green)
+14:52:06 064:010 > --
+14:52:06 064:010 > #081c15ff
+14:52:13 064:010 > -
+14:52:13 064:011 > --
+14:52:17 064:012 > --s
+14:52:18 064:013 > --se
+14:52:18 064:014 > --sea
+14:52:18 064:010 > var(--sea-green)
+
+14:52:22 066:021 > d
+14:52:22 066:022 > da
+14:52:23 066:020 > da-
+14:52:23 066:021 > da--
+14:52:24 066:020 > da--:
+14:52:24 066:021 > da--:-
+14:52:25 066:022 > da--:--
+14:52:25 066:023 > da--:--d
+14:52:25 066:024 > da--:--da
+14:52:25 066:025 > da--:--da'
+14:52:27 066:025 > da--:--da'r
+14:52:28 066:021 > var(--dark-green)
+
+14:52:36 048:021 > c
+14:52:36 048:021 > c-
+14:52:37 048:022 > c--
+14:52:37 048:023 > c--c
+14:52:37 048:024 > c--ce
+14:52:38 048:021 > var(--celadon-2)
+
+14:53:07 040:004 > f
+14:53:08 040:005 > fo
+14:53:08 040:006 > fon
+14:53:08 040:007 > font
+14:53:08 040:008 > fontf
+14:53:08 040:009 > fontfa
+14:53:09 040:004 > font-family: ;
+14:53:10 040:017 > s
+14:53:10 040:018 > sy
+14:53:10 040:017 > system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+14:53:19 054:004 > f
+14:53:19 054:005 > fo
+14:53:19 054:006 > fon
+14:53:19 054:007 > font
+14:53:20 054:008 > fonts
+14:53:20 054:004 > font-size: ;
+14:53:23 054:015 > 3
+14:53:24 054:016 > 30
+14:53:24 054:017 > 30p
+14:53:24 054:018 > 30px
+14:53:25 054:015 > 30px
+
+14:53:29 055:004 > f
+14:53:29 055:005 > fo
+14:53:29 055:006 > fon
+14:53:29 055:007 > font
+14:53:30 055:008 > fontw
+14:53:30 055:004 > font-weight: ;
+14:53:31 055:017 > 5
+14:53:32 055:018 > 50
+14:53:32 055:019 > 500
+14:53:35 055:017 > 500 9
+14:53:35 055:018 > 500 90
+14:53:36 055:019 > 500 900
+
+14:53:46 071:004 > f
+14:53:46 071:005 > fo
+14:53:46 071:006 > fon
+14:53:46 071:007 > font
+14:53:49 071:008 > fontw
+14:53:49 071:004 > font-weight: ;
+14:53:50 071:017 > 3
+14:53:51 071:017 > 34
+14:53:51 071:018 > 340
+14:53:51 071:019 > 3400
+14:53:56 071:017 > 34009
+14:53:56 071:018 > 340090
+14:53:57 071:019 > 3400900
+
+14:54:15 041:004 > f
+14:54:15 041:005 > fo
+14:54:15 041:006 > fon
+14:54:16 041:007 > font
+14:54:16 041:008 > fontw
+14:54:16 041:009 > fontwe
+14:54:16 041:004 > font-weight: ;
+14:54:17 041:017 > 9
+14:54:17 041:018 > 90
+14:54:18 041:019 > 900
+
+14:54:27 071:022 > ;
+14:54:56 068:014 > --celadon-2
+14:55:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+14:55:30 021:016 > i
+14:55:30 021:017 > im
+14:55:30 021:016 > <img src="" alt="">
+14:55:34 021:026 > .
+14:55:34 021:027 > .b
+14:55:34 021:028 > .bi
+14:55:36 021:026 > .bi.
+14:55:36 021:027 > .bi./
+14:55:36 021:028 > bilder/
+14:55:37 021:035 > pexels-norma-mortenson-4391478.jpg
+14:56:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+14:57:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+14:57:31 083:004 > w
+14:57:31 083:005 > wi
+14:57:31 083:006 > wig
+14:57:32 083:004 > width: ;
+14:57:33 083:011 > 1
+14:57:33 083:012 > 10
+14:57:33 083:013 > 100
+14:57:33 083:014 > 100p
+14:57:34 083:014 > 100p%
+14:57:35 083:011 > 100%
+14:58:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:58:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+14:58:41 012:020 > D
+14:58:41 012:021 > De
+14:58:41 012:022 > Del
+14:58:42 012:023 > Deli
+14:58:42 012:024 > Deliv
+14:58:42 012:025 > Delive
+14:58:42 012:026 > Deliver
+14:58:42 012:020 > Delivery
+15:53:39 012:029 >  t
+15:53:39 012:030 >  tr
+15:53:39 012:031 >  tra
+15:53:41 012:029 >  tra &
+15:53:42 012:030 >  tra &t
+15:53:42 012:031 >  tra &tr
+15:53:42 012:032 >  tra &tra
+15:53:42 012:033 >  tra &trad
+15:53:43 012:029 > &trade;
+15:53:55 012:035 > m
+15:53:56 012:030 > mt
+15:53:56 012:031 > mtr
+15:53:57 012:032 > mtra
+15:53:58 012:033 > mtrad
+15:53:58 012:034 > mtrade
+15:54:00 012:029 > &trade;
+15:54:06 012:030 > t
+15:54:06 012:031 > tr
+15:54:06 012:032 > tra
+15:54:07 012:029 > &TRADE;
+15:56:34 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+15:56:35 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+15:56:38 014:012 > i
+15:56:38 014:013 > im
+15:56:39 014:014 > img
+15:56:39 014:012 > <img src="" alt="">
+15:56:40 014:022 > -
+15:56:40 014:022 > -.
+15:56:42 014:023 > -./
+15:56:42 014:024 > bilder/
+15:56:43 014:031 > 679821.png
+15:56:45 014:048 > i
+15:56:45 014:049 > ic
+15:56:46 014:050 > ico
+15:56:46 014:051 > icon
+15:57:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+15:57:21 062:000 > .kontainer Nav a {
+    text-decoration: none;
+    margin: 30px;
+    padding: 15px;
+    color: var(--celadon-2);
+
+    background-color: var(--dark-green);
+    border-radius: 5px;
+}
+
+15:57:23 062:015 > i
+15:57:23 062:016 > im
+15:57:24 062:017 > img
+15:57:24 062:015 > img
+
+15:57:31 063:004 > w
+15:57:31 063:005 > wi
+15:57:31 063:006 > wid
+15:57:31 063:004 > width: ;
+15:57:32 063:011 > 1
+15:57:32 063:012 > 10
+15:57:32 063:013 > 100
+15:57:33 063:011 > 1001
+15:57:34 063:012 > 10010
+15:57:34 063:013 > 10010%
+15:57:35 063:013 > 10010%ö
+15:57:35 063:014 > 10010%öp
+15:57:35 063:015 > 10010%öpx
+15:57:36 063:013 > 10010%öpxp
+15:57:36 063:014 > 10010%öpxpx
+15:57:36 063:011 > 10px
+15:57:41 063:011 > 4
+15:57:41 063:012 > 45
+15:57:46 063:011 > 455
+15:57:46 063:012 > 4550
+15:57:51 063:004 > 4550a
+15:57:52 063:005 > 4550al
+15:57:52 063:006 > 4550ali
+15:57:52 063:007 > 4550alig
+15:57:56 063:004 > 4550aligj
+15:57:56 063:005 > 4550aligji
+15:57:57 063:005 > 4550aligjiu
+15:58:00 063:004 > 4550aligjiua
+15:58:00 063:005 > 4550aligjiual
+15:58:00 063:006 > 4550aligjiuall
+15:58:01 063:007 > 4550aligjiualli
+15:58:01 063:008 > 4550aligjiuallig
+15:58:02 063:007 > 4550aligjiualligg
+15:58:03 063:004 > align-self: ;
+15:58:04 063:016 > k
+15:58:04 063:016 > kl
+15:58:05 063:017 > kle
+15:58:06 063:016 > kle a
+15:58:08 063:014 > kle a:
+15:58:14 063:015 > self-start
+15:58:18 063:004 > t
+15:58:18 063:005 > te
+15:58:18 063:006 > tex
+15:58:19 063:007 > text
+15:58:19 063:004 > text-align: ;
+15:58:21 063:016 > l
+15:58:21 063:017 > le
+15:58:21 063:016 > left
+16:00:32 042:000 > text-align: center;
+16:00:37 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+16:01:19 012:016 > a
+16:01:19 012:016 > <a href=""></a>
+16:01:22 012:025 > #
+16:01:22 012:026 > #"
+16:01:33 012:028 > Box Delivery &TRADE;
+16:01:54 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:01:55 056:004 > t
+16:01:55 056:005 > te
+16:01:56 056:006 > tex
+16:01:56 056:007 > text
+16:01:57 056:008 > textd
+16:01:57 056:004 > text-decoration: ;
+16:01:58 056:021 > n
+16:01:58 056:022 > no
+16:01:58 056:021 > none
+
+16:02:01 057:004 > c
+16:02:01 057:005 > co
+16:02:01 057:006 > coo
+16:02:02 057:004 > color: ;
+16:02:04 057:011 > -
+16:02:04 057:012 > --
+16:02:07 057:011 > var(--dark-green)
+16:02:38 053:000 > .kontainer header {
+    grid-area: Header;
+    font-size: 30px;
+    
+}
+
+16:02:40 058:018 > a
+
+16:02:42 059:004 > t
+16:02:42 059:005 > te
+16:02:43 059:006 > tex
+16:02:43 059:007 > text
+16:02:43 059:008 > textd
+16:02:43 059:004 > text-decoration: ;
+16:02:45 059:021 > n
+16:02:45 059:022 > no
+16:02:45 059:021 > none
+
+16:02:50 060:004 > c
+16:02:50 060:005 > co
+16:02:50 060:006 > col
+16:02:50 060:007 > colo
+16:02:50 060:004 > color: ;
+16:02:50 060:011 > -
+16:02:50 060:012 > --
+16:02:52 060:011 > var(--dark-green)
+16:02:57 060:015 > -
+16:02:59 060:015 > --brunswick-green
+16:03:03 060:032 > )
+16:03:08 060:014 > )-
+16:03:08 060:014 > ()
+16:03:09 060:015 > ()
+16:03:09 060:016 > /
+16:03:11 060:015 > /-
+16:03:11 060:016 > /--
+16:03:14 060:015 > --dartmouth-green
+16:03:20 060:014 > ()
+16:03:21 060:015 > -
+16:03:22 060:016 > --
+16:03:24 060:015 > --dark-green
+16:05:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+16:05:14 014:012 > .
+16:05:16 014:013 > .i
+16:05:16 014:014 > .ic
+16:05:17 014:015 > .ico
+16:05:17 014:016 > .icon
+16:05:20 014:014 > .iconk
+16:05:20 014:015 > .iconko
+16:05:21 014:016 > .iconkon
+16:05:21 014:012 > <div class="ikon"></div>
+
+16:05:26 023:076 > l
+16:05:26 023:077 > le
+16:05:26 023:078 > lev
+16:05:27 023:079 > leve
+16:05:27 023:080 > lever
+16:05:27 023:081 > levera
+16:05:28 023:082 > leveran
+16:05:28 023:083 > leverant
+16:05:28 023:084 > leverantö
+16:05:29 023:085 > leverantör
+16:05:40 023:076 > leverantörM
+16:05:40 023:077 > leverantörMa
+16:05:40 023:078 > leverantörMan
+16:05:41 023:079 > leverantörMan-
+16:05:42 023:080 > leverantörMan-H
+16:05:42 023:081 > leverantörMan-Hå
+16:05:42 023:082 > leverantörMan-Hål
+16:05:42 023:083 > leverantörMan-Håll
+16:05:44 023:080 > leverantörMan-Hållh
+16:05:44 023:081 > leverantörMan-Hållhå
+16:05:44 023:082 > leverantörMan-Hållhål
+16:05:44 023:083 > leverantörMan-Hållhåll
+16:05:44 023:084 > leverantörMan-Hållhålle
+16:05:44 023:085 > leverantörMan-Hållhåller
+16:05:47 023:080 > leverantörMan-Hållhåller  h
+16:05:47 023:081 > leverantörMan-Hållhåller  hå
+16:05:47 023:082 > leverantörMan-Hållhåller  hål
+16:05:48 023:083 > leverantörMan-Hållhåller  håll
+16:05:48 023:084 > leverantörMan-Hållhåller  hålle
+16:05:48 023:085 > leverantörMan-Hållhåller  håller
+16:05:48 023:087 > leverantörMan-Hållhåller  håller i
+16:05:52 023:089 > leverantörMan-Hållhåller  håller i l
+16:05:52 023:090 > leverantörMan-Hållhåller  håller i lå
+16:05:53 023:091 > leverantörMan-Hållhåller  håller i låd
+16:05:53 023:092 > leverantörMan-Hållhåller  håller i låda
+16:05:55 023:093 > leverantörMan-Hållhåller  håller i låda-
+16:05:56 023:093 > leverantörMan-Hållhåller  håller i låda-.
+16:06:03 023:076 > leverantörMan-Hållhåller  håller i låda-.E
+16:06:03 023:077 > leverantörMan-Hållhåller  håller i låda-.En
+16:06:16 023:092 > leverantörMan-Hållhåller  håller i låda-.En e
+16:06:16 023:093 > leverantörMan-Hållhåller  håller i låda-.En en
+
+16:06:24 015:049 > k
+16:06:34 015:016 > <img src="./bilder/679821.png" alt="ikon">
+
+16:06:39 017:012 > d
+16:06:39 017:013 > di
+16:06:39 017:014 > div
+16:06:39 017:012 > <div></div>
+16:06:41 017:012 > div
+16:06:42 017:012 > -
+16:06:42 017:013 > -k
+16:06:43 017:012 > -k.
+16:06:43 017:013 > -k.a
+16:06:43 017:014 > -k.al
+16:06:44 017:015 > -k.alt
+16:06:44 017:016 > -k.alte
+16:06:44 017:017 > -k.alter
+16:06:45 017:018 > -k.altern
+16:06:45 017:019 > -k.alterna
+16:06:46 017:020 > -k.alternat
+16:06:46 017:021 > -k.alternati
+16:06:46 017:022 > -k.alternativ
+16:06:46 017:012 > <div class="alternativ"></div>
+16:06:48 017:036 > ¨
+
+16:06:56 018:000 > §
+16:06:59 018:016 > <a href="#">Hem</a>
+            <a href="#">Lådor som levereras</a>
+            <a href="#">Kontakta oss</a>
+            <a href="#">Om oss</a>
+16:07:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:07:25 065:004 > p
+16:07:26 065:005 > pa
+16:07:26 065:006 > pad
+16:07:26 065:007 > padd
+16:07:26 065:004 > padding: ;
+16:07:27 065:013 > 1
+16:07:27 065:014 > 15
+16:07:27 065:015 > 15p
+16:07:27 065:016 > 15px
+16:07:28 065:013 > 15px
+
+16:07:35 064:004 > f
+16:07:35 064:005 > fl
+16:07:36 064:006 > fle
+16:07:36 064:007 > fler
+16:07:37 064:004 > flerd
+16:07:37 064:005 > flerdi
+16:07:37 064:006 > flerdis
+16:07:38 064:004 > display: ;
+16:07:38 064:013 >  f
+16:07:38 064:014 >  fl
+16:07:38 064:015 >  fle
+16:07:39 064:013 > flex
+
+16:07:43 065:004 > f
+16:07:43 065:005 > fl
+16:07:43 065:006 > fle
+16:07:44 065:004 > flex-direction: ;
+16:07:49 065:020 > row
+16:07:53 065:004 > fle
+16:08:01 065:004 > d
+16:08:01 065:005 > di
+16:08:01 065:006 > dis
+16:08:01 065:007 > disp
+16:08:02 065:004 > display: ;
+16:08:03 065:004 > f
+16:08:03 065:005 > fl
+16:08:03 065:006 > fle
+16:08:05 065:004 > flex-direction:
+16:08:06 065:020 > r
+16:08:08 065:020 > row
+16:08:10 065:020 > r
+16:08:10 065:021 > re
+16:08:11 065:022 > rev
+16:08:11 065:020 > row-reverse
+16:08:13 065:020 > rev
+16:08:14 065:020 > r
+16:08:15 065:020 > row
+16:08:31 069:000 > .kontainer Nav {
+    display: flex;
+    flex-direction: row;
+    grid-area: Nav;
+    padding: 15px;
+}
+
+16:08:43 069:015 > a
+16:08:43 069:016 > ak
+16:08:43 069:017 > akt
+16:08:44 069:018 > akte
+16:08:44 069:016 > aktel
+16:08:45 069:017 > aktelt
+16:08:45 069:018 > aktelte
+16:08:45 069:019 > aktelter
+16:08:45 069:015 > .alternativ
+
+16:08:49 070:004 > j
+16:08:49 070:005 > ju
+16:08:50 070:006 > jus
+16:08:50 070:004 > justify-content: ;
+16:08:52 070:021 > c
+16:08:52 070:021 > center
+16:08:58 070:021 > c
+16:08:58 070:022 > ce
+16:08:58 070:021 > center
+
+16:09:49 065:004 > a
+16:09:49 065:005 > al
+16:09:49 065:006 > all
+16:09:49 065:007 > alli
+16:09:50 065:008 > allig
+16:09:54 065:006 > alligi
+16:09:54 065:007 > alligin
+16:09:54 065:008 > alliging
+16:09:55 065:004 > align-items: ;
+16:09:55 065:017 > c
+16:09:56 065:018 > ce
+16:09:56 065:017 > center
+16:11:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+16:11:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:11:42 071:004 > n
+16:11:42 071:005 > ni
+16:11:42 071:006 > nig
+16:11:43 071:007 > nigg
+16:11:43 071:008 > nigga
+16:11:44 071:004 > niggab
+16:11:44 071:005 > niggabo
+16:11:44 071:006 > niggabor
+16:11:45 071:007 > niggaboro
+16:11:45 071:008 > niggaboroo
+16:11:45 071:009 > niggaboroor
+16:11:46 071:004 > niggaboroorf
+16:11:46 071:005 > niggaboroorfu
+16:11:47 071:006 > niggaboroorfuc
+16:11:47 071:007 > niggaboroorfuck
+16:11:51 071:004 > niggaboroorfuckn
+16:11:51 071:005 > niggaboroorfuckni
+16:11:51 071:006 > niggaboroorfucknig
+16:11:51 071:007 > niggaboroorfucknigg
+16:11:51 071:008 > niggaboroorfucknigga
+16:11:55 071:004 > niggaboroorfuckniggad
+16:11:55 071:005 > niggaboroorfuckniggade
+16:11:55 071:006 > niggaboroorfuckniggadel
+16:11:55 071:007 > niggaboroorfuckniggadeli
+16:11:55 071:008 > niggaboroorfuckniggadeliv
+16:11:56 071:009 > niggaboroorfuckniggadelive
+16:11:56 071:010 > niggaboroorfuckniggadeliver
+16:12:51 071:004 > niggaboroorfuckniggadelivert
+16:12:51 071:005 > niggaboroorfuckniggadeliverte
+16:12:51 071:006 > niggaboroorfuckniggadelivertex
+16:12:51 071:007 > niggaboroorfuckniggadelivertext
+16:12:52 071:004 > text-align: ;
+16:12:52 071:016 > c
+16:12:52 071:016 > center
+16:12:58 071:004 > c
+16:12:59 071:005 > ce
+16:12:59 071:006 > cen
+16:12:59 071:007 > cent
+16:12:59 071:008 > cente
+16:12:59 071:009 > center
+16:13:00 071:004 > centera
+16:13:01 071:005 > centeral
+16:13:01 071:006 > centerall
+16:13:02 071:004 > align-items: ;
+16:13:03 071:017 > c
+16:13:03 071:018 > ce
+16:13:03 071:019 > cen
+16:13:04 071:017 > center
+16:13:05 071:017 > cen
+16:13:18 071:004 > d
+16:13:18 071:005 > di
+16:13:19 071:006 > dis
+16:13:20 071:004 > display: ;
+16:13:21 071:013 > f
+16:13:21 071:013 > flex
+16:14:02 066:004 > flex-direction: row;
+16:15:44 065:000 > align-items: center;
+16:15:50 071:004 > f
+16:15:50 071:005 > fl
+16:15:50 071:006 > fle
+16:15:51 071:007 > flex
+16:15:55 071:008 > flexa
+16:15:57 071:009 > flexal
+16:15:57 071:004 > -ms-flex-align: ;
+16:15:59 071:020 > e
+16:15:59 071:021 > en
+16:15:59 071:020 > end
+16:16:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+16:16:23 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:16:25 071:004 > c
+16:16:25 071:005 > ce
+16:16:25 071:006 > cen
+16:16:25 071:007 > cent
+16:16:25 071:008 > cente
+16:16:26 071:009 > center
+16:16:27 071:004 > centera
+16:16:27 071:005 > centeral
+16:16:28 071:006 > centerali
+16:16:28 071:007 > centeralig
+16:16:29 071:004 > centeraligj
+16:16:29 071:005 > centeraligju
+16:16:29 071:006 > centeraligjus
+16:16:29 071:004 > justify-content: ;
+16:16:30 071:021 > c
+16:16:30 071:022 > ce
+16:16:30 071:021 > center
+16:16:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+16:16:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:17:30 000:000 > /* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+/*sidans regler*/
+
+:root {
+    /* CSS HEX */
+    --nyanza: #d8f3dcff;
+    --celadon: #b7e4c7ff;
+    --celadon-2: #95d5b2ff;
+    --mint: #74c69dff;
+    --mint-2: #52b788ff;
+    --sea-green: #40916cff;
+    --dartmouth-green: #2d6a4fff;
+    --brunswick-green: #1b4332ff;
+    --dark-green: #081c15ff;
+}
+
+.kontainer {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    display: grid;
+    grid-template-areas:
+        "Header"
+        "Nav"
+        "Main"
+        "Footer";
+    gap: 10px;
+    background-color: var(--celadon-2);
+}
+
+.kontainer header {
+    grid-area: Header;
+    font-size: 30px;
+}
+
+.kontainer header a {
+    text-decoration: none;
+    color: var(--dark-green);
+}
+
+.kontainer nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-area: Nav;
+    padding: 15px;
+}
+
+.kontainer .ikon {
+    display: flex;
+    align-items: center;
+}
+
+.kontainer .ikon img {
+    width: 50px;
+}
+
+.kontainer .alternativ {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.kontainer nav a {
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 15px;
+    color: var(--celadon-2);
+    background-color: var(--dark-green);
+    border-radius: 5px;
+}
+
+.kontainer main {
+    grid-area: Main;
+}
+
+.kontainer main figure {
+    margin: 0;
+}
+
+.kontainer main img {
+    width: 100%;
+}
+
+.kontainer footer {
+    grid-area: Footer;
+}
+16:18:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+16:19:58 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:20:01 105:004 > h
+16:20:01 105:005 > he
+16:20:01 105:004 > height: ;
+16:20:02 105:012 > 5
+16:20:02 105:013 > 50
+16:20:03 105:014 > 500
+16:20:03 105:015 > 500p
+16:20:03 105:016 > 500px
+16:20:04 105:012 > 500px
+16:20:13 105:012 > 500px
+16:20:14 105:004 > he
+16:20:14 000:000 > /* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+/*sidans regler*/
+
+:root {
+    /* CSS HEX */
+    --nyanza: #d8f3dcff;
+    --celadon: #b7e4c7ff;
+    --celadon-2: #95d5b2ff;
+    --mint: #74c69dff;
+    --mint-2: #52b788ff;
+    --sea-green: #40916cff;
+    --dartmouth-green: #2d6a4fff;
+    --brunswick-green: #1b4332ff;
+    --dark-green: #081c15ff;
+}
+
+.kontainer {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    display: grid;
+    grid-template-areas:
+        "Header"
+        "Nav"
+        "Main"
+        "Footer";
+    gap: 10px;
+    background-color: var(--celadon-2);
+}
+
+.kontainer header {
+    grid-area: Header;
+    font-size: 30px;
+    
+}
+.kontainer header a{
+    text-decoration: none;
+    color: var(--dark-green);
+}
+
+.kontainer Nav {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    grid-area: Nav;
+    padding: 15px;
+}
+.kontainer Nav .alternativ{
+    
+}
+.kontainer Nav img {
+    width: 50px;
+}
+.kontainer Nav a {
+    text-decoration: none;
+    margin: 30px;
+    padding: 15px;
+    color: var(--celadon-2);
+
+    background-color: var(--dark-green);
+    border-radius: 5px;
+}
+
+.kontainer main {
+    grid-area: Main;
+
+}
+
+.kontainer main figure {
+    margin: 0;
+}
+
+.kontainer main img {
+    width: 100%;
+}
+
+.kontainer footer {
+    grid-area: Footer;
+}
+16:20:15 000:000 > /* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+/*sidans regler*/
+
+:root {
+    /* CSS HEX */
+    --nyanza: #d8f3dcff;
+    --celadon: #b7e4c7ff;
+    --celadon-2: #95d5b2ff;
+    --mint: #74c69dff;
+    --mint-2: #52b788ff;
+    --sea-green: #40916cff;
+    --dartmouth-green: #2d6a4fff;
+    --brunswick-green: #1b4332ff;
+    --dark-green: #081c15ff;
+}
+
+.kontainer {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    display: grid;
+    grid-template-areas:
+        "Header"
+        "Nav"
+        "Main"
+        "Footer";
+    gap: 10px;
+    background-color: var(--celadon-2);
+}
+
+.kontainer header {
+    grid-area: Header;
+    font-size: 30px;
+}
+
+.kontainer header a {
+    text-decoration: none;
+    color: var(--dark-green);
+}
+
+.kontainer nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-area: Nav;
+    padding: 15px;
+}
+
+.kontainer .ikon {
+    display: flex;
+    align-items: center;
+}
+
+.kontainer .ikon img {
+    width: 50px;
+}
+
+.kontainer .alternativ {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.kontainer nav a {
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 15px;
+    color: var(--celadon-2);
+    background-color: var(--dark-green);
+    border-radius: 5px;
+}
+
+.kontainer main {
+    grid-area: Main;
+}
+
+.kontainer main figure {
+    margin: 0;
+}
+
+.kontainer main img {
+    width: 100%;
+}
+
+.kontainer footer {
+    grid-area: Footer;
+}
+16:20:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+16:21:48 028:016 > s
+16:21:48 028:017 > se
+16:21:48 028:018 > sec
+16:21:48 028:019 > sect
+16:21:48 028:020 > secti
+16:21:48 028:021 > sectio
+16:21:53 028:016 > sectio.
+16:21:55 028:017 > sectio.C
+16:21:56 028:017 > sectio.Ck
+16:21:56 028:018 > sectio.Cko
+16:21:56 028:019 > sectio.Ckon
+16:21:56 028:020 > sectio.Ckont
+16:21:56 028:021 > sectio.Ckonte
+16:21:57 028:022 > sectio.Ckonten
+16:21:57 028:023 > sectio.Ckontent
+16:22:07 028:017 > sectio.Ckontentv
+16:22:07 028:018 > sectio.Ckontentvi
+16:22:07 028:019 > sectio.Ckontentvik
+16:22:07 028:020 > sectio.Ckontentvikt
+16:22:07 028:021 > sectio.Ckontentvikti
+16:22:08 028:022 > sectio.Ckontentviktig
+16:22:08 028:023 > sectio.Ckontentviktigt
+16:22:13 028:017 > sectio.Ckontentviktigti
+16:22:13 028:018 > sectio.Ckontentviktigtin
+16:22:13 028:019 > sectio.Ckontentviktigtint
+16:22:13 028:020 > sectio.Ckontentviktigtintr
+16:22:13 028:021 > sectio.Ckontentviktigtintri
+16:22:13 028:022 > sectio.Ckontentviktigtintrid
+16:22:14 028:021 > sectio.Ckontentviktigtintrido
+16:22:14 028:022 > sectio.Ckontentviktigtintridod
+16:22:15 028:023 > sectio.Ckontentviktigtintridodu
+16:22:15 028:024 > sectio.Ckontentviktigtintridoduk
+16:22:15 028:025 > sectio.Ckontentviktigtintridodukt
+16:22:15 028:026 > sectio.Ckontentviktigtintridodukti
+16:22:15 028:027 > sectio.Ckontentviktigtintridoduktio
+16:22:15 028:028 > sectio.Ckontentviktigtintridoduktion
+
+16:24:07 026:021 > .
+16:24:08 026:021 > .c
+16:24:09 026:022 > .cl
+16:24:09 026:023 > .cla
+16:24:09 026:024 > .clas
+16:24:09 026:021 > class=""
+16:24:10 026:028 > i
+16:24:10 026:029 > in
+16:24:10 026:030 > inn
+16:24:10 026:031 > inne
+16:24:10 026:032 > inneh
+16:24:11 026:033 > innehå
+16:24:11 026:034 > innehål
+16:24:11 026:035 > innehåll
+
+16:24:17 028:016 > <
+16:24:18 028:017 > <p
+16:24:19 028:017 > <pp
+16:24:20 028:018 > <pp>
+16:24:20 028:019 > </p>
+16:24:23 028:019 > V
+16:24:23 028:020 > Vi
+16:26:27 028:019 > Box Delivery erbjuder ett smidigt och miljövänligt sätt att få dina paket levererade. Vi använder återvinningsbara lådor och erbjuder snabba och pålitliga leveranser. Med vår enkla och användarvänliga plattform kan du spåra dina paket och välja leveranstid och plats som passar dig bäst. Välkommen till Box Delivery - där bekvämlighet möter hållbarhet.
+16:26:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:27:27 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:27:49 098:000 > .
+16:27:49 098:001 > .k
+16:27:50 098:002 > .ko
+16:27:50 098:000 > .kontainer
+16:27:52 098:011 >  m
+16:27:52 098:012 >  ma
+16:27:52 098:013 >  mai
+16:27:52 098:011 > main
+16:27:53 098:016 >  p
+16:27:53 098:016 >  pp
+16:27:54 098:017 > {}
+
+16:28:01 099:004 > z
+16:28:02 099:004 > z-index: ;
+16:28:02 099:013 > -
+16:28:03 099:014 > -1
+16:28:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+16:29:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:29:22 098:016 > -
+16:29:23 098:016 > --
+16:29:23 098:016 > --.
+16:29:24 098:017 > --.o
+16:29:24 098:018 > --.om
+16:29:26 098:017 > --.omi
+16:29:26 098:018 > --.omin
+16:29:26 098:019 > --.ominn
+16:29:26 098:020 > --.ominne
+16:29:26 098:016 > .innehåll
+
+16:29:32 099:004 > p
+16:29:32 099:005 > på
+16:29:32 099:006 > påo
+16:29:33 099:005 > påoo
+16:29:33 099:006 > påoos
+16:29:33 099:004 > position: relative;
+
+16:29:56 102:004 > d
+16:29:56 102:005 > di
+16:29:57 102:004 > display: inline;
+16:29:57 102:020 > b
+16:29:59 102:013 > bb
+16:29:59 102:014 > bbl
+16:30:00 102:014 > bbll
+16:30:00 102:013 > block
+16:30:02 102:018 > ;
+16:30:11 098:000 > .kontainer main .innehåll{
+    position: relative;
+}
+
+16:30:14 101:016 > p
+
+16:30:16 102:014 > a
+16:30:16 102:015 > ab
+16:30:17 102:014 > absolute
+16:30:32 102:004 > position: absolute;
+    top: 50%; /* Adjust vertically as needed */
+    left: 50%; /* Adjust horizontally as needed */
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8); /* Adjust background color and opacity */
+    padding: 20px;
+16:32:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+16:32:24 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:32:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+16:32:36 028:016 > .
+16:32:45 028:017 > .v
+16:32:54 028:017 > .vl
+16:32:55 028:018 > .vlä
+16:32:55 028:019 > .vläs
+16:32:55 028:020 > .vläsa
+16:32:56 028:020 > .vläsaa
+16:32:57 028:021 > .vläsaam
+16:32:57 028:022 > .vläsaame
+16:32:57 028:023 > .vläsaamer
+16:33:00 028:017 > .vläsaamerk
+16:33:00 028:018 > .vläsaamerko
+16:33:01 028:019 > .vläsaamerkon
+16:33:01 028:020 > .vläsaamerkont
+16:33:01 028:021 > .vläsaamerkonte
+16:33:01 028:022 > .vläsaamerkonten
+16:33:08 028:016 > .vläsaamerkonten.
+16:33:18 028:017 > .vläsaamerkonten.a
+16:33:19 028:018 > .vläsaamerkonten.al
+16:33:19 028:019 > .vläsaamerkonten.alt
+16:33:19 028:020 > .vläsaamerkonten.alte
+16:33:19 028:021 > .vläsaamerkonten.alter
+16:33:20 028:022 > .vläsaamerkonten.altern
+16:33:20 028:023 > .vläsaamerkonten.alterna
+16:33:20 028:024 > .vläsaamerkonten.alternat
+16:33:20 028:025 > .vläsaamerkonten.alternati
+16:33:20 028:026 > .vläsaamerkonten.alternativ
+16:33:22 028:027 > .vläsaamerkonten.alternativ K
+16:33:22 028:028 > .vläsaamerkonten.alternativ Ko
+16:33:22 028:029 > .vläsaamerkonten.alternativ Kon
+16:33:22 028:030 > .vläsaamerkonten.alternativ Kont
+16:33:22 028:031 > .vläsaamerkonten.alternativ Konta
+16:33:23 028:032 > .vläsaamerkonten.alternativ Kontai
+16:33:23 028:033 > .vläsaamerkonten.alternativ Kontain
+16:33:23 028:034 > .vläsaamerkonten.alternativ Kontaine
+16:33:23 028:035 > .vläsaamerkonten.alternativ Kontainer
+16:33:23 028:016 > <div class="alternativKontainer"></div>
+16:33:30 029:020 > <p>
+                    Box Delivery erbjuder ett smidigt och miljövänligt sätt att få dina paket levererade. Vi använder återvinningsbara lådor och erbjuder snabba och pålitliga leveranser. Med vår enkla och användarvänliga plattform kan du spåra dina paket och välja leveranstid och plats som passar dig bäst. Välkommen till Box Delivery - där bekvämlighet möter hållbarhet.</p>
+16:33:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:33:37 101:016 > .
+16:33:38 101:017 > .a
+16:33:38 101:018 > .al
+16:33:38 101:016 > .alternativ
+16:33:40 101:027 > k
+16:33:40 101:016 > .alternativKontainer
+16:33:43 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+16:34:05 028:038 > -
+16:34:05 028:039 > -k
+16:34:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:34:10 101:027 > -
+16:34:11 101:028 > -l
+16:34:11 101:028 > -lk
+16:34:44 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+16:34:48 034:020 > K
+16:34:50 034:020 > Ka
+16:34:50 034:020 > <a href=""></a>
+16:34:54 034:031 > L
+16:34:54 034:032 > Lä
+16:34:54 034:033 > Läs
+16:34:55 034:035 > Läs M
+16:34:56 034:036 > Läs ME
+16:34:56 034:036 > Läs MEe
+16:34:57 034:037 > Läs MEer
+
+16:35:04 035:020 > a
+16:35:04 035:020 > <a href=""></a>
+16:35:05 035:029 > k
+16:35:06 035:030 > kö
+16:35:06 035:031 > köp
+16:35:10 035:028 > köp"
+16:35:15 035:028 > köp""
+
+16:35:26 034:039 > O
+16:35:26 034:040 > Om
+16:35:27 034:042 > Om o
+16:35:27 034:043 > Om os
+16:35:27 034:044 > Om oss
+16:35:31 034:035 > Om ossp
+16:35:31 034:036 > Om ossp,
+16:35:32 034:035 > Om ossp,o
+16:35:32 034:036 > Om ossp,om
+16:35:34 034:035 > Om ossp,om m
+16:35:35 034:035 > Om ossp,om mM
+16:35:35 034:036 > Om ossp,om mMe
+16:35:35 034:037 > Om ossp,om mMer
+16:35:39 034:035 > Om ossp,om mMerm
+16:35:39 034:035 > <map name=""></map>
+16:35:40 034:035 > m
+
+16:35:46 035:031 > l
+16:35:46 035:032 > lä
+16:35:46 035:033 > läs
+16:35:58 035:031 > läsS
+16:35:59 035:032 > läsSe
+16:35:59 035:034 > läsSe V
+16:36:00 035:035 > läsSe Vå
+16:36:00 035:036 > läsSe Vår
+16:36:00 035:037 > läsSe Våra
+16:36:03 035:034 > läsSe Våra v
+16:36:03 035:035 > läsSe Våra vå
+16:36:03 035:036 > läsSe Våra vår
+16:36:04 035:037 > läsSe Våra våra
+
+16:36:30 019:028 > l
+16:36:30 019:029 > le
+16:36:30 019:030 > lev
+16:36:30 019:031 > leve
+16:36:31 019:032 > lever
+16:36:31 019:033 > levera
+16:36:31 019:034 > leveran
+16:36:31 019:028 > leveranser
+16:36:44 019:037 >  p
+16:36:44 019:038 >  pl
+16:36:45 019:039 >  pla
+16:36:45 019:040 >  plan
+16:36:51 019:041 >  plan+
+
+16:37:01 035:038 > l
+16:37:01 035:039 > le
+16:37:01 035:040 > lev
+16:37:01 035:041 > leve
+16:37:02 035:042 > lever
+16:37:02 035:043 > levera
+16:37:02 035:044 > leveran
+16:37:02 035:045 > leverans
+16:37:03 035:047 > leverans p
+16:37:03 035:048 > leverans pl
+16:37:03 035:049 > leverans pla
+16:37:03 035:050 > leverans plan
+16:37:10 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:37:14 109:000 > .kontainer main .alternativ-kontainer{
+    position: absolute;
+    top: 50%; /* Adjust vertically as needed */
+    left: 50%; /* Adjust horizontally as needed */
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8); /* Adjust background color and opacity */
+    padding: 20px;
+}
+
+16:37:14 116:001 > /
+
+16:37:22 109:038 > a
+16:37:23 109:038 > aa
+
+16:37:26 110:004 > d
+16:37:26 110:005 > de
+16:37:26 110:006 > dec
+16:37:27 110:007 > deco
+16:37:27 110:008 > decor
+16:37:27 110:009 > decora
+16:37:28 110:010 > decorat
+16:37:29 110:004 > decoratt
+16:37:29 110:005 > decoratte
+16:37:29 110:006 > decorattex
+16:37:29 110:007 > decorattext
+16:37:29 110:008 > decorattextd
+16:37:30 110:004 > text-decoration: ;
+16:37:30 110:021 > .
+16:37:31 110:021 > .n
+16:37:31 110:022 > .no
+16:37:31 110:021 > none
+
+16:37:34 111:004 > p
+16:37:35 111:005 > pa
+16:37:35 111:006 > pad
+16:37:35 111:007 > padd
+16:37:35 111:004 > padding: ;
+16:37:36 111:013 > 1
+16:37:36 111:014 > 15
+16:37:36 111:015 > 15p
+16:37:37 111:016 > 15px
+16:37:37 111:013 > 15px
+16:37:44 111:004 > c
+16:37:45 111:005 > ce
+16:37:45 111:006 > cen
+16:37:45 111:007 > cent
+16:37:45 111:008 > cente
+16:37:45 111:009 > center
+16:37:46 111:004 > centerj
+16:37:46 111:005 > centerju
+16:37:47 111:006 > centerjus
+16:37:47 111:004 > justify-content: ;
+16:37:48 111:021 > c
+16:37:48 111:022 > ce
+16:37:48 111:021 > center
+16:37:53 111:004 > t
+16:37:53 111:005 > te
+16:37:53 111:006 > tex
+16:37:56 111:004 > text
+16:37:56 111:005 > texte
+16:37:56 111:006 > textex
+16:37:57 111:007 > textext
+16:37:57 111:008 > textexta
+16:37:57 111:009 > textextal
+16:37:57 111:004 > text-align: ;
+16:37:57 111:016 > center
+
+16:38:38 113:004 > b
+16:38:38 113:005 > bo
+16:38:38 113:006 > bor
+16:38:38 113:007 > bord
+16:38:39 113:004 > border: ;
+16:38:41 113:012 > s
+16:38:41 113:013 > so
+16:38:41 113:014 > sol
+16:38:41 113:012 > solid
+16:38:42 113:018 >  b
+16:38:44 113:018 >  b.
+16:38:44 113:019 >  b..
+16:38:44 113:018 >  b..-
+16:38:45 113:019 >  b..--
+16:38:47 113:018 > --celadon
+16:38:52 113:018 > q
+16:38:52 113:018 > q1
+16:38:53 113:019 > q15
+16:38:53 113:020 > q15p
+16:38:53 113:021 > q15px
+16:38:54 113:023 > q15px c
+16:38:55 113:023 > q15px c-
+16:38:55 113:024 > q15px c--
+16:38:57 113:023 > q15px c--v
+16:38:57 113:024 > q15px c--va
+16:38:58 113:025 > q15px c--var
+16:38:58 113:023 > var()
+16:38:59 113:027 > --brunswick-green
+16:39:07 113:018 > 4
+16:39:12 113:004 > 4c
+16:39:12 113:005 > 4co
+16:39:12 113:006 > 4col
+16:39:13 113:007 > 4colo
+16:39:13 113:008 > 4color
+16:39:13 113:004 > color: ;
+16:39:14 113:011 > -
+16:39:14 113:012 > --
+16:39:17 113:011 > var(--celadon-2)
+16:39:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+16:39:27 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:39:43 106:004 > -
+16:39:43 106:005 > --
+16:39:44 106:004 > --c
+16:39:45 106:004 > --cb
+16:39:45 106:005 > --cba
+16:39:46 106:006 > --cbac
+16:39:46 106:004 > background-color: ;
+16:39:47 106:022 > -
+16:39:48 106:023 > --
+16:39:49 106:022 > var(--brunswick-green)
+16:39:56 106:028 > -
+16:40:02 106:026 > --mint-2
+16:40:13 106:028 > c
+16:40:13 106:029 > ce
+16:40:15 106:028 > cec
+16:40:15 106:029 > cece
+16:40:15 106:026 > --celadon
+16:40:16 106:035 > 2
+16:40:18 106:026 > --celadon-2
+16:40:31 113:015 > --mint-2
+16:40:42 113:015 > --sea-green
+
+16:41:00 114:028 > -
+16:41:01 114:026 > --dark-green
+16:41:04 114:026 > ---
+16:41:06 114:028 > en
+16:41:06 114:028 > brunswick-gre
+16:41:08 114:028 > -
+16:41:08 114:026 > --dark-green
+
+16:41:12 113:017 > d
+16:41:12 113:018 > da
+16:41:12 113:015 > --dark-green
+16:42:36 105:004 > transform: translate(-50%, -50%);
+16:42:42 103:003 > top: 50%; /* Adjust vertically as needed */
+16:43:11 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+16:43:20 012:025 > .
+16:43:21 012:026 > ./
+16:45:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:45:01 113:004 > m
+16:45:01 113:005 > ma
+16:45:01 113:006 > mar
+16:45:01 113:007 > marg
+16:45:01 113:004 > margin: ;
+16:45:02 113:012 > 1
+16:45:02 113:013 > 15
+16:45:03 113:014 > 15p
+16:45:03 113:015 > 15px
+
+16:45:31 107:013 > 4
+16:45:32 107:014 > 40
+16:45:32 107:015 > 40p
+16:45:32 107:016 > 40på
+16:45:32 107:017 > 40påx
+16:45:33 107:016 > 40påxx
+16:45:34 107:013 > 40px
+
+16:47:28 112:013 > 1
+16:47:28 112:014 > 10
+16:47:35 112:004 > 10m
+16:47:35 112:005 > 10ma
+16:47:35 112:006 > 10mar
+16:47:35 112:007 > 10marg
+16:47:36 112:004 > margin: ;
+16:47:38 112:010 > t
+16:47:38 112:011 > to
+16:47:38 112:004 > margin-top:
+16:47:39 112:016 > 1
+16:47:39 112:017 > 10
+16:47:40 112:018 > 10p
+16:47:40 112:019 > 10px
+16:47:44 112:016 > 10px4
+16:47:44 112:017 > 10px40
+16:47:45 112:018 > 10px40p
+16:47:45 112:019 > 10px40px
+16:48:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+16:48:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:49:25 101:000 > kontainer main .alternativ-kontainer {
+    position: absolute;
+    top: 50%; /* Adjust vertically as needed */
+    left: 50%; /* Adjust horizontally as needed */
+    transform: translate(-50%, -50%);
+    background-color: var(--celadon-2);
+    padding: 40px;
+    text-align: center; /* Center-align text */
+}
+
+.kontainer main .alternativ-kontainer a {
+    text-decoration: none;
+    display: block; /* Make links block elements */
+    margin-top: 10px; /* Adjust spacing between links */
+    color: var(--dark-green);
+    border: 4px solid var(--dark-green);
+    padding: 10px 20px; /* Adjust padding as needed */
+    width: fit-content; /* Adjust width based on content */
+    margin: 0 auto; /* Center links horizontally */
+}
+
+16:49:31 101:000 > .
+16:49:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+
+16:49:42 034:020 > d
+16:49:42 034:021 > di
+16:49:42 034:022 > div
+16:49:42 034:020 > <div></div>
+16:49:46 034:025 > A
+16:49:46 034:026 > Al
+16:49:46 034:027 > Alt
+16:49:49 034:025 > Alta
+16:49:49 034:026 > Altal
+16:49:49 034:027 > Altalt
+16:49:50 034:028 > Altalte
+16:49:50 034:029 > Altalter
+16:49:50 034:030 > Altaltern
+16:49:50 034:031 > Altalterna
+16:49:50 034:032 > Altalternat
+16:49:51 034:033 > Altalternati
+16:49:51 034:034 > Altalternativ
+16:49:51 034:035 > Altalternativc
+16:49:52 034:034 > Altalternativcv
+16:50:06 034:024 > Altalternativcv.
+16:50:07 034:025 > Altalternativcv.a
+16:50:07 034:026 > Altalternativcv.al
+16:50:07 034:027 > Altalternativcv.alt
+16:50:07 034:028 > Altalternativcv.alte
+16:50:07 034:029 > Altalternativcv.alter
+16:50:07 034:030 > Altalternativcv.altern
+16:50:08 034:031 > Altalternativcv.alterna
+16:50:08 034:032 > Altalternativcv.alternat
+16:50:08 034:033 > Altalternativcv.alternati
+16:50:08 034:034 > Altalternativcv.alternativ
+16:50:08 034:024 > <div class="alternativ"></div>
+16:50:14 035:028 > <a href="">Läs mer</a>
+                    <a href="">Se vår leverans plan</a>
+16:50:35 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:50:38 111:038 > .
+16:50:38 111:038 > .alternativ
+
+16:52:09 117:018 > 1
+16:52:09 117:019 > 10
+16:52:12 117:018 > 20
+
+16:52:19 114:016 > 0
+16:52:20 114:017 > 0p
+16:52:24 114:016 > 10p
+
+16:52:41 111:038 > .
+16:52:42 101:000 > .kontainer main .alternativ-kontainer{
+    position: absolute;
+    top: 50%; /* Adjust vertically as needed */
+    left: 50%; /* Adjust horizontally as needed */
+    transform: translate(-50%, -50%);
+    background-color: var(--celadon-2);
+    padding: 40px;
+}
+.kontainer main .alternativ-kontainer a{
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    color: var(--dark-green);
+    border: solid 4px var(--dark-green);
+}
+16:52:44 112:004 > margin
+
+16:52:44 112:010 > -
+16:52:45 112:011 > top
+16:52:45 112:014 > :
+16:52:45 112:016 > 40px
+16:52:45 112:020 > ;
+16:52:46 112:016 > 10px
+16:52:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+16:52:49 038:024 > <a href="">Läs mer</a>
+                    <a href="">Se vår leverans plan</a>
+16:52:49 034:024 > .alternativ
+16:52:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:52:55 112:016 > 40px
+16:52:57 101:000 > kontainer main .alternativ-kontainer {
+    position: absolute;
+    top: 50%; /* Adjust vertically as needed */
+    left: 50%; /* Adjust horizontally as needed */
+    transform: translate(-50%, -50%);
+    background-color: var(--celadon-2);
+    padding: 40px;
+    text-align: center; /* Center-align text */
+}
+
+.kontainer main .alternativ-kontainer a {
+    text-decoration: none;
+    display: block; /* Make links block elements */
+    margin-top: 10px; /* Adjust spacing between links */
+    color: var(--dark-green);
+    border: 4px solid var(--dark-green);
+    padding: 10px 20px; /* Adjust padding as needed */
+    width: fit-content; /* Adjust width based on content */
+    margin: 0 auto; /* Center links horizontally */
+}
+
+16:53:01 101:000 > .
+
+16:53:23 114:016 > 1
+16:53:23 114:017 > 10
+16:53:24 114:016 > 102
+16:53:24 114:017 > 1020
+16:53:24 114:018 > 1020p
+16:53:24 114:019 > 1020px
+16:53:27 114:016 > 20px
+16:53:33 114:016 > 20px
+16:53:34 114:016 > 10
+16:53:35 114:016 > 10px
+
+16:53:49 119:012 > 1
+16:53:50 119:013 > 10
+16:53:50 119:014 > 10p
+16:53:50 119:015 > 10px
+
+16:54:33 109:004 > b
+16:54:33 109:005 > bo
+16:54:33 109:006 > bor
+16:54:33 109:007 > bord
+16:54:34 109:004 > border: ;
+16:54:35 109:012 > -
+16:54:36 109:012 > -s
+16:54:37 109:013 > -sp
+16:54:37 109:012 > springgreen
+16:54:38 109:012 > s
+16:54:38 109:013 > so
+16:54:38 109:014 > sol
+16:54:38 109:012 > solid
+16:54:39 109:018 >  1
+16:54:40 109:019 >  15
+16:54:42 109:018 >  15 1
+16:54:42 109:019 >  15 10
+16:54:43 109:018 >  15 105
+16:54:43 109:019 >  15 105p
+16:54:43 109:020 >  15 105px
+16:54:45 109:022 >  15 105px c
+16:54:46 109:022 >  15 105px c-
+16:54:46 109:023 >  15 105px c--
+16:54:47 109:022 >  15 105px c--c
+16:54:48 109:022 >  15 105px c--cv
+16:54:48 109:023 >  15 105px c--cva
+16:54:48 109:024 >  15 105px c--cvar
+16:54:48 109:022 > var()
+16:54:49 109:026 > -
+16:54:49 109:027 > --
+16:54:53 109:026 > --celadon
+16:54:56 109:027 > -
+16:54:57 109:026 > --brunswick-green
+
+16:55:46 107:013 > 3
+16:55:46 107:014 > 30
+17:01:02 121:000 > .kontainer main .alternativ-kontainer a {
+    text-decoration: none;
+    display: block; /* Make links block elements */
+    color: var(--dark-green);
+    border: 4px solid var(--dark-green);
+    padding: 10px 20px; /* Adjust padding as needed */
+    width: fit-content; /* Adjust width based on content */
+    margin: 10px auto; /* Center links horizontally */
+}
+
+17:01:06 122:004 > c
+17:01:06 122:005 > co
+17:01:06 122:006 > col
+17:01:06 122:007 > colo
+17:01:06 122:008 > color
+17:01:06 122:004 > color: ;
+17:01:07 122:011 >  v
+17:01:07 122:012 >  va
+17:01:07 122:013 >  var
+17:01:07 122:011 > var()
+17:01:09 122:015 > --celadon
+17:01:19 122:015 > --nyanza
+
+17:01:26 121:040 > :
+17:01:26 121:041 > :h
+17:01:26 121:042 > :ho
+17:01:26 121:040 > :horizontal
+17:01:28 121:041 > h
+17:01:28 121:042 > ho
+17:01:28 121:043 > hov
+17:01:29 121:044 > hove
+17:01:29 121:045 > hover
+17:01:29 121:040 > :hover
+17:02:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:02:29 131:001 > a
+17:02:29 131:002 > aw
+17:02:29 131:003 > awd
+17:03:40 115:002 > color: var(--dark-green);
+
+17:04:21 122:011 > w
+17:04:21 122:011 > wheat
+17:04:26 122:011 > w
+17:04:27 122:011 > w)
+17:04:27 122:011 > var(--nyanza
+17:04:28 131:001 > awd
+17:04:28 121:040 > :hover
+17:04:29 121:041 > horizonta
+
+17:04:29 121:050 > l
+17:04:30 121:040 > :ho
+17:04:30 122:015 > --
+17:04:31 122:017 > celadon
+17:04:33 121:039 > :
+17:04:34 121:040 > :h
+17:04:34 121:041 > :ho
+17:04:35 121:042 > :hov
+17:04:35 121:043 > :hove
+17:04:35 121:044 > :hover
+17:04:35 121:039 > :hover
+17:04:44 122:015 > --nyanza
+
+17:07:34 122:011 > w
+17:07:35 122:011 > white
+17:07:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+17:08:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:08:05 099:004 > f
+17:08:05 099:005 > fo
+17:08:05 099:006 > fon
+17:08:05 099:007 > font
+17:08:05 099:008 > fonts
+17:08:06 099:004 > font-size: ;
+17:08:08 099:015 > 4
+17:08:09 099:016 > 40
+17:08:09 099:017 > 40p
+17:08:09 099:018 > 40px
+17:08:10 099:015 > 40px
+17:08:14 099:015 > 2
+17:08:15 099:016 > 20
+17:08:19 099:015 > 202
+17:08:19 099:016 > 2025
+17:08:23 099:015 > 20251
+17:08:23 099:016 > 202515
+17:08:28 099:015 > 2025151
+17:08:28 099:016 > 20251519
+17:09:22 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+17:09:23 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index copy.html
+----------------------------------------
+17:09:23 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index copy 2.html
+----------------------------------------
+17:09:23 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index copy 3.html
+----------------------------------------
+17:09:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index.html
+----------------------------------------
+17:09:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+17:09:54 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+17:11:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+17:11:28 033:066 > Webbplats/index.html
+
+17:11:37 035:050 > e
+17:11:37 035:051 > er
+
+17:11:42 019:040 > e
+17:11:42 019:041 > er
+
+17:12:11 012:027 > h
+17:12:11 012:028 > he
+17:12:11 012:027 > hem.html
+17:12:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+17:12:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:12:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index copy.html
+----------------------------------------
+17:13:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:13:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:13:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:13:42 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplan.html
+----------------------------------------
+17:13:52 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+17:13:54 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\index copy.html
+----------------------------------------
+17:14:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+17:14:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+
+17:14:21 018:025 > h
+17:14:21 018:026 > he
+17:14:21 018:027 > hen
+17:14:22 018:026 > hene
+17:14:23 018:025 > hem.html
+
+17:14:26 019:025 > l
+17:14:27 019:025 > lk
+17:14:27 019:026 > lko
+17:14:28 019:025 > kontakta-oss.html
+
+17:14:32 020:025 > ö
+17:14:32 020:025 > öl
+17:14:32 020:026 > öle
+17:14:33 020:027 > ölev
+17:14:33 020:025 > leveransplaner.html
+
+17:14:36 021:025 > o
+17:14:36 021:026 > om
+17:14:36 021:025 > om-oss.html
+
+17:20:26 019:044 > L
+
+17:21:04 018:019 > c
+17:21:04 018:020 > cl
+17:21:04 018:021 > cla
+17:21:04 018:019 > class=""
+17:21:05 018:026 > a
+17:21:05 018:027 > ak
+17:21:06 018:028 > akt
+17:21:06 018:029 > akti
+17:21:06 018:030 > aktiv
+17:21:07 018:031 > aktiv-
+17:21:08 018:032 > aktiv-S
+17:21:08 018:032 > aktiv-Ss
+17:21:08 018:033 > aktiv-Ssi
+17:21:09 018:034 > aktiv-Ssid
+17:21:09 018:035 > aktiv-Ssida
+17:21:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:21:29 133:000 > a
+17:21:29 133:001 > ak
+17:21:30 133:002 > akt
+17:21:30 133:000 > .aktiv-sida
+17:21:31 133:011 > {}
+17:21:31 133:012 > []
+
+17:21:37 134:004 > c
+17:21:37 134:005 > co
+17:21:38 134:006 > col
+17:21:38 134:007 > colr
+17:21:38 134:006 > colrl
+17:21:39 134:007 > colrlo
+17:21:39 134:008 > colrlor
+17:21:39 134:004 > color: ;
+17:21:41 134:011 > v
+17:21:41 134:012 > va
+17:21:41 134:013 > var
+17:21:41 134:011 > var()
+17:21:41 134:015 > -
+17:21:49 134:015 > --celadon
+17:21:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+17:22:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:22:08 134:015 > -
+17:22:09 134:015 > --brunswick-green
+17:22:12 134:014 > w
+17:22:14 134:011 > ww
+17:22:14 134:011 > wheat
+17:22:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+17:22:32 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:23:09 134:003 > b
+17:23:09 134:004 > ba
+17:23:09 134:005 > bac
+17:23:09 134:006 > back
+17:23:10 134:003 > background-color: ;
+17:23:10 134:021 > w
+17:23:11 134:022 > wh
+17:23:11 134:023 > whi
+17:23:12 134:021 > white
+17:23:31 134:003 > k
+17:23:31 134:004 > ko
+17:24:31 080:004 > flex-grow: 1;
+
+17:24:37 080:015 > 2
+17:24:39 080:015 > 21
+17:25:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+17:25:29 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:25:30 134:004 > c
+17:25:31 134:005 > co
+17:25:31 134:006 > col
+17:25:31 134:007 > colr
+17:25:31 134:004 > column-rule: ;
+17:25:33 134:007 > o
+17:25:34 134:008 > or
+17:25:34 134:010 > or w
+17:25:34 134:011 > or wj
+17:25:34 134:012 > or wjh
+17:25:35 134:011 > or wjhh
+17:25:35 134:012 > or wjhhi
+17:25:36 134:013 > or wjhhit
+17:25:38 134:009 > or wjhhit:
+17:25:38 134:010 > or wjhhit:w
+17:25:38 134:010 > wheat
+17:25:40 134:010 > w
+17:25:41 134:011 > wh
+17:25:41 134:012 > whi
+17:25:41 134:010 > white
+
+17:26:12 085:015 > a
+17:26:12 085:016 > al
+17:26:13 085:015 > .alternativ
+17:26:14 085:027 >  a
+17:26:15 085:027 >  aa
+17:27:26 133:000 > .aktiv-sida{
+    color:white;
+}
+
+17:27:31 134:003 > !
+17:27:35 134:017 > ! !
+17:27:36 134:017 > !important
+
+17:28:18 133:000 > -
+17:28:19 133:000 > -.
+17:28:19 133:001 > -.k
+17:28:19 133:002 > -.ko
+17:28:19 133:003 > -.kot
+17:28:20 133:000 > .kontainer
+17:28:20 133:010 > .
+17:28:24 133:011 > .a
+17:28:24 133:012 > .al
+17:28:24 133:010 > .alternativ
+17:28:38 133:033 >  a
+17:29:46 133:022 >  a a
+17:30:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+17:31:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:31:07 133:000 > .kontainer nav .alternativ .aktiv-sida
+17:35:20 093:000 > .kontainer nav .alternativ a {
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 15px;
+    color: var(--celadon-2);
+    background-color: var(--dark-green);
+    border-radius: 5px;
+}
+
+17:35:24 093:028 > :
+17:35:25 093:029 > :h
+17:35:25 093:030 > :hi
+17:35:26 093:031 > :hib
+17:35:27 093:031 > :hibv
+17:35:27 093:032 > :hibve
+17:35:27 093:033 > :hibver
+17:35:28 093:031 > :hibvero
+17:35:28 093:032 > :hibverov
+17:35:28 093:033 > :hibverove
+17:35:28 093:031 > :hibveroveo
+17:35:29 093:032 > :hibveroveov
+17:35:29 093:031 > :hibveroveovo
+17:35:29 093:032 > :hibveroveovov
+17:35:30 093:031 > :hibveroveovovo
+17:35:30 093:032 > :hibveroveovovoo
+17:35:30 093:030 > :hibveroveovovooo
+17:35:30 093:031 > :hibveroveovovooov
+17:35:31 093:032 > :hibveroveovovooove
+17:35:31 093:033 > :hibveroveovovooover
+17:35:31 093:028 > :hover
+
+17:35:36 094:004 > c
+17:35:36 094:005 > co
+17:35:36 094:006 > col
+17:35:36 094:007 > colo
+17:35:37 094:004 > color: ;
+17:35:39 094:004 > b
+17:35:40 094:005 > ba
+17:35:40 094:006 > bac
+17:35:42 094:004 > bacb
+17:35:42 094:005 > bacbo
+17:35:43 094:006 > bacbor
+17:35:43 094:004 > border:
+17:35:45 094:012 > s
+17:35:45 094:013 > so
+17:35:45 094:014 > sol
+17:35:45 094:012 > solid
+17:35:47 094:018 >  b
+17:35:47 094:019 >  bl
+17:35:47 094:020 >  bla
+17:35:49 094:018 >  blaw
+17:35:49 094:019 >  blawh
+17:35:49 094:020 >  blawhi
+17:35:50 094:021 >  blawhit
+17:35:50 094:018 > white
+17:35:53 094:018 >  3
+17:35:54 094:018 >  34
+17:35:54 094:019 >  34p
+17:35:55 094:020 >  34pc
+17:35:55 094:020 >  34pcx
+17:35:56 094:022 >  34pcx w
+17:35:56 094:023 >  34pcx wh
+17:35:56 094:022 > wheat
+17:35:57 094:022 > h
+17:35:58 094:022 > hw
+17:35:58 094:023 > hwh
+17:35:58 094:024 > hwhi
+17:35:58 094:025 > hwhit
+17:35:58 094:026 > hwhite
+17:35:58 094:022 > white
+17:36:10 091:004 > border-radius: 5px;
+
+17:37:20 086:004 > t
+17:37:21 086:005 > tr
+17:37:21 086:006 > tra
+17:37:21 086:007 > tran
+17:37:21 086:004 > transform: ;
+17:37:22 086:004 > t
+17:37:23 086:005 > tr
+17:37:23 086:006 > tra
+17:37:23 086:007 > tran
+17:37:23 086:008 > trans
+17:37:26 086:004 > transition:
+17:37:26 086:016 > all
+17:37:27 086:020 >  5
+17:37:27 086:021 >  50
+17:37:27 086:022 >  500
+17:37:28 086:023 >  500m
+17:37:28 086:024 >  500ms
+17:37:28 086:020 > 500ms
+17:37:32 095:004 > transition: all 500ms
+17:37:36 086:025 > ;
+
+17:37:44 095:025 > ;
+
+17:37:52 086:020 > 1
+17:37:53 086:021 > 10
+17:37:53 086:022 > 100
+
+17:37:54 095:020 > 1
+17:42:48 080:000 > .kontainer nav .alternativ a {
+    transition: all 100ms;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 15px;
+    color: var(--celadon-2);
+    background-color: var(--dark-green);
+    border-radius: 5px;
+    border: 4px solid transparent; /* Set border to transparent by default */
+
+17:42:51 089:000 > }
+17:42:56 090:000 > .kontainer nav .alternativ a:hover {
+    border-color: white; /* Change border color on hover */
+}
+17:42:57 090:000 > .kontainer nav .alternativ a:hover {
+    transition: all 100ms;
+    border: solid 4px white;
+}
+17:42:59 090:000 > .kontainer nav .alternativ a:hover {
+    border-color: white; /* Change border color on hover */
+}
+
+17:43:10 091:004 > t
+17:43:10 091:005 > tr
+17:43:10 091:006 > tra
+17:43:12 091:007 > tran
+17:43:12 091:008 > trans
+17:43:12 091:009 > transi
+17:43:12 091:004 > transition: ;
+17:43:13 091:016 > 1
+17:43:13 091:017 > 10
+17:43:13 091:018 > 100
+17:43:13 091:019 > 100m
+17:43:14 091:020 > 100ms
+17:43:14 091:016 > 100ms
+17:44:17 120:004 > border: 4px solid transparent; /* Set border to transparent by default */
+
+17:44:27 123:004 > b
+17:44:28 123:005 > bo
+17:44:28 123:006 > bor
+17:44:28 123:007 > bord
+17:44:29 123:004 > border: ;
+17:44:30 123:012 > s
+17:44:30 123:013 > so
+17:44:31 123:014 > sol
+17:44:31 123:012 > solid
+17:44:32 123:018 >  w
+17:44:32 123:019 >  wh
+17:44:32 123:020 >  whi
+17:44:32 123:021 >  whit
+17:44:32 123:022 >  white
+17:44:33 123:018 > white
+
+17:44:40 113:004 > t
+17:44:40 113:005 > tr
+17:44:40 113:006 > tra
+17:44:41 113:007 > tran
+17:44:41 113:008 > trans
+17:44:42 113:004 > transition: ;
+17:44:43 113:016 > all
+17:44:44 113:020 >  1
+17:44:44 113:021 >  10
+17:44:44 113:022 >  100
+17:44:44 113:023 >  100m
+17:44:45 113:024 >  100ms
+17:44:45 113:020 > 100ms
+
+17:45:06 124:012 > 4
+17:45:07 124:013 > 4p
+17:45:07 124:014 > 4px
+17:45:29 123:000 > color: white;
+
+18:04:14 000:000 > p
+18:04:14 000:001 > på
+18:04:18 000:000 > påb
+18:04:18 000:001 > påby
+18:04:19 000:002 > påbyg
+18:04:19 000:003 > påbygg
+18:04:19 000:004 > påbyggd
+18:04:19 000:005 > påbyggde
+18:04:20 000:007 > påbyggde l
+18:04:21 000:008 > påbyggde la
+18:04:21 000:009 > påbyggde lat
+18:04:22 000:010 > påbyggde lato
+18:04:22 000:011 > påbyggde latou
+18:04:23 000:012 > påbyggde latout
+18:04:26 000:009 > påbyggde latouty
+18:04:27 000:010 > påbyggde latoutyo
+18:04:27 000:011 > påbyggde latoutyou
+18:04:28 000:012 > påbyggde latoutyout
+18:04:28 000:013 > påbyggde latoutyoute
+18:04:28 000:014 > påbyggde latoutyouter
+18:04:30 000:014 > påbyggde latoutyoutern
+18:04:30 000:016 > påbyggde latoutyoutern t
+18:04:30 000:017 > påbyggde latoutyoutern ti
+18:04:31 000:018 > påbyggde latoutyoutern til
+18:04:31 000:019 > påbyggde latoutyoutern till
+18:04:32 000:021 > påbyggde latoutyoutern till s
+18:04:32 000:022 > påbyggde latoutyoutern till si
+18:04:33 000:023 > påbyggde latoutyoutern till sid
+18:04:33 000:024 > påbyggde latoutyoutern till sida
+18:04:34 000:025 > påbyggde latoutyoutern till sidam
+18:04:34 000:025 > påbyggde latoutyoutern till sidamj
+18:04:35 000:025 > påbyggde latoutyoutern till sidamjn
+18:04:40 000:027 > påbyggde latoutyoutern till sidamjn o
+18:04:42 000:028 > påbyggde latoutyoutern till sidamjn oc
+18:04:42 000:029 > påbyggde latoutyoutern till sidamjn och
+18:04:43 000:031 > påbyggde latoutyoutern till sidamjn och h
+18:04:43 000:032 > påbyggde latoutyoutern till sidamjn och ha
+18:04:44 000:033 > påbyggde latoutyoutern till sidamjn och har
+18:04:44 000:035 > påbyggde latoutyoutern till sidamjn och har b
+18:04:45 000:036 > påbyggde latoutyoutern till sidamjn och har ba
+18:04:45 000:037 > påbyggde latoutyoutern till sidamjn och har bas
+18:04:46 000:039 > påbyggde latoutyoutern till sidamjn och har bas o
+18:04:49 000:039 > påbyggde latoutyoutern till sidamjn och har bas oi
+18:04:49 000:040 > påbyggde latoutyoutern till sidamjn och har bas oid
+18:04:50 000:041 > påbyggde latoutyoutern till sidamjn och har bas oide
+18:04:50 000:042 > påbyggde latoutyoutern till sidamjn och har bas oidee
+18:04:51 000:043 > påbyggde latoutyoutern till sidamjn och har bas oideen
+18:04:52 000:044 > påbyggde latoutyoutern till sidamjn och har bas oideen.
+18:04:56 000:041 > påbyggde latoutyoutern till sidamjn och har bas oideen.é
+18:05:09 000:000 > <!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, ,initial-scale=1">
+    <title>Box Delivery &trade;</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="kontainer">
+        <header><a href="hem.html">Box Delivery &TRADE;</a></header>
+        <nav>
+            <div class="ikon">
+                <img src="./bilder/679821.png" alt="ikon">
+            </div>
+            <div class="alternativ">
+                <a class="aktiv-sida" href="hem.html">Hem</a>
+                <a href="kontakta-oss.html">Leveransplaner</a>
+                <a href="leveransplaner.html">Kontakta oss</a>
+                <a href="om-oss.html">Om oss</a>
+            </div>
+
+        </nav>
+        <main>
+            <section class="innehåll">
+                <img src="./bilder/pexels-norma-mortenson-4391478.jpg" alt="En Man håller i en låda.">
+                <div class="alternativ-kontainer">
+                    <p>
+                        Box Delivery erbjuder ett smidigt och miljövänligt sätt att få dina paket levererade. Vi
+                        använder återvinningsbara lådor och erbjuder snabba och pålitliga leveranser. Med vår enkla och
+                        användarvänliga plattform kan du spåra dina paket och välja leveranstid och plats som passar dig
+                        bäst. Välkommen till Box Delivery - där bekvämlighet möter hållbarhet.</p>
+                    <a href="">Läs mer</a>
+                    <a href="">Se vår leveransplaner</a>
+                </div>
+
+
+            </section>
+        </main>
+        <footer>Box Delivery - 2024&copy;</footer>
+    </div>
+</body>
+
+</html>
+18:05:09 003:001 > *,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+/*sidans regler*/
+
+:root {
+    /* CSS HEX */
+    --nyanza: #d8f3dcff;
+    --celadon: #b7e4c7ff;
+    --celadon-2: #95d5b2ff;
+    --mint: #74c69dff;
+    --mint-2: #52b788ff;
+    --sea-green: #40916cff;
+    --dartmouth-green: #2d6a4fff;
+    --brunswick-green: #1b4332ff;
+    --dark-green: #081c15ff;
+}
+
+.kontainer {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    display: grid;
+    grid-template-areas:
+        "Header"
+        "Nav"
+        "Main"
+        "Footer";
+    background-color: var(--celadon-2);
+}
+
+.kontainer header {
+    grid-area: Header;
+    font-size: 30px;
+}
+
+.kontainer header a {
+    text-decoration: none;
+    color: var(--dark-green);
+}
+
+.kontainer nav {
+    display: flex;
+    align-items: center;
+    grid-area: Nav;
+    padding: 15px;
+}
+
+
+.kontainer .ikon img {
+    width: 50px;
+}
+
+.kontainer .alternativ {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.kontainer nav .alternativ a {
+    transition: all 100ms;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 15px;
+    color: var(--celadon-2);
+    background-color: var(--dark-green);
+    border-radius: 5px;
+    border: 4px solid transparent; /* Set border to transparent by default */
+}
+.kontainer nav .alternativ a:hover {
+    border-color: white; /* Change border color on hover */
+}
+
+.kontainer main {
+    grid-area: Main;
+}
+.kontainer main .innehåll{
+    font-size: 19px;
+    position: relative;
+}
+.kontainer main .alternativ-kontainer {
+    position: absolute;
+    top: 50%; /* Adjust vertically as needed */
+    left: 50%; /* Adjust horizontally as needed */
+    transform: translate(-50%, -50%);
+    background-color: var(--celadon-2);
+    padding: 30px;
+    text-align: center; /* Center-align text */
+    border: solid 5px var(--brunswick-green);
+}
+
+.kontainer main .alternativ-kontainer a {
+    transition: all 100ms;
+    text-decoration: none;
+    display: block; /* Make links block elements */
+    color: var(--dark-green);
+    border: 4px solid var(--dark-green);
+    padding: 10px 20px; /* Adjust padding as needed */
+    width: fit-content; /* Adjust width based on content */
+    margin: 10px auto; /* Center links horizontally */
+}
+.kontainer main .alternativ-kontainer a:hover {
+
+    border: 4px solid white;
+}
+.kontainer main img {
+    display: block;
+    width: 100%;
+}
+
+.kontainer footer {
+    grid-area: Footer;
+}
+
+.kontainer nav .alternativ .aktiv-sida{
+     color:white 
+}

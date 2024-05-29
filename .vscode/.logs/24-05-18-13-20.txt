@@ -1,0 +1,10 @@
+13:20:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+24-05-18 13:20 Session started
+----------------------------------------
+13:29:45 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+13:30:44 312:009 > 6
+13:30:44 312:010 > 60
+13:31:11 312:009 > 70

@@ -1,0 +1,4477 @@
+24-05-16 14:18 Session started
+----------------------------------------
+14:18:03 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:19:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+14:20:20 037:004 > i
+14:20:20 037:005 > if
+14:20:20 037:004 > if
+14:20:20 037:006 > ()
+14:20:21 037:007 > m
+14:20:21 037:008 > mö
+14:20:22 037:009 > mör
+14:20:22 037:010 > mörk
+14:20:23 037:011 > mörkt
+14:20:25 037:007 > ärMörktläge
+14:20:26 037:018 > ()
+14:20:51 043:004 > document.querySelector(cssSelector).classList
+
+14:20:51 043:049 > .
+14:20:52 043:049 > ..
+14:20:59 043:050 > ..t
+14:20:59 043:051 > ..to
+14:20:59 043:052 > ..tog
+14:20:59 043:053 > ..togg
+14:21:00 043:053 > ..toggl
+14:21:00 043:054 > ..toggle
+14:21:00 043:055 > ..toggles
+
+14:21:14 038:005 > *
+14:21:28 038:006 > {}
+
+14:21:38 039:008 > .
+14:21:39 039:008 > .ö
+14:21:39 039:009 > .öp
+14:21:40 039:008 > .öpl
+14:21:40 039:009 > .öplo
+14:21:40 039:010 > .öploc
+14:21:40 039:011 > .öploca
+14:21:40 039:008 > localStorage
+14:21:42 039:020 > .
+14:21:42 039:021 > .s
+14:21:43 039:020 > .setItem
+14:21:43 039:028 > /
+14:21:43 039:029 > ()
+14:21:44 039:029 > ()
+14:21:44 039:028 > ()
+14:21:45 039:029 > m
+14:21:45 039:030 > mö
+14:21:45 039:031 > mör
+14:21:47 039:029 > mörktLägeNyckel
+14:21:48 039:044 > ,
+14:21:51 039:045 > ,f
+14:21:51 039:046 > ,fa
+14:21:52 039:045 > false
+14:21:54 039:051 > :
+14:21:56 039:051 > :;
+
+14:21:59 042:006 > e
+14:22:00 042:007 > ek
+14:22:00 042:008 > eks
+14:22:00 042:007 > eksl
+14:22:00 042:008 > eksls
+14:22:00 042:009 > ekslse
+14:22:00 042:006 > else
+14:22:02 042:010 > {}
+
+14:22:03 043:008 > l
+14:22:03 043:009 > lo
+14:22:04 043:010 > loa
+14:22:04 043:008 > localStorage
+14:22:04 043:020 > .
+14:22:06 043:021 > .g
+14:22:06 043:022 > .ge
+14:22:07 043:023 > .get
+14:22:07 043:020 > .getItem
+14:22:08 043:028 > m
+14:22:08 043:029 > mö
+14:22:09 043:028 > ()
+14:22:10 043:029 > m
+14:22:10 043:030 > mö
+14:22:10 043:031 > mör
+14:22:11 043:029 > mörktLägeKnappen
+14:22:11 043:045 > .
+14:22:12 043:045 > .,
+14:22:14 043:047 > ., f
+14:22:14 043:048 > ., fa
+14:22:14 043:049 > ., faö
+14:22:21 043:021 > ., faös
+14:22:21 043:022 > ., faöse
+14:22:22 043:023 > ., faöset
+14:22:22 043:021 > setItem
+14:22:26 043:046 > t
+14:22:27 043:047 > tr
+14:22:27 043:048 > tru
+14:22:27 043:049 > true
+14:22:27 043:046 > true
+14:22:29 043:051 > ;
+
+14:22:36 034:002 > ä
+14:22:37 034:003 > är
+14:22:38 034:004 > är ,
+14:22:39 034:004 > är ,m
+14:22:40 034:005 > är ,mö
+14:22:40 034:006 > är ,mör
+14:22:40 034:002 > ärMörktläge
+14:22:41 034:014 >  =
+14:22:42 034:016 >  = l
+14:22:42 034:017 >  = lo
+14:22:43 034:018 >  = loc
+14:22:43 034:016 > localStorage
+14:22:44 034:028 >  .
+14:22:44 034:029 >  .g
+14:22:44 034:030 >  .ge
+14:22:44 034:031 >  .get
+14:22:44 034:028 > .getItem
+14:22:45 034:036 > ()
+14:22:46 034:037 > n
+14:22:46 034:038 > ni
+14:22:47 034:039 > nig
+14:22:47 034:037 > nigm
+14:22:48 034:038 > nigmö
+14:22:48 034:039 > nigmör
+14:22:48 034:037 > mörktLägeKnappen
+14:22:49 034:037 > m
+14:22:49 034:038 > mö
+14:22:49 034:039 > mör
+14:22:50 034:037 > mörktLägeNyckel
+14:22:51 034:052 > 0
+14:22:51 034:053 > 00
+14:22:56 034:053 > 00;
+
+14:28:52 036:025 > m
+14:28:53 036:026 > mö
+14:28:54 036:025 > mörktLägeNyckel
+
+14:29:16 033:002 > c
+14:29:16 033:003 > co
+14:29:16 033:004 > con
+14:29:16 033:005 > cons
+14:29:16 033:006 > conso
+14:29:16 033:002 > console
+14:29:17 033:009 > .
+14:29:17 033:010 > .c
+14:29:17 033:010 > .cl
+14:29:18 033:009 > .log
+14:29:18 033:013 > ()
+14:29:20 033:014 > ä
+14:29:21 033:015 > är
+14:29:21 033:014 > ärMörktläge
+
+14:30:22 043:058 > .
+14:37:44 000:000 > document.addEventListener("DOMContentLoaded", function() {
+    let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+    let mörktLägeNyckel = "mörktLägeStatus";
+    let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+    if (ärMörktläge === "true") {
+        aktiveraMörktLäge();
+    }
+
+    mörktLägeKnappen.addEventListener("click", function() {
+        ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+        if (ärMörktläge === "true") {
+            inaktiveraMörktLäge();
+        } else {
+            aktiveraMörktLäge();
+        }
+    });
+
+    function aktiveraMörktLäge() {
+        document.body.classList.add("mörkt-läge-på");
+        mörktLägeKnappen.innerHTML =
+            "<span class='material-symbols-outlined'>dark_mode</span>";
+        localStorage.setItem(mörktLägeNyckel, true);
+    }
+
+    function inaktiveraMörktLäge() {
+        document.body.classList.remove("mörkt-läge-på");
+        mörktLägeKnappen.innerHTML =
+            "<span class='material-symbols-outlined'>light_mode</span>";
+        localStorage.setItem(mörktLägeNyckel, false);
+    }
+});
+14:38:38 000:000 > document.addEventListener("DOMContentLoaded", function() {
+    let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+    let mörktLägeNyckel = "mörktLägeStatus";
+    let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+    // Funktion för att växla färgläget för olika element på sidan
+    function uppdateraFärgläge() {
+        let elements = document.querySelectorAll(".färgläge-brytare");
+        elements.forEach(function(element) {
+            element.classList.toggle("mörkt-läge-på", ärMörktläge === "true");
+        });
+    }
+
+    // Uppdatera färgläget när sidan laddas
+    uppdateraFärgläge();
+
+    // Funktion för att växla färgläget
+    function växlaFärgläge() {
+        ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+        ärMörktläge = (ärMörktläge === "true") ? "false" : "true";
+        localStorage.setItem(mörktLägeNyckel, ärMörktläge);
+        uppdateraFärgläge();
+    }
+
+    // Lägg till händelselyssnare för knappen
+    mörktLägeKnappen.addEventListener("click", function() {
+        växlaFärgläge();
+    });
+});
+14:39:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+14:39:42 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+14:40:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+14:40:39 000:000 > document.addEventListener("DOMContentLoaded", function() {
+  let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+  let mörktLägeNyckel = "mörktLägeStatus";
+  let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+  if (ärMörktläge === "true") {
+      aktiveraMörktLäge();
+  }
+
+  mörktLägeKnappen.addEventListener("click", function() {
+      ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+      if (ärMörktläge === "true") {
+          inaktiveraMörktLäge();
+      } else {
+          aktiveraMörktLäge();
+      }
+  });
+
+  function aktiveraMörktLäge() {
+      document.body.classList.add("mörkt-läge-på");
+      mörktLägeKnappen.innerHTML =
+          "<span class='material-symbols-outlined'>dark_mode</span>";
+      localStorage.setItem(mörktLägeNyckel, true);
+  }
+
+  function inaktiveraMörktLäge() {
+      document.body.classList.remove("mörkt-läge-på");
+      mörktLägeKnappen.innerHTML =
+          "<span class='material-symbols-outlined'>light_mode</span>";
+      localStorage.setItem(mörktLägeNyckel, false);
+  }
+});
+14:40:40 000:000 > let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+mörktLägeKnappen.addEventListener("click", OnMörktLägeClicked);
+
+let mörktLägeNyckel = "mörktLägeStatus";
+let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+if (ärMörktläge === "true") {
+  mörktLägeKnappen.innerHTML =
+    "<span class='material-symbols-outlined'>dark_mode</span>";
+} else {
+  mörktLägeKnappen.innerHTML =
+    "<span class='material-symbols-outlined'>light_mode</span>";
+}
+function OnMörktLägeClicked() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  VäxlaMörktLäge();
+  if (ärMörktläge === "true") {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>light_mode</span>";
+  } else {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>dark_mode</span>";
+  }
+}
+
+function VäxlaMörktLäge() {
+  document.body.classList.toggle("mörkt-läge-på");
+  VäxleElementLäge(".kontainer nav .mörkt-läge-kontainer a");
+  VäxleElementLäge(".kontainer header a");
+  VäxleElementLäge(".kontainer footer");
+  VäxleElementLäge(".kontainer nav");
+  VäxleElementLäge(".kontainer .kontakta-oss-kontainer");
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  if (ärMörktläge) {
+    localStorage.setItem(mörktLägeNyckel, false);
+  } else {
+    localStorage.setItem(mörktLägeNyckel, true);
+  }
+  /**
+   * @param {string} cssSelector
+   */
+  function VäxleElementLäge(cssSelector) {
+    document.querySelector(cssSelector).classList.toggle("mörkt-läge-på");
+  }
+}
+14:40:43 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+14:40:44 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+14:41:11 038:002 > c
+14:41:11 038:003 > co
+14:41:11 038:004 > con
+14:41:12 038:005 > cons
+14:41:12 038:006 > conso
+14:41:12 038:002 > console
+14:41:12 038:009 > .
+14:41:13 038:010 > .l
+14:41:13 038:009 > .log
+14:41:14 038:013 > ()
+14:41:14 038:014 > ä
+14:41:14 038:015 > är
+14:41:15 038:014 > ärMörktläge
+
+14:42:09 044:004 > c
+14:42:09 044:005 > co
+14:42:09 044:006 > con
+14:42:09 044:007 > cons
+14:42:10 044:008 > conso
+14:42:10 044:004 > console
+14:42:10 044:011 > .
+14:42:11 044:012 > .l
+14:42:11 044:013 > .lo
+14:42:11 044:011 > .log
+14:42:12 044:015 > ()
+14:42:17 044:016 > document.querySelector(cssSelector).classList
+14:43:48 030:001 > VäxleElementLäge(".kontainer nav");
+  VäxleElementLäge(".kontainer .kontakta-oss-kontainer");
+14:44:00 031:002 > VäxleElementLäge(".kontainer .kontakta-oss-kontainer");
+14:44:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+14:44:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\generell-script.js
+----------------------------------------
+
+14:44:22 042:004 > l
+14:44:22 042:005 > le
+14:44:22 042:006 > let
+14:44:25 042:008 > let s
+14:44:25 042:009 > let se
+14:44:25 042:010 > let sel
+14:44:25 042:011 > let sele
+14:44:26 042:012 > let selec
+14:44:26 042:013 > let select
+14:44:27 042:008 > cssSelector
+14:44:29 042:020 >  =
+14:44:33 042:008 >  = q
+14:44:34 042:009 >  = qu
+14:44:34 042:010 >  = que
+14:44:34 042:011 >  = quer
+14:44:34 042:012 >  = query
+14:44:35 042:014 >  = query =
+14:44:41 042:008 >  = query =  s
+14:44:41 042:009 >  = query =  sö
+14:44:41 042:010 >  = query =  sök
+14:44:42 042:011 >  = query =  sökn
+14:44:42 042:012 >  = query =  sökni
+14:44:42 042:013 >  = query =  söknin
+14:44:42 042:014 >  = query =  sökning
+14:44:47 042:016 >  = query =  sökning =
+14:44:51 042:015 >  = query =  sökning = s
+14:44:52 042:016 >  = query =  sökning = sQ
+14:44:52 042:017 >  = query =  sökning = sQu
+14:44:52 042:018 >  = query =  sökning = sQue
+14:44:52 042:019 >  = query =  sökning = sQuer
+14:44:53 042:020 >  = query =  sökning = sQuery
+14:45:02 042:008 >  = query =  sökning = sQueryq
+14:45:02 042:009 >  = query =  sökning = sQueryqu
+14:45:02 042:010 >  = query =  sökning = sQueryque
+14:45:02 042:011 >  = query =  sökning = sQueryquer
+14:45:02 042:012 >  = query =  sökning = sQueryquery
+14:45:06 042:016 >  = query =  sökning = sQueryquery d
+14:45:06 042:017 >  = query =  sökning = sQueryquery do
+14:45:06 042:018 >  = query =  sökning = sQueryquery doc
+14:45:07 042:019 >  = query =  sökning = sQueryquery docu
+14:45:07 042:016 > document
+14:45:07 042:024 > .
+14:45:08 042:025 > .s
+14:45:08 042:025 > .sq
+14:45:08 042:026 > .squ
+14:45:08 042:027 > .sque
+14:45:08 042:028 > .squer
+14:45:09 042:024 > .querySelector
+14:45:09 042:038 > ()
+14:45:10 042:039 > s
+14:45:10 042:039 > sc
+14:45:10 042:040 > scs
+14:45:10 042:041 > scss
+14:45:11 042:039 > cssSelector
+14:45:13 042:051 > -
+14:45:14 042:051 > -.
+14:45:15 042:052 > -.c
+14:45:16 042:051 > -.c;
+
+14:45:18 043:004 > i
+14:45:18 043:005 > if
+14:45:18 043:004 > if
+14:45:18 043:006 > ()
+14:45:19 043:007 > q
+14:45:19 043:008 > qu
+14:45:19 043:009 > que
+14:45:19 043:010 > quer
+14:45:20 043:007 > query
+14:45:22 044:006 > {}
+14:45:25 043:013 >  !
+14:45:25 043:014 >  !0
+14:45:26 043:014 >  !0=
+14:45:26 043:016 >  !0= n
+14:45:26 043:017 >  !0= nu
+14:45:27 043:018 >  !0= nul
+14:45:27 043:016 > null
+
+14:45:28 048:062 > ;
+14:45:36 044:006 > document.querySelector(cssSelector).classList.toggle("mörkt-läge-på");
+
+14:46:45 033:002 > c
+14:46:45 033:003 > co
+14:46:45 033:004 > con
+14:46:46 033:005 > cons
+14:46:46 033:006 > consi
+14:46:46 033:002 > crossOriginIsolated
+14:46:47 033:002 > c
+14:46:47 033:003 > co
+14:46:47 033:004 > con
+14:46:47 033:005 > cons
+14:46:47 033:002 > console
+14:46:47 033:009 > .
+14:46:48 033:010 > .l
+14:46:48 033:011 > .lo
+14:46:48 033:009 > .log
+14:46:48 033:013 > ()
+14:46:49 033:014 > ä
+14:46:49 033:015 > ää
+14:46:49 033:016 > äär
+14:46:50 033:015 > äärr
+14:46:50 033:014 > ärMörktläge
+
+14:47:39 005:000 > v
+14:47:39 005:001 > vo
+14:47:40 005:002 > vod
+14:47:40 005:002 > vodn
+14:47:41 005:000 > vodnv
+14:47:41 005:001 > vodnvo
+14:47:42 005:000 > vodnvob
+14:47:42 005:001 > vodnvobo
+14:47:43 005:000 > vodnvoboc
+14:47:43 005:001 > vodnvoboco
+14:47:43 005:002 > vodnvobocon
+14:47:43 005:000 > constructor(params) {
+  
+}
+14:47:44 005:000 > con
+14:47:45 005:000 > c
+14:47:46 005:001 > co
+14:47:46 005:002 > con
+14:47:46 005:003 > cons
+14:47:46 005:004 > conso
+14:47:46 005:005 > consol
+14:47:46 005:006 > console
+14:47:46 005:000 > console
+14:47:46 005:007 > .
+14:47:47 005:008 > .l
+14:47:47 005:007 > .log
+14:47:47 005:011 > ()
+14:47:49 005:012 > ä
+14:47:49 005:013 > är
+14:47:49 005:012 > ärMörktläge
+14:47:52 005:024 > ;
+
+14:52:32 034:018 > =
+14:52:32 034:019 > ==
+14:52:32 034:020 > == =
+14:52:33 034:022 > == = t
+14:52:33 034:023 > == = tu
+14:52:33 034:024 > == = tur
+14:52:34 034:022 > true
+
+14:54:00 013:000 > f
+14:54:00 013:001 > fu
+14:54:00 013:002 > fun
+14:54:00 013:003 > func
+14:54:00 013:000 > function
+14:54:02 013:009 >  U
+14:54:02 013:010 >  Up
+14:54:02 013:011 >  Upp
+14:54:02 013:012 >  Uppd
+14:54:03 013:013 >  Uppda
+14:54:03 013:014 >  Uppdat
+14:54:03 013:015 >  Uppdate
+14:54:03 013:016 >  Uppdater
+14:54:03 013:017 >  Uppdatera
+14:54:07 013:018 >  Uppdatera I
+14:54:07 013:019 >  Uppdatera Ik
+14:54:07 013:020 >  Uppdatera Iko
+14:54:08 013:021 >  Uppdatera Ikon
+14:54:10 013:022 > ()
+
+14:54:12 014:000 > ,
+14:54:14 014:000 > {}
+
+14:54:20 013:018 > D
+14:54:21 013:019 > Da
+14:54:22 013:018 > Da,
+14:54:24 013:018 > Da,M
+14:54:24 013:019 > Da,Mö
+14:54:24 013:020 > Da,Mör
+14:54:25 013:021 > Da,Mörk
+14:54:25 013:022 > Da,Mörkt
+14:54:26 013:023 > Da,MörktL
+14:54:26 013:024 > Da,MörktLä
+14:54:27 013:025 > Da,MörktLäg
+14:54:27 013:026 > Da,MörktLäge
+14:54:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+14:54:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+14:54:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+14:55:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+14:55:34 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+14:55:34 077:017 > mörkt-läge-script.js
+14:55:34 061:017 > mörkt-läge-script.js
+14:55:35 077:017 > mörkt-läge-script.js
+14:55:35 105:019 > mörkt-läge-script.js
+14:55:35 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+14:55:35 105:019 > generell-script.js
+14:55:35 105:019 > mörkt-läge-script.js
+14:55:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+14:55:36 126:017 > mörkt-läge-script.js
+14:55:37 105:019 > mörkt-läge-script.js
+14:55:37 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+14:56:01 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+14:56:10 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+14:56:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+14:56:49 041:048 > console.log(ärMörktläge)
+14:56:54 042:003 > console.log(ärMörktläge)
+
+14:57:54 020:026 > "
+14:57:54 020:022 > ""
+
+14:57:56 006:024 > "
+14:57:56 006:020 > ""
+
+14:57:57 038:026 > "
+14:57:57 038:022 > ""
+14:58:17 009:000 > if (ärMörktläge === "true") {
+  mörktLägeKnappen.innerHTML =
+    "<span class='material-symbols-outlined'>dark_mode</span>";
+} else {
+  mörktLägeKnappen.innerHTML =
+    "<span class='material-symbols-outlined'>light_mode</span>";
+}
+
+14:58:19 043:026 > ;
+
+14:58:20 006:000 > u
+14:58:20 006:001 > up
+14:58:21 006:002 > upp
+14:58:21 006:003 > uppd
+14:58:21 006:004 > uppda
+14:58:21 006:005 > uppdat
+14:58:21 006:000 > UppdateraMörktLägeIkon
+14:58:22 006:022 > ()
+
+14:58:27 019:002 > u
+14:58:27 019:003 > up
+14:58:28 019:004 > upp
+14:58:28 019:002 > UppdateraMörktLägeIkon
+14:58:28 019:024 > ()
+14:58:30 019:026 > .
+14:58:31 019:027 > .:
+14:58:34 019:025 > .:=
+14:58:34 019:026 > .:=)
+14:58:35 019:025 > .:=)=
+14:58:35 019:025 > .:=)=)
+14:58:35 019:026 > .:=)=);
+
+14:58:38 006:024 > ;
+14:58:44 013:065 > "<span class='material-symbols-outlined'>dark_mode</span>";
+14:58:47 009:032 > "<span class='material-symbols-outlined'>light_mode</span>"
+
+14:58:48 009:091 > ;
+
+14:59:41 019:020 > s
+
+14:59:41 007:027 > s
+
+14:59:41 006:018 > s
+15:00:14 034:048 > localStorage.setItem(mörktLägeNyckel, false);
+15:00:17 032:004 > localStorage.setItem(mörktLägeNyckel, true);
+15:00:29 034:004 > localStorage.setItem(mörktLägeNyckel, true);
+15:00:29 032:004 > localStorage.setItem(mörktLägeNyckel, false);
+15:01:08 010:066 > "<span class='material-symbols-outlined'>dark_mode</span>";
+15:01:11 012:032 > "<span class='material-symbols-outlined'>light_mode</span>";
+15:07:11 030:000 > console.log(ärMörktläge);
+
+15:07:53 032:047 > "
+15:07:53 032:042 > ""
+
+15:07:58 034:046 > "
+15:07:58 034:042 > ""
+15:09:05 032:004 > console.log(ärMörktläge);
+
+15:09:08 032:027 > "
+15:09:08 032:016 > ""
+15:10:27 008:002 > ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+15:19:11 013:004 > VäxlaMörktLäge();
+15:19:41 009:031 > VäxlaMörktLäge();
+
+15:24:27 005:000 > i
+15:24:27 005:001 > if
+15:24:30 005:000 > if
+15:24:30 005:002 > ()
+15:24:32 005:003 > m
+15:24:32 005:004 > mö
+15:24:39 005:003 > ärMörktläge
+15:24:50 005:003 > ärMörktläge === "true"
+15:24:53 006:002 > {}
+15:25:52 007:004 > VäxlaMörktLäge();
+15:45:09 019:004 > mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>dark_mode</span>";
+15:45:13 017:066 > } else {
+15:47:10 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+15:47:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+15:49:28 007:001 > */
+15:49:28 005:000 > /*
+15:50:23 005:016 > ""
+15:50:24 005:016 > !
+
+15:51:06 007:002 > u
+15:51:07 007:003 > up
+15:51:07 007:004 > upp
+15:51:07 007:005 > uppd
+15:51:07 007:006 > uppda
+15:51:07 007:002 > UppdateraMörktLägesIkon
+15:51:08 007:025 > ()
+15:51:10 007:027 > ;
+
+15:51:39 005:016 > =
+15:53:22 005:000 > window.addEventListener('DOMContentLoaded', () => {
+    const isDarkMode = localStorage.getItem('darkMode') === 'true';
+    if (isDarkMode) {
+        document.body.classList.add('dark-mode');
+    }
+})
+
+15:53:26 010:002 > ;
+
+15:53:26 008:044 > "
+15:53:26 008:034 > ""
+
+15:53:26 006:063 > "
+15:53:26 006:058 > ""
+15:53:26 006:051 > """
+15:53:26 006:042 > """"
+
+15:53:26 005:041 > "
+15:53:26 005:024 > ""
+
+15:53:28 008:042 > '
+15:53:28 008:032 > ''
+
+15:53:28 006:063 > '
+15:53:28 006:058 > ''
+15:53:28 006:051 > '''
+15:53:28 006:042 > ''''
+
+15:53:28 005:041 > '
+15:53:28 005:024 > ''
+15:53:35 054:000 > window.addEventListener('DOMContentLoaded', () => {
+    const isDarkMode = localStorage.getItem('darkMode') === 'true';
+    if (isDarkMode) {
+        document.body.classList.add('dark-mode');
+    }
+})
+
+15:53:43 055:042 > m
+15:53:44 055:043 > my
+15:53:44 055:042 > myn
+15:53:44 055:043 > myny
+15:53:45 055:042 > mörktLägeNyckel
+15:53:49 055:068 > "
+15:53:49 055:064 > ""
+15:54:05 057:034 > mörkt-läge-på
+
+15:54:10 057:047 > "
+15:54:10 057:034 > ""
+15:54:12 057:035 > ""a
+15:54:12 057:036 > ""aa
+15:54:13 057:037 > ""aaa
+15:54:13 057:038 > ""aaaa
+15:54:13 057:039 > ""aaaaa
+15:54:13 057:040 > ""aaaaaa
+15:54:13 057:041 > ""aaaaaaa
+15:54:13 057:042 > ""aaaaaaaa
+15:54:13 057:043 > ""aaaaaaaaa
+15:54:13 057:044 > ""aaaaaaaaaa
+15:54:13 057:045 > ""aaaaaaaaaaa
+15:54:13 057:046 > ""aaaaaaaaaaaa
+15:54:13 057:047 > ""aaaaaaaaaaaaa
+15:54:13 057:048 > ""aaaaaaaaaaaaaa
+15:54:13 057:049 > ""aaaaaaaaaaaaaaa
+15:54:14 057:035 > mörkt-läge-på
+15:54:15 057:035 > a
+15:54:15 057:036 > aa
+15:54:15 057:037 > aaa
+15:54:17 057:035 > mörkt-läge-på
+
+15:54:21 059:002 > ;
+
+15:54:21 054:041 > "
+15:54:21 054:024 > ""
+15:55:01 054:000 > ""f
+15:55:01 054:001 > ""fu
+15:55:02 054:002 > ""fuc
+15:55:02 054:003 > ""fucn
+15:55:03 054:000 > function
+15:55:05 054:009 >  L
+15:55:05 054:010 >  Lä
+15:55:05 054:011 >  Lät
+15:55:05 054:012 >  Lätt
+15:55:06 054:011 >  Lättg
+15:55:06 054:012 >  Lättgg
+15:55:07 054:013 >  LättggT
+15:55:07 054:014 >  LättggTi
+15:55:07 054:015 >  LättggTil
+15:55:07 054:016 >  LättggTill
+15:55:16 049:000 > function VäxleElementLäge(cssSelector) {
+    let query = document.querySelector(cssSelector);
+    if (query != null) {
+      document.querySelector(cssSelector).classList.toggle("mörkt-läge-på");
+    }
+  }
+15:55:24 048:001 > /**
+   * @param {string} cssSelector
+   */
+15:56:02 044:002 > /**
+   * @param {string} cssSelector
+   */
+15:56:03 047:002 > function VäxleElementLäge(cssSelector) {
+    let query = document.querySelector(cssSelector);
+    if (query != null) {
+      document.querySelector(cssSelector).classList.toggle("mörkt-läge-på");
+    }
+  }
+15:56:09 054:000 > f
+15:56:10 054:001 > fu
+15:56:10 054:002 > fun
+15:56:10 054:003 > func
+15:56:11 054:004 > funct
+15:56:11 054:005 > functi
+15:56:11 054:006 > functio
+15:56:11 054:007 > function
+15:56:12 054:009 > function L
+15:56:12 054:010 > function Lä
+15:56:12 054:011 > function Läg
+15:56:13 054:012 > function Lägg
+15:56:13 054:013 > function LäggT
+15:56:14 054:014 > function LäggTi
+15:56:14 054:015 > function LäggTil
+15:56:14 054:016 > function LäggTill
+15:56:17 054:017 > function LäggTillM
+15:56:17 054:018 > function LäggTillMä
+15:56:18 054:018 > function LäggTillMäö
+15:56:18 054:019 > function LäggTillMäör
+15:56:19 054:020 > function LäggTillMäörk
+15:56:20 054:021 > function LäggTillMäörkL
+15:56:20 054:022 > function LäggTillMäörkLä
+15:56:20 054:023 > function LäggTillMäörkLäg
+15:56:20 054:024 > function LäggTillMäörkLäge
+15:56:22 054:025 > function LäggTillMäörkLägeV
+15:56:22 054:026 > function LäggTillMäörkLägeVC
+15:56:22 054:025 > function LäggTillMäörkLägeVCC
+15:56:23 054:025 > function LäggTillMäörkLägeVCCK
+15:56:23 054:026 > function LäggTillMäörkLägeVCCKl
+15:56:23 054:027 > function LäggTillMäörkLägeVCCKla
+15:56:24 054:028 > function LäggTillMäörkLägeVCCKlas
+15:56:24 054:029 > function LäggTillMäörkLägeVCCKlass
+15:56:25 054:030 > {}
+15:56:35 054:030 > (
+15:56:35 054:031 > ()
+15:56:39 054:031 > cssSelector
+15:56:42 055:000 > let query = document.querySelector(cssSelector);
+    if (query != null) {
+      document.querySelector(cssSelector).classList.toggle("mörkt-läge-på");
+    }
+
+15:56:46 057:050 > a
+15:56:46 057:051 > ad
+15:56:47 057:050 > add
+15:57:01 063:004 > document.body.classList.toggle("mörkt-läge-på");
+  VäxleElementLäge(".kontainer nav .mörkt-läge-kontainer a");
+  VäxleElementLäge(".kontainer header a");
+  VäxleElementLäge(".kontainer footer");
+  VäxleElementLäge(".kontainer nav");
+  VäxleElementLäge(".kontainer .kontakta-oss-kontainer");
+
+15:57:04 063:028 > a
+15:57:04 063:029 > ad
+15:57:04 063:030 > add
+15:57:05 063:028 > add
+
+15:57:20 068:002 > L
+
+15:57:20 067:002 > L
+
+15:57:20 066:002 > L
+
+15:57:20 065:002 > L
+
+15:57:20 064:002 > L
+
+15:57:20 068:003 > ä
+
+15:57:20 067:003 > ä
+
+15:57:20 066:003 > ä
+
+15:57:20 065:003 > ä
+
+15:57:20 064:003 > ä
+
+15:57:20 068:004 > g
+
+15:57:20 067:004 > g
+
+15:57:20 066:004 > g
+
+15:57:20 065:004 > g
+
+15:57:20 064:004 > g
+
+15:57:20 068:005 > g
+
+15:57:20 067:005 > g
+
+15:57:20 066:005 > g
+
+15:57:20 065:005 > g
+
+15:57:20 064:005 > g
+
+15:57:21 068:006 > t
+
+15:57:21 067:006 > t
+
+15:57:21 066:006 > t
+
+15:57:21 065:006 > t
+
+15:57:21 064:006 > t
+
+15:57:21 068:006 > T
+
+15:57:21 067:006 > T
+
+15:57:21 066:006 > T
+
+15:57:21 065:006 > T
+
+15:57:21 064:006 > T
+
+15:57:22 068:007 > o
+
+15:57:22 067:007 > o
+
+15:57:22 066:007 > o
+
+15:57:22 065:007 > o
+
+15:57:22 064:007 > o
+
+15:57:23 068:007 > i
+
+15:57:23 067:007 > i
+
+15:57:23 066:007 > i
+
+15:57:23 065:007 > i
+
+15:57:23 064:007 > i
+
+15:57:23 068:008 > l
+
+15:57:23 067:008 > l
+
+15:57:23 066:008 > l
+
+15:57:23 065:008 > l
+
+15:57:23 064:008 > l
+
+15:57:23 068:009 > l
+
+15:57:23 067:009 > l
+
+15:57:23 066:009 > l
+
+15:57:23 065:009 > l
+
+15:57:23 064:009 > l
+
+15:57:24 068:010 > M
+
+15:57:24 067:010 > M
+
+15:57:24 066:010 > M
+
+15:57:24 065:010 > M
+
+15:57:24 064:010 > M
+
+15:57:24 068:011 > ö
+
+15:57:24 067:011 > ö
+
+15:57:24 066:011 > ö
+
+15:57:24 065:011 > ö
+
+15:57:24 064:011 > ö
+
+15:57:24 068:012 > r
+
+15:57:24 067:012 > r
+
+15:57:24 066:012 > r
+
+15:57:24 065:012 > r
+
+15:57:24 064:012 > r
+
+15:57:26 068:013 > k
+
+15:57:26 067:013 > k
+
+15:57:26 066:013 > k
+
+15:57:26 065:013 > k
+
+15:57:26 064:013 > k
+
+15:57:28 068:014 > L
+
+15:57:28 067:014 > L
+
+15:57:28 066:014 > L
+
+15:57:28 065:014 > L
+
+15:57:28 064:014 > L
+
+15:57:28 068:015 > ä
+
+15:57:28 067:015 > ä
+
+15:57:28 066:015 > ä
+
+15:57:28 065:015 > ä
+
+15:57:28 064:015 > ä
+
+15:57:28 068:016 > g
+
+15:57:28 067:016 > g
+
+15:57:28 066:016 > g
+
+15:57:28 065:016 > g
+
+15:57:28 064:016 > g
+
+15:57:28 068:017 > e
+
+15:57:28 067:017 > e
+
+15:57:28 066:017 > e
+
+15:57:28 065:017 > e
+
+15:57:28 064:017 > e
+15:57:31 068:002 > LäggTillMörkLägeKlass
+15:57:31 067:002 > LäggTillMörkLägeKlass
+15:57:31 066:002 > LäggTillMörkLägeKlass
+15:57:31 065:002 > LäggTillMörkLägeKlass
+15:57:31 064:002 > LäggTillMörkLägeKlass
+
+15:57:40 069:002 > U
+15:57:41 069:003 > UP
+15:57:41 069:004 > UPD
+15:57:41 069:002 > UppdateraMörktLägesIkon
+15:57:42 069:025 > ()
+15:57:42 069:026 > )
+15:57:42 069:027 > );
+
+15:59:23 057:008 > Ä
+15:59:23 057:008 > ärMörktläge
+
+15:59:25 058:016 > '
+15:59:25 058:006 > ''
+15:59:26 058:007 > ''Ä
+15:59:30 058:006 > ''Ää
+15:59:31 058:006 > ärMörktläge
+15:59:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+15:59:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+
+16:01:15 050:000 > f
+16:01:15 050:001 > fu
+16:01:15 050:002 > fun
+16:01:15 050:003 > func
+16:01:15 050:004 > funct
+16:01:16 050:005 > functi
+16:01:16 050:000 > function
+16:01:20 050:009 >  L
+16:01:20 050:010 >  Lä
+16:01:20 050:011 >  Läg
+16:01:20 050:012 >  Lägg
+16:01:21 050:013 >  LäggT
+16:01:21 050:014 >  LäggTi
+16:01:21 050:015 >  LäggTil
+16:01:21 050:016 >  LäggTill
+16:01:22 050:017 >  LäggTillK
+16:01:22 050:018 >  LäggTillKl
+16:01:23 050:019 >  LäggTillKla
+16:01:23 050:020 >  LäggTillKlas
+16:01:23 050:021 >  LäggTillKlass
+16:01:23 050:022 >  LäggTillKlasse
+16:01:23 050:023 >  LäggTillKlasser
+16:01:28 050:017 >  LäggTillKlasserM
+16:01:28 050:018 >  LäggTillKlasserMö
+16:01:28 050:019 >  LäggTillKlasserMör
+16:01:29 050:020 >  LäggTillKlasserMörk
+16:01:30 050:021 >  LäggTillKlasserMörkt
+16:01:31 050:022 >  LäggTillKlasserMörktL
+16:01:31 050:023 >  LäggTillKlasserMörktLä
+16:01:31 050:024 >  LäggTillKlasserMörktLäg
+16:01:31 050:025 >  LäggTillKlasserMörktLäge
+16:01:33 050:026 >  LäggTillKlasserMörktLägeK
+16:01:33 050:027 >  LäggTillKlasserMörktLägeKl
+16:01:33 050:028 >  LäggTillKlasserMörktLägeKla
+16:01:33 050:029 >  LäggTillKlasserMörktLägeKlas
+16:01:33 050:030 >  LäggTillKlasserMörktLägeKlass
+16:01:34 050:031 >  LäggTillKlasserMörktLägeKlasse
+16:01:34 050:032 >  LäggTillKlasserMörktLägeKlasser
+16:01:46 050:000 >  LäggTillKlasserMörktLägeKlasserk
+16:01:46 050:001 >  LäggTillKlasserMörktLägeKlasserka
+16:01:46 050:000 >  LäggTillKlasserMörktLägeKlasserkal
+16:01:46 050:001 >  LäggTillKlasserMörktLägeKlasserkala
+16:01:47 050:002 >  LäggTillKlasserMörktLägeKlasserkalad
+16:01:47 050:003 >  LäggTillKlasserMörktLägeKlasserkaladd
+16:01:47 050:004 >  LäggTillKlasserMörktLägeKlasserkaladda
+16:01:52 050:000 >  LäggTillKlasserMörktLägeKlasserkaladda f
+16:01:53 050:001 >  LäggTillKlasserMörktLägeKlasserkaladda fu
+16:01:53 050:002 >  LäggTillKlasserMörktLägeKlasserkaladda fum
+16:01:53 050:003 >  LäggTillKlasserMörktLägeKlasserkaladda fumn
+16:01:53 050:004 >  LäggTillKlasserMörktLägeKlasserkaladda fumnc
+16:01:54 050:002 >  LäggTillKlasserMörktLägeKlasserkaladda fumncn
+16:01:54 050:003 >  LäggTillKlasserMörktLägeKlasserkaladda fumncnc
+16:01:55 050:000 > function
+
+16:02:12 065:014 > t
+
+16:02:12 064:014 > t
+
+16:02:12 063:014 > t
+
+16:02:12 062:014 > t
+
+16:02:12 061:014 > t
+
+16:02:12 051:021 > t
+
+16:02:38 023:000 > f
+16:02:38 023:001 > fu
+16:02:39 023:002 > fun
+16:02:39 023:003 > func
+16:02:39 023:004 > funci
+16:02:39 023:005 > funcit
+16:02:39 023:006 > funcito
+16:02:39 023:007 > funciton
+16:02:41 023:009 > funciton E
+16:02:41 023:010 > funciton El
+16:02:42 023:011 > funciton Ele
+16:02:42 023:012 > funciton Elem
+16:02:42 023:013 > funciton Eleme
+16:02:42 023:014 > funciton Elemen
+16:02:42 023:015 > funciton Element
+16:03:01 023:009 > funciton Element  C
+16:03:03 023:009 > funciton Element  CC
+16:03:03 023:010 > funciton Element  CCs
+16:03:03 023:011 > funciton Element  CCss
+16:03:04 023:012 > funciton Element  CCss S
+16:03:05 023:013 > funciton Element  CCss Se
+16:03:05 023:014 > funciton Element  CCss Sel
+16:03:05 023:015 > funciton Element  CCss Sele
+16:03:07 023:000 > funciton Element  CCss Selel
+16:03:07 023:001 > funciton Element  CCss Seleli
+16:03:07 023:002 > funciton Element  CCss Selelis
+16:03:07 023:003 > funciton Element  CCss Selelist
+16:05:48 023:000 > funciton Element  CCss Selelist l
+16:05:48 023:001 > funciton Element  CCss Selelist le
+16:05:48 023:002 > funciton Element  CCss Selelist let
+16:05:51 023:004 > funciton Element  CCss Selelist let b
+16:05:51 023:005 > funciton Element  CCss Selelist let br
+16:05:51 023:006 > funciton Element  CCss Selelist let bro
+16:05:51 023:007 > []
+16:05:54 023:003 > []
+16:05:57 023:004 >   b
+16:05:57 023:005 >   br
+16:05:57 023:006 >   bro
+16:05:58 023:008 >   bro =
+16:06:04 023:004 >   bro = e
+16:06:04 023:005 >   bro = el
+16:06:04 023:006 >   bro = ele
+16:06:04 023:007 >   bro = elem
+16:06:05 023:008 >   bro = eleme
+16:06:05 023:009 >   bro = elemen
+16:06:05 023:010 >   bro = element
+16:06:05 023:011 >   bro = elements
+16:06:13 023:005 >   bro = elementse
+16:06:13 023:006 >   bro = elementsel
+16:06:13 023:007 >   bro = elementsele
+16:06:13 023:008 >   bro = elementselem
+16:06:14 023:009 >   bro = elementseleme
+16:06:14 023:010 >   bro = elementselemen
+16:06:14 023:011 >   bro = elementselement
+16:06:28 023:004 >   bro = elementselemente
+16:06:28 023:005 >   bro = elementselementel
+16:06:28 023:006 >   bro = elementselementele
+16:06:28 023:007 >   bro = elementselementelem
+16:06:28 023:008 >   bro = elementselementeleme
+16:06:29 023:009 >   bro = elementselementelemet
+16:06:29 023:009 >   bro = elementselementelemetn
+16:06:29 023:010 >   bro = elementselementelemetnt
+16:06:30 023:011 >   bro = elementselementelemetnts
+16:06:30 023:013 >   bro = elementselementelemetnts t
+16:06:30 023:014 >   bro = elementselementelemetnts to
+16:06:31 023:016 >   bro = elementselementelemetnts to b
+16:06:31 023:017 >   bro = elementselementelemetnts to be
+16:06:31 023:019 >   bro = elementselementelemetnts to be c
+16:06:32 023:020 >   bro = elementselementelemetnts to be ch
+16:06:32 023:021 >   bro = elementselementelemetnts to be cha
+16:06:32 023:022 >   bro = elementselementelemetnts to be chan
+16:06:32 023:023 >   bro = elementselementelemetnts to be chang
+16:06:32 023:024 >   bro = elementselementelemetnts to be change
+16:06:33 023:025 >   bro = elementselementelemetnts to be changed
+16:06:42 023:009 >   bro = elementselementelemetnts to be changedn
+16:06:42 023:010 >   bro = elementselementelemetnts to be changednt
+16:06:43 023:011 >   bro = elementselementelemetnts to be changednt T
+16:06:44 023:012 >   bro = elementselementelemetnts to be changednt Tp
+16:06:44 023:012 >   bro = elementselementelemetnts to be changednt Tpo
+16:06:47 023:013 >   bro = elementselementelemetnts to be changednt TpoM
+16:06:47 023:014 >   bro = elementselementelemetnts to be changednt TpoMo
+16:06:47 023:015 >   bro = elementselementelemetnts to be changednt TpoMod
+16:06:48 023:016 >   bro = elementselementelemetnts to be changednt TpoModi
+16:06:48 023:017 >   bro = elementselementelemetnts to be changednt TpoModif
+16:06:48 023:018 >   bro = elementselementelemetnts to be changednt TpoModify
+16:06:49 023:020 >   bro = elementselementelemetnts to be changednt TpoModify =
+16:06:51 023:022 > []
+16:06:52 023:023 > {}
+16:06:53 023:023 > {}
+16:06:58 023:023 > 1
+16:06:58 023:024 > 1,
+16:06:58 023:025 > 1,1
+16:06:58 023:026 > 1,1,
+16:06:58 023:027 > 1,1,1
+16:06:58 023:028 > 1,1,1,
+16:06:59 023:029 > 1,1,1,2
+16:06:59 023:030 > 1,1,1,2,
+16:06:59 023:031 > 1,1,1,2,3
+16:06:59 023:032 > 1,1,1,2,3,
+16:07:00 023:033 > 1,1,1,2,3,2
+16:07:02 023:035 > 1,1,1,2,3,2;
+16:07:07 023:023 > ""
+16:07:16 023:024 > "mörkt-läge-på"
+16:07:18 023:023 > "mörkt-läge-på"
+16:07:20 023:038 > ,
+16:07:24 023:039 > ".kontainer nav .mörkt-läge-kontainer a"
+16:07:28 023:079 > ,
+16:07:29 023:080 > ".kontainer footer"
+16:07:35 023:099 > ,
+16:07:36 023:100 > ".kontainer nav"
+16:07:37 023:116 > ,
+16:07:45 023:117 > ".kontainer .kontakta-oss-kontainer"
+16:07:47 023:153 > ,
+
+16:08:20 030:024 > n
+16:08:20 030:025 > ni
+16:08:21 030:026 > nig
+16:08:21 030:027 > nigg
+16:08:22 030:027 > nigga
+16:08:22 030:027 > niggag
+16:08:22 030:028 > niggaga
+16:08:23 030:029 > []
+16:08:27 030:024 > n
+16:08:27 030:025 > ni
+16:08:27 030:026 > nig
+16:08:27 030:027 > nigg
+16:08:27 030:028 > nigga
+16:08:30 030:024 > niggae
+16:08:30 030:025 > niggael
+16:08:31 030:026 > niggaele
+16:08:31 030:027 > niggaelem
+16:08:32 030:026 > niggaelemm
+16:08:32 030:027 > niggaelemme
+16:08:32 030:028 > niggaelemmen
+16:08:32 030:029 > niggaelemment
+16:08:32 030:024 > elementToModify
+16:08:38 031:033 > elementToModify
+16:08:42 032:019 > elementToModify
+16:08:44 033:019 > elementToModify
+16:08:53 031:048 > []
+
+16:08:54 031:049 > 0
+
+16:08:57 032:002 > f
+16:08:58 032:003 > fo
+16:08:58 032:004 > for
+16:08:59 032:005 > fore
+16:08:59 032:006 > forea
+16:09:00 032:002 > array.forEach(element => {
+    VäxleElementLäge(elementToModify);
+    VäxleElementLäge(elementToModify);
+    VäxleElementLäge(".kontainer footer");
+    VäxleElementLäge(".kontainer nav");
+    VäxleElementLäge(".kontainer .kontakta-oss-kontainer");
+  });
+16:09:03 032:002 > e
+16:09:03 032:003 > el
+16:09:03 032:004 > ele
+16:09:04 032:005 > elem
+16:09:04 032:002 > elementToModify
+
+16:09:15 033:021 > e
+16:09:16 033:021 > element
+
+16:09:28 032:033 > )
+16:09:28 032:026 > )(
+
+16:09:51 033:004 > i
+16:09:51 033:005 > if
+16:09:52 033:004 > if
+16:09:52 033:006 > ()
+16:09:53 033:007 > e
+16:09:53 033:008 > el
+16:09:53 033:009 > ele
+16:09:53 033:010 > elem
+16:09:54 033:007 > element
+16:09:59 033:015 >  =
+16:09:59 033:016 >  ==
+16:10:00 033:017 >  == =
+16:10:01 033:019 >  == = e
+16:10:01 033:020 >  == = el
+16:10:01 033:021 >  == = ele
+16:10:01 033:022 >  == = elem
+16:10:02 033:023 >  == = elemt
+16:10:02 033:019 > elementToModify
+16:10:03 033:034 > ]
+16:10:04 033:034 > []
+16:10:04 033:035 > 0
+
+16:10:07 034:006 > c
+16:10:07 034:007 > co
+16:10:08 034:008 > con
+16:10:08 034:009 > cont
+16:10:08 034:010 > conti
+16:10:08 034:006 > continue
+16:10:09 034:014 > ;
+16:10:20 034:006 > {}
+16:10:23 035:008 > continue;
+16:11:22 024:000 > "mörkt-läge-på",
+16:11:27 031:033 > "mörkt-läge-på",
+
+16:13:22 060:000 > f
+16:13:22 060:001 > fu
+16:13:22 060:002 > fun
+16:13:23 060:003 > func
+16:13:23 060:000 > function
+16:13:27 060:009 >  L
+16:13:27 060:010 >  Lä
+16:13:27 060:011 >  Läg
+16:13:27 060:012 >  Lägg
+16:13:32 060:013 >  LäggT
+16:13:33 060:014 >  LäggTo
+16:13:33 060:015 >  LäggToö
+16:13:34 060:014 >  LäggToöi
+16:13:34 060:015 >  LäggToöiö
+16:13:34 060:016 >  LäggToöiöö
+16:13:36 060:015 >  LäggToöiööl
+16:13:36 060:016 >  LäggToöiööll
+16:13:36 060:017 >  LäggToöiööllM
+16:13:36 060:018 >  LäggToöiööllMö
+16:13:36 060:019 >  LäggToöiööllMör
+16:13:37 060:020 >  LäggToöiööllMörl
+16:13:37 060:020 >  LäggToöiööllMörlk
+16:13:37 060:021 >  LäggToöiööllMörlkt
+16:13:38 060:022 >  LäggToöiööllMörlktL
+16:13:39 060:023 >  LäggToöiööllMörlktLä
+16:13:39 060:024 >  LäggToöiööllMörlktLäg
+16:13:39 060:025 >  LäggToöiööllMörlktLäge
+16:13:39 060:026 >  LäggToöiööllMörlktLägeK
+16:13:40 060:027 >  LäggToöiööllMörlktLägeKl
+16:13:40 060:028 >  LäggToöiööllMörlktLägeKla
+16:13:40 060:029 >  LäggToöiööllMörlktLägeKlas
+16:13:41 060:030 >  LäggToöiööllMörlktLägeKlass
+16:13:41 060:031 >  LäggToöiööllMörlktLägeKlasse
+16:13:41 060:032 >  LäggToöiööllMörlktLägeKlasser
+16:13:42 060:033 > {}
+16:13:46 071:028 > function LäggTillMörktLägeKlass(cssSelector) {
+  let query = document.querySelector(cssSelector);
+  if (query != null) {
+    document.querySelector(cssSelector).classList.add("mörkt-läge-på");
+  }
+}
+16:13:54 060:002 > document.body.classList.toggle("mörkt-läge-på");
+  elementToModify.forEach((element) => {
+    VäxleElementLäge(element);
+  });
+
+16:13:59 055:033 > (
+16:13:59 055:034 > ()
+16:14:08 056:000 > function LäggTillMörktLägeKlass(cssSelector) {
+  let query = document.querySelector(cssSelector);
+  if (query != null) {
+    document.querySelector(cssSelector).classList.add("mörkt-läge-på");
+  }
+}
+16:14:33 056:000 > if (ärMörktläge) {
+  document.body.classList.toggle("mörkt-läge-på");
+  elementToModify.forEach((element) => {
+    VäxleElementLäge(element);
+  });
+
+16:15:01 054:034 > e
+16:15:02 054:035 > el
+16:15:02 054:036 > ele
+16:15:02 054:037 > elee
+16:15:03 054:034 > elementToModify
+
+16:15:10 053:000 > l
+16:15:10 053:001 > lä
+16:15:11 053:002 > läg
+16:15:11 053:003 > lägg
+16:15:11 053:004 > läggt
+16:15:11 053:005 > läggti
+16:15:11 053:000 > LäggTillMörktLägeKlasser
+16:15:12 053:024 > ()
+16:15:12 053:025 > e
+16:15:13 053:026 > el
+16:15:13 053:027 > ele
+16:15:13 053:028 > elem
+16:15:13 053:025 > elementToModify
+
+16:15:25 057:028 > a
+16:15:25 057:029 > ad
+16:15:25 057:030 > add
+16:15:25 057:028 > add
+16:15:37 061:004 > UppdateraMörktLägesIkon();
+
+16:15:48 056:001 > 1
+16:15:48 056:002 > 14
+16:15:51 055:001 > ärMörktläge = localStorage.getItem(mörktLägeNyckel) === "true";
+
+16:15:52 053:041 > ;
+
+16:16:03 060:006 > l
+16:16:03 060:007 > lä
+16:16:04 060:008 > läh
+16:16:05 060:007 > lähä
+16:16:05 060:008 > lähäg
+16:16:06 060:006 > LäggTillMörktLägeKlass
+16:17:02 060:006 > läg
+16:17:02 060:007 > äh
+16:17:05 060:007 > äg
+16:17:05 060:006 > LäggTillMörktLägeKlass
+16:17:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+16:17:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+16:17:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+16:17:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+16:17:29 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+16:17:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+16:20:33 025:002 > ".kontainer header a"
+
+16:20:33 025:023 > m
+16:20:34 025:023 > m,
+16:20:56 025:023 > m,m
+16:21:00 025:023 > m,m,
+16:24:16 000:000 > let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+mörktLägeKnappen.addEventListener("click", OnMörktLägeClicked);
+
+let mörktLägeNyckel = "mörktLägeStatus";
+let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+console.log(ärMörktläge);
+UppdateraMörktLägesIkon();
+
+function UppdateraMörktLägesIkon() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  if (ärMörktläge === "true") {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>light_mode</span>";
+  } else {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>dark_mode</span>";
+  }
+}
+
+function OnMörktLägeClicked() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  VäxlaMörktLäge();
+  UppdateraMörktLägesIkon();
+}
+
+let elementToModify = [
+  ".kontainer nav .mörkt-läge-kontainer a",
+  ".kontainer header a",
+  ".kontainer footer",
+  ".kontainer nav",
+  ".kontainer .kontakta-oss-kontainer",
+];
+
+function VäxlaMörktLäge() {
+  document.body.classList.toggle("mörkt-läge-på");
+  elementToModify.forEach(VäxleElementLäge);
+
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  localStorage.setItem(mörktLägeNyckel, ärMörktläge !== "true");
+}
+
+function VäxleElementLäge(cssSelector) {
+  let element = document.querySelector(cssSelector);
+  if (element) {
+    element.classList.toggle("mörkt-läge-på");
+  }
+}
+
+function LäggTillMörktLägeKlasser() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel) === "true";
+
+  if (ärMörktläge) {
+    document.body.classList.add("mörkt-läge-på");
+    elementToModify.forEach(LäggTillMörktLägeKlass);
+    UppdateraMörktLägesIkon();
+  }
+}
+
+function LäggTillMörktLägeKlass(cssSelector) {
+  let element = document.querySelector(cssSelector);
+  if (element) {
+    element.classList.add("mörkt-läge-på");
+  }
+}
+
+LäggTillMörktLägeKlasser();
+16:27:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+16:27:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+16:27:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:27:09 074:037 > R
+16:28:32 275:002 > let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+mörktLägeKnappen.addEventListener("click", OnMörktLägeClicked);
+
+let mörktLägeNyckel = "mörktLägeStatus";
+let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+console.log(ärMörktläge);
+UppdateraMörktLägesIkon();
+
+function UppdateraMörktLägesIkon() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  if (ärMörktläge === "true") {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>light_mode</span>";
+  } else {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>dark_mode</span>";
+  }
+}
+
+function OnMörktLägeClicked() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  VäxlaMörktLäge();
+  UppdateraMörktLägesIkon();
+}
+
+let elementToModify = [
+  ".kontainer nav .mörkt-läge-kontainer a",
+  ".kontainer header a",
+  ".kontainer footer",
+  ".kontainer nav",
+  ".kontainer .kontakta-oss-kontainer",
+];
+
+function VäxlaMörktLäge() {
+  document.body.classList.toggle("mörkt-läge-på");
+  elementToModify.forEach(VäxleElementLäge);
+
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  localStorage.setItem(mörktLägeNyckel, ärMörktläge !== "true");
+}
+
+function VäxleElementLäge(cssSelector) {
+  let element = document.querySelector(cssSelector);
+  if (element) {
+    element.classList.toggle("mörkt-läge-på");
+  }
+}
+
+function LäggTillMörktLägeKlasser() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel) === "true";
+
+  if (ärMörktläge) {
+    document.body.classList.add("mörkt-läge-på");
+    elementToModify.forEach(LäggTillMörktLägeKlass);
+    UppdateraMörktLägesIkon();
+  }
+}
+
+function LäggTillMörktLägeKlass(cssSelector) {
+  let element = document.querySelector(cssSelector);
+  if (element) {
+    element.classList.add("mörkt-läge-på");
+  }
+}
+
+LäggTillMörktLägeKlasser();
+
+16:28:37 275:002 > f
+16:28:37 275:003 > fo
+16:28:37 275:004 > foi
+16:28:38 275:005 > foin
+16:28:38 275:006 > foint
+16:28:38 275:007 > fointw
+16:28:40 275:007 > fointww
+16:28:40 275:008 > fointwwe
+16:28:41 275:004 > fointwwen
+16:28:41 275:005 > fointwwent
+16:28:41 275:006 > fointwwentw
+16:28:42 275:002 > font-weight: ;
+16:28:42 275:015 > 9
+16:28:42 275:016 > 90
+16:28:43 275:017 > 900
+16:29:28 277:000 > .kontainer main .innehåll {
+  font-size: Clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+
+16:29:31 277:026 > h
+16:29:31 277:027 > h1
+
+16:29:34 278:002 > f
+16:29:34 278:003 > fo
+16:29:34 278:004 > fon
+16:29:34 278:005 > font
+16:29:34 278:006 > fonte
+16:29:35 278:002 > font-weight: ;
+16:29:35 278:015 > 9
+16:29:35 278:016 > 90
+16:29:36 278:017 > 900
+
+16:29:56 277:000 > j
+16:29:56 277:001 > j1
+16:29:57 277:000 > j1h
+16:29:58 277:001 > j1h1
+16:29:58 277:000 > h1
+16:30:00 277:002 > {}
+
+16:30:01 278:002 > f
+16:30:01 278:003 > fo
+16:30:01 278:004 > fon
+16:30:01 278:005 > font
+16:30:02 278:006 > fontw
+16:30:02 278:002 > font-weight: ;
+16:30:02 278:015 > 9
+16:30:02 278:016 > 90
+16:30:03 278:017 > 900
+16:30:46 185:000 > font-weight: 900;
+}
+
+16:31:05 183:000 > k
+16:31:05 183:001 > ko
+16:31:06 183:002 > kon
+16:31:06 183:003 > kont
+16:31:06 183:004 > konta
+16:31:06 183:000 > .kontainer
+
+16:31:17 055:002 > f
+16:31:17 055:003 > fo
+16:31:17 055:004 > fon
+16:31:17 055:005 > font
+16:31:18 055:006 > fontw
+16:31:18 055:007 > fontwe
+16:31:18 055:002 > font-weight: ;
+16:31:19 055:015 > 3
+16:31:19 055:016 > 34
+16:31:19 055:017 > 340
+16:31:19 055:018 > 3400
+16:31:20 055:015 > 34004
+16:31:20 055:016 > 340040
+16:31:20 055:017 > 3400400
+16:31:22 055:016 > 34004006
+16:31:23 055:017 > 340040060
+16:31:23 055:018 > 3400400600
+16:31:24 055:015 > 34004006006
+16:31:24 055:016 > 340040060060
+16:31:24 055:017 > 3400400600600
+16:31:27 055:014 > 34004006006007
+16:31:27 055:015 > 340040060060070
+16:31:27 055:016 > 3400400600600700
+16:31:32 055:014 > 34004006006007007
+16:31:33 055:015 > 340040060060070070
+16:31:33 055:016 > 3400400600600700700
+16:31:37 055:014 > 34004006006007007008
+16:31:37 055:015 > 340040060060070070080
+16:31:37 055:016 > 3400400600600700700800
+16:31:46 055:014 > 34004006006007007008009
+16:31:46 055:015 > 340040060060070070080090
+16:31:47 055:016 > 3400400600600700700800900
+16:31:47 055:002 > font: weight 900px;
+16:31:48 055:002 > font-weight:900
+16:31:49 055:016 > 0
+16:31:54 055:016 > 00
+16:31:54 055:014 > 800
+16:31:55 055:014 > 700
+16:31:55 055:014 > 700
+16:31:55 055:014 > 600
+16:31:56 055:015 > 4600
+16:31:56 055:016 > 00
+16:31:56 055:015 > 3400
+16:31:56 055:002 > fontwe
+
+16:31:56 183:000 > .
+16:31:56 183:001 > kontainer
+16:31:56 183:000 > konta
+16:31:56 052:000 > font-weight: 900;
+16:31:58 263:000 > font-weight: 900;
+16:31:59 269:000 > font-weight: 900;
+16:32:00 278:002 > fontw
+
+16:32:02 278:007 > w
+16:32:02 278:007 > we
+16:32:03 278:008 > weg
+16:32:03 278:002 > font-weight: ;
+16:32:05 278:015 > 9
+16:32:05 278:016 > 90
+16:32:05 278:017 > 900
+16:38:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+
+16:38:19 000:000 > k
+16:38:19 000:001 > kl
+16:38:19 000:002 > kla
+16:38:19 000:003 > klar
+16:38:20 000:005 > klar m
+16:38:20 000:006 > klar me
+16:38:20 000:007 > klar med
+16:38:20 000:009 > klar med m
+16:38:21 000:010 > klar med mö
+16:38:21 000:011 > klar med mör
+16:38:21 000:012 > klar med mörk
+16:38:21 000:013 > klar med mörkt
+16:38:21 000:015 > klar med mörkt l
+16:38:22 000:016 > klar med mörkt lä
+16:38:22 000:017 > klar med mörkt läg
+16:38:22 000:018 > klar med mörkt läge
+16:38:48 061:000 > <script src="mörkt-läge-script.js"></script>
+16:38:48 000:000 > let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+mörktLägeKnappen.addEventListener("click", OnMörktLägeClicked);
+
+let mörktLägeNyckel = "mörktLägeStatus";
+let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+UppdateraMörktLägesIkon();
+
+function UppdateraMörktLägesIkon() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  if (ärMörktläge === "true") {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>light_mode</span>";
+  } else {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>dark_mode</span>";
+  }
+}
+
+function OnMörktLägeClicked() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  VäxlaMörktLäge();
+  UppdateraMörktLägesIkon();
+}
+
+let elementToModify = [
+  ".kontainer nav .mörkt-läge-kontainer a",
+  ".kontainer header a",
+  ".kontainer footer",
+  ".kontainer nav",
+  ".kontainer .kontakta-oss-kontainer",
+];
+
+function VäxlaMörktLäge() {
+  document.body.classList.toggle("mörkt-läge-på");
+  elementToModify.forEach(VäxleElementLäge);
+
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  localStorage.setItem(mörktLägeNyckel, ärMörktläge !== "true");
+}
+
+function VäxleElementLäge(cssSelector) {
+  let element = document.querySelector(cssSelector);
+  if (element) {
+    element.classList.toggle("mörkt-läge-på");
+  }
+}
+
+function LäggTillMörktLägeKlasser() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel) === "true";
+
+  if (ärMörktläge) {
+    document.body.classList.add("mörkt-läge-på");
+    elementToModify.forEach(LäggTillMörktLägeKlass);
+    UppdateraMörktLägesIkon();
+  }
+}
+
+function LäggTillMörktLägeKlass(cssSelector) {
+  let element = document.querySelector(cssSelector);
+  if (element) {
+    element.classList.add("mörkt-läge-på");
+  }
+}
+
+LäggTillMörktLägeKlasser();
+16:47:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+16:47:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:48:11 045:000 > html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+:root {
+  --celadon-2: #52b788ff;
+  --dark-green: #081c15ff;
+}
+
+body {
+  background-color: var(--celadon-2);
+}
+
+.kontainer {
+  font: 900 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.kontainer nav {
+  font-size: clamp(0.8rem, 1.4vw, 1rem);
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background-color: var(--celadon-2);
+  z-index: 1;
+  align-items: center;
+  padding: 15px;
+  border-bottom: solid 3px var(--dark-green);
+}
+
+.kontainer nav .ikon img {
+  width: 59px;
+}
+
+.kontainer nav .mörkt-läge-kontainer .material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 900, "GRAD" 0, "opsz" 48;
+  font-size: 50px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.kontainer nav .alternativ a {
+  transition: all 100ms;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 15px;
+  color: var(--celadon-2);
+  background-color: var(--dark-green);
+  border-radius: 5px;
+  border: 4px solid transparent;
+}
+
+.kontainer nav .alternativ a:hover {
+  border-color: white;
+}
+
+.kontainer main {
+  margin: 0 0 50px 0;
+}
+
+.kontainer main .kontakta-oss-formulär {
+  background-color: var(--celadon);
+  font-size: clamp(1rem, 1vw, 1.3rem);
+  margin-top: 7%;
+  width: 50%;
+  max-width: 400px;
+  display: grid;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+  border: solid 5px var(--dark-green);
+  padding: 20px;
+  grid-template-columns: auto 1fr;
+  gap: 25px;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+  font-size: clamp(1rem, 3vw, 2.5rem);
+  padding: clamp(5px, 2%, 15px);
+  margin: 20px 20px;
+  display: inline-block;
+  border: solid 3px;
+  border-radius: 4px;
+  background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+  justify-self: center;
+  grid-column: 2;
+  font: 900 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: clamp(125px, 15vw, 200px);
+  border: solid 3px var(--dark-green);
+  background-color: var(--nyanza);
+  border-radius: 4px;
+  padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+  outline: 5px solid var(--nyanza);
+  background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+  cursor: pointer;
+}
+
+.kontainer main .våraleveransplaner-kontainer li {
+  --side-padding: clamp(0px, 1vw, 25px);
+  --border-color: var(--dark-green);
+  justify-content: center;
+  border: solid 5px var(--border-color);
+  padding: 20px var(--side-padding) 50px var(--side-padding);
+  background-color: var(--sea-green);
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+  transform: scale(1.1);
+  border-color: var(--nyanza);
+  box-shadow: 0px 0px 10px 3px var(--nyanza);
+  cursor: pointer;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+  color: var(--dark-green);
+  text-shadow: 3px 1px 2px var(--celadon);
+  margin-top: 10px;
+  font: 400 "Alfa Slab One", sans-serif;
+  font-size: clamp(1.3rem, 3vw, 1.7rem);
+}
+
+.kontainer main .våraleveransplaner-kontainer .premium {
+  color: rgb(255, 198, 27);
+  text-shadow: 3px 3px var(--dark-green);
+  margin-top: 10px;
+  font: 900 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: clamp(1.5rem, 5vw, 1.9rem);
+}
+
+.kontainer main .våraleveransplaner-kontainer h1 {
+  font-size: clamp(0.6rem, 4vw, 2.3rem);
+  font-weight: 900;
+  padding: clamp(0px, 1vw, 20px);
+}
+
+.kontainer main .innehåll {
+  font-size: clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  margin: 10px auto;
+}
+16:48:21 045:000 > body {
+  background-color: var(--celadon-2);
+}
+
+.kontainer {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.kontainer header {
+  font-size: Clamp(1.5rem, 5vw, 2.5rem);
+}
+
+.kontainer header a {
+  text-decoration: none;
+  color: var(--dark-green);
+}
+
+.kontainer nav {
+  font-size: Clamp(0.8rem, 1.4vw, 1rem);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background-color: var(--celadon-2);
+  z-index: 1;
+  align-items: center;
+  padding: 15px;
+  border-bottom: solid 3px var(--dark-green);
+}
+
+.kontainer nav .ikon img {
+  width: 59px;
+}
+
+.kontainer nav .mörkt-läge-kontainer a {
+  color: var(--dark-green);
+}
+.kontainer nav .mörkt-läge-kontainer .material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 900, "GRAD" 0, "opsz" 48;
+  font-size: 50px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.kontainer .alternativ {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.kontainer nav .alternativ a {
+  transition: all 100ms;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 15px;
+  color: var(--celadon-2);
+  background-color: var(--dark-green);
+  border-radius: 5px;
+  border: 4px solid transparent;
+}
+
+.kontainer nav .alternativ a:hover {
+  border-color: white;
+}
+
+.kontainer main {
+  margin: 0 0 50px 0;
+}
+
+.kontainer main .kontakta-oss-formulär {
+  background-color: var(--celadon);
+  font-size: Clamp(1rem, 1vw, 1.3rem);
+  margin-top: 7%;
+  width: 50%;
+  max-width: 400px;
+  display: grid;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 3px var(--cambridge-blue);
+  border: solid 5px var(--dark-green);
+  padding: 20px;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto 0 auto;
+  grid-template-columns: auto 1fr;
+  gap: 25px;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+  font-size: Clamp(1rem, 3vw, 2.5rem);
+  padding: Clamp(5px, 2%, 15px);
+  margin: 20px 20px;
+  display: inline-block;
+  border: solid 3px;
+  border-radius: 4px;
+  background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+  grid-column: 1;
+  width: 100%;
+}
+
+.kontainer main .kontakta-oss-formulär input {
+  height: Clamp(35px, 4vh, 150px);
+}
+
+.kontainer main .kontakta-oss-formulär textarea {
+  resize: none;
+  height: Clamp(100px, 15vw, 200px);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+  justify-self: center;
+  grid-column: 2;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: Clamp(125px, 15vw, 200px);
+  border: solid 3px var(--dark-green);
+  background-color: var(--nyanza);
+  border-radius: 4px;
+  padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+  outline: 5px solid var(--nyanza);
+  background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+  outline: 5px solid var(--nyanza);
+}
+
+.kontainer main .kontakta-oss-formulär #submit {
+  font-weight: 900;
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+  cursor: pointer;
+}
+
+.kontainer main .kontakta-oss-kontainer #sändningsmeddelande {
+  grid-column: 2;
+  margin: 20px 0;
+  display: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  width: 50%;
+  margin: 25px auto;
+}
+.kontainer main .våraleveransplaner-kontainer li a {
+  text-decoration: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer li {
+  transition: all 100ms;
+  --side-padding: clamp(0px, 1vw, 25px);
+  --border-color: var(--dark-green);
+  justify-content: center;
+  border: solid 5px var(--border-color);
+  padding: 20px var(--side-padding) 50px var(--side-padding);
+  background-color: var(--sea-green);
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+  transform: scale(1.1);
+  border-color: var(--nyanza);
+  box-shadow: 0px 0px 10px 3px var(--nyanza);
+  cursor: pointer;
+}
+
+.kontainer main .leveransplan {
+  width: Clamp(160px, 30vw, 200px);
+}
+
+.kontainer main .våraleveransplaner-kontainer .delivery-video {
+  width: Clamp(50px, 90vw, 1200px);
+  border: solid 10px var(--dark-green);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan img {
+  width: 80%;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+  color: var(--dark-green);
+  text-shadow: 3px 1px 2px var(--celadon);
+  margin-top: 10px;
+  font-family: "Alfa Slab One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: Clamp(1.3rem, 3vw, 1.7rem);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan p {
+  color: var(--dark-green);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan .premium {
+  color: rgb(255, 198, 27);
+  text-shadow: 3px 3px var(--dark-green);
+  margin-top: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  font-size: Clamp(1.5rem, 5vw, 1.9rem);
+}
+
+.kontainer main .våraleveransplaner-kontainer h1 {
+  font-size: Clamp(0.6rem, 4vw, 2.3rem);
+  font-weight: 900;
+  padding: Clamp(0px, 1vw, 20px);
+}
+
+.kontainer main .innehåll {
+  font-size: Clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+h1{
+  font-weight: 900;
+}
+
+.kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  /* att elementen bara tar platsen de behöver.*/
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+.kontainer main .innehåll .om-oss {
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+/*mörkt läge*/
+
+body.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på {
+  --mörkt-läge: #1a1a1a;
+  background-color: var(--mörkt-läge);
+  color: white;
+}
+.kontainer footer.mörkt-läge-på {
+  background-color: #131313;
+}
+.kontainer .kontakta-oss-kontainer.mörkt-läge-på {
+  color: var(--mörkt-läge);
+}
+
+/*anpassa efter olika enheter.*/
+@media (max-width: 700px) {
+  .kontainer .alternativ,
+  .kontainer nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .kontainer main .alternativ-kontainer {
+    position: relative;
+  }
+
+  .kontainer main .innehåll {
+    display: grid;
+  }
+
+  .kontainer nav .alternativ a {
+    padding: 5px;
+  }
+
+  .kontainer nav .ikon img {
+    width: 35px;
+  }
+
+  .kontainer main .kontakta-oss-formulär {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+16:50:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:53:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:56:46 281:000 > .kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+/* Dark mode */
+body.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på {
+  --mörkt-läge: #1a1a1a;
+  background-color: var(--mörkt-läge);
+  color: white;
+}
+
+.kontainer footer.mörkt-läge-på {
+  background-color: #131313;
+}
+
+.kontainer .kontakta-oss-kontainer.mörkt-läge-på {
+  color: var(--mörkt-läge);
+}
+
+/* Responsive design */
+@media (max-width: 700px) {
+  .kontainer .alternativ,
+  .kontainer nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .kontainer main .alternativ-kontainer {
+    position: relative;
+  }
+
+  .kontainer main .innehåll {
+    display: grid;
+  }
+
+  .kontainer nav .alternativ a {
+    padding: 5px;
+  }
+
+  .kontainer nav .ikon img {
+    width: 35px;
+  }
+
+  .kontainer main .kontakta-oss-formulär {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+16:56:51 346:003 > r
+16:56:51 346:004 > re
+16:56:52 346:005 > res
+16:56:52 346:006 > resp
+16:56:52 346:007 > respo
+16:56:53 346:008 > respon
+16:56:53 346:009 > responi
+16:56:54 346:010 > responis
+16:56:54 346:011 > responisv
+16:56:55 346:010 > responisvv
+16:56:57 346:003 > responisvvR
+
+16:57:06 328:003 > m
+16:57:07 328:004 > mö
+16:57:07 328:005 > mör
+16:57:07 328:006 > mörk
+16:57:07 328:007 > mörkt
+16:57:11 328:009 > mörkt l
+16:57:11 328:010 > mörkt lä
+16:57:11 328:011 > mörkt läg
+16:57:11 328:012 > mörkt läge
+16:57:14 328:003 > mörkt lägeM
+16:57:44 049:000 > .kontainer {
+  font-family: system-ui, sans-serif;
+  font-weight: 900;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.kontainer header {
+  font-size: 2rem;
+}
+
+.kontainer header a {
+  text-decoration: none;
+  color: var(--dark-green);
+}
+
+.kontainer nav {
+  font-size: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background-color: var(--celadon-2);
+  border-bottom: solid 3px var(--dark-green);
+  align-items: center;
+  padding: 15px;
+}
+
+.kontainer nav .ikon img {
+  width: 59px;
+}
+
+.kontainer .alternativ {
+  display: flex;
+  justify-content: center;
+}
+
+.kontainer nav .alternativ a {
+  transition: border-color 100ms;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 15px;
+  color: var(--celadon-2);
+  background-color: var(--dark-green);
+  border-radius: 5px;
+  border: 4px solid transparent;
+}
+
+.kontainer nav .alternativ a:hover {
+  border-color: white;
+}
+
+.kontainer main {
+  margin: 0 0 50px;
+}
+
+.kontainer main .kontakta-oss-formulär {
+  background-color: var(--celadon);
+  font-size: 1.3rem;
+  margin-top: 7%;
+  width: 50%;
+  max-width: 400px;
+  display: grid;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 3px rgba(132, 169, 140, 0.7);
+  border: solid 5px var(--dark-green);
+  padding: 20px;
+  grid-template-columns: auto 1fr;
+  margin: 0 auto;
+  gap: 25px;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+  font-size: 2.5rem;
+  padding: 15px;
+  margin: 20px;
+  display: inline-block;
+  border: solid 3px;
+  border-radius: 4px;
+  background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+  grid-column: 1;
+  width: 100%;
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+  justify-self: center;
+  font-family: system-ui, sans-serif;
+  width: Clamp(125px, 15vw, 200px);
+  border: solid 3px var(--dark-green);
+  background-color: var(--nyanza);
+  border-radius: 4px;
+  padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus,
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+  outline: 5px solid var(--nyanza);
+  background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär #submit {
+  font-weight: 900;
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+  cursor: pointer;
+}
+
+.kontainer main .kontakta-oss-kontainer #sändningsmeddelande {
+  grid-column: 2;
+  margin: 20px 0;
+  display: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  width: 50%;
+  margin: 25px auto;
+}
+
+.kontainer main .våraleveransplaner-kontainer li {
+  transition: all 100ms;
+  --side-padding: clamp(0px, 1vw, 25px);
+  border: solid 5px var(--dark-green);
+  padding: 20px var(--side-padding) 50px var(--side-padding);
+  background-color: var(--sea-green);
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+  transform: scale(1.1);
+  border-color: var(--nyanza);
+  box-shadow: 0px 0px 10px 3px var(--nyanza);
+  cursor: pointer;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan img {
+  width: 80%;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+  color: var(--dark-green);
+  text-shadow: 3px 1px 2px var(--celadon);
+  margin-top: 10px;
+  font-family: "Alfa Slab One", sans-serif;
+  font-weight: 400;
+  font-size: Clamp(1.3rem, 3vw, 1.7rem);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan .premium {
+  color: rgb(255, 198, 27);
+  text-shadow: 3px 3px var(--dark-green);
+  margin-top: 10px;
+  font-weight: 900;
+  font-size: Clamp(1.5rem, 5vw, 1.9rem);
+}
+
+.kontainer main .våraleveransplaner-kontainer h1 {
+  font-size: Clamp(0.6rem, 4vw, 2.3rem);
+  font-weight: 900;
+  padding: Clamp(0px, 1vw, 20px);
+}
+
+.kontainer main .innehåll {
+  font-size: Clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+16:58:14 049:000 > .kontainer {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.kontainer header {
+  font-size: Clamp(1.5rem, 5vw, 2.5rem);
+}
+
+.kontainer header a {
+  text-decoration: none;
+  color: var(--dark-green);
+}
+
+.kontainer nav {
+  font-size: Clamp(0.8rem, 1.4vw, 1rem);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background-color: var(--celadon-2);
+  z-index: 1;
+  align-items: center;
+  padding: 15px;
+  border-bottom: solid 3px var(--dark-green);
+}
+
+.kontainer nav .ikon img {
+  width: 59px;
+}
+
+.kontainer nav .mörkt-läge-kontainer a {
+  color: var(--dark-green);
+}
+.kontainer nav .mörkt-läge-kontainer .material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 900, "GRAD" 0, "opsz" 48;
+  font-size: 50px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.kontainer .alternativ {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.kontainer nav .alternativ a {
+  transition: all 100ms;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 15px;
+  color: var(--celadon-2);
+  background-color: var(--dark-green);
+  border-radius: 5px;
+  border: 4px solid transparent;
+}
+
+.kontainer nav .alternativ a:hover {
+  border-color: white;
+}
+
+.kontainer main {
+  margin: 0 0 50px 0;
+}
+
+.kontainer main .kontakta-oss-formulär {
+  background-color: var(--celadon);
+  font-size: Clamp(1rem, 1vw, 1.3rem);
+  margin-top: 7%;
+  width: 50%;
+  max-width: 400px;
+  display: grid;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 3px var(--cambridge-blue);
+  border: solid 5px var(--dark-green);
+  padding: 20px;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto 0 auto;
+  grid-template-columns: auto 1fr;
+  gap: 25px;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+  font-size: Clamp(1rem, 3vw, 2.5rem);
+  padding: Clamp(5px, 2%, 15px);
+  margin: 20px 20px;
+  display: inline-block;
+  border: solid 3px;
+  border-radius: 4px;
+  background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+  grid-column: 1;
+  width: 100%;
+}
+
+.kontainer main .kontakta-oss-formulär input {
+  height: Clamp(35px, 4vh, 150px);
+}
+
+.kontainer main .kontakta-oss-formulär textarea {
+  resize: none;
+  height: Clamp(100px, 15vw, 200px);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+  justify-self: center;
+  grid-column: 2;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: Clamp(125px, 15vw, 200px);
+  border: solid 3px var(--dark-green);
+  background-color: var(--nyanza);
+  border-radius: 4px;
+  padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+  outline: 5px solid var(--nyanza);
+  background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+  outline: 5px solid var(--nyanza);
+}
+
+.kontainer main .kontakta-oss-formulär #submit {
+  font-weight: 900;
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+  cursor: pointer;
+}
+
+.kontainer main .kontakta-oss-kontainer #sändningsmeddelande {
+  grid-column: 2;
+  margin: 20px 0;
+  display: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  width: 50%;
+  margin: 25px auto;
+}
+.kontainer main .våraleveransplaner-kontainer li a {
+  text-decoration: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer li {
+  transition: all 100ms;
+  --side-padding: clamp(0px, 1vw, 25px);
+  --border-color: var(--dark-green);
+  justify-content: center;
+  border: solid 5px var(--border-color);
+  padding: 20px var(--side-padding) 50px var(--side-padding);
+  background-color: var(--sea-green);
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+  transform: scale(1.1);
+  border-color: var(--nyanza);
+  box-shadow: 0px 0px 10px 3px var(--nyanza);
+  cursor: pointer;
+}
+
+.kontainer main .leveransplan {
+  width: Clamp(160px, 30vw, 200px);
+}
+
+.kontainer main .våraleveransplaner-kontainer .delivery-video {
+  width: Clamp(50px, 90vw, 1200px);
+  border: solid 10px var(--dark-green);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan img {
+  width: 80%;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+  color: var(--dark-green);
+  text-shadow: 3px 1px 2px var(--celadon);
+  margin-top: 10px;
+  font-family: "Alfa Slab One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: Clamp(1.3rem, 3vw, 1.7rem);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan p {
+  color: var(--dark-green);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan .premium {
+  color: rgb(255, 198, 27);
+  text-shadow: 3px 3px var(--dark-green);
+  margin-top: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  font-size: Clamp(1.5rem, 5vw, 1.9rem);
+}
+
+.kontainer main .våraleveransplaner-kontainer h1 {
+  font-size: Clamp(0.6rem, 4vw, 2.3rem);
+  font-weight: 900;
+  padding: Clamp(0px, 1vw, 20px);
+}
+
+.kontainer main .innehåll {
+  font-size: Clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+h1{
+  font-weight: 900;
+}
+16:58:22 328:003 > m
+16:58:26 328:009 > mode
+16:58:27 328:003 > Dark
+
+16:58:28 346:003 > r
+16:58:29 346:010 > sv
+16:58:29 346:003 > Responsive
+16:58:30 281:000 > .kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  /* att elementen bara tar platsen de behöver.*/
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+.kontainer main .innehåll .om-oss {
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+/*mörkt läge*/
+
+body.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på {
+  --mörkt-läge: #1a1a1a;
+  background-color: var(--mörkt-läge);
+  color: white;
+}
+.kontainer footer.mörkt-läge-på {
+  background-color: #131313;
+}
+.kontainer .kontakta-oss-kontainer.mörkt-läge-på {
+  color: var(--mörkt-läge);
+}
+
+/*anpassa efter olika enheter.*/
+@media (max-width: 700px) {
+  .kontainer .alternativ,
+  .kontainer nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .kontainer main .alternativ-kontainer {
+    position: relative;
+  }
+
+  .kontainer main .innehåll {
+    display: grid;
+  }
+
+  .kontainer nav .alternativ a {
+    padding: 5px;
+  }
+
+  .kontainer nav .ikon img {
+    width: 35px;
+  }
+
+  .kontainer main .kontakta-oss-formulär {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+16:58:35 281:000 > .kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+/* Dark mode */
+body.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på {
+  --mörkt-läge: #1a1a1a;
+  background-color: var(--mörkt-läge);
+  color: white;
+}
+
+.kontainer footer.mörkt-läge-på {
+  background-color: #131313;
+}
+
+.kontainer .kontakta-oss-kontainer.mörkt-läge-på {
+  color: var(--mörkt-läge);
+}
+
+/* Responsive design */
+@media (max-width: 700px) {
+  .kontainer .alternativ,
+  .kontainer nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .kontainer main .alternativ-kontainer {
+    position: relative;
+  }
+
+  .kontainer main .innehåll {
+    display: grid;
+  }
+
+  .kontainer nav .alternativ a {
+    padding: 5px;
+  }
+
+  .kontainer nav .ikon img {
+    width: 35px;
+  }
+
+  .kontainer main .kontakta-oss-formulär {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+16:58:37 281:000 > .kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  /* att elementen bara tar platsen de behöver.*/
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+.kontainer main .innehåll .om-oss {
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+/*mörkt läge*/
+
+body.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på {
+  --mörkt-läge: #1a1a1a;
+  background-color: var(--mörkt-läge);
+  color: white;
+}
+.kontainer footer.mörkt-läge-på {
+  background-color: #131313;
+}
+.kontainer .kontakta-oss-kontainer.mörkt-läge-på {
+  color: var(--mörkt-läge);
+}
+
+/*anpassa efter olika enheter.*/
+@media (max-width: 700px) {
+  .kontainer .alternativ,
+  .kontainer nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .kontainer main .alternativ-kontainer {
+    position: relative;
+  }
+
+  .kontainer main .innehåll {
+    display: grid;
+  }
+
+  .kontainer nav .alternativ a {
+    padding: 5px;
+  }
+
+  .kontainer nav .ikon img {
+    width: 35px;
+  }
+
+  .kontainer main .kontakta-oss-formulär {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+16:58:45 350:002 > R
+16:58:45 350:003 > Re
+16:58:46 350:004 > Res
+16:58:46 350:005 > Resp
+16:58:46 350:006 > Respo
+16:58:46 350:007 > Respon
+16:58:46 350:008 > Respons
+16:58:47 350:009 > Responsi
+16:58:47 350:010 > Responsic
+16:58:47 350:010 > Responsicv
+16:58:48 350:012 > Responsicv D
+16:58:48 350:013 > Responsicv De
+16:58:48 350:014 > Responsicv Des
+16:58:48 350:015 > Responsicv Desi
+16:58:49 350:016 > Responsicv Desig
+16:58:49 350:017 > Responsicv Design
+16:59:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+16:59:26 081:014 > b
+16:59:27 081:015 > br
+16:59:27 081:014 > <br>
+16:59:28 081:017 > /
+
+16:59:40 091:014 > b
+16:59:40 091:015 > br
+16:59:41 091:014 > <br>
+
+16:59:46 101:014 > b
+16:59:46 101:015 > br
+16:59:46 101:014 > <br>
+16:59:48 106:013 > hela
+16:59:48 106:012 > under
+16:59:48 104:013 > kan
+16:59:48 104:012 > du
+16:59:48 104:011 > att
+16:59:48 104:010 > så
+16:59:48 101:017 > /
+
+16:59:48 091:017 > /
+
+16:59:48 081:017 > /
+
+16:59:54 107:014 > b
+16:59:55 107:015 > br
+16:59:55 107:014 > <br>
+16:59:57 111:013 > ditt
+16:59:57 110:013 > för
+16:59:57 110:012 > kan
+16:59:57 107:017 > /
+
+17:00:00 117:014 > b
+17:00:00 117:015 > br
+17:00:01 117:014 > <br>
+
+17:01:16 105:012 > b
+17:01:16 105:013 > br
+17:01:16 105:012 > <br>
+
+17:01:20 096:012 > b
+17:01:20 096:013 > br
+17:01:21 096:012 > <br>
+
+17:01:24 090:014 > b
+17:01:24 090:015 > br
+17:01:24 090:014 > <br>
+17:01:25 125:013 > snabb
+17:01:25 125:012 > för
+17:01:25 124:013 > och
+17:01:25 124:012 > behov
+17:01:25 123:013 > snabbare
+
+17:01:25 120:017 > /
+
+17:01:25 107:015 > /
+
+17:01:25 097:015 > /
+
+17:01:25 090:017 > /
+
+17:01:27 118:012 > b
+17:01:27 118:013 > br
+17:01:27 118:012 > <br>
+
+17:01:34 122:014 > b
+17:01:34 122:015 > br
+17:01:34 122:014 > <br>
+
+17:01:39 110:020 > b
+17:01:40 110:021 > br
+17:01:40 110:020 > <br>
+
+17:01:47 079:020 > b
+17:01:47 079:021 > br
+17:01:48 079:020 > <br>
+17:02:46 040:012 > <h1>Om oss</h1>
+            <p>
+              Box Delivery TM är ett innovativt företag som specialiserar sig på
+              att leverera paket med precision och pålitlighet. Med ett
+              dedikerat team av erfarna logistikexperter och moderna
+              teknologiska lösningar har Box Delivery TM etablerat sig som en
+              ledande aktör inom branschen.
+            </p>
+            <br />
+            <p>
+              Vad som skiljer Box Delivery TM från konkurrenterna är deras fokus
+              på att erbjuda skräddarsydda transportlösningar som passar varje
+              kunds unika behov. Oavsett om det handlar om att leverera små
+              paket till grannskapets dörrar eller att organisera komplexa
+              distributionsnätverk för stora företag, är Box Delivery TM redo
+              att leverera enastående service varje gång.
+            </p>
+            <br />
+            <p>
+              Med avancerade spårningssystem och realtidsuppdateringar kan
+              kunder lita på att deras paket kommer att levereras i tid och i
+              gott skick. Box Delivery TMs dedikation till
+              kundtillfredsställelse sträcker sig bortom bara leverans; de
+              strävar efter att göra varje interaktion smidig och problemfri för
+              sina kunder.
+            </p>
+            <br />
+            <p>
+              Box Delivery TM är inte bara ett företag som transporterar paket;
+              de är en partner för sina kunder, alltid redo att gå den extra
+              milen för att säkerställa att deras behov uppfylls. Med deras
+              engagemang för kvalitet, effektivitet och pålitlighet kommer Box
+              Delivery TM fortsätta att vara den prefererade leveranspartnern
+              för företag och privatpersoner överallt.
+            </p>
+            <br />
+            <h2>Faq</h2>
+            <p>
+              Fråga: Vilka typer av paket kan jag skicka med Box Delivery TM?
+              <br /><br>
+              Svar: Box Delivery TM kan transportera en mängd olika paket,
+              inklusive brev, små paket, stora paket och till och med
+              specialföremål som kräver speciell hantering. Vi är redo att
+              hantera dina paketbehov, oavsett storlek eller form.
+            </p>
+            <br />
+            <p>
+              Fråga: Hur lång tid tar det vanligtvis att leverera ett paket med
+              Box Delivery TM?
+              <br />
+              <br />
+              Svar: Leveranstiden varierar beroende på destination och vald
+              leveransmetod. Vanligtvis strävar vi efter att leverera paket så
+              snabbt som möjligt, och många leveranser kan ske inom några dagar.
+              För exakta uppskattningar, kontakta vår kundtjänst.
+            </p>
+            <br />
+            <br />
+            <p>
+              Fråga: Kan jag spåra mitt paket under leveransen?
+              <br />
+              Svar: Absolut! Box Delivery TM erbjuder avancerad spårningsteknik
+              så att du kan följa ditt paket i realtid. Genom att använda vårt
+              spårningssystem kan du ha full insyn i var ditt paket befinner sig
+              under hela leveransprocessen.
+            </p>
+            <br />
+            <br />
+            <p>
+              Fråga: Vad händer om mitt paket skadas under transporten?
+              <br /><br>
+              Svar: Vi på Box Delivery TM värnar om dina paket och gör allt vi
+              kan för att säkerställa att de levereras säkert och oskadade. Om
+              ditt paket skulle skadas under transporten, vänligen kontakta vår
+              kundtjänst så hjälper vi dig att lösa problemet så snabbt och
+              smidigt som möjligt.
+            </p>
+            <br />
+            <br>
+            <p>
+              Fråga: Erbjuder ni expressleveranser?
+              <br />
+              <br>
+              Svar: Ja, vi erbjuder expressleveranser för kunder som behöver
+              snabbare leveransalternativ. Kontakta oss för att diskutera dina
+              behov och vi kommer att göra allt vi kan för att möta dina krav
+              för snabb leverans.
+            </p>
+            <br />
+17:04:01 040:012 > <h1>Om oss</h1>
+<p>
+  Box Delivery TM är ett innovativt företag som specialiserar sig på att leverera paket med precision och pålitlighet. Med ett dedikerat team av erfarna logistikexperter och moderna teknologiska lösningar har Box Delivery TM etablerat sig som en ledande aktör inom branschen.
+</p>
+<br />
+<p>
+  Vad som skiljer Box Delivery TM från konkurrenterna är deras fokus på att erbjuda skräddarsydda transportlösningar som passar varje kunds unika behov. Oavsett om det handlar om att leverera små paket till grannskapets dörrar eller att organisera komplexa distributionsnätverk för stora företag, är Box Delivery TM redo att leverera enastående service varje gång.
+</p>
+<br />
+<p>
+  Med avancerade spårningssystem och realtidsuppdateringar kan kunder lita på att deras paket kommer att levereras i tid och i gott skick. Box Delivery TMs dedikation till kundtillfredsställelse sträcker sig bortom bara leverans; de strävar efter att göra varje interaktion smidig och problemfri för sina kunder.
+</p>
+<br />
+<p>
+  Box Delivery TM är inte bara ett företag som transporterar paket; de är en partner för sina kunder, alltid redo att gå den extra milen för att säkerställa att deras behov uppfylls. Med deras engagemang för kvalitet, effektivitet och pålitlighet kommer Box Delivery TM fortsätta att vara den prefererade leveranspartnern för företag och privatpersoner överallt.
+</p>
+<br />
+<h2>Faq</h2>
+<h3>Fråga: Vilka typer av paket kan jag skicka med Box Delivery TM?</h3>
+<p>
+  Svar: Box Delivery TM kan transportera en mängd olika paket, inklusive brev, små paket, stora paket och till och med specialföremål som kräver speciell hantering. Vi är redo att hantera dina paketbehov, oavsett storlek eller form.
+</p>
+<br />
+<h3>Fråga: Hur lång tid tar det vanligtvis att leverera ett paket med Box Delivery TM?</h3>
+<p>
+  Svar: Leveranstiden varierar beroende på destination och vald leveransmetod. Vanligtvis strävar vi efter att leverera paket så snabbt som möjligt, och många leveranser kan ske inom några dagar. För exakta uppskattningar, kontakta vår kundtjänst.
+</p>
+<br />
+<br />
+<h3>Fråga: Kan jag spåra mitt paket under leveransen?</h3>
+<p>
+  Svar: Absolut! Box Delivery TM erbjuder avancerad spårningsteknik så att du kan följa ditt paket i realtid. Genom att använda vårt spårningssystem kan du ha full insyn i var ditt paket befinner sig under hela leveransprocessen.
+</p>
+<br />
+<br />
+<h3>Fråga: Vad händer om mitt paket skadas under transporten?</h3>
+<p>
+  Svar: Vi på Box Delivery TM värnar om dina paket och gör allt vi kan för att säkerställa att de levereras säkert och oskadade. Om ditt paket skulle skadas under transporten, vänligen kontakta vår kundtjänst så hjälper vi dig att lösa problemet så snabbt och smidigt som möjligt.
+</p>
+<br />
+<br>
+<h3>Fråga: Erbjuder ni expressleveranser?</h3>
+<p>
+  Svar: Ja, vi erbjuder expressleveranser för kunder som behöver snabbare leveransalternativ. Kontakta oss för att diskutera dina behov och vi kommer att göra allt vi kan för att möta dina krav för snabb leverans.
+</p>
+<br />
+
+17:04:04 080:003 > /
+17:04:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:05:21 280:000 > <h1>Om oss</h1>
+<p>
+  Box Delivery TM är ett innovativt företag som specialiserar sig på att leverera paket med precision och pålitlighet. Med ett dedikerat team av erfarna logistikexperter och moderna teknologiska lösningar har Box Delivery TM etablerat sig som en ledande aktör inom branschen.
+</p>
+<br />
+<p>
+  Vad som skiljer Box Delivery TM från konkurrenterna är deras fokus på att erbjuda skräddarsydda transportlösningar som passar varje kunds unika behov. Oavsett om det handlar om att leverera små paket till grannskapets dörrar eller att organisera komplexa distributionsnätverk för stora företag, är Box Delivery TM redo att leverera enastående service varje gång.
+</p>
+<br />
+<p>
+  Med avancerade spårningssystem och realtidsuppdateringar kan kunder lita på att deras paket kommer att levereras i tid och i gott skick. Box Delivery TMs dedikation till kundtillfredsställelse sträcker sig bortom bara leverans; de strävar efter att göra varje interaktion smidig och problemfri för sina kunder.
+</p>
+<br />
+<p>
+  Box Delivery TM är inte bara ett företag som transporterar paket; de är en partner för sina kunder, alltid redo att gå den extra milen för att säkerställa att deras behov uppfylls. Med deras engagemang för kvalitet, effektivitet och pålitlighet kommer Box Delivery TM fortsätta att vara den prefererade leveranspartnern för företag och privatpersoner överallt.
+</p>
+<br />
+<h2>Faq</h2>
+<h3>Fråga: Vilka typer av paket kan jag skicka med Box Delivery TM?</h3>
+<p>
+  Svar: Box Delivery TM kan transportera en mängd olika paket, inklusive brev, små paket, stora paket och till och med specialföremål som kräver speciell hantering. Vi är redo att hantera dina paketbehov, oavsett storlek eller form.
+</p>
+<br />
+<h3>Fråga: Hur lång tid tar det vanligtvis att leverera ett paket med Box Delivery TM?</h3>
+<p>
+  Svar: Leveranstiden varierar beroende på destination och vald leveransmetod. Vanligtvis strävar vi efter att leverera paket så snabbt som möjligt, och många leveranser kan ske inom några dagar. För exakta uppskattningar, kontakta vår kundtjänst.
+</p>
+<br />
+<br />
+<h3>Fråga: Kan jag spåra mitt paket under leveransen?</h3>
+<p>
+  Svar: Absolut! Box Delivery TM erbjuder avancerad spårningsteknik så att du kan följa ditt paket i realtid. Genom att använda vårt spårningssystem kan du ha full insyn i var ditt paket befinner sig under hela leveransprocessen.
+</p>
+<br />
+<br />
+<h3>Fråga: Vad händer om mitt paket skadas under transporten?</h3>
+<p>
+  Svar: Vi på Box Delivery TM värnar om dina paket och gör allt vi kan för att säkerställa att de levereras säkert och oskadade. Om ditt paket skulle skadas under transporten, vänligen kontakta vår kundtjänst så hjälper vi dig att lösa problemet så snabbt och smidigt som möjligt.
+</p>
+<br />
+<br>
+<h3>Fråga: Erbjuder ni expressleveranser?</h3>
+<p>
+  Svar: Ja, vi erbjuder expressleveranser för kunder som behöver snabbare leveransalternativ. Kontakta oss för att diskutera dina behov och vi kommer att göra allt vi kan för att möta dina krav för snabb leverans.
+</p>
+<br />
+17:05:46 333:000 > .kontainer main .innehåll .om-oss {
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+
+17:05:49 333:034 > h
+17:05:49 333:035 > h3
+17:05:49 333:034 > h3
+17:06:12 334:002 > font-size: Clamp(1rem, 3vw, 2.5rem);
+
+17:06:25 334:032 > ¨
+17:06:25 334:033 > ¨2
+17:06:28 334:032 > ¨22
+17:06:37 334:030 > ¨221
+17:06:37 334:031 > ¨221.
+17:06:37 334:032 > ¨221.5
+17:06:38 334:030 > 1.5rem
+17:06:42 334:032 > 7
+17:06:43 334:032 > 78
+17:06:43 334:033 > 78r
+17:06:43 334:034 > 78re
+17:06:44 334:035 > 78rem
+17:06:47 334:030 > 78rem2
+17:06:47 334:031 > 78rem2.
+17:06:48 334:032 > 78rem2.0
+17:06:49 334:033 > 78rem2.0r
+17:06:49 334:034 > 78rem2.0re
+17:06:50 334:031 > 78rem2.0rer
+17:06:50 334:032 > 78rem2.0rere
+17:06:50 334:033 > 78rem2.0rerem
+17:06:50 334:030 > 2.3rem
+
+17:06:58 335:002 > m
+17:06:59 335:003 > ma
+17:06:59 335:004 > mar
+17:06:59 335:005 > marg
+17:07:02 335:002 > margp
+17:07:02 335:003 > margpa
+17:07:03 335:004 > margpad
+17:07:03 335:005 > margpadd
+17:07:04 335:002 > padding: ;
+17:07:05 335:011 > 2
+17:07:05 335:012 > 20
+17:07:05 335:013 > 20p
+17:07:06 335:014 > 20px
+17:07:06 335:011 > 20px
+
+17:07:11 336:002 > c
+17:07:11 336:003 > co
+17:07:12 336:004 > col
+17:07:12 336:005 > colo
+17:07:12 336:006 > color
+17:07:12 336:002 > color: ;
+17:07:13 336:009 > b
+17:07:13 336:010 > bl
+17:07:13 336:011 > blu
+17:07:13 336:012 > blue
+17:07:14 336:009 > blue
+17:07:17 336:009 > .
+17:07:17 336:010 > ..
+17:07:18 336:009 > ..v
+17:07:18 336:010 > ..va
+17:07:18 336:011 > ..var
+17:07:18 336:009 > var()
+17:07:19 336:013 > -
+17:07:19 336:014 > --
+17:07:29 336:013 > --charcoal
+17:07:36 336:013 > -
+17:07:36 336:014 > --
+17:07:41 336:013 > --dartmouth-green
+17:07:43 336:013 > --
+17:07:44 336:013 > .
+17:07:45 336:013 > .-
+17:07:45 336:014 > .--
+17:07:59 336:009 > .--r
+17:08:00 336:010 > .--re
+17:08:00 336:011 > .--red
+17:08:00 336:009 > red
+17:08:03 336:009 > rgb(180, 71, 71)
+17:08:06 336:009 > rgb(71, 180, 80)
+17:08:08 336:009 > rgb(68, 253, 84)
+17:08:09 336:009 > rgb(80, 240, 93)
+17:08:11 336:009 > rgb(19, 250, 38)
+17:08:12 336:009 > rgb(0, 255, 21)
+17:08:14 336:009 > rgb(255, 238, 0)
+17:08:16 336:009 > rgb(255, 174, 0)
+17:08:18 336:009 > rgb(255, 208, 0)
+17:08:22 336:009 > rgb(216, 179, 17)
+17:08:24 336:009 > rgb(190, 156, 4)
+17:08:26 336:009 > rgb(163, 134, 2)
+17:08:29 336:009 > rgb(182, 148, 0)
+17:08:32 336:009 > rgb(182, 124, 0)
+17:08:35 336:009 > rgb(223, 152, 0)
+17:08:37 336:009 > rgb(212, 151, 19)
+17:08:39 336:009 > rgb(212, 156, 34)
+17:08:39 336:009 > rgb(223, 171, 59)
+17:08:41 336:009 > rgb(218, 154, 18)
+17:08:43 336:009 > rgb(240, 164, 0)
+17:09:26 338:000 > .kontainer main .innehåll
+
+17:09:26 338:025 > ,
+17:09:27 338:026 > , h
+17:09:27 338:027 > , h1
+17:09:28 338:028 > , h1,
+17:09:30 339:000 > .kontainer main .innehåll
+
+17:09:31 339:026 > h
+17:09:31 339:027 > h2
+17:09:32 339:026 > h2
+17:09:33 340:000 > {}
+
+17:09:35 341:002 > c
+17:09:35 341:003 > ci
+17:09:35 341:004 > cik
+17:09:36 341:005 > ciki
+17:09:36 341:006 > cikir
+17:09:38 341:002 > cikirc
+17:09:38 341:003 > cikirco
+17:09:38 341:004 > cikircol
+17:09:38 341:005 > cikircolo
+17:09:38 341:006 > cikircolor
+17:09:38 341:002 > color: ;
+17:09:40 341:009 > v
+17:09:41 341:009 > var()
+17:09:43 341:013 > --ash-gray
+17:09:47 341:009 > -
+17:09:47 341:010 > --
+17:09:48 341:008 > --r
+17:09:48 341:009 > --re
+17:09:49 341:010 > --red
+17:09:49 341:008 > red
+17:09:52 341:008 > rgb(217, 255, 0)
+17:09:56 341:008 > rgb(0, 195, 255)
+17:09:58 341:008 > rgb(0, 195, 255)
+17:09:59 341:008 > rgb(3, 79, 102)
+17:10:01 341:008 > rgb(4, 31, 39)
+17:10:01 341:008 > rgb(2, 38, 49)
+17:10:02 341:008 > rgb(2, 70, 90)
+17:10:05 341:008 > rgb(2, 48, 90)
+17:10:06 341:008 > rgb(2, 90, 86)
+17:10:08 341:008 > rgb(10, 90, 2)
+17:10:10 341:008 > rgb(90, 81, 2)
+17:10:12 341:008 > rgb(90, 45, 2)
+17:10:13 341:008 > rgb(90, 27, 2)
+17:10:15 341:008 > rgb(36, 2, 90)
+17:10:16 341:008 > rgb(90, 2, 71)
+17:10:18 341:008 > rgb(90, 2, 2)
+17:10:20 341:008 > rgb(90, 2, 21)
+17:10:22 341:008 > rgb(65, 2, 90)
+17:10:24 341:008 > rgb(8, 2, 90)
+17:10:25 341:008 > rgb(2, 84, 90)
+17:10:27 341:008 > rgb(2, 90, 24)
+17:10:29 341:008 > rgb(42, 90, 2)
+17:10:31 341:008 > rgb(90, 77, 2)
+17:10:34 341:008 > rgb(218, 185, 0)
+17:10:37 341:008 > rgb(126, 115, 56)
+17:10:38 341:008 > rgb(145, 129, 39)
+17:10:40 341:008 > rgb(165, 145, 29)
+17:10:42 341:008 > rgb(218, 187, 14)
+17:11:09 341:008 > rgb(218, 14, 201)
+17:11:10 341:008 > rgb(90, 4, 83)
+17:11:18 341:008 > rgb(90, 4, 90)
+17:11:20 341:008 > rgb(148, 3, 148)
+17:11:29 341:008 > rgb(148, 3, 40)
+17:11:29 341:008 > rgb(231, 13, 68)
+17:11:32 341:008 > rgb(212, 7, 58)
+17:11:34 341:008 > rgb(141, 0, 35)
+17:12:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+17:12:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+17:12:32 046:008 > .
+17:12:32 046:009 > .i
+17:12:33 046:010 > .in
+17:12:33 046:011 > .inn
+17:12:33 046:012 > .inne
+17:12:34 046:013 > .inneh
+17:12:34 046:014 > .innehå
+17:12:34 046:015 > .innehål
+17:12:34 046:016 > .innehåll
+17:12:37 046:008 > .innehåll.
+17:12:37 046:009 > .innehåll.i
+17:12:37 046:010 > .innehåll.in
+17:12:37 046:011 > .innehåll.inn
+17:12:37 046:012 > .innehåll.inne
+17:12:38 046:013 > .innehåll.inneh
+17:12:38 046:014 > .innehåll.inneha
+17:12:38 046:015 > .innehåll.innehal
+17:12:39 046:016 > .innehåll.innehall
+17:12:39 046:008 > <div class="innehall"></div>
+17:12:41 046:025 > å
+17:12:56 047:010 > <div class="våraleveransplaner-kontainer">
+          <h1>Våra Leveransplaner</h1>
+          <ul>
+            <li>
+              <a href="#"
+                ><div class="leveransplan">
+                  <img src="./bilder/package.png" alt="Låda" />
+                  <h2>Basic från 299kr</h2>
+                  <p>
+                    Utforska vårt Basic-alternativ för en enkel och prisvärd
+                    prenumerationsplan. Med Basic får du tillgång till
+                    grundläggande frågor och information till ett förmånligt
+                    pris. Perfekt för dig som vill ha en okomplicerad lösning
+                    utan extra kostnader.
+                  </p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <div class="leveransplan">
+                  <img src="./bilder/package.png" alt="Låda" />
+                  <h2><span class="premium">Premium</span> från 599kr</h2>
+                  <p>
+                    Uppgradera till vår Premium-plan för att få tillgång till
+                    exklusiva fördelar och utökade funktioner. Med
+                    Premium-alternativet får du inte bara tillgång till
+                    premiumfrågor och snabbare support, utan även en förbättrad
+                    upplevelse som passar din ökade efterfrågan på service.
+                  </p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <div class="leveransplan">
+                  <img src="./bilder/package.png" alt="Låda" />
+                  <h2><span class="premium">Premium+</span> från 1099kr</h2>
+                  <p>
+                    För den som söker det bästa av det bästa erbjuder vår
+                    Premium+ plan en överlägsen upplevelse. Med avancerade
+                    funktioner som personlig rådgivning och exklusiv tillgång
+                    till experthjälp, är Premium+ alternativet det perfekta
+                    valet för dig som kräver högkvalitativ och skräddarsydd
+                    support.
+                  </p>
+                </div>
+              </a>
+            </li>
+          </ul>
+          <video
+            class="delivery-video"
+            src="videor/6169116-uhd_3840_2160_25fps.mp4"
+            autoplay="true"
+            loop="true"
+          ></video>
+        </div>
+17:12:58 075:022 > förbättrad
+17:14:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:14:05 343:000 > .
+17:14:05 343:001 > .k
+17:14:05 343:002 > .ko
+17:14:06 343:000 > .kontainer
+17:14:07 343:011 >  i
+17:14:08 343:011 >  im
+17:14:08 343:012 >  ima
+17:14:08 343:013 >  imai
+17:14:08 343:014 >  imain
+17:14:09 343:016 >  imain .
+17:14:09 343:017 >  imain .i
+17:14:09 343:018 >  imain .in
+17:14:10 343:016 > .innehåll
+
+17:14:19 331:002 > c
+17:14:19 331:003 > co
+17:14:19 331:004 > col
+17:14:19 331:005 > colo
+17:14:20 331:006 > color
+17:14:20 331:002 > color: ;
+17:14:21 331:009 > b
+17:14:21 331:010 > bl
+17:14:21 331:011 > bla
+17:14:21 331:012 > blac
+17:14:21 331:009 > black
+17:14:23 331:009 > b
+17:14:23 331:010 > bl
+17:14:23 331:011 > blu
+17:14:24 331:012 > blue
+17:14:24 331:009 > blue
+17:15:59 331:009 > rgb(61, 61, 63)
+17:16:04 331:009 > rgb(53, 53, 53)
+17:16:06 331:009 > rgb(86, 86, 87)
+17:16:08 331:009 > rgb(41, 41, 41)
+17:16:11 331:009 > rgb(46, 46, 49)
+17:16:15 331:009 > rgb(49, 49, 46)
+17:16:17 331:009 > rgb(228, 231, 33)
+17:16:20 331:009 > rgb(150, 153, 0)
+17:16:22 331:009 > rgb(79, 80, 46)
+17:16:23 331:009 > rgb(92, 94, 15)
+17:16:26 331:009 > rgb(104, 105, 3)
+17:16:27 331:009 > rgb(105, 3, 46)
+17:16:30 331:009 > rgb(105, 3, 25)
+17:16:37 331:009 > rgb(165, 96, 111)
+17:16:38 331:009 > rgb(165, 149, 96)
+17:16:41 331:009 > rgb(73, 70, 60)
+17:16:43 331:009 > rgb(48, 47, 45)
+17:16:46 331:009 > rgb(10, 10, 10)
+17:17:37 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+17:17:52 021:002 > VäxlaMörktLäge
+17:18:10 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:18:21 341:008 > -
+17:18:21 341:009 > --
+17:18:21 341:010 > --v
+17:18:21 341:011 > --va
+17:18:22 341:012 > --var
+17:18:23 341:008 > --varv
+17:18:23 341:009 > --varva
+17:18:23 341:010 > --varvar
+17:18:23 341:008 > var()
+17:18:24 341:012 > -
+17:18:24 341:013 > --
+17:18:26 341:014 > --d
+17:18:26 341:015 > --da
+17:18:26 341:016 > --dar
+17:18:27 341:012 > --dartmouth-green
+17:18:33 341:011 > ()
+17:18:35 341:011 > ()
+17:18:36 341:012 > d
+17:18:36 341:013 > da
+17:18:36 341:014 > dar
+17:18:36 341:015 > dark
+17:18:37 341:012 > --dark-green
+
+17:19:19 122:032 > 2
+17:19:24 122:032 > 21
+17:19:29 122:030 > 210
+17:19:30 122:031 > 210.
+17:19:30 122:032 > 210.5
+17:19:50 122:030 > 1.1
+17:19:51 122:032 > 2
+17:19:51 122:032 > 23
+17:19:51 341:012 > dark
+17:19:53 341:012 > --dark-green
+17:19:54 122:032 > 2
+17:19:56 122:032 > 23
+
+17:20:00 138:032 > 2
+17:20:05 138:032 > 21
+17:20:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+17:20:22 040:008 > .
+17:20:22 040:009 > .o
+17:20:23 040:009 > .oi
+17:20:23 040:010 > .oii
+17:20:24 040:010 > .oiim
+17:20:24 040:011 > .oiimm
+17:20:25 040:010 > .oiimmn
+17:20:25 040:011 > .oiimmnn
+17:20:25 040:012 > .oiimmnne
+17:20:25 040:013 > .oiimmnneh
+17:20:26 040:014 > .oiimmnneha
+17:20:26 040:015 > .oiimmnnehal
+17:20:26 040:016 > .oiimmnnehall
+17:20:26 040:008 > <div class="innehall"></div>
+17:20:37 041:000 > <div class="kontakta-oss-kontainer">
+          <h1>Fyll i formuläret nedan</h1>
+          <form class="kontakta-oss-formulär" action="/action_page.php">
+            <label for="fname">*Förnamn:</label>
+            <input
+              type="text"
+              placeholder="Anders"
+              id="fname"
+              name="fname"
+              required
+            />
+            <label for="lname">Efternamn:</label>
+            <input type="text" placeholder="Eriksson" id="lname" name="lname" />
+            <label for="email">*Email:</label>
+            <input
+              type="email"
+              placeholder="Ex: Anderseriksson@gmail.com"
+              id="email"
+              name="email"
+              required
+            />
+            <label for="kommentar">*Kommentar:</label>
+            <textarea
+              type="text"
+              placeholder="Beskriv kontakt orsaken."
+              id="kommentar"
+              name="kommentar"
+              required
+            ></textarea>
+            <input id="submit" type="button" value="Skicka" />
+          </form>
+          <p id="sändningsmeddelande">Formuläret har nu skickats!</p>
+        </div>
+17:21:09 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:21:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:21:27 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+17:21:29 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:21:32 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:22:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:22:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:22:52 339:028 > ,
+17:22:53 340:000 > .kontainer main .innehåll h2
+
+17:22:56 340:026 > .
+17:22:56 340:027 > .v
+17:22:58 340:026 > .våraleveransplaner-kontainer
+17:22:59 340:056 >  j
+17:22:59 340:057 >  j1
+17:22:59 340:056 >  j1h
+17:23:00 340:057 >  j1h1
+17:23:00 340:056 > h1
+17:23:24 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:23:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+
+17:23:45 038:025 > å
+17:23:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:23:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:26:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:26:31 072:070 > förbättrad
+17:26:34 049:008 > <div class="våraleveransplaner-kontainer">
+          <h1>Våra Leveransplaner</h1>
+          <ul>
+            <li>
+              <a href="#"
+                ><div class="leveransplan">
+                  <img src="./bilder/package.png" alt="Låda" />
+                  <h2>Basic från 299kr</h2>
+                  <p>
+                    Utforska vårt Basic-alternativ för en enkel och prisvärd
+                    prenumerationsplan. Med Basic får du tillgång till
+                    grundläggande frågor och information till ett förmånligt
+                    pris. Perfekt för dig som vill ha en okomplicerad lösning
+                    utan extra kostnader.
+                  </p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <div class="leveransplan">
+                  <img src="./bilder/package.png" alt="Låda" />
+                  <h2><span class="premium">Premium</span> från 599kr</h2>
+                  <p>
+                    Uppgradera till vår Premium-plan för att få tillgång till
+                    exklusiva fördelar och utökade funktioner. Med
+                    Premium-alternativet får du inte bara tillgång till
+                    premiumfrågor och snabbare support, utan även en förbättrad
+                    upplevelse som passar din ökade efterfrågan på service.
+                  </p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <div class="leveransplan">
+                  <img src="./bilder/package.png" alt="Låda" />
+                  <h2><span class="premium">Premium+</span> från 1099kr</h2>
+                  <p>
+                    För den som söker det bästa av det bästa erbjuder vår
+                    Premium+ plan en överlägsen upplevelse. Med avancerade
+                    funktioner som personlig rådgivning och exklusiv tillgång
+                    till experthjälp, är Premium+ alternativet det perfekta
+                    valet för dig som kräver högkvalitativ och skräddarsydd
+                    support.
+                  </p>
+                </div>
+              </a>
+            </li>
+          </ul>
+          <video
+            class="delivery-video"
+            src="videor/6169116-uhd_3840_2160_25fps.mp4"
+            autoplay="true"
+            loop="true"
+          ></video>
+        </div>
+17:26:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+17:26:42 038:025 > a
+17:26:44 043:008 > <div class="kontakta-oss-kontainer">
+          <h1>Fyll i formuläret nedan</h1>
+          <form class="kontakta-oss-formulär" action="/action_page.php">
+            <label for="fname">*Förnamn:</label>
+            <input
+              type="text"
+              placeholder="Anders"
+              id="fname"
+              name="fname"
+              required
+            />
+            <label for="lname">Efternamn:</label>
+            <input type="text" placeholder="Eriksson" id="lname" name="lname" />
+            <label for="email">*Email:</label>
+            <input
+              type="email"
+              placeholder="Ex: Anderseriksson@gmail.com"
+              id="email"
+              name="email"
+              required
+            />
+            <label for="kommentar">*Kommentar:</label>
+            <textarea
+              type="text"
+              placeholder="Beskriv kontakt orsaken."
+              id="kommentar"
+              name="kommentar"
+              required
+            ></textarea>
+            <input id="submit" type="button" value="Skicka" />
+          </form>
+          <p id="sändningsmeddelande">Formuläret har nu skickats!</p>
+        </div>
+17:26:46 040:008 > .innehall
+17:26:46 040:010 > mm
+
+17:26:47 040:010 > i
+17:26:48 040:009 > io
+17:26:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:26:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:26:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+17:26:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+17:27:06 040:012 > io<
+17:27:08 040:012 > <h1>Om oss</h1>
+<p>
+  Box Delivery TM är ett innovativt företag som specialiserar sig på att leverera paket med precision och pålitlighet. Med ett dedikerat team av erfarna logistikexperter och moderna teknologiska lösningar har Box Delivery TM etablerat sig som en ledande aktör inom branschen.
+</p>
+<br />
+<p>
+  Vad som skiljer Box Delivery TM från konkurrenterna är deras fokus på att erbjuda skräddarsydda transportlösningar som passar varje kunds unika behov. Oavsett om det handlar om att leverera små paket till grannskapets dörrar eller att organisera komplexa distributionsnätverk för stora företag, är Box Delivery TM redo att leverera enastående service varje gång.
+</p>
+<br />
+<p>
+  Med avancerade spårningssystem och realtidsuppdateringar kan kunder lita på att deras paket kommer att levereras i tid och i gott skick. Box Delivery TMs dedikation till kundtillfredsställelse sträcker sig bortom bara leverans; de strävar efter att göra varje interaktion smidig och problemfri för sina kunder.
+</p>
+<br />
+<p>
+  Box Delivery TM är inte bara ett företag som transporterar paket; de är en partner för sina kunder, alltid redo att gå den extra milen för att säkerställa att deras behov uppfylls. Med deras engagemang för kvalitet, effektivitet och pålitlighet kommer Box Delivery TM fortsätta att vara den prefererade leveranspartnern för företag och privatpersoner överallt.
+</p>
+<br />
+<h2>Faq</h2>
+<h3>Fråga: Vilka typer av paket kan jag skicka med Box Delivery TM?</h3>
+<p>
+  Svar: Box Delivery TM kan transportera en mängd olika paket, inklusive brev, små paket, stora paket och till och med specialföremål som kräver speciell hantering. Vi är redo att hantera dina paketbehov, oavsett storlek eller form.
+</p>
+<br />
+<h3>Fråga: Hur lång tid tar det vanligtvis att leverera ett paket med Box Delivery TM?</h3>
+<p>
+  Svar: Leveranstiden varierar beroende på destination och vald leveransmetod. Vanligtvis strävar vi efter att leverera paket så snabbt som möjligt, och många leveranser kan ske inom några dagar. För exakta uppskattningar, kontakta vår kundtjänst.
+</p>
+<br />
+<br />
+<h3>Fråga: Kan jag spåra mitt paket under leveransen?</h3>
+<p>
+  Svar: Absolut! Box Delivery TM erbjuder avancerad spårningsteknik så att du kan följa ditt paket i realtid. Genom att använda vårt spårningssystem kan du ha full insyn i var ditt paket befinner sig under hela leveransprocessen.
+</p>
+<br />
+<br />
+<h3>Fråga: Vad händer om mitt paket skadas under transporten?</h3>
+<p>
+  Svar: Vi på Box Delivery TM värnar om dina paket och gör allt vi kan för att säkerställa att de levereras säkert och oskadade. Om ditt paket skulle skadas under transporten, vänligen kontakta vår kundtjänst så hjälper vi dig att lösa problemet så snabbt och smidigt som möjligt.
+</p>
+<br />
+<br>
+<h3>Fråga: Erbjuder ni expressleveranser?</h3>
+<p>
+  Svar: Ja, vi erbjuder expressleveranser för kunder som behöver snabbare leveransalternativ. Kontakta oss för att diskutera dina behov och vi kommer att göra allt vi kan för att möta dina krav för snabb leverans.
+</p>
+<br />
+
+17:27:11 080:003 > /
+17:37:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+17:37:10 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:37:27 339:028 > ,
+17:37:27 340:000 > .kontainer main .innehåll
+17:37:40 340:000 > .kontainer main .innehåll
+
+17:38:25 346:033 > ,
+17:38:26 347:000 > .kontainer main .innehåll
+17:38:33 347:025 > .mörkt-läge-på
+17:40:32 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+17:40:36 026:002 > ""
+17:40:37 026:003 > .kontainer main .innehåll.mörkt-läge-på
+
+17:40:38 026:043 > ,
+17:42:58 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:42:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:43:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:43:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+17:43:10 039:008 > <h1>Välkommen till Box Delivery&trade;</h1>
+17:43:34 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:44:02 273:025 > ,
+17:44:02 274:000 > font-size: Clamp(1rem, 2.3vw, 1.5rem);
+
+17:44:04 274:000 > .
+17:44:04 274:001 > .k
+17:44:04 274:002 > .ko
+17:44:05 274:003 > .kon
+17:44:05 274:004 > .kont
+
+17:44:09 272:000 > .
+17:44:10 272:001 > .k
+17:44:10 272:002 > .ko
+17:44:10 272:003 > .kon
+17:44:10 272:004 > .kont
+17:44:10 272:005 > .konta
+17:44:10 272:000 > .kontainer
+17:44:12 272:010 > m
+17:44:12 272:011 > ma
+17:44:12 272:012 > mai
+17:44:12 272:013 > main
+17:44:14 272:011 > main  m
+17:44:14 272:012 > main  ma
+17:44:14 272:013 > main  mai
+17:44:14 272:014 > main  main
+17:44:15 272:016 > main  main .
+17:44:16 272:017 > main  main .i
+17:44:16 272:018 > main  main .in
+17:44:16 272:019 > main  main .inn
+17:44:16 272:020 > main  main .inne
+17:44:17 272:016 > .innehåll
+17:44:19 272:025 > {}
+17:44:22 272:016 > h
+17:44:22 272:017 > h1
+17:44:23 272:016 > h1
+17:44:23 272:018 > {}
+
+17:44:29 273:002 > c
+17:44:29 273:003 > co
+17:44:29 273:004 > col
+17:44:29 273:005 > colo
+17:44:29 273:006 > color
+17:44:30 273:002 > color: ;
+17:44:30 273:009 > v
+17:44:31 273:010 > va
+17:44:31 273:011 > var
+17:44:31 273:009 > var()
+17:44:31 273:013 > d
+17:44:31 273:014 > da
+17:44:31 273:015 > dar
+17:44:32 273:016 > dark
+17:44:32 273:013 > --dark-green
+17:44:37 274:002 > font-size: Clamp(1rem, 2.3vw, 1.5rem);
+
+17:44:48 276:025 > ,
+
+17:45:10 274:002 > p
+17:45:11 274:003 > pa
+17:45:11 274:004 > pad
+17:45:11 274:005 > padd
+17:45:11 274:002 > padding: ;
+17:45:23 274:002 > p
+17:45:23 274:003 > pa
+17:45:23 274:004 > pad
+17:45:23 274:005 > padd
+17:45:24 274:002 > padding: ;
+17:45:24 274:011 > 2
+17:45:24 274:012 > 20
+17:45:24 274:013 > 20p
+17:45:24 274:014 > 20px
+17:45:25 274:011 > 20px
+17:45:46 274:002 > Clamp(0px, 1vw, 20px);
+17:45:51 274:002 > p
+17:45:51 274:003 > pa
+17:45:51 274:004 > pad
+17:45:51 274:005 > padd
+17:45:51 274:006 > paddi
+17:45:52 274:002 > padding:
+17:46:32 274:017 >  2
+17:46:52 274:011 >  2C
+17:46:52 274:012 >  2Ca
+17:46:53 274:013 >  2Cal
+17:46:53 274:014 >  2Calm
+17:46:53 274:015 >  2Calmp
+17:46:54 274:011 > Clamp
+17:46:59 274:022 > 1
+17:47:48 270:002 > font-size: Clamp(0.6rem, 4vw, 2.3rem);
+  font-weight: 900;
+  padding: Clamp(0px, 1vw, 20px);
+17:47:53 270:002 > font-size: Clamp(0.6rem, 4vw, 2.3rem);
+  font-weight: 900;
+  padding: Clamp(0px, 1vw, 20px);
+17:47:56 268:001 > font-size: Clamp(0.6rem, 4vw, 2.3rem);
+  font-weight: 900;
+  padding: Clamp(0px, 1vw, 20px);
+17:47:57 268:001 > color: var(--dark-green);
+  padding: Clamp(0px, 1vw, 20px);
+  
+}
+17:47:59 270:002 > font-size: Clamp(0.6rem, 4vw, 2.3rem);
+  font-weight: 900;
+  padding: Clamp(0px, 1vw, 20px);
+17:54:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:54:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:54:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+17:54:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+17:54:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+17:54:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:54:27 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+17:54:32 026:002 > ""
+17:54:33 026:003 > .kontainer main h1
+
+17:54:34 026:022 > ,
+17:54:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:55:16 341:000 > .kontainer main h1
+17:56:14 338:000 > .kontainer main h1
+17:56:21 339:000 > .kontainer main h1
+
+17:56:22 339:018 > ,
+17:56:24 339:018 > ,.
+17:56:26 339:019 > ,.m
+17:56:26 339:020 > ,.mö
+17:56:29 339:018 > .innehåll.mörkt-läge-på
+17:56:57 339:018 > .innehåll
+17:56:57 339:018 > .mö
+
+17:56:59 338:000 > .
+17:57:00 338:001 > kontainer
+17:57:00 338:011 > main
+17:57:01 338:016 > h1
+17:57:05 337:000 > .kontainer main .innehåll {
+  color: var(--dark-green);
+}
+17:57:22 344:000 > .kontainer main h1
+
+17:57:23 344:019 > ,
+17:57:26 344:018 > ,.
+17:57:27 344:019 > ,.m
+17:57:27 344:020 > ,.mö
+17:57:28 344:021 > ,.mör
+17:57:28 344:022 > ,.mörk
+17:57:30 344:018 > .mörkt-läge-kontainer
+17:57:32 344:029 > .
+17:57:33 344:029 > .-
+17:57:33 344:030 > .-p
+17:57:33 344:031 > .-på
+17:58:38 341:000 > {}
+
+17:58:39 341:000 > *
+17:58:41 341:001 > {}
+17:58:41 341:002 > a
+17:58:42 341:002 > ac
+17:58:42 341:003 > aco
+17:58:42 341:004 > acol
+17:58:43 341:005 > acolr
+17:58:43 341:006 > acolro
+17:58:43 341:005 > acolroo
+17:58:43 341:006 > acolroor
+17:58:44 341:002 > color: ;
+17:58:45 341:009 > w
+17:58:45 341:010 > wh
+17:58:45 341:011 > whg
+17:58:46 341:011 > whgh
+17:58:46 341:012 > whghi
+17:58:46 341:011 > whghii
+17:58:47 341:012 > whghiit
+17:58:47 341:009 > white
+
+17:58:52 340:001 > .
+17:58:54 340:002 > .m
+17:58:55 340:003 > .mö
+17:58:55 340:004 > .mör
+17:58:55 340:005 > .mörk
+17:58:55 340:006 > .mörkt
+17:58:55 340:007 > .mörktl
+17:58:56 340:001 > .mörkt-läge-kontainer
+17:58:59 340:012 > -
+17:59:00 340:013 > -p
+17:59:00 340:014 > -på
+17:59:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+17:59:09 026:002 > ""
+17:59:10 026:003 > *.mörkt-läge-på
+
+17:59:13 026:005 > ,
+18:03:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:03:48 339:019 > ,
+18:03:50 339:019 > ,,
+18:03:51 340:000 > *.mörkt-läge-på {
+  color: white;
+}
+
+18:04:03 340:015 > ,
+18:04:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+18:04:09 026:002 > ""
+
+18:04:10 026:003 > *
+18:04:14 026:005 > *,
+18:04:34 027:001 > ".kontainer main h1",
+18:04:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:07:34 000:000 > F
+18:07:35 000:001 > Fi
+18:07:35 000:002 > Fin
+18:07:35 000:003 > Fina
+18:07:35 000:004 > Final
+18:07:37 000:000 > FinalS
+18:07:37 000:001 > FinalSi
+18:07:37 000:002 > FinalSis
+18:07:38 000:003 > FinalSisa
+18:07:38 000:003 > FinalSisat
+18:07:38 000:004 > FinalSisata
+18:07:39 000:006 > FinalSisata k
+18:07:39 000:007 > FinalSisata ko
+18:07:40 000:006 > FinalSisata koc
+18:07:40 000:007 > FinalSisata koco
+18:07:40 000:008 > FinalSisata kocom
+18:07:40 000:009 > FinalSisata kocomm
+18:07:40 000:010 > FinalSisata kocommi
+18:07:41 000:011 > FinalSisata kocommit
+18:07:41 000:013 > FinalSisata kocommit i
+18:07:42 000:014 > FinalSisata kocommit in
+18:07:42 000:015 > FinalSisata kocommit inn
+18:07:42 000:016 > FinalSisata kocommit inna
+18:07:42 000:017 > FinalSisata kocommit innan
+18:07:44 000:019 > FinalSisata kocommit innan c
+18:07:44 000:019 > FinalSisata kocommit innan ck
+18:07:44 000:020 > FinalSisata kocommit innan cko
+18:07:45 000:021 > FinalSisata kocommit innan ckom
+18:07:45 000:022 > FinalSisata kocommit innan ckomm
+18:07:45 000:023 > FinalSisata kocommit innan ckomme
+18:07:45 000:024 > FinalSisata kocommit innan ckommen
+18:07:46 000:025 > FinalSisata kocommit innan ckomment
+18:07:46 000:026 > FinalSisata kocommit innan ckommenta
+18:07:46 000:027 > FinalSisata kocommit innan ckommentar
+18:07:46 000:028 > FinalSisata kocommit innan ckommentare
+18:07:46 000:029 > FinalSisata kocommit innan ckommentarer
+18:07:47 000:031 > FinalSisata kocommit innan ckommentarer o
+18:07:47 000:032 > FinalSisata kocommit innan ckommentarer oc
+18:07:47 000:033 > FinalSisata kocommit innan ckommentarer och
+18:07:48 000:035 > FinalSisata kocommit innan ckommentarer och k
+18:07:48 000:035 > FinalSisata kocommit innan ckommentarer och kc
+18:07:48 000:036 > FinalSisata kocommit innan ckommentarer och kcl
+18:07:48 000:037 > FinalSisata kocommit innan ckommentarer och kcle
+18:07:48 000:038 > FinalSisata kocommit innan ckommentarer och kclea
+18:07:49 000:039 > FinalSisata kocommit innan ckommentarer och kclean
+18:07:49 000:041 > FinalSisata kocommit innan ckommentarer och kclean u
+18:07:49 000:042 > FinalSisata kocommit innan ckommentarer och kclean up
+18:07:50 000:043 > FinalSisata kocommit innan ckommentarer och kclean ups
+18:07:50 000:044 > FinalSisata kocommit innan ckommentarer och kclean ups.
+18:08:02 138:000 > font-size: Clamp(1rem, 3vw, 2.1rem);
+  padding: Clamp(5px, 2%, 15px);
+  margin: 20px 20px;
+  display: inline-block;
+  border: solid 3px;
+  border-radius: 4px;
+  background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+  grid-column: 1;
+  width: 100%;
+}
+
+.kontainer main .kontakta-oss-formulär input {
+  height: Clamp(35px, 4vh, 150px);
+}
+
+.kontainer main .kontakta-oss-formulär textarea {
+  resize: none;
+  height: Clamp(100px, 15vw, 200px);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+  justify-self: center;
+  grid-column: 2;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: Clamp(125px, 15vw, 200px);
+  border: solid 3px var(--dark-green);
+  background-color: var(--nyanza);
+  border-radius: 4px;
+  padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+  outline: 5px solid var(--nyanza);
+  background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+  outline: 5px solid var(--nyanza);
+}
+
+.kontainer main .kontakta-oss-formulär #submit {
+  font-weight: 900;
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+  cursor: pointer;
+}
+
+.kontainer main .kontakta-oss-kontainer #sändningsmeddelande {
+  grid-column: 2;
+  margin: 20px 0;
+  display: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  width: 50%;
+  margin: 25px auto;
+}
+.kontainer main .våraleveransplaner-kontainer li a {
+  text-decoration: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer li {
+  transition: all 100ms;
+  --side-padding: clamp(0px, 1vw, 25px);
+  --border-color: var(--dark-green);
+  justify-content: center;
+  border: solid 5px var(--border-color);
+  padding: 20px var(--side-padding) 50px var(--side-padding);
+  background-color: var(--sea-green);
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+  transform: scale(1.1);
+  border-color: var(--nyanza);
+  box-shadow: 0px 0px 10px 3px var(--nyanza);
+  cursor: pointer;
+}
+
+.kontainer main .leveransplan {
+  width: Clamp(160px, 30vw, 200px);
+}
+
+.kontainer main .våraleveransplaner-kontainer .delivery-video {
+  width: Clamp(50px, 90vw, 1200px);
+  border: solid 10px var(--dark-green);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan img {
+  width: 80%;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+  color: var(--dark-green);
+  text-shadow: 3px 1px 2px var(--celadon);
+  margin-top: 10px;
+  font-family: "Alfa Slab One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: Clamp(1.3rem, 3vw, 1.7rem);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan p {
+  color: var(--dark-green);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan .premium {
+  color: rgb(255, 198, 27);
+  text-shadow: 3px 3px var(--dark-green);
+  margin-top: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  font-size: Clamp(1.5rem, 5vw, 1.9rem);
+}
+
+.kontainer main h1 {
+  color: var(--dark-green);
+  padding: Clamp(0px, 1vw, 20px);
+  font-size: Clamp(0.6rem, 4vw, 2.3rem);
+}
+.kontainer main .innehåll {
+  font-size: Clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+h1 {
+  font-weight: 900;
+}
+
+.kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  /* att elementen bara tar platsen de behöver.*/
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+.kontainer main .innehåll .om-oss {
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+.kontainer main .innehåll .om-oss h3 {
+  font-size: Clamp(1rem, 3vw, 2.3rem);
+  padding: 20px;
+  color: rgb(240, 164, 0);
+}
+/*mörkt läge*/
+
+body.mörkt-läge-på,
+.kontainer main h1.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på,
+.kontainer main .innehåll.mörkt-läge-på {
+  --mörkt-läge: #1a1a1a;
+  background-color: var(--mörkt-läge);
+  color: white;
+}
+.kontainer footer.mörkt-läge-på {
+  background-color: #131313;
+}
+.kontainer .kontakta-oss-kontainer.mörkt-läge-på {
+  color: var(--mörkt-läge);
+}
+
+/*Responsiv Design*/
+18:30:58 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------

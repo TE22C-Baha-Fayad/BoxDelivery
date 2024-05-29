@@ -1,0 +1,1242 @@
+24-05-13 16:33 Session started
+----------------------------------------
+16:33:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+16:34:22 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+16:34:28 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+16:37:54 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:38:00 037:004 > /* CSS HEX */
+--rich-black: #0d1b2aff;
+--oxford-blue: #1b263bff;
+--yinmn-blue: #415a77ff;
+--silver-lake-blue: #778da9ff;
+--platinum: #e0e1ddff;
+
+16:38:37 224:017 > 1
+16:38:37 224:018 > 10
+16:38:38 224:019 > 100
+16:38:41 224:017 > 1009
+16:38:41 224:018 > 10090
+16:38:41 224:019 > 100900
+16:38:45 224:017 > 1009001
+16:38:45 224:018 > 10090010
+16:38:46 224:019 > 100900100
+16:38:48 224:017 > 900
+16:39:03 219:000 > .kontainer main .våraleveransplaner-kontainer .leveransplan img {
+    width: Clamp(50px, 20vw, 200px);
+}
+
+16:39:14 219:060 > å
+16:39:14 219:060 > åp
+16:39:15 219:060 > åpp
+
+16:39:20 220:004 > c
+16:39:20 220:005 > co
+16:39:20 220:006 > col
+16:39:20 220:007 > colo
+16:39:21 220:008 > color
+16:39:21 220:004 > color: ;
+16:39:22 220:011 > v
+16:39:22 220:012 > va
+16:39:22 220:013 > var
+16:39:22 220:011 > var()
+16:39:25 220:015 > --platinum
+16:39:28 220:016 > -
+16:39:34 220:015 > --silver-lake-blue
+16:39:37 220:015 > --
+16:39:38 220:015 > -
+16:39:38 220:016 > --
+16:39:49 220:015 > --rich-black
+16:43:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+16:43:17 010:004 > <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+16:43:20 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:43:22 221:004 > f
+16:43:22 221:005 > fo
+16:43:22 221:006 > fon
+16:43:22 221:007 > fonm
+16:43:22 221:008 > fonmt
+16:43:23 221:008 > fonmtf
+16:43:23 221:009 > fonmtfa
+16:43:25 221:007 > fonmtfat
+16:43:25 221:008 > fonmtfatf
+16:43:25 221:009 > fonmtfatfa
+16:43:25 221:004 > font-family: ;
+16:43:33 221:004 > font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
+
+16:43:42 223:017 > 8
+16:43:42 223:018 > 80
+16:43:42 223:019 > 800
+16:43:45 223:018 > 8004
+16:43:45 223:017 > 80043
+16:43:45 223:018 > 800430
+16:43:46 223:019 > 8004300
+16:43:48 223:017 > 80043005
+16:43:48 223:018 > 800430050
+16:43:49 223:019 > 8004300500
+16:43:49 223:017 > 80043005004
+16:43:49 223:018 > 800430050040
+16:43:49 223:019 > 8004300500400
+
+16:43:54 222:034 > s
+16:43:54 222:035 > sa
+16:43:55 222:034 > sans-serif
+
+16:44:04 225:004 > s
+16:44:05 225:005 > si
+16:44:06 225:004 > sif
+16:44:06 225:005 > sifo
+16:44:06 225:006 > sifon
+16:44:06 225:007 > sifont
+16:44:06 225:008 > sifonts
+16:44:06 225:009 > sifontsi
+16:44:07 225:004 > font-size: ;
+16:44:09 225:015 > C
+16:44:10 225:016 > Cl
+16:44:10 225:017 > Cla
+16:44:10 225:018 > Clap
+16:44:11 225:018 > Clap,
+16:44:11 225:019 > Clap,p
+16:44:12 225:018 > Clap,pm
+16:44:12 225:019 > Clap,pmp
+16:44:13 225:020 > ()
+16:44:19 225:021 > 0
+16:44:19 225:022 > 0.
+16:44:19 225:023 > 0.3
+16:44:20 225:024 > 0.3r
+16:44:20 225:025 > 0.3re
+16:44:21 225:022 > 1.3rem
+16:44:24 225:021 > 0
+16:44:24 225:022 > 0.
+16:44:25 225:022 > 0.1
+16:44:25 225:021 > 0.11
+16:44:26 225:022 > 0.11.
+16:44:26 225:023 > 0.11.3
+16:44:28 225:024 > 0.11.3r
+16:44:28 225:025 > 0.11.3re
+16:44:28 225:022 > 1.3rem
+16:44:29 225:028 > ,
+16:44:31 225:021 > ,1
+16:44:34 225:027 > ,1,
+16:44:36 225:028 > ,1,5
+16:44:36 225:029 > ,1,5v
+16:44:37 225:028 > 5vw
+16:44:37 225:031 > ,
+16:44:39 225:032 > ,2
+16:44:40 225:033 > ,2r
+16:44:40 225:034 > ,2re
+16:44:40 225:035 > ,2rem
+16:44:41 225:032 > 2.3rem
+16:44:46 225:028 > 4
+16:44:50 225:033 > 40
+16:44:58 225:032 > 401
+16:44:58 225:033 > 401.
+16:44:58 225:034 > 401.5
+16:44:59 225:032 > 1.5rem
+16:45:04 225:034 > 7
+
+16:45:11 221:015 > -
+16:45:12 221:016 > --
+16:45:27 037:003 > /* CSS HEX */
+--federal-blue: #03045eff;
+--marian-blue: #023e8aff;
+--honolulu-blue: #0077b6ff;
+--blue-green: #0096c7ff;
+--pacific-cyan: #00b4d8ff;
+--vivid-sky-blue: #48cae4ff;
+--non-photo-blue: #90e0efff;
+--non-photo-blue-2: #ade8f4ff;
+--light-cyan: #caf0f8ff;
+
+16:45:38 225:015 > -
+16:45:38 225:016 > --
+16:45:40 225:015 > --blue-green
+16:45:47 225:014 > ()
+16:45:48 225:015 > -
+16:45:48 225:016 > --
+16:45:51 225:015 > --light-cyan
+16:45:55 225:016 > -
+16:46:19 225:015 > --marian-blue
+16:46:26 225:011 > w
+16:46:26 225:012 > wh
+16:46:26 225:013 > whi
+16:46:26 225:011 > white
+16:46:28 225:016 > ;
+
+16:50:31 226:004 > p
+16:50:31 226:005 > pa
+16:50:32 226:006 > pad
+16:50:32 226:007 > padd
+16:50:32 226:008 > paddi
+16:50:32 226:004 > padding: ;
+16:50:34 226:013 > 1
+16:50:34 226:014 > 10
+16:50:35 226:015 > 10p
+16:50:35 226:016 > 10px
+16:50:35 226:013 > 10px
+16:50:40 226:004 > p
+16:50:40 226:005 > pa
+16:50:40 226:006 > pad
+16:50:41 226:004 > pad: ;
+16:50:42 226:004 > p
+16:50:42 226:005 > pa
+16:50:42 226:006 > pad
+16:50:43 226:007 > padd
+16:50:43 226:004 > padding:
+16:50:44 226:013 > 1
+16:50:44 226:014 > 10
+16:50:44 226:015 > 10%
+16:50:45 226:013 > 10%
+16:51:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+16:51:39 036:000 > <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <p>Basic från 299kr</p>
+                        </div>
+                    </li>
+16:51:39 042:000 > <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <p>Basic från 299kr</p>
+                        </div>
+                    </li>
+16:51:39 048:000 > <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <p>Basic från 299kr</p>
+                        </div>
+                    </li>
+16:51:42 054:000 > <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <p>Basic från 299kr</p>
+                        </div>
+                    </li>
+16:51:42 060:000 > <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <p>Basic från 299kr</p>
+                        </div>
+                    </li>
+
+16:51:54 045:031 > P
+16:51:55 045:032 > Pr
+16:51:55 045:033 > Pre
+16:51:55 045:034 > Prem
+16:51:55 045:035 > Premo
+16:51:57 045:035 > Premoi
+16:51:57 045:036 > Premoiu
+16:51:57 045:037 > Premoium
+16:51:58 045:039 > Premoium f
+16:51:58 045:040 > Premoium fr
+16:51:58 045:041 > Premoium frå
+16:51:58 045:042 > Premoium från
+16:51:59 045:044 > Premoium från 5
+16:51:59 045:045 > Premoium från 59
+16:52:00 045:046 > Premoium från 599
+16:52:00 045:047 > Premoium från 599k
+16:52:00 045:048 > Premoium från 599kr
+
+16:52:14 051:031 > P
+16:52:15 051:032 > Pr
+16:52:15 051:033 > Pre
+16:52:15 051:034 > Prem
+16:52:16 051:035 > Premi
+16:52:16 051:036 > Premiu
+16:52:16 051:037 > Premium
+16:52:17 051:038 > Premium+
+16:52:19 051:040 > Premium+ f
+16:52:19 051:041 > Premium+ fr
+16:52:19 051:042 > Premium+ frå
+16:52:19 051:043 > Premium+ från
+16:52:21 051:045 > Premium+ från 1
+16:52:21 051:046 > Premium+ från 10
+16:52:22 051:047 > Premium+ från 109
+16:52:22 051:048 > Premium+ från 1099
+16:52:23 051:049 > Premium+ från 1099k
+16:52:23 051:050 > Premium+ från 1099kr
+16:52:48 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+16:52:48 230:029 > 3
+
+16:54:06 231:004 > t
+16:54:07 231:005 > te
+16:54:07 231:006 > tex
+16:54:07 231:007 > text
+16:54:08 231:008 > textw
+16:54:08 231:009 > textwr
+16:54:08 231:010 > textwra
+16:54:09 231:004 > text-wrap: ;
+16:54:09 231:015 > r
+16:54:09 231:015 > rw
+16:54:10 231:016 > rwr
+16:54:10 231:017 > rwra
+16:54:10 231:015 > wrap
+
+16:55:22 226:004 > m
+16:55:22 226:005 > ma
+16:55:22 226:006 > mar
+16:55:24 226:007 > marg
+16:55:24 226:008 > margi
+16:55:25 226:009 > margit
+16:55:25 226:004 > margin-top: ;
+16:55:28 226:016 > 1
+16:55:28 226:017 > 10
+16:55:28 226:018 > 10p
+16:55:29 226:019 > 10px
+16:55:29 226:016 > 10px
+16:57:17 214:004 > text-wrap: wrap;
+16:57:31 232:004 > text-wrap: wrap;
+
+16:57:49 232:004 > d
+16:57:49 232:005 > di
+16:57:49 232:006 > dis
+16:57:49 232:007 > disp
+16:57:50 232:004 > display: ;
+16:57:50 232:013 > block
+
+16:58:31 233:015 > b
+16:58:31 233:016 > br
+16:58:31 233:017 > bre
+16:58:31 233:018 > brea
+16:58:35 233:004 > breaw
+16:58:36 233:005 > breawo
+16:58:36 233:006 > breawor
+16:58:37 233:007 > breaword
+16:58:37 233:004 > word-wrap: ;
+16:58:38 233:015 > break-word
+16:58:54 233:003 > f
+16:58:55 233:004 > fl
+16:58:55 233:005 > fle
+16:58:55 233:006 > flex
+16:58:55 233:003 > flex: ;
+16:58:57 233:003 > d
+16:58:57 233:004 > di
+16:58:57 233:005 > dis
+16:58:58 233:003 > display:
+16:58:58 233:012 > f
+16:58:58 233:012 > flex
+16:59:14 226:003 > display: flex;
+
+16:59:16 227:004 > f
+16:59:16 227:005 > fl
+16:59:16 227:006 > fle
+16:59:17 227:007 > flex
+16:59:17 227:008 > flexd
+16:59:17 227:004 > flex-direction: ;
+16:59:18 227:020 > column
+
+17:00:04 210:004 > f
+17:00:04 210:005 > fl
+17:00:05 210:006 > fle
+17:00:05 210:007 > flex
+17:00:05 210:004 > flex: ;
+17:00:08 210:004 > d
+17:00:08 210:005 > di
+17:00:08 210:006 > dis
+17:00:08 210:004 > display:
+17:00:08 210:013 > f
+17:00:09 210:014 > fl
+17:00:09 210:015 > fle
+17:00:09 210:013 > flex
+
+17:00:10 211:004 > f
+17:00:10 211:005 > fl
+17:00:11 211:006 > fle
+17:00:11 211:007 > flex
+17:00:11 211:004 > flex: ;
+17:00:13 211:008 > -
+17:00:13 211:009 > -d
+17:00:13 211:010 > -de
+17:00:13 211:004 > flex-direction:
+17:00:14 211:020 > column
+17:00:28 211:020 > r
+17:00:28 211:020 > row
+17:00:40 211:020 > c
+17:00:41 211:020 > column
+17:00:54 200:002 > flex-wrap: wrap;
+17:01:14 211:004 > w
+17:01:14 211:005 > wi
+17:01:14 211:006 > wid
+17:01:15 211:004 > width: ;
+17:01:16 211:011 > 4
+17:01:16 211:012 > 40
+17:01:17 211:013 > 40p
+17:01:17 211:014 > 40px
+17:01:17 211:011 > 40px
+17:01:37 211:011 > 5
+17:01:37 211:012 > 59
+17:01:37 211:013 > 599
+17:01:38 211:012 > 5990
+17:01:38 211:013 > 59900
+17:01:39 211:014 > 59900p
+17:01:39 211:015 > 59900px
+17:01:39 211:011 > 500px
+
+17:02:02 217:000 > .
+17:02:03 217:001 > .l
+17:02:03 217:002 > .le
+17:02:03 217:000 > .leveransplan
+17:02:06 217:000 > .
+17:02:06 217:001 > .k
+17:02:06 217:000 > .kontainer
+17:02:07 217:011 >  m
+17:02:08 217:012 >  ma
+17:02:08 217:011 > main
+17:02:08 217:016 >  l
+17:02:08 217:017 >  le
+17:02:09 217:018 >  lev
+17:02:09 217:019 >  leve
+17:02:09 217:020 >  lever
+17:02:09 217:016 > .leveransplan
+17:02:10 217:029 > {}
+17:02:16 218:000 > width: 500px;
+
+17:02:20 218:011 > 3
+17:02:22 218:012 > 30
+17:02:22 218:013 > 300
+17:02:22 218:014 > 300p
+17:02:22 218:015 > 300px
+17:02:23 218:011 > 300px
+17:06:36 218:011 > 2
+17:06:40 218:011 > 2C
+17:06:40 218:012 > 2Cl
+17:06:40 218:013 > 2Cla
+17:06:40 218:014 > 2Clap
+17:06:41 218:014 > 2Clapm
+17:06:41 218:015 > 2Clapmp
+17:06:42 218:016 > ()
+17:06:46 218:017 > 1
+17:06:46 218:018 > 10
+17:06:46 218:019 > 100
+17:06:47 218:020 > 100p
+17:06:47 218:021 > 100px
+17:06:48 218:017 > 100px
+17:06:50 218:022 >  ,
+17:06:51 218:024 >  , 5
+17:06:51 218:025 >  , 5v
+17:06:52 218:024 > 5vw
+17:06:52 218:027 > ,
+17:06:55 218:028 > ,5
+17:06:55 218:029 > ,50
+17:06:55 218:030 > ,500
+17:06:56 218:031 > ,500p
+17:06:56 218:032 > ,500px
+17:07:17 218:024 > ,500px1
+17:07:17 218:025 > ,500px19
+17:07:41 218:017 > ,500px190
+17:07:52 218:020 > ,500px1902
+17:07:52 218:021 > ,500px19020
+17:07:52 218:020 > 200px
+17:07:54 218:020 > 20vw
+17:09:52 222:017 > 50
+17:09:53 218:020 > 19
+17:09:53 218:017 > 100px
+17:09:54 218:024 > 5
+17:09:54 218:024 > 5v
+17:09:55 218:017 > 100px
+17:09:58 218:016 > ()
+17:09:58 218:017 > 100px
+17:09:58 218:017 > 100px
+17:10:03 218:017 >  5
+17:10:03 218:018 >  50
+17:10:03 218:019 >  50p
+17:10:04 218:020 >  50px
+17:10:04 218:021 >  50px,
+17:10:08 218:022 >  50px,2
+17:10:08 218:023 >  50px,20
+17:10:08 218:024 >  50px,20c
+17:10:08 218:025 >  50px,20cw
+17:10:09 218:024 >  50px,20cwv
+17:10:09 218:025 >  50px,20cwvw
+17:10:09 218:022 > 20vw
+17:10:10 218:026 > ,
+17:10:10 218:027 > ,5
+17:10:10 218:028 > ,50
+17:10:10 218:029 > ,500
+17:10:11 218:030 > ,500p
+17:10:11 218:031 > ,500px
+17:10:19 218:024 > ,500px0
+17:10:48 218:003 > width: Clamp(50px,200vw,500px);
+17:10:53 218:028 > 4
+17:10:53 218:029 > 40
+17:10:53 218:030 > 400
+17:10:56 218:028 > 4003
+17:10:56 218:029 > 40030
+17:10:56 218:030 > 400300
+17:10:59 218:028 > 4003002
+17:10:59 218:029 > 40030020
+17:10:59 218:030 > 400300200
+17:11:34 218:022 > 4003002002
+17:11:34 218:023 > 40030020020
+17:11:58 339:004 > .kontainer main .leveransplan {
+
+17:11:59 340:000 > }
+17:12:02 340:004 > }c
+17:12:04 340:008 > }cj
+17:12:04 340:009 > }cju
+17:12:04 340:010 > }cjus
+17:12:05 340:008 > justify-content: ;
+17:12:05 340:025 > c
+17:12:06 340:026 > ce
+17:12:06 340:025 > center
+
+17:13:41 218:017 > 1
+17:13:41 218:018 > 10
+17:13:41 218:019 > 100
+17:13:46 218:017 > 1002
+17:13:46 218:018 > 10020
+17:13:46 218:019 > 100200
+17:13:49 218:017 > 1002001
+17:13:50 218:018 > 10020010
+17:13:50 218:019 > 100200100
+17:14:07 218:017 > 1002001001
+17:14:08 218:018 > 10020010016
+17:14:08 218:019 > 100200100160
+17:14:34 218:023 > 1002001001603
+17:16:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:16:36 048:000 > <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <p>Premium+ från 1099kr</p>
+                        </div>
+                    </li>
+17:17:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+17:17:16 230:010 > -
+17:17:16 230:011 > --
+17:17:22 230:010 > var(--dartmouth-green)
+17:17:26 230:014 > -
+17:17:26 230:015 > --
+17:17:27 230:016 > --d
+17:17:27 230:017 > --da
+17:17:27 230:018 > --dar
+17:17:28 230:014 > --dark-green
+17:17:29 230:026 > ()
+17:17:29 230:026 > )
+
+17:17:35 231:004 > t
+17:17:35 231:005 > te
+17:17:35 231:006 > tex
+17:17:36 231:007 > text
+17:17:39 231:008 > text-
+17:17:39 231:009 > text-s
+17:17:40 231:010 > text-st
+17:17:40 231:011 > text-str
+17:17:41 231:010 > text-strs
+17:17:42 231:010 > text-strsh
+17:17:42 231:011 > text-strsha
+17:17:42 231:004 > text-shadow: ;
+17:17:43 231:017 > b
+17:17:45 231:017 > b3
+17:17:45 231:018 > b3p
+17:17:45 231:019 > b3px
+17:17:47 231:021 > b3px w
+17:17:47 231:022 > b3px wj
+17:17:48 231:022 > b3px wjh
+17:17:48 231:023 > b3px wjhi
+17:17:48 231:024 > b3px wjhit
+17:17:48 231:021 > white
+17:17:52 231:021 > 0
+17:17:54 231:022 > 0 p
+17:17:54 231:023 > 0 px
+17:17:55 231:025 > 0 px s
+17:17:55 231:025 > 0 px sw
+17:17:55 231:026 > 0 px swh
+17:17:55 231:027 > 0 px swhi
+17:17:56 231:028 > 0 px swhit
+17:17:56 231:029 > 0 px swhite
+17:17:56 231:025 > white
+17:18:01 231:021 > 3
+17:18:10 231:025 > 3 5
+17:18:10 231:026 > 3 5å
+17:18:10 231:027 > 3 5åx
+17:18:11 231:027 > 3 5åxp
+17:18:12 231:026 > 3 5åxpp
+17:18:12 231:027 > 3 5åxppx
+17:18:12 231:025 > 5px
+17:18:16 231:025 > 2
+17:18:17 231:026 > 2å
+17:18:17 231:027 > 2åx
+17:18:17 231:026 > 2åxx
+17:18:18 231:026 > 2åxxp
+17:18:18 231:027 > 2åxxpx
+17:18:19 231:025 > 2px
+17:18:32 231:017 > 0
+17:18:37 231:025 > 01
+17:18:43 231:029 > 01-
+17:18:44 231:028 > 01--
+17:18:44 231:029 > 01---
+17:18:45 231:029 > 01--- -
+17:18:45 231:030 > 01--- --
+17:18:47 231:029 > --blue-green
+17:18:50 231:029 > s
+17:18:52 231:029 > sv
+17:18:52 231:030 > sva
+17:18:52 231:031 > svar
+17:18:52 231:029 > var()
+17:18:55 231:033 > --dark-green
+17:18:59 231:033 > -
+17:18:59 231:034 > --
+17:19:03 231:033 > --mint
+17:19:13 231:017 > 3
+17:19:19 231:021 > 34
+17:19:20 231:017 > 344
+17:19:26 231:017 > 3445
+17:19:27 231:021 > 34455
+17:19:30 231:021 > 344554
+17:19:31 231:017 > 3445544
+
+17:20:59 226:003 > w
+17:21:00 226:004 > wi
+17:21:00 226:005 > wid
+17:21:00 226:003 > width: ;
+17:21:02 226:010 > 3
+17:21:02 226:011 > 30
+17:21:02 226:012 > 300
+17:21:02 226:013 > 300p
+17:21:02 226:014 > 300px
+17:21:03 226:010 > 300px
+17:21:32 226:010 > 1
+17:21:32 226:011 > 10
+17:21:32 226:012 > 100
+17:21:32 226:013 > 100%
+17:21:35 226:010 > 100%
+
+17:21:58 211:004 > j
+17:21:58 211:005 > ju
+17:21:59 211:006 > jus
+17:21:59 211:004 > justify-content: ;
+17:22:00 211:021 > c
+17:22:00 211:022 > ce
+17:22:00 211:021 > center
+17:22:28 213:000 > padding: 20px var(--side-padding) 50px var(--side-padding);
+17:23:52 231:026 > --mint
+17:23:53 231:024 > --mint
+17:23:54 231:032 > --mint
+17:23:59 232:033 > --dark-green
+
+17:24:10 232:025 > 3
+17:24:15 232:025 > 30
+17:24:25 232:017 > 306
+17:24:26 232:021 > 3066
+17:24:31 232:021 > 30665
+17:24:32 232:017 > 306655
+17:24:40 232:021 > 3066552
+17:24:45 232:021 > 30665525
+17:24:46 232:017 > 306655253
+17:24:55 232:017 > 3066552534
+17:25:03 232:017 > 30665525345
+17:25:15 232:017 > 306655253450
+17:25:16 232:018 > 306655253450p
+17:25:16 232:019 > 306655253450px
+17:25:19 232:017 > 0px
+17:25:22 232:021 >  0
+17:25:22 232:022 >  0p
+17:25:23 232:021 > 0pc
+17:25:25 232:023 > x
+17:25:26 232:021 > 0px
+17:25:35 232:025 > 0
+17:25:35 232:026 > 0p
+17:25:36 232:027 > 0px
+17:25:36 232:025 > 0px
+17:25:41 232:025 >  1
+17:25:45 232:025 >  12
+17:25:49 232:017 >  121
+17:25:55 232:025 >  1210
+17:26:03 232:025 >  1210v
+17:26:03 232:026 >  1210va
+17:26:03 232:027 >  1210var
+17:26:03 232:025 > var
+17:26:08 232:018 > 0
+17:26:09 232:017 > 00
+17:26:15 232:025 > 00 1
+17:26:16 232:026 > 00 1p
+17:26:17 232:027 > 00 1px
+17:26:21 232:025 > 00 1px4
+17:26:25 232:025 > 00 1px47
+17:26:29 232:025 > 00 1px471
+17:26:30 232:026 > 00 1px4710
+17:26:39 232:021 > 00 1px47102
+17:26:44 232:017 > 00 1px471025
+17:26:57 232:025 > 00 1px4710256
+17:27:01 232:025 > 00 1px47102565
+17:27:03 232:025 > 00 1px471025654
+17:27:09 232:021 > 00 1px4710256545
+17:27:14 232:021 > 00 1px47102565453
+17:27:19 232:021 > 00 1px471025654534
+
+17:27:28 231:014 > -
+17:27:28 231:015 > --
+17:27:29 231:014 > --blue-green
+17:27:33 231:014 > --
+17:27:35 231:014 > -
+17:27:36 231:015 > --
+17:27:40 231:014 > --sea-green
+17:27:45 231:014 > -
+17:27:45 231:015 > --
+17:27:51 231:014 > --nyanza
+17:28:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+17:29:17 051:031 > <
+17:29:18 051:032 > <s
+17:29:19 051:033 > <sp
+17:29:19 051:034 > <spa
+17:29:19 051:032 > span
+17:29:22 051:036 > >
+17:29:22 051:037 > </span>
+17:29:24 051:037 > p
+17:29:24 051:038 > pR
+17:29:25 051:037 > pRP
+17:29:25 051:038 > pRPr
+17:29:26 051:039 > pRPre
+17:29:26 051:040 > pRPrem
+17:29:27 051:041 > pRPremi
+17:29:27 051:042 > pRPremiu
+17:29:27 051:043 > pRPremius
+17:29:28 051:043 > pRPremiusm
+17:29:31 051:044 > pRPremiusm+
+17:29:40 051:037 > pRPremiusm+ c
+17:29:40 051:038 > pRPremiusm+ cl
+17:29:40 051:039 > pRPremiusm+ cla
+17:29:40 051:040 > pRPremiusm+ claw
+17:29:41 051:040 > pRPremiusm+ claws
+17:29:41 051:041 > pRPremiusm+ clawss
+17:29:41 051:037 > class=""
+17:29:42 051:044 > P
+17:29:43 051:044 > Pp
+17:29:43 051:045 > Ppr
+17:29:44 051:046 > Ppre
+17:29:45 051:047 > Pprem
+17:29:45 051:048 > Ppremi
+17:29:45 051:049 > Ppremiu
+17:29:46 051:050 > Ppremium
+17:29:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:29:54 239:000 > .kontainer main .våraleveransplaner-kontainer .leveransplan p {
+    color:var(--nyanza);
+    text-shadow: 5px 4px 4px var(--dark-green);
+    margin-top: 10px;
+    font-family: "Alfa Slab One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: Clamp(1.3rem, 3vw, 1.7rem);
+}
+
+17:29:59 239:060 > -
+17:30:00 239:061 > -r
+17:30:01 239:061 > -rå
+17:30:01 239:062 > -råp
+17:30:01 239:062 > .premium
+
+17:30:20 241:014 > g
+17:30:20 241:015 > go
+17:30:21 241:016 > gol
+17:30:21 241:017 > gold
+17:30:26 241:010 > goldg
+17:30:26 241:011 > goldgo
+17:30:26 241:012 > goldgol
+17:30:26 241:013 > goldgold
+17:30:26 241:010 > gold
+17:30:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+17:30:40 045:031 > <span class="premium">Premium+</span>
+17:31:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+17:31:53 241:010 > r
+17:31:53 241:011 > rb
+17:31:54 241:009 > rbr
+17:31:55 241:009 > rbr:
+17:31:55 241:010 > rbr:r
+17:31:55 241:011 > rbr:rg
+17:31:56 241:010 > rgb(red, green, blue)
+17:31:58 241:014 > 2
+17:31:58 241:015 > 25
+17:31:58 241:016 > 255
+17:32:01 241:019 > 2552
+17:32:01 241:020 > 25521
+17:32:01 241:021 > 255215
+17:32:03 241:023 > 255215+
+17:32:04 241:023 > 255215+0
+17:32:05 241:025 > 255215+0;
+17:32:15 241:023 > 255215+0;4
+17:32:15 241:024 > 255215+0;47
+17:32:22 241:023 > 255215+0;471
+17:32:25 241:024 > 255215+0;4710
+17:32:25 241:025 > 255215+0;47100
+17:32:33 241:010 > rgb(248, 193, 26)
+17:32:35 241:010 > rgb(255, 191, 0)
+17:32:37 241:010 > rgb(243, 190, 29)
+17:32:39 241:010 > rgb(247, 207, 87)
+17:32:41 241:010 > rgb(255, 204, 51)
+17:32:43 241:010 > rgb(219, 169, 20)
+17:32:45 241:010 > rgb(255, 198, 27)
+
+17:33:15 247:029 > 5
+17:33:17 247:036 > 58
+17:33:23 247:023 > 584
+17:33:28 247:024 > 5845
+17:33:32 247:023 > 58455
+17:33:34 247:036 > 584556
+17:33:35 247:036 > 5845567
+17:33:36 247:036 > 58455678
+17:33:38 247:036 > 584556789
+17:33:46 247:034 > 5845567893
+17:33:49 247:034 > 1.9
+
+17:33:58 245:017 > 7
+17:33:59 245:018 > 70
+17:33:59 245:019 > 700
+17:34:05 245:017 > 7006
+17:34:05 245:018 > 70060
+17:34:06 245:019 > 700600
+17:34:08 245:017 > 7006004
+17:34:09 245:018 > 70060040
+17:34:09 245:019 > 700600400
+17:34:09 245:018 > 7006004005
+17:34:10 245:017 > 70060040055
+17:34:10 245:018 > 700600400550
+17:34:10 245:019 > 7006004005500
+17:34:13 245:017 > 70060040055004
+17:34:13 245:018 > 700600400550040
+17:34:13 245:019 > 7006004005500400
+17:34:25 244:017 > ""
+
+17:34:26 244:015 > _
+17:34:27 244:015 > _:
+17:34:28 244:016 > _:s
+17:34:29 244:016 > _:ss
+17:34:30 244:016 > sans-serif
+17:34:33 244:026 > ;
+17:34:39 244:016 > ;s
+17:34:39 244:017 > ;sy
+17:34:40 244:018 > ;sys
+17:34:40 244:016 > system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+17:34:55 245:017 > 9
+17:34:55 245:018 > 90
+17:34:55 245:019 > 900
+
+17:35:05 242:017 > 0
+17:35:07 242:021 > 00
+17:35:08 242:025 > 002
+17:35:08 242:026 > 0020
+17:35:15 242:025 > 00201
+17:35:15 242:026 > 002010
+17:35:24 242:017 > 0020103
+17:35:25 242:021 > 00201033
+
+17:36:06 347:008 > j
+17:36:07 347:009 > ju
+17:36:07 347:010 > jus
+17:36:07 347:008 > justify-content: ;
+17:36:07 347:025 > c
+17:36:07 347:026 > ce
+17:36:08 347:025 > center
+
+17:37:28 227:010 > 8
+17:37:28 227:011 > 80
+
+19:00:46 000:000 > ط
+19:00:46 000:001 > طى
+19:00:46 000:002 > طىي
+19:00:46 000:003 > طىيق
+19:00:46 000:004 > طىيقش
+19:00:47 000:005 > طىيقشي
+19:00:58 000:000 > طىيقشيä
+19:00:58 000:001 > طىيقشيän
+19:00:58 000:002 > طىيقشيänd
+19:00:58 000:003 > طىيقشيändr
+19:00:59 000:004 > طىيقشيändra
+19:00:59 000:005 > طىيقشيändrad
+19:00:59 000:006 > طىيقشيändrade
+19:00:59 000:008 > طىيقشيändrade p
+19:01:00 000:009 > طىيقشيändrade på
+19:01:00 000:011 > طىيقشيändrade på s
+19:01:00 000:012 > طىيقشيändrade på st
+19:01:00 000:013 > طىيقشيändrade på sti
+19:01:01 000:014 > طىيقشيändrade på stil
+19:01:01 000:015 > طىيقشيändrade på stile
+19:01:01 000:016 > طىيقشيändrade på stilen
+19:01:03 000:018 > طىيقشيändrade på stilen f
+19:01:03 000:019 > طىيقشيändrade på stilen fö
+19:01:03 000:020 > طىيقشيändrade på stilen för
+19:01:03 000:022 > طىيقشيändrade på stilen för l
+19:01:04 000:023 > طىيقشيändrade på stilen för le
+19:01:04 000:024 > طىيقشيändrade på stilen för lev
+19:01:04 000:025 > طىيقشيändrade på stilen för leve
+19:01:04 000:026 > طىيقشيändrade på stilen för lever
+19:01:04 000:027 > طىيقشيändrade på stilen för levera
+19:01:05 000:028 > طىيقشيändrade på stilen för leveran
+19:01:05 000:029 > طىيقشيändrade på stilen för leverans
+19:01:05 000:030 > طىيقشيändrade på stilen för leveransp
+19:01:05 000:031 > طىيقشيändrade på stilen för leveranspl
+19:01:05 000:032 > طىيقشيändrade på stilen för leveranspla
+19:01:06 000:033 > طىيقشيändrade på stilen för leveransplan
+19:01:06 000:034 > طىيقشيändrade på stilen för leveransplane
+19:01:06 000:035 > طىيقشيändrade på stilen för leveransplaner
+19:01:08 000:036 > طىيقشيändrade på stilen för leveransplaner.
+19:01:12 037:000 > /* CSS HEX */
+    --federal-blue: #03045eff;
+    --marian-blue: #023e8aff;
+    --honolulu-blue: #0077b6ff;
+    --blue-green: #0096c7ff;
+    --pacific-cyan: #00b4d8ff;
+    --vivid-sky-blue: #48cae4ff;
+    --non-photo-blue: #90e0efff;
+    --non-photo-blue-2: #ade8f4ff;
+    --light-cyan: #caf0f8ff;
+}
+
+body {
+    background-color: var(--celadon-2);
+}
+
+.kontainer {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.kontainer header {
+    font-size: Clamp(1.5rem, 5vw, 2.5rem);
+}
+
+.kontainer header a {
+    text-decoration: none;
+    color: var(--dark-green);
+}
+
+.kontainer nav {
+    font-size: Clamp(0.8rem, 1.4vw, 1rem);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky;
+    background-color: var(--celadon-2);
+    top: 0;
+    z-index: 1;
+    align-items: center;
+    padding: 15px;
+    border-bottom: solid 3px var(--dark-green);
+}
+
+
+.kontainer nav .ikon img {
+    width: 59px;
+}
+
+.kontainer .alternativ {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.kontainer nav .alternativ a {
+    transition: all 100ms;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 15px;
+    color: var(--celadon-2);
+    background-color: var(--dark-green);
+    border-radius: 5px;
+    border: 4px solid transparent;
+}
+
+.kontainer nav .alternativ a:hover {
+    border-color: white;
+}
+
+.kontainer main {
+    margin: 0 0 50px 0;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+    font-size: Clamp(1rem, 3vw, 2.5rem);
+}
+
+
+.kontainer main .kontakta-oss-formulär {
+    font-size: Clamp(1rem, 1vw, 1.3rem);
+    margin-top: 7%;
+    width: 50%;
+    max-width: 400px;
+    display: grid;
+    border: solid 5px var(--dark-green);
+    padding: 20px;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto 0 auto;
+    grid-template-columns: auto 1fr;
+    gap: 25px;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+    padding: Clamp(5px, 2%, 15px);
+    margin: 20px 20px;
+    display: inline-block;
+    border: solid 3px;
+    border-radius: 4px;
+    background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+    grid-column: 1;
+    width: 100%;
+
+}
+
+.kontainer main .kontakta-oss-formulär input {
+    height: Clamp(35px, 4vh, 150px);
+
+}
+
+
+.kontainer main .kontakta-oss-formulär textarea {
+
+    resize: none;
+    height: Clamp(100px, 15vw, 200px);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+    justify-self: center;
+    grid-column: 2;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: Clamp(125px, 15vw, 200px);
+    border: solid 3px var(--dark-green);
+    background-color: var(--nyanza);
+    border-radius: 4px;
+    padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+    outline: 5px solid var(--nyanza);
+    background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+    outline: 5px solid var(--nyanza);
+}
+
+.kontainer main .kontakta-oss-formulär #submit {
+    font-weight: 900;
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+    cursor: pointer;
+}
+
+.kontainer main .kontakta-oss-kontainer #sändningsmeddelande {
+    grid-column: 2;
+    margin: 20px 0;
+    display: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    list-style: none;
+    width: 50%;
+    margin: 100px auto;
+
+}
+
+.kontainer main .våraleveransplaner-kontainer li {
+    --side-padding: Clamp(0px, 1vw, 25px);
+    justify-content: center;
+    border: solid 5px var(--dark-green);
+    padding: 20px var(--side-padding) 50px var(--side-padding);
+    background-color: var(--sea-green);
+
+}
+
+.kontainer main .leveransplan {
+    width: Clamp(160px,30vw,200px);
+}
+
+.kontainer main .våraleveransplaner-kontainer .delivery-video {
+    width: Clamp(50px, 90vw, 1200px);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan img {
+   width: 80%;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan p {
+    color:var(--nyanza);
+    text-shadow: 5px 4px 4px var(--dark-green);
+    margin-top: 10px;
+    font-family: "Alfa Slab One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: Clamp(1.3rem, 3vw, 1.7rem);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan .premium {
+
+    color:rgb(255, 198, 27);
+    text-shadow: 3px 3px var(--dark-green);
+    margin-top: 10px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    font-size: Clamp(1.5rem, 5vw, 1.9rem);
+}
+
+
+
+.kontainer main .våraleveransplaner-kontainer h1 {
+    font-size: Clamp(0.6rem, 4vw, 2.3rem);
+    font-weight: 900;
+    padding: Clamp(0px, 1vw, 20px);
+}
+
+.kontainer main .innehåll {
+    font-size: Clamp(1rem, 2.3vw, 1.5rem);
+    position: relative;
+}
+
+.kontainer main .alternativ-kontainer {
+    color: var(--dark-green);
+    border-radius: 3px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 3%;
+    text-align: center;
+    border: solid 5px var(--sea-green);
+    background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+    transition: all 100ms;
+    text-decoration: none;
+    display: block;
+    color: var(--dark-green);
+    border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+    padding: 2% 4%;
+    width: fit-content;
+    /* att elementen bara tar platsen de behöver.*/
+    margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+    border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+    display: block;
+    margin: 50px auto;
+    width: 70%;
+    box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: var(--celadon-2);
+    border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+    color: white
+}
+
+.kontainer main .innehåll .om-oss {
+    margin: 0 auto 0 auto;
+    width: 50%;
+}
+
+@media(max-width: 700px) {
+
+    .kontainer .alternativ,
+    .kontainer nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .kontainer main .alternativ-kontainer {
+        position: relative;
+    }
+
+    .kontainer main .innehåll {
+        display: grid;
+    }
+
+    .kontainer nav .alternativ a {
+        padding: 5px;
+    }
+
+    .kontainer nav .ikon img {
+        width: 35px;
+    }
+
+    .kontainer main .kontakta-oss-formulär {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+19:01:13 010:000 > <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="kontainer">
+        <header><a href="hem.html">Box Delivery &TRADE;</a></header>
+        <nav>
+            <div class="ikon">
+                <img src="./bilder/679821.png" alt="ikon">
+            </div>
+            <div class="alternativ">
+                <a href="hem.html">Hem</a>
+                <a class="aktiv-sida" href="leveransplaner.html">Leveransplaner</a>
+                <a href="kontakta-oss.html">Kontakta oss</a>
+                <a href="om-oss.html">Om oss</a>
+            </div>
+
+        </nav>
+        <main>
+            <div class="våraleveransplaner-kontainer">
+                <h1>Våra Leveransplaner</h1>
+                <video class="delivery-video" src="videor/6169116-uhd_3840_2160_25fps.mp4" autoplay="true"
+                    loop="true"></video>
+                <ul>
+                    <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <p>Basic från 299kr</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <p><span class="premium">Premium</span> från 599kr</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="leveransplan">
+                            <img src="./bilder/package.png" alt="Låda">
+                            <p><span class="premium">Premium+</span> från 1099kr</p>
+                        </div>
+                    </li>

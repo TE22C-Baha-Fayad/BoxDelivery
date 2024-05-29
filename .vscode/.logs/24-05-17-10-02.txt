@@ -1,0 +1,43 @@
+24-05-17 10:02 Session started
+----------------------------------------
+10:02:44 Document switched to: c:\Users\baha.fayad\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+10:05:02 Document switched to: c:\Users\baha.fayad\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+10:05:39 Document switched to: c:\Users\baha.fayad\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22C-Baha-Fayad\Webbplats\ikoner\darkmode-icon.svg
+----------------------------------------
+10:11:39 Document switched to: c:\Users\baha.fayad\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+10:53:15 Document switched to: c:\Users\baha.fayad\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+10:53:19 Document switched to: c:\Users\baha.fayad\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+10:53:24 Document switched to: c:\Users\baha.fayad\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+10:53:31 Document switched to: c:\Users\baha.fayad\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+13:53:24 Document switched to: c:\Users\baha.fayad\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+13:53:58 Document switched to: c:\Users\baha.fayad\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+13:54:08 050:000 > font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+13:54:11 000:000 > t
+13:54:12 000:001 > to
+13:54:12 000:002 > tog
+13:54:12 000:004 > tog b
+13:54:12 000:005 > tog bo
+13:54:12 000:006 > tog bor
+13:54:13 000:007 > tog bort
+13:54:13 000:009 > tog bort e
+13:54:13 000:010 > tog bort en
+13:54:14 000:012 > tog bort en ö
+13:54:15 000:012 > tog bort en öo
+13:54:15 000:013 > tog bort en öon
+13:54:15 000:014 > tog bort en öonö
+13:54:16 000:015 > tog bort en öonöd
+13:54:16 000:016 > tog bort en öonödi
+13:54:16 000:017 > tog bort en öonödig
+13:54:16 000:019 > tog bort en öonödig f
+13:54:16 000:020 > tog bort en öonödig fi
+13:54:16 000:021 > tog bort en öonödig fil

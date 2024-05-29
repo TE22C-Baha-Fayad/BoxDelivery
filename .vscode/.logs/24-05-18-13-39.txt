@@ -1,0 +1,2443 @@
+24-05-18 13:39 Session started
+----------------------------------------
+13:44:48 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+13:44:49 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+13:44:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+13:45:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+13:45:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+14:26:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+14:26:43 057:039 > This work is marked with CC0 1.0
+
+14:29:50 057:040 > A
+14:29:54 057:040 > AA
+14:29:54 057:041 > AAl
+14:29:55 057:042 > AAll
+14:29:56 057:044 > AAll R
+14:30:01 057:040 > All
+14:30:01 057:043 > R
+14:30:02 057:040 > RA
+14:30:58 057:029 > Rights Reserved
+14:30:58 057:027 > All
+14:30:58 057:026 > .
+14:30:58 057:014 > Copyright &copy; 2024
+14:30:58 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+14:30:59 073:029 > Rights Reserved
+14:30:59 073:027 > All
+
+14:30:59 073:026 > .
+14:30:59 073:014 > Copyright &copy; 2024
+14:30:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+14:31:00 102:029 > Rights Reserved
+14:31:00 102:027 > All
+
+14:31:00 102:026 > .
+14:31:00 102:014 > Copyright &copy; 2024
+14:31:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+14:31:01 129:029 > Rights Reserved
+14:31:01 129:027 > All
+
+14:31:01 129:026 > .
+14:31:01 129:014 > Copyright &copy; 2024
+
+14:32:20 130:008 > p
+14:32:20 130:008 > <p></p>
+14:32:21 130:008 > p
+14:32:51 057:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:51 073:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+14:32:51 073:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:51 073:014 > Copyright &copy; 2024 BoxDelivery. All Rights Reserved
+14:32:53 073:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:53 102:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:53 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+14:32:53 102:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:53 102:014 > Copyright &copy; 2024 BoxDelivery. All Rights Reserved
+14:32:54 102:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:54 129:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:54 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+14:32:54 129:014 > Copyright &copy; 2024 BoxDelivery. All Rights Reserved
+14:32:54 129:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:55 057:017 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:55 102:017 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+14:32:55 102:017 > Copyright &copy; 2024 BoxDelivery. All Rights Reserved
+14:32:55 102:017 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:56 102:017 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:56 129:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:32:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+14:32:56 129:014 > Copyright &copy; 2024 BoxDelivery. All Rights Reserved
+14:32:56 129:014 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:33:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+14:33:02 102:020 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+14:33:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+14:33:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+14:33:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+14:33:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+14:33:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+14:33:36 129:014 > <
+14:33:37 129:015 > <p
+14:33:37 129:016 > <p>
+14:33:37 129:017 > </p>
+14:33:42 129:017 > Copyright &copy; 2024 BoxDelivery. All Rights Reserved
+
+14:33:54 131:008 > p
+14:33:54 131:008 > <p></p>
+14:33:55 131:011 > n
+14:33:55 131:012 > ni
+14:33:56 131:013 > nig
+14:33:56 131:014 > nigg
+14:33:56 131:015 > nigga
+15:10:51 131:008 > nigga<
+15:10:52 131:009 > nigga<p
+15:10:53 131:009 > nigga<pp
+15:10:53 131:010 > nigga<pp>
+15:10:54 131:011 > </p>
+15:10:56 131:011 > I
+15:10:56 131:012 > Ix
+15:10:57 131:012 > Ixc
+15:10:57 131:013 > Ixco
+15:10:57 131:014 > Ixcon
+15:10:57 131:015 > Ixcons
+15:11:00 131:017 > Ixcons -
+15:11:00 131:018 > Ixcons ->
+15:11:02 131:017 > Ixcons -> f
+15:11:11 131:012 > Ixcons -> fV
+15:11:12 131:011 > Ixcons -> fVB
+15:11:12 131:012 > Ixcons -> fVBo
+15:11:12 131:013 > Ixcons -> fVBox
+15:11:13 131:015 > Ixcons -> fVBox I
+15:11:13 131:016 > Ixcons -> fVBox IX
+15:11:13 131:017 > Ixcons -> fVBox IXo
+15:11:14 131:016 > Ixcons -> fVBox IXoc
+15:11:14 131:017 > Ixcons -> fVBox IXoco
+15:11:14 131:018 > Ixcons -> fVBox IXocon
+15:11:15 131:020 > Ixcons -> fVBox IXocon -
+15:11:18 131:022 > Ixcons -> fVBox IXocon - f
+15:11:18 131:023 > Ixcons -> fVBox IXocon - fd
+15:11:19 131:022 > Ixcons -> fVBox IXocon - fdf
+15:11:19 131:023 > Ixcons -> fVBox IXocon - fdfl
+15:11:19 131:024 > Ixcons -> fVBox IXocon - fdfla
+15:11:19 131:025 > Ixcons -> fVBox IXocon - fdflac
+15:11:20 131:026 > Ixcons -> fVBox IXocon - fdflact
+15:11:21 131:025 > Ixcons -> fVBox IXocon - fdflactt
+15:11:24 131:022 > Ixcons -> fVBox IXocon - fdflactta
+15:11:24 131:022 > <a href=""></a>
+15:11:26 131:031 > f
+15:11:26 131:032 > fl
+15:11:26 131:033 > fla
+15:11:26 131:034 > flat
+15:11:27 131:035 > flati
+15:11:27 131:036 > flatic
+15:11:27 131:037 > flatico
+15:11:27 131:038 > flaticon
+15:11:28 131:039 > flaticon.
+15:11:28 131:040 > flaticon.c
+15:11:29 131:041 > flaticon.co
+15:11:29 131:042 > flaticon.com
+15:11:31 131:045 > flaticon.comf
+15:11:31 131:046 > flaticon.comfl
+15:11:31 131:047 > flaticon.comfla
+15:11:32 131:048 > flaticon.comflat
+15:11:33 131:045 > flaticon
+15:12:06 131:031 > https://www.flaticon.com/
+
+15:12:37 132:008 > <
+15:12:38 132:000 > </footer>
+15:12:41 132:008 > <
+15:12:43 132:009 > <n
+15:12:43 132:010 > <na
+15:12:43 132:011 > <nar
+15:12:49 132:008 > <naro
+15:12:50 132:009 > <narot
+15:12:50 132:010 > <narotg
+15:12:50 132:011 > <narotge
+15:12:50 132:012 > <narotger
+15:12:52 132:008 > <narotgeru
+15:12:53 132:009 > <narotgerui
+15:12:54 132:008 > <narotgerui<
+15:12:55 132:009 > <narotgerui<y
+15:12:55 132:010 > <narotgerui<yu
+15:12:55 132:009 > <narotgerui<yuu
+15:12:56 132:010 > <narotgerui<yuui
+15:12:57 132:009 > <narotgerui<yuuip
+15:12:57 132:009 > <narotgerui<yuuipp
+15:12:58 132:010 > <narotgerui<yuuipp>
+15:12:58 132:011 > </p>
+15:12:59 132:011 > u
+15:12:59 132:012 > ui
+15:13:01 132:014 > ui  -
+15:13:03 132:016 > ui  - <
+15:13:03 132:017 > ui  - <a
+15:13:03 132:017 > ui  - <aa
+15:13:04 132:018 > ui  - <aa>
+15:13:04 132:019 > </a>
+15:13:24 132:019 > g
+15:13:25 132:020 > gr
+15:13:25 132:021 > gre
+15:13:33 132:011 > greU
+15:13:36 132:012 > greUI
+15:13:40 132:010 > greUIu
+15:13:41 132:010 > >UI
+15:13:42 132:011 > y
+15:13:42 132:012 > yi
+15:13:42 132:011 > yiu
+15:13:43 132:012 > yiui
+15:13:46 132:011 > yiuiU
+15:13:58 132:019 > yiuiUg
+15:13:58 132:020 > yiuiUgo
+15:13:58 132:021 > yiuiUgoo
+15:13:58 132:022 > yiuiUgoog
+15:13:58 132:023 > yiuiUgoogl
+15:13:59 132:024 > yiuiUgoogle
+15:14:16 132:019 > /fonts.google.com
+15:14:18 132:019 > google
+15:14:19 132:018 > g
+15:14:20 132:019 > g h
+15:14:21 132:020 > g hr
+15:14:21 132:021 > g hre
+15:14:21 132:019 > href=""
+15:14:22 132:025 > /fonts.google.com
+15:14:26 132:043 > G
+15:14:27 132:044 > Go
+15:14:27 132:045 > Goo
+15:14:27 132:046 > Goog
+15:14:27 132:047 > Googl
+15:14:27 132:048 > Google
+15:14:28 132:050 > Google F
+15:14:28 132:051 > Google Fo
+15:14:28 132:052 > Google Fon
+15:14:28 132:053 > Google Font
+15:14:28 132:054 > Google Fonts
+15:14:39 132:000 > <p>Ui - <a href="fonts.google.com">Google Fonts</a></p>
+
+15:14:45 133:043 > i
+15:14:45 133:044 > im
+15:14:45 133:045 > ima
+15:14:45 133:046 > imag
+15:14:45 133:047 > image
+15:14:46 133:048 > images
+15:14:54 133:011 > imagesI
+15:14:55 133:012 > imagesIm
+15:14:55 133:013 > imagesIma
+15:14:55 133:014 > imagesImag
+15:14:55 133:015 > imagesImage
+15:14:55 133:016 > imagesImages
+15:14:56 133:011 > images
+15:15:12 133:047 > https://www.pexels.com/search/boxes/
+15:15:12 133:047 > images
+15:15:15 133:029 > https://www.pexels.com/search/boxes/
+15:15:18 133:067 > p
+15:15:18 133:068 > pi
+15:15:18 133:069 > pix
+15:15:19 133:070 > pixe
+15:15:19 133:071 > pixel
+15:15:21 133:069 > pixele
+15:15:21 133:068 > pixelee
+15:15:21 133:069 > pixeleex
+15:15:21 133:070 > pixeleexe
+15:15:22 133:071 > pixeleexel
+15:15:23 133:067 > pexels
+15:15:28 133:067 > P
+15:15:52 132:025 > https://
+
+15:15:53 132:033 > w
+15:15:53 132:034 > ww
+15:15:54 132:033 > www
+15:15:55 132:034 > wwww
+15:15:55 132:035 > wwwww
+15:15:55 132:036 > wwwww.
+15:16:11 132:025 > https://fonts.google.com/noto
+15:17:03 132:025 > https://fonts.google.com/
+15:18:21 132:025 > https://fonts.google.com/
+15:18:48 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+15:18:54 317:002 > d
+15:18:55 317:003 > di
+15:18:55 317:004 > dis
+15:18:55 317:005 > disp
+15:18:55 317:002 > display: ;
+15:18:56 317:011 > f
+15:18:56 317:012 > fl
+15:18:56 317:013 > fle
+15:18:56 317:011 > flex
+15:18:56 317:015 > x
+15:18:58 317:011 > flex
+
+15:19:03 318:002 > j
+15:19:03 318:003 > ju
+15:19:03 318:004 > jus
+15:19:04 318:002 > justify-content: ;
+15:19:04 318:019 > c
+15:19:04 318:020 > ce
+15:19:05 318:019 > center
+
+15:19:10 319:002 > h
+15:19:11 319:003 > ha
+15:19:11 319:004 > hap
+15:19:12 319:002 > hapg
+15:19:12 319:003 > hapga
+15:19:12 319:004 > hapgap
+15:19:13 319:002 > gap: ;
+15:19:13 319:007 > 2
+15:19:13 319:008 > 20
+15:19:14 319:009 > 20p
+15:19:14 319:010 > 20px
+15:19:32 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+15:19:43 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+15:20:18 131:011 > .
+15:20:19 131:012 > .c
+15:20:19 131:013 > .co
+15:20:20 131:014 > .cop
+15:20:20 131:015 > .copy
+15:20:20 131:016 > .copyr
+15:20:21 131:017 > .copyri
+15:20:21 131:018 > .copyrig
+15:20:21 131:019 > .copyrigh
+15:20:21 131:020 > .copyright
+15:20:26 131:011 > .copyright c
+15:20:26 131:012 > .copyright cl
+15:20:26 131:013 > .copyright cla
+15:20:26 131:014 > .copyright clas
+15:20:27 131:011 > class=""
+15:20:27 131:018 >  r
+15:20:27 131:019 >  re
+15:20:28 131:020 >  ref
+15:20:28 131:021 >  refr
+15:20:28 131:022 >  refre
+15:20:28 131:023 >  refrec
+15:20:29 131:023 >  refrecn
+15:20:29 131:024 >  refrecnc
+15:20:29 131:025 >  refrecnce
+15:20:30 131:018 >  refrecncec
+15:20:31 131:019 >  refrecnceco
+15:20:31 131:020 >  refrecncecop
+15:20:31 131:021 >  refrecncecopy
+15:20:32 131:022 >  refrecncecopyr
+15:20:32 131:023 >  refrecncecopyri
+15:20:32 131:024 >  refrecncecopyrig
+15:20:32 131:025 >  refrecncecopyrigh
+15:20:32 131:026 >  refrecncecopyright
+15:20:32 131:027 >  refrecncecopyright-
+15:20:33 131:028 >  refrecncecopyright-r
+15:20:33 131:029 >  refrecncecopyright-re
+15:20:33 131:030 >  refrecncecopyright-ref
+15:20:33 131:031 >  refrecncecopyright-refr
+15:20:33 131:032 >  refrecncecopyright-refre
+15:20:35 131:033 >  refrecncecopyright-refren
+15:20:35 131:034 >  refrecncecopyright-refrenc
+15:20:35 131:035 >  refrecncecopyright-refrence
+15:20:41 132:010 > class="copyright-refrence"
+15:20:42 133:010 > class="copyright-refrence"
+15:20:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+15:20:53 318:002 > c
+15:20:53 318:003 > co
+15:20:53 318:004 > cop
+15:20:53 318:005 > copy
+15:20:53 318:006 > copyr
+15:20:54 318:007 > copyri
+
+15:20:57 315:000 > c
+15:20:58 315:001 > co
+15:20:58 315:002 > cop
+15:20:58 315:003 > copy
+15:20:59 315:000 > .copyright-refrence
+15:21:00 315:019 > .
+15:21:01 315:019 > {}
+15:21:07 316:002 > class="copyright-refrence"
+15:21:11 316:002 > display: flex;
+15:21:21 316:018 > justify-content: center;
+15:21:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+15:21:36 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+15:21:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+15:21:38 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+15:21:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+15:21:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+15:21:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+15:21:49 131:008 > d
+15:21:49 131:009 > di
+15:21:49 131:010 > div
+15:21:50 131:008 > <div></div>
+15:21:53 131:013 > class="copyright-refrence"
+15:22:16 135:072 > </div>
+15:22:22 134:010 > <p>images - <a href="https://www.pexels.com/search/boxes/">Pexels</a></p>
+15:22:23 136:007 > </div>
+
+15:22:23 135:010 > p
+15:22:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+15:22:42 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+15:22:46 317:026 > gap: 20px;
+15:22:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+15:24:09 138:008 > p
+15:24:09 138:008 > <p></p>
+15:24:10 138:011 > t
+15:24:10 138:012 > tg
+15:24:10 138:013 > tge
+15:24:12 138:012 > tge h
+15:24:12 138:013 > tge he
+15:24:13 138:015 > tge he c
+15:24:13 138:016 > tge he co
+15:24:13 138:017 > tge he con
+15:24:13 138:018 > tge he cont
+15:24:13 138:019 > tge he conte
+15:24:14 138:020 > tge he conten
+15:24:14 138:021 > tge he content
+15:24:14 138:023 > tge he content o
+15:24:14 138:024 > tge he content of
+15:24:15 138:026 > tge he content of t
+15:24:15 138:027 > tge he content of th
+15:24:15 138:028 > tge he content of thi
+15:24:15 138:029 > tge he content of this
+15:24:15 138:031 > tge he content of this p
+15:24:16 138:032 > tge he content of this pa
+15:24:16 138:033 > tge he content of this pag
+15:24:16 138:034 > tge he content of this page
+15:24:19 138:011 > tge he content of this page T
+15:24:24 138:036 > tge he content of this page T i
+15:24:26 138:036 > tge he content of this page T ii
+15:24:26 138:037 > tge he content of this page T iis
+15:24:27 138:036 > tge he content of this page T iis h
+15:24:28 138:037 > tge he content of this page T iis ha
+15:24:28 138:038 > tge he content of this page T iis has
+15:24:29 138:040 > tge he content of this page T iis has f
+15:24:35 138:036 > tge he content of this page T iis has f u
+15:24:36 138:037 > tge he content of this page T iis has f us
+15:24:36 138:038 > tge he content of this page T iis has f use
+15:24:36 138:039 > tge he content of this page T iis has f uses
+15:24:40 138:015 > tge he content of this page T iis has f uses c
+15:24:40 138:016 > tge he content of this page T iis has f uses co
+15:24:42 138:016 > tge he content of this page T iis has f uses coo
+15:24:42 138:017 > tge he content of this page T iis has f uses coon
+15:24:42 138:018 > tge he content of this page T iis has f uses coont
+15:24:43 138:019 > tge he content of this page T iis has f uses coonte
+15:24:43 138:020 > tge he content of this page T iis has f uses coonten
+15:24:43 138:021 > tge he content of this page T iis has f uses coontent
+15:24:43 138:023 > tge he content of this page T iis has f uses coontent o
+15:24:43 138:024 > tge he content of this page T iis has f uses coontent of
+15:24:44 138:026 > tge he content of this page T iis has f uses coontent of t
+15:24:44 138:027 > tge he content of this page T iis has f uses coontent of th
+15:24:44 138:028 > tge he content of this page T iis has f uses coontent of thi
+15:24:44 138:029 > tge he content of this page T iis has f uses coontent of this
+15:24:45 138:031 > tge he content of this page T iis has f uses coontent of this p
+15:24:45 138:032 > tge he content of this page T iis has f uses coontent of this pa
+15:24:45 138:033 > tge he content of this page T iis has f uses coontent of this pag
+15:24:45 138:034 > tge he content of this page T iis has f uses coontent of this page
+15:24:50 138:011 > tge he content of this page T iis has f uses coontent of this page A
+15:24:51 138:012 > tge he content of this page T iis has f uses coontent of this page Al
+15:24:51 138:013 > tge he content of this page T iis has f uses coontent of this page All
+15:24:53 138:015 > tge he content of this page T iis has f uses coontent of this page All t
+15:24:57 138:040 > tge he content of this page T iis has f uses coontent of this page All t a
+15:24:58 138:041 > tge he content of this page T iis has f uses coontent of this page All t ar
+15:24:58 138:042 > tge he content of this page T iis has f uses coontent of this page All t are
+15:25:01 138:044 > tge he content of this page T iis has f uses coontent of this page All t are r
+15:25:02 138:045 > tge he content of this page T iis has f uses coontent of this page All t are ro
+15:25:02 138:046 > tge he content of this page T iis has f uses coontent of this page All t are roy
+15:25:02 138:047 > tge he content of this page T iis has f uses coontent of this page All t are roya
+15:25:02 138:048 > tge he content of this page T iis has f uses coontent of this page All t are royal
+15:25:03 138:049 > tge he content of this page T iis has f uses coontent of this page All t are royalt
+15:25:11 138:035 > tge he content of this page T iis has f uses coontent of this page All t are royaltp
+15:25:11 138:036 > tge he content of this page T iis has f uses coontent of this page All t are royaltpa
+15:25:11 138:037 > tge he content of this page T iis has f uses coontent of this page All t are royaltpag
+15:25:11 138:038 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage
+15:25:12 138:040 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage g
+15:25:12 138:041 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage ga
+15:25:12 138:042 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gas
+15:25:13 138:040 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gash
+15:25:14 138:041 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gasha
+15:25:14 138:042 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas
+15:25:14 138:044 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas t
+15:25:15 138:045 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas th
+15:25:15 138:046 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the
+15:25:16 138:048 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the r
+15:25:16 138:049 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the ro
+15:25:16 138:050 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the roy
+15:25:16 138:051 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the roya
+15:25:17 138:052 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royal
+15:25:18 138:050 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royala
+15:25:18 138:051 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalal
+15:25:19 138:050 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalaly
+15:25:19 138:051 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalya
+15:25:19 138:052 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyal
+15:25:19 138:053 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalt
+15:25:20 138:054 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty
+15:25:22 138:044 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty f
+15:25:23 138:045 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty fr
+15:25:23 138:046 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty fre
+15:25:23 138:047 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free
+15:25:24 138:049 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free r
+15:25:24 138:050 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free ri
+15:25:24 138:051 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riy
+15:25:24 138:050 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyo
+15:25:24 138:051 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoy
+15:25:25 138:052 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoya
+15:25:25 138:053 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyas
+15:25:26 138:052 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasa
+15:25:26 138:053 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasal
+15:25:26 138:054 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasalt
+15:25:27 138:055 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasalty
+15:25:27 138:057 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasalty l
+15:25:28 138:058 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasalty li
+15:25:28 138:059 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasalty lic
+15:25:28 138:060 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasalty lice
+15:25:28 138:061 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasalty licen
+15:25:28 138:062 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasalty licens
+15:25:29 138:063 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasalty license
+15:25:29 138:064 > tge he content of this page T iis has f uses coontent of this page All t are royaltpage gashas the royalalyalty free riyoyasalty license.
+
+15:26:17 135:018 > &
+15:26:17 135:019 > &v
+15:26:17 135:020 > &vi
+15:26:17 135:021 > &vid
+15:26:18 135:022 > &vide
+15:26:18 135:023 > &video
+15:26:18 135:019 > <video src=""></video>
+15:26:19 135:019 > video
+15:26:30 135:012 > m
+15:26:30 135:013 > me
+15:26:30 135:014 > med
+15:26:32 135:015 > medi
+15:26:32 135:016 > media
+15:28:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+15:28:20 320:000 > .
+15:28:20 320:001 > .c
+15:28:21 320:002 > .co
+15:28:21 320:003 > .cop
+15:28:21 320:000 > .copyright-refrence
+15:28:25 320:020 >  p
+15:28:25 320:020 >  pa
+15:28:26 320:020 >  paa
+15:28:26 320:021 > {}
+
+15:28:29 321:002 > t
+15:28:29 321:003 > te
+15:28:30 321:004 > tex
+15:28:30 321:005 > text
+15:28:30 321:006 > textd
+15:28:31 321:002 > text-decoration: ;
+15:28:31 321:019 > n
+15:28:32 321:019 > none
+
+15:28:36 322:002 > c
+15:28:36 322:003 > co
+15:28:36 322:004 > col
+15:28:36 322:005 > colo
+15:28:36 322:006 > color
+15:28:37 322:002 > color: ;
+15:28:39 322:009 > b
+15:28:39 322:010 > bl
+15:28:40 322:011 > blu
+15:28:40 322:012 > blue
+15:28:40 322:009 > blue
+15:30:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+15:30:54 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+15:30:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+15:31:01 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+15:31:13 137:010 > p
+15:31:13 137:010 > <p></p>
+15:31:15 137:012 > .
+15:31:16 137:013 > .c
+15:31:16 137:014 > .co
+15:31:17 137:013 > .co .
+15:31:18 137:013 > .co .c
+15:31:18 137:014 > .co .cl
+15:31:18 137:015 > .co .cla
+15:31:18 137:016 > .co .clas
+15:31:18 137:013 > class=""
+15:31:19 137:020 > c
+15:31:19 137:021 > co
+15:31:19 137:022 > cop
+15:31:20 137:023 > copy
+15:31:20 137:024 > copyr
+15:31:21 137:025 > copyri
+15:31:21 137:026 > copyrig
+15:31:21 137:027 > copyrigh
+15:31:21 137:028 > copyright
+15:31:22 137:029 > copyright-
+15:31:22 137:030 > copyright-i
+15:31:23 137:031 > copyright-in
+15:31:23 137:032 > copyright-inf
+15:31:24 137:033 > copyright-info
+15:31:24 137:034 > copyright-infor
+15:31:29 137:036 > copyright-inforT
+15:31:29 137:037 > copyright-inforTh
+15:31:30 137:038 > copyright-inforThi
+15:31:30 137:039 > copyright-inforThis
+15:31:30 137:041 > copyright-inforThis p
+15:31:30 137:042 > copyright-inforThis pa
+15:31:31 137:043 > copyright-inforThis pag
+15:31:31 137:044 > copyright-inforThis page
+15:32:30 137:036 > This page features royalty-free images, videos, and text.
+15:32:37 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+15:32:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+15:33:33 320:000 > .
+15:33:35 320:001 > .c
+15:33:35 320:002 > .co
+15:33:35 320:003 > .cop
+15:33:37 320:000 > .copyright-refrence
+15:33:41 320:011 > i
+15:33:41 320:012 > if
+15:33:42 320:012 > ifn
+15:33:42 320:013 > ifnf
+15:33:42 320:000 > .copyright-info
+15:33:43 320:015 > {}
+
+15:33:46 321:002 > f
+15:33:47 321:003 > fl
+15:33:47 321:004 > fle
+15:33:47 321:005 > flex
+15:33:50 321:006 > flexa
+15:33:50 321:007 > flexal
+15:33:51 321:002 > -ms-flex-align: ;
+15:33:52 321:018 > a
+15:33:52 321:018 > ae
+15:33:53 321:018 > end
+15:34:06 321:002 > s
+15:34:06 321:003 > se
+15:34:06 321:004 > sel
+15:34:07 321:005 > self
+15:34:07 321:002 > align-self: ;
+15:34:08 321:014 > e
+15:34:09 321:014 > flex-end
+15:34:31 321:002 > d
+15:34:31 321:003 > di
+15:34:31 321:004 > dis
+15:34:31 321:005 > disp
+15:34:32 321:002 > display: ;
+15:34:32 321:011 >  f
+15:34:33 321:012 >  fl
+15:34:33 321:013 >  fle
+15:34:33 321:011 > flex
+15:34:33 321:015 > 0
+
+15:34:36 322:002 > f
+15:34:38 322:002 > fa
+15:34:38 322:002 > fas
+15:34:39 322:003 > fase
+15:34:40 322:004 > faser
+15:34:41 322:002 > fasera
+15:34:41 322:003 > faseral
+15:34:41 322:004 > faserali
+15:34:41 322:005 > faseralig
+15:34:42 322:006 > faseraligi
+15:34:42 322:007 > faseraligit
+15:34:42 322:008 > faseraligite
+15:34:43 322:002 > align-items: ;
+15:34:44 322:015 > f
+15:34:44 322:016 > fl
+15:34:44 322:017 > fle
+15:34:45 322:018 > flex
+15:34:45 322:015 > flex-end
+15:35:05 322:002 > align-self
+
+15:35:20 321:002 > j
+15:35:20 321:003 > ju
+15:35:20 321:004 > jus
+15:35:21 321:005 > juss
+15:35:21 321:002 > justify-self: ;
+15:35:22 321:016 > e
+15:35:22 321:017 > en
+15:35:22 321:016 > end
+15:35:25 321:016 > r
+15:35:25 321:017 > ru
+15:35:27 321:017 > rug
+15:35:27 321:017 > rugi
+15:35:27 321:018 > rugiu
+15:35:27 321:019 > rugiug
+15:35:28 321:018 > rugiugg
+15:35:28 321:016 > right
+15:36:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+15:37:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+15:37:16 317:002 > justify-content: space-between;
+15:37:28 317:002 > justify-content: center;
+15:37:55 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+15:37:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+15:38:03 137:000 > <p class="copyright-info">This page features royalty-free images, videos, and text.</p>
+15:38:05 137:000 > </div>
+15:38:05 138:000 > </footer>
+15:38:06 139:093 > </footer>
+
+15:38:21 131:008 > d
+15:38:21 131:009 > di
+15:38:21 131:010 > div
+15:38:21 131:008 > <div></div>
+15:38:22 131:013 > .
+15:38:26 131:014 > .c
+15:38:26 131:015 > .co
+15:38:27 131:016 > .cop
+15:38:27 131:017 > .copy
+15:38:28 131:018 > .copyr
+15:38:28 131:019 > .copyri
+15:38:28 131:020 > .copyrig
+15:38:29 131:021 > .copyrigh
+15:38:29 131:022 > .copyright
+15:38:30 131:023 > .copyright.
+15:38:30 131:023 > .copyright.-
+15:38:31 131:024 > .copyright.-k
+15:38:31 131:025 > .copyright.-ko
+15:38:32 131:026 > .copyright.-kon
+15:38:32 131:027 > .copyright.-kont
+15:38:32 131:028 > .copyright.-konta
+15:38:32 131:029 > .copyright.-kontai
+15:38:32 131:030 > .copyright.-kontain
+15:38:32 131:031 > .copyright.-kontaine
+15:38:32 131:032 > .copyright.-kontainer
+15:38:33 131:013 > <div class="copyright-kontainer"></div>
+
+15:38:47 132:030 > r
+15:38:47 132:031 > re
+15:38:47 132:032 > ref
+15:38:48 132:033 > refr
+15:38:48 132:034 > refre
+15:38:48 132:035 > refren
+15:38:49 132:036 > refrens
+15:38:52 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+15:38:54 315:011 > r
+15:38:54 315:012 > re
+15:38:55 315:000 > .copyright-refrens
+
+15:39:00 323:000 > c
+15:39:01 323:001 > co
+15:39:01 323:002 > cop
+15:39:01 323:003 > copt
+15:39:03 323:000 > .copyright-kontainer
+15:39:05 323:020 > {}
+
+15:39:08 325:001 > }
+15:39:08 323:003 > .copyright-info{
+
+15:39:08 322:001 > }
+15:39:09 321:003 > gap: 20px;
+15:39:09 320:003 > justify-content: center;
+15:39:09 319:003 > display: flex;
+15:39:09 318:003 > .copyright-refrens {
+15:39:18 315:022 > display: flex;
+  justify-content: center;
+  gap: 20px;
+
+15:39:33 319:002 > f
+15:39:33 319:003 > fl
+15:39:33 319:004 > fle
+15:39:33 319:005 > flex
+15:39:34 319:006 > flexd
+15:39:34 319:002 > flex-direction: ;
+15:39:35 319:018 > r
+15:39:35 319:019 > ro
+15:39:35 319:018 > row
+
+15:40:09 321:002 > d
+15:40:09 321:003 > di
+15:40:09 321:004 > dis
+15:40:09 321:002 > display: ;
+15:40:10 321:011 > f
+15:40:10 321:012 > fl
+15:40:10 321:013 > fle
+15:40:10 321:011 > flex
+15:40:19 321:003 > display: flex;
+  justify-content: center;
+  gap: 20px;
+15:40:20 321:003 > isplay: flex;
+15:40:22 321:002 > display: flex;
+  justify-content: center;
+  gap: 20px;
+
+15:40:50 317:002 > s
+15:40:50 317:002 > sj
+15:40:50 317:003 > sju
+15:40:51 317:004 > sjus
+15:40:51 317:002 > justify-content: ;
+15:40:52 317:019 > p
+15:40:52 317:020 > pa
+15:40:52 317:019 > pas
+15:40:52 317:020 > pasp
+15:40:52 317:021 > paspa
+15:40:53 317:019 > space-around
+15:40:54 317:019 > spa
+15:40:55 317:022 > s
+15:40:55 317:023 > sp
+15:40:56 317:021 > spa
+15:40:57 317:022 > spab
+15:40:57 317:019 > space-between
+
+15:43:08 318:002 > f
+15:43:08 318:003 > fl
+15:43:09 318:004 > fle
+15:43:09 318:005 > flex
+15:43:09 318:002 > flex: ;
+15:43:11 318:002 > f
+15:43:11 318:003 > fl
+15:43:11 318:004 > fle
+15:43:11 318:005 > flex
+15:43:12 318:006 > flexd
+15:43:12 318:007 > flexdi
+15:43:12 318:002 > flex-direction:
+15:43:13 318:018 > c
+15:43:13 318:019 > co
+15:43:13 318:018 > column
+15:43:15 318:018 > co
+15:43:16 318:002 > flexdi
+15:43:49 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+15:44:01 132:030 > refrence
+15:44:02 131:013 > .copyright-kontainer
+15:44:04 131:013 > <div class="copyright-kontainer"></div>
+15:44:06 131:013 > .copyright-kontainer
+15:44:14 131:008 > <div class="copyright-kontainer"></div>
+15:44:20 132:010 > <div class="copyright-refrence">
+          <p>Box Icon - <a href="https://www.flaticon.com/">flaticon</a></p>
+          <p>Ui - <a href="https://fonts.google.com/">Google Fonts</a></p>
+          <p>
+            media - <a href="https://www.pexels.com/search/boxes/">Pexels</a>
+          </p>
+        </div>
+        <p class="copyright-info">This page features royalty-free images, videos, and text.</p>
+15:44:21 141:008 > </div>
+
+15:44:21 140:010 > p
+15:44:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+15:44:29 317:002 > j
+15:44:29 317:003 > ju
+15:44:29 317:004 > jus
+15:44:30 317:002 > justify-content: ;
+15:44:30 317:019 > baseline
+15:44:31 317:019 > c
+15:44:31 317:020 > ce
+15:44:31 317:021 > cel
+15:44:32 317:021 > celn
+15:44:32 317:019 > center
+
+15:44:46 323:002 > f
+15:44:47 323:003 > fl
+15:44:47 323:004 > fle
+15:44:47 323:005 > flex
+15:44:48 323:002 > flex-direction: ;
+15:44:49 323:018 > column
+15:44:52 323:018 > r
+15:44:52 323:019 > ro
+15:44:52 323:020 > row
+15:44:52 323:018 > row
+
+15:45:59 322:002 > f
+15:45:59 322:003 > fl
+15:45:59 322:004 > fle
+15:45:59 322:005 > flex
+15:46:00 322:006 > flexd
+15:46:00 322:002 > flex-direction: ;
+15:46:02 322:018 > r
+15:46:02 322:019 > ro
+15:46:02 322:020 > row
+15:46:02 322:018 > row
+15:46:04 322:018 > row
+15:46:06 322:018 > c
+15:46:06 322:019 > co
+15:46:06 322:018 > column
+15:46:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+15:46:27 132:032 > r
+15:46:27 132:033 > re
+15:46:27 132:034 > ref
+15:46:28 132:035 > refr
+15:46:28 132:036 > refre
+15:46:29 132:037 > refren
+15:46:29 132:038 > refrens
+15:46:33 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+15:46:42 317:027 > g
+15:46:42 317:028 > ga
+15:46:42 317:029 > gap
+15:46:43 317:027 > gap: ;
+15:46:43 317:032 > 2
+15:46:43 317:033 > 20
+15:46:43 317:034 > 20p
+15:46:43 317:035 > 20px
+
+15:46:54 326:002 > f
+15:46:54 326:002 > fs
+15:46:55 326:003 > fse
+15:46:55 326:004 > fsel
+15:46:55 326:005 > fself
+15:46:55 326:002 > align-self: ;
+15:46:57 326:014 > e
+15:46:57 326:015 > en
+15:46:57 326:016 > end
+15:46:57 326:014 > flex-end
+15:47:01 326:014 > r
+15:47:01 326:015 > ri
+15:47:01 326:016 > rig
+15:47:04 326:002 > rigj
+15:47:04 326:003 > rigju
+15:47:04 326:004 > rigjus
+15:47:05 326:002 > justify-content:
+15:47:07 326:019 > e
+15:47:07 326:020 > en
+15:47:07 326:019 > end
+15:47:10 326:009 > -
+15:47:11 326:010 > -s
+15:47:11 326:011 > -se
+15:47:11 326:002 > justify-self:
+15:47:12 326:016 > a
+15:47:12 326:016 > ae
+15:47:12 326:016 > end
+15:48:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+15:48:27 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+15:48:46 317:019 > s
+15:48:46 317:020 > sp
+15:48:47 317:021 > spa
+15:48:47 317:019 > space-around
+15:48:49 317:025 > b
+15:48:50 317:025 > br
+15:48:50 317:019 > space-around
+15:48:51 317:025 > b
+15:48:51 317:026 > be
+15:48:51 317:019 > space-between
+15:48:53 317:032 > ;
+
+15:49:07 322:002 > c
+15:49:07 322:003 > ce
+15:49:07 322:004 > cen
+15:49:07 322:005 > cent
+15:49:08 322:006 > cente
+15:49:08 322:007 > center
+15:49:11 322:002 > centerj
+15:49:12 322:003 > centerji
+15:49:12 322:004 > centerjis
+15:49:15 322:002 > centerjisj
+15:49:15 322:003 > centerjisju
+15:49:16 322:004 > centerjisjus
+15:49:16 322:002 > justify-content: ;
+15:49:16 322:019 > c
+15:49:17 322:020 > ce
+15:49:17 322:019 > center
+
+15:50:03 317:019 > s
+15:50:04 317:020 > sp
+15:50:05 317:019 > space-evenly
+15:50:07 317:019 > sp
+15:50:09 317:019 > c
+15:50:10 317:020 > ce
+15:50:10 317:021 > cen
+15:50:10 317:019 > center
+15:50:13 317:025 > ;
+
+15:50:26 325:002 > j
+15:50:26 325:003 > ju
+15:50:26 325:004 > jus
+15:50:27 325:005 > just
+15:50:27 325:006 > justi
+15:50:27 325:007 > justis
+15:50:28 325:002 > justify-self: ;
+15:50:28 325:016 > e
+15:50:28 325:017 > en
+15:50:28 325:016 > end
+15:50:32 325:014 > :
+15:50:34 325:015 > :f
+15:50:34 325:016 > :fl
+15:50:34 325:017 > :fle
+15:50:34 325:015 > flex-end
+15:50:40 325:002 > a
+15:50:40 325:003 > al
+15:50:41 325:004 > ali
+15:50:41 325:005 > alig
+15:50:41 325:006 > aligs
+15:50:41 325:007 > aligse
+15:50:42 325:002 > align-self: ;
+15:50:43 325:014 > e
+15:50:43 325:015 > en
+15:50:43 325:014 > flex-end
+15:50:46 325:014 > e
+15:50:46 325:015 > en
+15:50:47 325:016 > end
+15:50:48 325:014 > self-end
+15:50:53 325:002 > a
+15:50:53 325:003 > al
+15:50:54 325:004 > ali
+15:50:54 325:005 > alig
+15:50:54 325:006 > aligi
+15:50:54 325:007 > aligit
+15:50:54 325:002 > align-items: ;
+15:50:55 325:015 > e
+15:50:55 325:016 > en
+15:50:55 325:017 > end
+15:50:55 325:015 > end
+15:50:59 325:002 > t
+15:50:59 325:003 > te
+15:50:59 325:004 > tex
+15:51:00 325:005 > text
+15:51:00 325:006 > texta
+15:51:00 325:007 > textal
+15:51:00 325:002 > text-align: ;
+15:51:01 325:014 > e
+15:51:01 325:014 > end
+15:51:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+15:51:09 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+15:51:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+15:52:42 325:002 > a
+15:52:42 325:003 > al
+15:52:42 325:004 > ali
+15:52:42 325:005 > alig
+15:52:42 325:006 > aligi
+15:52:43 325:002 > align-items: ;
+15:52:43 325:015 > f
+15:52:43 325:016 > fl
+15:52:43 325:017 > fle
+15:52:44 325:018 > flex
+15:52:44 325:019 > flexe
+15:52:44 325:015 > flex-end
+15:52:49 325:002 > m
+15:52:49 325:003 > ma
+15:52:50 325:004 > mar
+15:52:50 325:005 > marg
+15:52:50 325:006 > margi
+15:52:51 325:007 > margir
+15:52:51 325:007 > margirl
+15:52:52 325:008 > margirle
+15:52:52 325:002 > margin-left: ;
+15:52:52 325:015 > auto
+
+15:53:00 321:002 > m
+15:53:02 321:002 > margin: ;
+15:53:03 321:010 > auto
+15:53:11 321:010 > r
+15:53:11 321:011 > ro
+15:53:12 321:008 > ror
+15:53:13 321:009 > roro
+15:53:14 321:008 > roro-
+15:53:14 321:009 > roro-r
+15:53:14 321:002 > margin-right:
+15:53:15 321:016 > a
+15:53:15 321:016 > auto
+15:53:21 321:009 > l
+15:53:21 321:010 > le
+15:53:21 321:011 > lef
+15:53:21 321:002 > margin-left
+16:03:40 330:001 > po ition: fixed
+
+16:03:41 330:004 > s
+16:03:41 321:002 > margin-lef
+16:04:58 317:002 > justify-content: center;
+
+16:05:12 325:002 > j
+16:05:13 325:003 > ju
+16:05:13 325:004 > jus
+16:05:13 325:005 > juse
+16:05:14 325:002 > justify-self: ;
+16:05:16 325:016 > e
+16:05:16 325:017 > en
+16:05:17 325:016 > end
+16:05:19 325:016 > f
+16:05:19 325:017 > fl
+16:05:19 325:018 > fle
+16:05:19 325:019 > flex
+16:05:19 325:016 > flex-end
+16:07:17 333:000 > .copyright-kontainer {
+  display: flex;
+  gap: 20px;
+}
+.copyright-refrens {
+  display: flex;
+  gap: 20px;
+}
+.copyright-info {
+  justify-self: flex-end;
+}
+
+16:07:48 332:016 > e
+16:07:48 332:017 > en
+16:07:49 332:018 > end
+16:07:49 332:016 > end
+16:07:52 332:002 > a
+16:07:52 332:003 > ak
+16:07:53 332:003 > akl
+16:07:53 332:004 > akli
+16:07:53 332:005 > aklig
+16:07:53 332:006 > aklign
+16:07:54 332:007 > akligns
+16:07:55 332:002 > align-self:
+16:07:56 332:014 > e
+16:07:57 332:014 > flex-end
+16:08:59 328:002 > align-self: flex-end;
+
+16:09:02 328:019 > s
+16:09:02 328:014 > flex-start
+
+16:09:26 324:015 > z
+16:09:27 324:015 > z;
+
+16:09:28 325:002 > w
+16:09:28 325:003 > wi
+16:09:28 325:004 > wid
+16:09:28 325:002 > width: ;
+16:09:28 325:009 > 1
+16:09:29 325:010 > 10
+16:09:29 325:011 > 100
+16:09:29 325:012 > 100%
+16:09:29 325:009 > 100%
+16:09:34 325:009 > 100%
+16:10:22 325:001 > gap: 20px;
+16:10:26 325:007 > a
+16:10:27 325:008 > au
+16:10:27 325:009 > aut
+16:10:28 325:010 > auto
+16:10:30 325:007 > 20px
+16:10:37 325:007 > 1
+16:10:38 325:008 > 10
+16:10:38 325:009 > 100
+16:10:38 325:010 > 100%
+16:10:41 325:007 > 20px
+
+16:10:51 329:002 > j
+16:10:52 329:002 > display
+
+16:10:53 328:002 > j
+16:10:53 328:003 > ju
+16:10:54 328:002 > justify-self: unset;
+16:10:55 328:002 > ju
+16:10:56 328:004 > s
+16:10:57 328:005 > st
+16:10:59 328:006 > sti
+16:10:59 328:007 > stif
+16:10:59 328:008 > stify
+16:11:03 333:002 > justify
+16:12:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+16:12:10 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:12:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+16:12:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+16:12:47 142:000 > </div>
+16:12:48 131:008 > <div class="copyright-kontainer">
+16:12:52 139:000 > </div>
+16:13:24 142:012 > </div>
+16:14:01 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+16:15:07 325:002 > padding: 10px; /* Added padding for better spacing */
+16:15:33 334:002 > margin-left: auto; /* Ensures it moves to the end */
+16:16:57 329:000 > margin: auto; /* Center horizontally */
+16:18:19 327:002 > align-items: center; /* Center items vertically */
+16:18:21 328:002 > p
+16:18:21 328:003 > po
+16:18:21 328:004 > pos
+16:18:22 328:002 > position: relative;
+16:18:37 327:002 > justify-content: center;
+16:18:53 332:002 > flex-grow: 1;
+  justify-content: center; /* Center the references within the flex container */
+16:19:05 328:002 > pos
+16:19:07 329:000 > justify-self: flex-start;
+16:19:07 335:000 > justify-self: flex-end;
+
+16:20:52 329:002 > m
+16:20:52 329:003 > ma
+16:20:52 329:004 > mar
+16:20:53 329:005 > marg
+16:20:53 329:002 > margin: ;
+16:20:54 329:010 > auto
+
+16:22:25 325:002 > f
+16:22:25 325:003 > fl
+16:22:25 325:004 > fle
+
+16:23:15 331:002 > f
+16:23:15 331:003 > fl
+16:23:15 331:004 > fle
+16:23:15 331:005 > flex
+16:23:17 331:006 > flexs
+16:23:18 331:007 > flexsh
+16:23:18 331:008 > flexshr
+16:23:19 331:002 > flex-shrink: ;
+16:23:20 331:015 > 1
+16:23:23 331:015 > 10
+16:23:25 331:015 > 101
+16:23:27 331:015 > 1012
+16:23:29 331:015 > 10123
+16:23:31 331:015 > 101234
+16:23:33 331:015 > 1012345
+16:23:34 331:015 > 10123451
+16:23:34 331:016 > 101234510
+16:23:36 331:015 > 1012345101
+16:23:36 331:016 > 10123451010
+16:23:36 331:017 > 101234510100
+16:23:39 331:018 > 1012345101000
+16:23:40 331:019 > 10123451010000
+16:23:42 331:020 > 101234510100000
+16:23:43 331:021 > 1012345101000000
+16:23:46 331:022 > 10123451010000000
+16:23:52 331:013 > 10123451010000000:
+16:23:53 331:014 > 10123451010000000:1
+16:23:53 331:015 > 10123451010000000:10
+16:23:53 331:016 > 10123451010000000:100
+
+16:24:23 324:002 > j
+16:24:23 324:003 > ju
+16:24:24 324:004 > jus
+16:24:24 324:005 > just
+16:24:29 324:006 > justi
+16:24:29 324:007 > justit
+16:24:30 324:008 > justite
+16:24:31 324:002 > justify-items: ;
+16:24:34 324:017 > c
+16:24:34 324:018 > ce
+16:24:34 324:017 > center
+16:24:37 324:017 > e
+16:24:38 324:017 > es
+16:24:38 324:018 > esp
+16:24:39 324:019 > espa
+16:24:39 324:018 > espao
+16:24:40 324:019 > espaoa
+16:24:40 324:018 > espaoap
+16:24:40 324:019 > espaoapa
+16:24:42 324:010 > espaoapac
+16:24:42 324:011 > espaoapaco
+16:24:42 324:002 > justify-content:
+16:24:44 324:019 > s
+16:24:44 324:020 > sp
+16:24:45 324:021 > spe
+16:24:46 324:022 > spev
+16:24:46 324:019 > space-evenly
+16:25:41 324:002 > f
+16:25:41 324:003 > fl
+16:25:42 324:004 > fle
+16:25:42 324:005 > flex
+16:25:42 324:006 > flex1
+16:25:44 324:006 > flex1:
+16:25:44 324:007 > flex1:1
+16:25:48 324:008 > flex1:1;
+16:26:17 328:002 > flex:1;
+16:26:19 335:002 > flex:1;
+16:27:26 335:000 > flex: 0 1 auto; /* Ensure items take only as much space as needed */
+16:27:27 328:000 > flex: 0 1 auto; /* Ensure items take only as much space as needed */
+
+16:28:04 329:002 > f
+16:28:04 329:003 > fl
+16:28:04 329:004 > fle
+16:28:04 329:005 > flex
+16:28:07 329:002 > flexh
+16:28:08 329:002 > flexhj
+16:28:08 329:003 > flexhju
+16:28:08 329:004 > flexhjus
+16:28:08 329:005 > flexhjust
+16:28:09 329:006 > flexhjusts
+16:28:09 329:002 > justify-self: ;
+16:28:10 329:016 > c
+16:28:10 329:016 > ce
+16:28:10 329:017 > cen
+16:28:11 329:018 > cend
+16:28:11 329:016 > end
+16:28:14 329:016 > s
+16:28:17 329:017 > se
+16:28:18 329:016 > sef
+16:28:18 329:017 > sefl
+16:28:18 329:018 > sefle
+16:28:19 329:016 > flex-end
+16:28:34 331:016 > margin: auto;
+16:28:35 330:016 > justify-self: flex-end;
+16:28:35 329:016 > flex: 0 1 auto; /* Ensure items take only as much space as needed */
+
+16:28:51 330:002 > j
+16:28:51 330:003 > ju
+16:28:51 330:004 > jus
+16:28:52 330:005 > just
+16:28:52 330:006 > justi
+16:28:53 330:002 > justify-content: ;
+16:28:54 330:019 > c
+16:28:55 330:019 > ce
+16:28:55 330:020 > cen
+16:28:55 330:021 > cend
+16:28:55 330:019 > end
+16:28:58 330:019 > f
+16:28:58 330:020 > fl
+16:28:58 330:021 > fle
+16:28:59 330:019 > flex-end
+
+16:29:35 324:002 > w
+16:29:35 324:003 > wd
+16:29:35 324:004 > wdi
+16:29:36 324:005 > wdia
+16:29:36 324:005 > wdiat
+16:29:37 324:006 > wdiath
+16:29:37 324:002 > width: ;
+16:29:38 324:009 > auto
+
+16:30:32 325:011 > i
+16:30:32 325:012 > in
+16:30:34 325:011 > inline-block
+16:30:44 325:011 > in
+16:30:44 325:011 > flex
+
+16:30:52 324:009 > 2
+16:30:52 324:010 > 20
+16:30:52 324:011 > 200
+16:30:52 324:012 > 200p
+16:30:52 324:013 > 200px
+16:30:53 324:009 > 200px
+16:30:56 324:009 > 5
+16:30:56 324:010 > 50
+16:30:57 324:011 > 500
+16:30:57 324:012 > 500p
+16:30:57 324:013 > 500px
+16:30:57 324:009 > 500px
+16:31:01 324:009 > 1
+16:31:01 324:010 > 10
+16:31:01 324:011 > 100
+16:31:01 324:012 > 1000
+16:31:01 324:013 > 1000p
+16:31:01 324:014 > 1000px
+16:31:02 324:009 > 1000px
+16:33:47 324:001 > m
+16:33:48 324:002 > ma
+16:33:48 324:003 > mar
+16:33:48 324:004 > marg
+16:33:49 324:001 > margin: ;
+16:33:49 324:009 > auto
+
+16:34:08 323:021 > {
+16:34:51 327:002 > margin: auto; /* Center the container horizontally */
+  align-items: center; /* Center items vertically */
+  flex-wrap: nowrap; /* Prevent wrapping, keeps items in a single line */
+
+16:37:06 324:000 > m
+16:37:06 324:001 > ma
+16:37:06 324:002 > mar
+16:37:06 324:003 > marl
+16:37:07 324:004 > marle
+16:37:07 324:000 > margin-left: ;
+16:37:08 324:013 > auto
+16:37:13 324:000 > marle
+
+16:37:26 326:002 > m
+16:37:27 326:003 > ma
+16:37:27 326:002 > max-width: ;
+16:37:30 326:002 > m
+16:37:30 326:003 > ma
+16:37:30 326:004 > mar
+16:37:31 326:005 > marg
+16:37:31 326:006 > margl
+16:37:32 326:002 > margin-left:
+16:37:33 326:015 > auto
+16:37:54 326:001 > f
+16:37:54 326:002 > fl
+16:37:54 326:003 > fle
+16:37:54 326:004 > flex
+16:37:57 326:005 > flexd
+16:37:58 326:006 > flexdi
+16:37:58 326:001 > flex-direction: ;
+16:37:59 326:017 > c
+16:38:00 326:018 > cp
+16:38:00 326:018 > cpo
+16:38:01 326:019 > cpol
+16:38:01 326:020 > cpolr
+16:38:01 326:021 > cpolre
+16:38:01 326:017 > column-reverse
+16:38:03 326:017 > colre
+16:38:05 326:018 > p
+16:38:07 326:017 > p r
+16:38:08 326:018 > p ro
+16:38:08 326:019 > p ror
+16:38:08 326:020 > p rore
+16:38:08 326:017 > row-reverse
+16:38:14 326:017 > rore
+16:38:15 326:016 > cp
+16:38:15 326:001 > flexdi
+16:38:16 326:001 > margin-left: auto;
+16:38:30 326:002 > g
+16:38:30 326:003 > ga
+16:38:30 326:004 > gap
+16:38:30 326:002 > gap: ;
+16:38:31 326:007 > 2
+16:38:31 326:008 > 20
+16:38:31 326:009 > 20p
+16:38:31 326:010 > 20px
+16:39:01 326:002 > 20pxr
+16:39:01 326:003 > 20pxre
+16:39:03 326:002 > 20pxref
+16:39:03 326:003 > 20pxrefl
+16:39:03 326:004 > 20pxrefle
+16:39:03 326:005 > 20pxreflex
+16:39:05 326:002 > flex-direction: ;
+16:39:05 326:018 > r
+16:39:05 326:019 > re
+16:39:07 326:018 > row-reverse
+16:39:35 326:018 > e
+16:39:35 326:019 > el
+16:39:35 326:020 > ele
+16:39:36 326:018 > elef
+16:39:36 326:019 > elefl
+16:39:36 326:020 > elefle
+16:39:38 326:006 > elefle.
+16:39:38 326:006 > elefle.-
+16:39:42 326:007 > elefle.-f
+16:39:42 326:008 > elefle.-fl
+16:39:42 326:002 > flex-flow:
+16:39:43 326:013 > column
+16:39:47 326:013 > f
+16:39:47 326:013 > fr
+16:39:47 326:014 > fro
+16:39:47 326:013 > row
+16:39:52 326:002 > f
+16:39:52 326:003 > fl
+16:39:52 326:004 > fle
+16:39:52 326:005 > flex
+16:39:55 326:006 > flexa
+16:39:55 326:007 > flexal
+16:39:56 326:002 > -ms-flex-align:
+16:39:57 326:018 > e
+16:39:57 326:019 > ec
+16:39:58 326:019 > ecn
+16:39:58 326:020 > ecnd
+16:39:58 326:018 > end
+
+16:40:16 327:002 > f
+16:40:17 327:003 > fl
+16:40:17 327:004 > fle
+16:40:17 327:005 > flex
+16:42:38 326:005 > : 20px;
+16:42:39 327:002 > flex
+
+16:43:18 332:002 > f
+16:43:18 332:003 > fö
+16:43:19 332:003 > föl
+16:43:19 332:004 > föle
+16:43:19 332:005 > fölex
+16:43:20 332:006 > fölexa
+16:43:20 332:007 > fölexal
+16:43:23 332:002 > fölexalj
+16:43:23 332:003 > fölexalju
+16:43:24 332:004 > fölexaljus
+16:43:24 332:005 > fölexaljust
+16:43:25 332:006 > fölexaljusts
+16:43:25 332:002 > justify-self: ;
+16:43:26 332:016 > f
+16:43:26 332:017 > fl
+16:43:27 332:018 > fle
+16:43:27 332:016 > flex-end
+
+17:35:26 326:002 > ت
+17:35:26 326:003 > تع
+17:35:26 326:004 > تعس
+17:35:32 326:002 > تعسj
+17:35:32 326:003 > تعسju
+17:35:32 326:004 > تعسjus
+17:35:32 326:005 > تعسjust
+17:35:32 326:006 > تعسjusti
+17:35:33 326:002 > justify-content: ;
+17:35:33 326:019 > c
+17:35:33 326:020 > cc
+17:35:34 326:019 > calc()
+17:35:35 326:019 > c
+17:35:35 326:020 > ce
+17:35:35 326:019 > center
+17:35:38 326:019 > e
+17:35:38 326:020 > en
+17:35:38 326:021 > end
+17:35:38 326:019 > end
+17:36:17 326:019 > c
+17:36:17 326:020 > ce
+17:36:17 326:019 > center
+
+17:36:40 332:002 > j
+17:36:41 332:003 > ju
+17:36:41 332:004 > jus
+17:36:41 332:005 > just
+17:36:47 332:006 > justs
+17:36:48 332:002 > justify-self: ;
+17:36:50 332:016 > e
+17:36:50 332:017 > en
+17:36:50 332:018 > end
+17:36:50 332:016 > end
+17:36:57 332:016 > c
+17:36:57 332:017 > ce
+17:36:57 332:018 > cen
+17:36:57 332:016 > center
+17:36:59 332:016 > cen
+17:37:00 332:016 > end
+17:37:00 332:016 > end
+
+17:42:24 331:002 > m
+17:42:24 331:003 > ma
+17:42:24 331:004 > mar
+17:42:25 331:005 > marö
+17:42:25 331:006 > maröe
+17:42:26 331:006 > empty-cells: show;
+17:42:29 331:001 > m
+17:42:29 331:002 > ma
+17:42:30 331:002 > mam
+17:42:30 331:003 > mama
+17:42:30 331:004 > mamar
+17:42:34 331:002 > margin: ;
+17:42:35 331:010 > a
+17:42:35 331:010 > auto
+17:42:56 331:008 > -
+17:42:56 331:009 > -l
+17:42:56 331:010 > -le
+17:42:56 331:002 > margin-left
+
+17:43:04 336:002 > m
+17:43:04 336:003 > ma
+17:43:04 336:004 > mar
+17:43:05 336:005 > marg
+17:43:05 336:002 > margin: ;
+17:43:05 336:010 > auto
+
+17:45:40 330:008 > -
+17:45:40 330:009 > -l
+17:45:40 330:010 > -le
+17:45:41 330:002 > margin-left
+
+17:46:01 325:002 > f
+17:46:01 325:003 > fl
+17:46:01 325:004 > fle
+17:46:01 325:005 > flex
+17:46:02 325:006 > flexw
+17:46:02 325:007 > flexwr
+17:46:02 325:002 > flex-wrap: ;
+17:46:03 325:013 > wrap
+17:46:26 325:011 > :
+17:46:32 325:012 > nowrap
+17:46:38 325:012 > w
+17:46:38 325:013 > wr
+17:46:39 325:014 > wra
+17:46:39 325:012 > wrap
+17:47:03 335:000 > .copyright-refrens{
+  display: flex;
+  margin-left: auto;
+  gap: 20px;
+  
+}
+
+17:47:05 335:019 > p
+
+17:47:08 336:002 > b
+17:47:08 336:003 > bo
+17:47:08 336:004 > bor
+17:47:08 336:005 > bord
+17:47:09 336:002 > border: ;
+17:47:12 336:010 > v
+17:47:12 336:011 > va
+17:47:12 336:012 > var
+17:47:14 336:010 > vars
+17:47:14 336:011 > varso
+17:47:14 336:012 > varsol
+17:47:15 336:010 > solid
+17:47:18 336:016 >  3
+17:47:19 336:016 >  34
+17:47:19 336:016 >  345
+17:47:20 336:017 >  345p
+17:47:20 336:018 >  345px
+17:47:22 336:020 >  345px d
+17:47:22 336:021 >  345px da
+17:47:22 336:020 >  345px dav
+17:47:22 336:021 >  345px dava
+17:47:23 336:022 >  345px davar
+17:47:23 336:020 > var()
+17:47:24 336:024 > d
+17:47:24 336:025 > da
+17:47:24 336:026 > dar
+17:47:24 336:027 > darl
+17:47:25 336:027 > darlk
+17:47:25 336:024 > --dark-green
+
+17:47:28 337:002 > b
+17:47:29 337:003 > bo
+17:47:29 337:004 > bor
+17:47:29 337:005 > bord
+17:47:31 337:002 > border-radius: ;
+17:47:33 337:017 > 5
+17:47:34 337:018 > 50
+17:47:34 337:019 > 50p
+17:47:34 337:020 > 50px
+17:47:36 337:018 > 50pxp
+17:47:36 337:019 > 50pxpx
+
+17:47:46 336:002 > p
+17:47:47 336:003 > pa
+17:47:47 336:004 > pad
+17:47:47 336:005 > padd
+17:47:47 336:002 > padding: ;
+17:47:49 336:011 > 1
+17:47:49 336:012 > 10
+17:47:50 336:012 > 100
+17:47:50 336:013 > 100x
+17:47:50 336:014 > 100xp
+17:47:51 336:013 > 100xpp
+17:47:51 336:014 > 100xppx
+17:47:51 336:011 > 10px
+
+17:48:20 330:002 > a
+17:48:21 330:003 > ab
+17:48:21 330:004 > abo
+17:48:22 330:003 > abon
+17:48:22 330:003 > abonb
+17:48:23 330:002 > abonbp
+17:48:23 330:003 > abonbpo
+17:48:23 330:004 > abonbpos
+17:48:24 330:002 > position: relative;
+17:48:24 330:012 > a
+17:48:25 330:013 > ab
+17:48:25 330:012 > absolute
+17:48:38 331:000 > display: flex;
+17:48:43 332:000 > margin-left: auto;
+17:48:43 330:012 > ab
+17:48:44 330:012 > relative
+
+17:48:54 336:002 > a
+17:48:54 336:003 > al
+17:48:54 336:004 > ali
+17:48:55 336:002 > align-items: ;
+17:48:56 336:015 > c
+17:48:56 336:016 > ce
+17:48:56 336:017 > cen
+17:48:56 336:015 > center
+17:49:10 343:000 > align-items: center;
+
+17:49:14 342:016 > p
+
+17:49:20 343:008 > c
+17:49:21 343:002 > align-content
+
+17:50:20 336:000 > c
+17:50:20 336:001 > co
+17:50:21 336:002 > col
+17:50:21 336:003 > colo
+17:50:21 336:004 > color
+17:50:21 336:000 > color: ;
+17:50:22 336:000 > color
+17:50:23 336:002 > b
+17:50:23 336:003 > ba
+17:50:23 336:004 > bac
+17:50:24 336:002 > background-color: ;
+17:50:25 336:020 > v
+17:50:25 336:021 > va
+17:50:25 336:022 > var
+17:50:25 336:020 > var()
+17:50:27 336:024 > --brunswick-green
+17:50:33 336:023 > ()
+17:50:33 336:024 > -
+17:50:35 336:024 > --
+17:50:35 336:025 > ---
+17:50:37 336:023 > ---)
+17:50:37 336:023 > ()
+17:50:39 336:023 > ()
+17:50:40 336:024 > -
+17:50:41 336:025 > --
+17:50:44 336:024 > --celadon
+17:52:13 336:026 > -
+17:52:13 336:027 > -2
+17:52:13 336:024 > --mint-2
+
+17:53:29 340:002 > c
+17:53:29 340:003 > co
+17:53:29 340:004 > col
+17:53:30 340:005 > colo
+17:53:30 340:006 > color
+17:53:36 341:000 > .copyright-refrens p{
+
+17:53:41 342:021 > }
+17:53:42 342:021 > } a
+17:53:50 342:019 > } a p
+
+17:53:53 343:000 > c
+17:53:53 343:001 > co
+17:53:53 343:002 > col
+17:53:53 343:003 > colo
+17:53:53 343:004 > color
+17:53:54 343:000 > color: ;
+17:53:56 343:007 > v
+17:53:56 343:008 > va
+17:53:57 343:009 > var
+17:53:57 343:007 > var()
+17:54:00 343:011 > -
+17:54:00 343:012 > --
+17:54:02 343:011 > --cambridge-blue
+17:54:07 343:011 > -
+17:54:07 343:012 > --
+17:54:09 343:011 > --dark-green
+17:54:22 343:011 > m
+17:54:22 343:012 > mo
+17:54:23 343:011 > mo-
+17:54:23 343:012 > mo--
+17:54:27 343:011 > --cambridge-blue
+17:54:30 343:011 > --
+17:54:31 343:011 > -
+17:54:32 343:012 > --
+17:54:32 343:013 > --,
+17:54:34 343:012 > --,-
+17:54:35 343:013 > --,-c
+17:54:36 343:011 > --celadon-2
+17:54:42 343:005 > :
+17:54:44 343:006 > #52ad87
+17:54:50 343:006 > #124b33
+17:54:52 343:006 > #021b11
+17:54:54 343:006 > #072519
+17:54:56 343:006 > #357e60
+17:54:57 343:006 > #00d67d
+17:54:58 343:006 > #00d60b
+17:55:00 343:006 > #d6c800
+17:55:03 343:006 > #d67200
+17:55:05 343:006 > #d62000
+17:55:07 343:006 > #d66800
+17:55:08 343:006 > #60d600
+17:55:10 343:006 > #00d6a1
+17:55:13 343:006 > #0092d6
+17:55:16 343:006 > #0a6b97
+17:55:18 343:006 > #0681b9
+17:55:20 343:006 > #0086c4
+17:55:24 343:006 > #0024c4
+17:55:33 345:000 > .copyright-refrens p a{
+color:#0024c4;
+}
+
+17:55:36 345:022 > :
+17:55:37 345:023 > :h
+17:55:37 345:024 > :ho
+17:55:37 345:025 > :hov
+17:55:37 345:026 > :hove
+17:55:37 345:027 > :hover
+17:55:37 345:022 > :hover
+17:55:41 346:008 > #7786c7
+17:55:48 345:023 > c
+17:55:48 345:024 > cl
+17:55:49 345:025 > clc
+17:55:49 345:026 > clci
+17:55:50 345:023 > clcis
+17:56:04 345:023 > clcisv
+17:56:05 345:024 > clcisvi
+17:56:06 345:025 > clcisvis
+17:56:07 345:022 > :visited
+17:58:29 343:000 > .copyright-refrens p a:visited{
+  color: #7786c7;
+}
+
+17:58:31 346:023 > h
+17:58:33 346:022 > :hover
+17:59:20 347:009 > #001c99
+17:59:28 341:009 > #3ec400
+18:00:28 340:000 > .copyright-refrens p a {
+  color: #3ec400;
+}
+.copyright-refrens p a:visited{
+  color: #7786c7;
+}
+.copyright-refrens p a:hover{
+  color: #001c99;
+}
+
+18:00:38 343:023 > v
+18:00:40 343:022 > :visited
+18:01:46 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+18:01:56 132:010 > <p>Copyright &copy; 2024 BoxDelivery. All Rights Reserved</p>
+18:02:02 132:000 > <div class="copyright-refrens">
+18:02:02 133:000 > <p>Box Icon - <a href="https://www.flaticon.com/">flaticon</a></p>
+18:02:03 134:073 > <p>Box Icon - <a href="https://www.flaticon.com/">flaticon</a></p>
+18:02:23 133:073 > <div class="copyright-refrens">
+
+18:02:33 132:013 > c
+18:02:33 132:014 > cl
+18:02:33 132:015 > cla
+18:02:33 132:016 > clas
+18:02:33 132:013 > class=""
+18:02:39 132:020 > c
+18:02:39 132:021 > co
+18:02:39 132:022 > cop
+18:02:41 132:023 > copy
+18:02:41 132:024 > copyr
+18:02:41 132:025 > copyri
+18:02:41 132:026 > copyrig
+18:02:41 132:027 > copyrigh
+18:02:42 132:028 > copyright
+18:02:43 132:029 > copyright-
+18:02:48 132:030 > copyright-M
+18:02:48 132:031 > copyright-Ma
+18:02:48 132:032 > copyright-Mai
+18:02:48 132:033 > copyright-Main
+18:02:52 132:020 > copyright-Mainp
+18:02:59 132:020 > copyright-MainpE
+18:03:00 132:021 > copyright-MainpEn
+18:03:00 132:022 > copyright-MainpEnt
+18:03:00 132:023 > copyright-MainpEntr
+18:03:00 132:024 > copyright-MainpEntry
+18:03:05 132:020 > copyright-MainpEntryR
+18:03:06 132:021 > copyright-MainpEntryRu
+18:03:06 132:022 > copyright-MainpEntryRub
+18:03:08 132:020 > copyright-MainpEntryRubr
+18:03:08 132:021 > copyright-MainpEntryRubru
+18:03:09 132:022 > copyright-MainpEntryRubrub
+18:03:09 132:023 > copyright-MainpEntryRubrubr
+18:03:09 132:024 > copyright-MainpEntryRubrubri
+18:03:09 132:025 > copyright-MainpEntryRubrubrik
+18:03:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+18:03:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:03:19 339:000 > .
+18:03:20 339:001 > .r
+18:03:20 339:002 > .ru
+18:03:20 339:000 > .rubrik
+18:03:33 339:000 > .copyright-refrens p {
+  background-color: var(--mint-2);
+  padding: 10px;
+  border: solid 5px var(--dark-green);
+  border-radius: 5px;
+}
+18:03:37 339:019 > r
+18:03:38 339:020 > ru
+18:03:39 339:019 > .rubrik
+
+18:03:43 340:002 > j
+18:03:43 340:003 > ju
+18:03:44 340:004 > jus
+18:03:44 340:005 > just
+18:03:44 340:002 > justify-content: ;
+18:03:45 340:019 > c
+18:03:45 340:020 > ce
+18:03:45 340:019 > center
+
+18:03:58 339:011 > k
+18:03:59 339:000 > .copyright-kontainer
+18:04:43 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+18:04:57 132:013 > class="rubrik"
+18:05:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:05:09 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+18:05:42 132:086 > <div class="copyright-kontainer">
+18:06:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:06:58 339:000 > f
+18:06:59 339:001 > fo
+18:07:00 339:002 > foo
+18:07:00 339:003 > foot
+18:07:00 339:004 > foote
+18:07:00 339:005 > footer
+18:07:00 339:000 > footer
+18:07:13 317:000 > width: 100%;
+18:08:45 343:009 > #2d8d00
+18:09:23 342:000 > .copyright-refrens p a{
+  color: #2d8d00;
+}
+18:10:35 341:000 > .copyright-refrens p a{
+  color: #2d8d00;
+}
+.copyright-refrens p a:visited{
+  color: #7786c7;
+}
+.copyright-refrens p a:hover{
+  color: #001c99;
+}
+.copyright-info {
+  align-content: center;
+}
+
+18:11:15 329:002 > p
+18:11:15 329:003 > po
+18:11:15 329:004 > pos
+18:11:16 329:002 > position: relative;
+
+18:11:43 324:011 > g
+18:11:43 324:012 > gi
+18:11:44 324:013 > gir
+18:11:44 324:011 > grid
+
+18:12:00 325:002 > g
+18:12:00 325:003 > gr
+18:12:00 325:004 > gri
+18:12:01 325:005 > grid
+18:12:01 325:006 > gridt
+18:12:01 325:007 > gridte
+18:12:01 325:002 > grid-template-columns: ;
+18:12:04 325:025 > ""
+18:12:07 325:026 > 3
+18:12:12 325:026 > 31
+18:12:12 325:027 > 31f
+18:12:12 325:028 > 31fr
+18:12:13 325:030 > 31fr 1
+18:12:16 325:025 > 31fr 11
+18:12:16 325:026 > 31fr 11f
+18:12:17 325:027 > 31fr 11fr
+18:12:17 325:029 > 31fr 11fr 1
+18:12:17 325:030 > 31fr 11fr 1f
+18:12:18 325:031 > 31fr 11fr 1fr
+18:12:18 325:033 > 31fr 11fr 1fr 1
+18:12:18 325:034 > 31fr 11fr 1fr 1f
+18:12:18 325:035 > 31fr 11fr 1fr 1fr
+18:12:23 325:015 > 31fr 11fr 1fr 1fr.
+18:12:24 325:015 > 31fr 11fr 1fr 1fr.-
+18:12:40 325:016 > 31fr 11fr 1fr 1fr.-a
+18:12:41 325:002 > grid-template-columns:
+18:12:43 325:025 > 1
+18:12:43 325:026 > 1f
+18:12:43 325:027 > 1fr
+18:12:43 325:029 > 1fr 1
+18:12:44 325:030 > 1fr 1f
+18:12:44 325:030 > 1fr 1ff
+18:12:44 325:031 > 1fr 1ffr
+18:12:45 325:033 > 1fr 1ffr 1
+18:12:45 325:034 > 1fr 1ffr 1f
+18:12:45 325:035 > 1fr 1ffr 1fr
+
+18:12:47 326:002 > t
+18:12:47 326:002 > tg
+18:12:47 326:003 > tgr
+18:12:47 326:004 > tgri
+18:12:47 326:005 > tgrid
+18:12:48 326:006 > tgridt
+18:12:48 326:007 > tgridte
+18:12:48 326:008 > tgridtem
+18:12:48 326:009 > tgridtemp
+18:12:49 326:010 > tgridtempa
+18:12:49 326:011 > tgridtempar
+18:12:49 326:002 > grid-template-areas: ;
+18:12:50 326:023 > ""
+18:13:28 331:001 > .copyright-info {
+  align-content: center;
+}
+18:13:44 333:002 > align-content: center;
+
+18:13:50 329:002 > g
+18:13:50 329:003 > gi
+18:13:51 329:004 > gir
+18:13:51 329:003 > girr
+18:13:51 329:004 > girri
+18:13:51 329:005 > girrid
+18:13:54 329:006 > girridc
+18:13:54 329:007 > girridcp
+18:13:55 329:002 > grid-column: ;
+18:13:55 329:015 > 2
+18:14:28 395:002 > .copyright-kontainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+}
+
+18:14:30 396:013 > g
+18:14:31 396:013 > gf
+18:14:31 396:014 > gfl
+18:14:31 396:015 > gfle
+18:14:31 396:013 > flex
+
+18:14:59 397:004 > f
+18:14:59 397:005 > fl
+18:14:59 397:006 > fle
+18:15:00 397:007 > flex
+18:15:00 397:008 > flexd
+18:15:00 397:004 > flex-direction: ;
+18:15:01 397:020 > c
+18:15:01 397:020 > column
+18:16:24 330:000 > display: flex;
+18:16:38 399:002 > .copyright-refrens {
+  grid-column: 2;
+  display: flex;
+  gap: 20px;
+}
+
+18:16:52 400:004 > d
+18:16:52 400:005 > di
+18:16:52 400:006 > dis
+18:16:53 400:004 > display: ;
+18:16:54 400:013 > f
+18:16:54 400:014 > fl
+18:16:54 400:015 > fle
+18:16:54 400:013 > flex
+18:17:38 400:004 > d
+18:17:38 400:005 > di
+18:17:38 400:006 > dis
+18:17:38 400:007 > disp
+18:17:39 400:004 > display: ;
+18:17:39 400:013 > f
+18:17:40 400:013 > flex
+18:17:48 400:004 > f
+18:17:48 400:005 > fl
+18:17:48 400:006 > fle
+18:17:49 400:007 > flex
+18:17:49 400:004 > flex: ;
+18:17:50 400:008 > d
+18:17:51 400:004 > flex-direction:
+18:17:52 400:020 > column
+
+18:18:07 401:004 > w
+18:18:07 401:005 > wi
+18:18:08 401:006 > wid
+18:18:08 401:004 > width: ;
+18:18:09 401:011 > 5
+18:18:09 401:012 > 50
+18:18:10 401:013 > 50%
+18:18:10 401:011 > 50%
+
+18:18:15 402:004 > j
+18:18:16 402:005 > ju
+18:18:16 402:006 > jus
+18:18:16 402:007 > just
+18:18:16 402:004 > justify-content: ;
+18:18:17 402:021 > c
+18:18:17 402:021 > center
+18:18:17 402:027 > e
+
+18:18:27 398:004 > c
+18:18:27 398:005 > ce
+18:18:27 398:006 > cen
+18:18:28 398:004 > cenh
+18:18:28 398:005 > cenhj
+18:18:29 398:004 > cenhjj
+18:18:29 398:005 > cenhjju
+18:18:29 398:006 > cenhjjus
+18:18:30 398:007 > cenhjjust
+18:18:30 398:004 > justify-content: ;
+18:18:30 398:021 > c
+18:18:30 398:022 > ce
+18:18:30 398:023 > cen
+18:18:30 398:021 > center
+18:18:33 398:004 > a
+18:18:33 398:005 > al
+18:18:34 398:006 > ali
+18:18:34 398:007 > alig
+18:18:34 398:008 > aligc
+18:18:35 398:004 > align-content:
+18:18:35 398:019 > c
+18:18:35 398:020 > ce
+18:18:35 398:019 > center
+18:18:42 402:015 > align-content: center;
+
+18:18:47 402:021 > i
+18:18:47 402:022 > it
+18:18:47 402:023 > ite
+18:18:47 402:024 > item
+18:18:47 402:015 > align-items
+18:18:52 398:004 > align-items: center;
+18:18:57 402:011 > 4
+18:18:57 402:012 > 40
+18:20:26 337:000 > background-color: var(--mint-2);
+18:20:27 338:000 > border: solid 5px var(--dark-green);
+
+18:20:29 338:016 > 2
+18:20:34 338:016 > 23
+18:22:10 338:002 > 23p
+18:22:10 338:003 > 23pa
+18:22:10 338:004 > 23pad
+18:22:11 338:005 > 23padd
+18:22:11 338:002 > padding: ;
+18:22:11 338:011 > 2
+18:22:12 338:012 > 2p
+18:22:12 338:013 > 2px
+18:22:17 338:011 > 2px4
+18:23:28 322:001 > footer .rubrik{
+  justify-content: center;
+}
+
+18:23:40 323:000 > .
+18:23:41 323:001 > .k
+18:23:41 323:002 > .ko
+18:23:41 323:003 > .kom
+18:23:42 323:000 > .kontainer
+18:23:44 323:011 >  f
+18:23:44 323:012 >  fo
+18:23:44 323:013 >  foo
+18:23:44 323:014 >  foot
+18:23:44 323:011 > footer
+
+18:24:27 318:012 > r
+18:24:27 318:013 > re
+18:24:27 318:014 > rel
+18:24:28 318:012 > relative
+18:26:02 334:000 > gap: 20px;
+
+18:26:43 328:002 > j
+18:26:43 328:003 > ju
+18:26:43 328:004 > jus
+18:26:44 328:002 > justify-content: ;
+18:26:44 328:019 > baseline
+18:26:44 328:027 > c
+18:26:45 328:019 > cc
+18:26:45 328:020 > cce
+18:26:45 328:019 > center
+18:26:55 328:002 > m
+18:26:55 328:003 > ma
+18:26:55 328:004 > mar
+18:26:56 328:005 > marg
+18:26:56 328:002 > margin: ;
+18:26:57 328:010 > a
+18:26:57 328:010 > auto
+18:27:12 334:002 > margin: auto;
+
+18:28:36 332:014 > e
+18:28:37 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+18:28:43 134:035 > e
+18:31:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:32:42 360:025 > 1
+18:32:46 360:025 > 12
+18:32:55 360:032 > 122
+18:33:19 360:020 > 122.
+18:33:20 360:021 > 122.4
+18:33:29 362:009 > rgb(14, 45, 185)
+18:33:31 362:009 > rgb(0, 22, 117)
+18:33:33 362:009 > rgb(23, 53, 189)
+18:33:37 362:009 > rgb(23, 178, 189)
+18:33:39 362:009 > rgb(189, 70, 23)
+18:33:43 362:009 > rgb(221, 63, 0)
+18:33:45 362:009 > rgb(71, 20, 0)
+18:33:46 362:009 > rgb(136, 39, 0)
+18:33:48 362:009 > rgb(228, 65, 0)
+18:33:52 362:009 > rgb(228, 46, 0)
+18:33:56 362:009 > rgb(228, 0, 38)
+18:33:59 362:009 > rgb(199, 3, 36)
+18:34:00 362:009 > rgb(255, 0, 43)
+
+18:35:03 387:004 > p
+18:35:03 387:005 > po
+18:35:03 387:006 > pos
+18:35:04 387:004 > position: relative;
+18:36:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+18:36:13 030:038 > t
+18:36:13 030:039 > ta
+18:36:14 030:038 > target=""
+18:36:15 030:046 > _blank
+18:36:23 029:039 > target="_blank"
+18:36:32 028:029 > target="_blank"
+18:36:37 031:050 > target="_blank"
+18:36:46 031:000 > <a class="aktiv-sida" href="om-oss.html ">Om oss</a>
+18:36:50 031:000 > <a class="aktiv-sida" href="om-oss.html ">Om oss</a>
+18:36:56 031:051 > target="_blank"
+18:37:20 030:038 > ta
+
+18:37:23 134:035 > e
+18:37:24 030:037 > ta
+18:37:38 135:062 > target="_blank"
+18:37:41 136:056 > target="_blank"
+18:37:42 138:069 > target="_blank"
+18:38:23 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+18:38:42 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+18:39:04 057:014 > <p class="rubrik">
+          Copyright &copy; 2024 BoxDelivery. All Rights Reserved
+        </p>
+        <div class="copyright-kontainer">
+          <div class="copyright-referens">
+            <p>Box Icon - <a href="https://www.flaticon.com/" target="_blank">flaticon</a></p>
+            <p>Ui - <a href="https://fonts.google.com/" target="_blank">Google Fonts</a></p>
+            <p>
+              media - <a href="https://www.pexels.com/search/boxes/" target="_blank">Pexels</a>
+            </p>
+          </div>
+          <p class="copyright-info">
+            This page features royalty-free images, videos, and text.
+          </p>
+        </div>
+18:39:04 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:39:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+18:39:05 073:074 > >Box Icon - <a href="https://www.flaticon.com/" target="_blank">flaticon</a></p>
+            <p>Ui - <a href="https://fonts.google.com/" target="_blank">Google Fonts</a></p>
+            <p>
+              media - <a href="https://www.pexels.com/search/boxes/" target="_blank">Pexels</a>
+            </p>
+          </div>
+          <p class="copyright-info">
+            This page features royalty-free images, videos, and text.
+          </p>
+        </div
+18:39:05 073:073 > p>
+        <div class="copyright-kontainer">
+          <div class="copyright-referens">
+            <
+18:39:05 073:016 > class="rubrik"
+18:39:06 102:074 > >Box Icon - <a href="https://www.flaticon.com/" target="_blank">flaticon</a></p>
+            <p>Ui - <a href="https://fonts.google.com/" target="_blank">Google Fonts</a></p>
+            <p>
+              media - <a href="https://www.pexels.com/search/boxes/" target="_blank">Pexels</a>
+            </p>
+          </div>
+          <p class="copyright-info">
+            This page features royalty-free images, videos, and text.
+          </p>
+        </div
+18:39:06 102:073 > p>
+        <div class="copyright-kontainer">
+          <div class="copyright-referens">
+            <
+18:39:06 102:016 > class="rubrik"
+18:39:35 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+18:44:31 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:44:35 362:009 > #FFFF00
+18:46:22 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+18:46:52 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+18:47:03 357:002 > b
+18:47:03 357:003 > ba
+18:47:03 357:004 > bac
+18:47:03 357:005 > back
+18:47:04 357:006 > backg
+18:47:04 357:002 > background-color: ;
+18:47:08 357:020 > r
+18:47:08 357:021 > re
+18:47:09 357:022 > red
+18:47:09 357:020 > red
+
+18:47:12 358:002 > b
+18:47:12 358:003 > bo
+18:47:12 358:004 > bor
+18:47:12 358:005 > bord
+18:47:13 358:002 > border: ;
+18:47:13 358:010 > c
+18:47:13 358:011 > co
+18:47:16 358:010 > co  s
+18:47:16 358:011 > co  so
+18:47:16 358:012 > co  sol
+18:47:16 358:010 > solid
+18:47:18 358:015 > l
+18:47:18 358:016 > lb
+18:47:20 358:016 > lb 5
+18:47:21 358:017 > lb 5p
+18:47:21 358:018 > lb 5px
+18:47:25 358:020 > lb 5px s
+18:47:26 358:020 > lb 5px sv
+18:47:26 358:021 > lb 5px sva
+18:47:26 358:022 > lb 5px svar
+18:47:26 358:020 > var()
+18:47:27 358:024 > -
+18:47:27 358:025 > --
+18:47:27 358:026 > --d
+18:47:27 358:027 > --da
+18:47:27 358:028 > --dar
+18:47:28 358:024 > --dark-green
+18:47:33 358:024 > b
+18:47:34 358:025 > bl
+18:47:34 358:026 > bla
+18:47:34 358:027 > blac
+18:47:36 358:020 > blacb
+18:47:36 358:021 > blacbl
+18:47:37 358:022 > blacbla
+18:47:37 358:020 > black
+18:47:44 358:016 > 1
+18:47:44 358:017 > 10
+
+18:47:46 359:002 > b
+18:47:46 359:003 > bo
+18:47:46 359:004 > bor
+18:47:47 359:005 > bora
+18:47:47 359:002 > border-radius: ;
+18:47:48 359:017 > 2
+18:47:48 359:018 > 20
+18:47:49 359:019 > 20p
+18:47:49 359:020 > 20px
+18:47:49 359:017 > 20px
+18:48:09 357:020 > rgb(85, 59, 59)
+
+18:49:30 356:010 > 2
+18:49:30 356:011 > 20
+18:49:31 356:012 > 200
+18:49:31 356:013 > 200p
+18:49:31 356:014 > 200px
+18:49:33 356:010 > 200px1
+18:49:33 356:011 > 200px10
+18:49:33 356:012 > 200px100
+18:49:33 356:013 > 200px100p
+18:49:33 356:014 > 200px100px
+18:49:50 357:020 > rgb(148, 23, 23)
+18:49:51 357:020 > rgb(23, 92, 148)
+18:49:54 357:020 > rgb(20, 59, 90)
+18:49:56 357:020 > rgb(20, 90, 57)
+18:50:00 357:020 > rgb(15, 95, 58)
+
+18:50:14 360:002 > f
+18:50:14 360:003 > fo
+18:50:15 360:004 > fon
+18:50:17 360:002 > fonc
+18:50:17 360:003 > fonco
+18:50:17 360:004 > foncol
+18:50:17 360:005 > foncolo
+18:50:18 360:006 > foncolor
+18:50:18 360:002 > color: ;
+18:50:19 360:009 > w
+18:50:19 360:010 > wh
+18:50:19 360:011 > whi
+18:50:20 360:009 > white
+18:50:22 360:009 > whi
+18:50:33 360:007 > :
+18:50:34 360:008 > :v
+18:50:34 360:009 > :va
+18:50:35 360:010 > :var
+18:50:35 360:008 > var()
+18:50:37 360:012 > --celadon
+18:50:41 360:021 > -
+18:50:42 360:022 > -2
+18:50:42 360:012 > --celadon-2
+18:50:46 360:011 > ()
+18:50:48 360:012 > m
+18:50:48 360:013 > mi
+18:50:48 360:014 > min
+18:50:48 360:012 > --mint
+18:50:50 360:018 > -
+18:50:50 360:019 > -2
+18:50:50 360:012 > --mint-2
+18:51:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+18:51:45 076:014 > 1
+18:51:48 076:021 > 11
+18:51:50 076:021 > 11h
+18:51:52 076:020 > /h1
+18:52:00 076:022 > 2
+18:52:03 076:014 > 22
+
+18:52:07 040:014 > 2
+18:52:09 040:025 > 22
+18:52:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+18:52:31 363:000 > .kontainer main .innehåll .om-oss h3 {
+  font-size: Clamp(1.4rem, 2vw, 2.2rem);
+  padding: 20px;
+  color: #FFFF00;
+}
+
+18:52:35 363:035 > 1
+18:52:36 363:034 > h1
+18:52:37 363:035 > 2
+18:52:37 363:034 > h2
+
+18:52:43 364:002 > c
+18:52:43 364:003 > co
+18:52:43 364:004 > col
+18:52:43 364:005 > colo
+18:52:43 364:006 > color
+18:52:43 364:002 > color: ;
+18:52:44 364:009 > b
+18:52:45 364:010 > bl
+18:52:48 364:009 > blv
+18:52:48 364:010 > blva
+18:52:48 364:011 > blvar
+18:52:48 364:009 > var()
+18:52:52 364:013 > --nyanza
+18:53:02 369:009 > #ff0037
+18:53:08 369:009 > #ae00ff
+18:53:10 369:009 > #2bff00
+18:53:13 369:009 > #26c705
+18:53:14 369:009 > #05c7bd
+18:53:16 369:009 > #2905c7
+18:53:18 369:009 > #0580c7
+18:53:20 369:009 > #0579c7
+18:53:22 369:009 > #05c7ad
+18:53:25 369:009 > #00f1d1
+18:53:26 369:009 > #0abea6
+18:53:28 369:009 > #0a7cbe
+18:53:30 369:009 > #5e0abe
+18:53:31 369:009 > #be0a64
+18:53:33 369:009 > #be0a28
+18:53:38 369:009 > #be4c0a
+18:53:41 369:009 > #beb20a
+18:53:43 369:009 > #61be0a
+18:53:45 369:009 > #28be0a
+18:53:48 369:009 > #0abe0a
+
+18:54:00 360:007 > :
+18:54:02 360:008 > #52796fff
+18:54:04 360:008 > rgb(5, 141, 107)
+18:54:07 360:024 > ;
+18:54:09 360:008 > rgb(5, 141, 130)
+18:54:11 360:008 > rgb(5, 141, 5)
+18:54:13 360:008 > rgb(141, 127, 5)
+18:54:16 360:008 > rgb(141, 59, 5)
+18:54:18 360:008 > rgb(0, 0, 0)
+18:54:32 369:009 > #7fbe0a
+18:54:36 369:009 > #689b0a
+18:54:39 369:009 > #87cc06
+18:54:41 369:009 > #8bd600
+18:55:25 357:020 > rgb(0, 218, 116)
+18:55:29 357:020 > rgb(98, 218, 0)
+18:55:36 357:020 > rgb(38, 78, 5)
+18:55:38 357:020 > rgb(18, 37, 2)
+18:55:41 357:020 > rgb(5, 5, 4)
+18:55:41 357:020 > rgb(40, 44, 37)
+18:55:43 357:020 > rgb(51, 51, 51)
+18:55:46 357:020 > rgb(49, 51, 47)
+18:56:03 360:008 > rgb(0, 0, 0)
+18:56:11 357:020 > rgb(51, 50, 47)
+18:56:13 357:020 > rgb(201, 171, 0)
+18:56:15 357:020 > rgb(179, 153, 10)
+18:56:23 357:020 > rgb(192, 170, 44)
+18:56:26 357:020 > rgb(175, 152, 20)
+18:56:29 357:020 > rgb(206, 181, 37)
+18:57:19 357:020 > rgb(255,209,100)
+18:57:42 369:009 > rgb(255,128,135)
+18:58:03 360:008 > rgb(255,128,135)
+18:58:06 360:008 > rgb(0, 0, 0)
+18:58:07 369:009 > #8bd600
+18:58:09 369:009 > rgb(255,128,135)
+18:58:15 364:009 > rgb(255,128,135)
+18:58:18 364:009 > rgb(241, 85, 93)

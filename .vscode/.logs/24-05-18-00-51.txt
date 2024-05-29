@@ -1,0 +1,180 @@
+24-05-18 00:51 Session started
+----------------------------------------
+00:51:11 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+00:51:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+00:51:24 000:000 > ä
+00:51:25 000:001 > än
+00:51:25 000:002 > änd
+00:51:25 000:003 > ändr
+00:51:25 000:004 > ändra
+00:51:26 000:005 > ändrad
+00:51:26 000:006 > ändrade
+00:51:26 000:008 > ändrade s
+00:51:26 000:009 > ändrade st
+00:51:26 000:010 > ändrade sto
+00:51:27 000:011 > ändrade stor
+00:51:27 000:012 > ändrade storl
+00:51:27 000:013 > ändrade storle
+00:51:27 000:014 > ändrade storlek
+00:51:27 000:015 > ändrade storlekt
+00:51:28 000:016 > ändrade storlekt p
+00:51:28 000:017 > ändrade storlekt på
+00:51:29 000:019 > ändrade storlekt på e
+00:51:29 000:020 > ändrade storlekt på em
+00:51:30 000:020 > ändrade storlekt på em n
+00:51:30 000:022 > ändrade storlekt på em n f
+00:51:30 000:023 > ändrade storlekt på em n fo
+00:51:31 000:024 > ändrade storlekt på em n fon
+00:51:31 000:025 > ändrade storlekt på em n font
+00:51:33 000:027 > ändrade storlekt på em n font s
+00:51:34 000:028 > ändrade storlekt på em n font so
+00:51:35 000:029 > ändrade storlekt på em n font so m
+00:51:35 000:031 > ändrade storlekt på em n font so m v
+00:51:35 000:032 > ändrade storlekt på em n font so m va
+00:51:35 000:033 > ändrade storlekt på em n font so m var
+00:51:36 000:035 > ändrade storlekt på em n font so m var d
+00:51:36 000:036 > ändrade storlekt på em n font so m var dy
+00:51:37 000:037 > ändrade storlekt på em n font so m var dyn
+00:51:38 000:035 > ändrade storlekt på em n font so m var dynf
+00:51:38 000:036 > ändrade storlekt på em n font so m var dynfö
+00:51:39 000:037 > ändrade storlekt på em n font so m var dynför
+00:51:39 000:039 > ändrade storlekt på em n font so m var dynför l
+00:51:39 000:040 > ändrade storlekt på em n font so m var dynför li
+00:51:39 000:041 > ändrade storlekt på em n font so m var dynför lit
+00:51:39 000:042 > ändrade storlekt på em n font so m var dynför lite
+00:51:40 000:043 > ändrade storlekt på em n font so m var dynför liten
+00:51:44 000:045 > ändrade storlekt på em n font so m var dynför liten n
+00:51:44 000:046 > ändrade storlekt på em n font so m var dynför liten nä
+00:51:44 000:047 > ändrade storlekt på em n font so m var dynför liten när
+00:51:45 000:049 > ändrade storlekt på em n font so m var dynför liten när m
+00:51:45 000:050 > ändrade storlekt på em n font so m var dynför liten när ma
+00:51:45 000:051 > ändrade storlekt på em n font so m var dynför liten när man
+00:51:45 000:053 > ändrade storlekt på em n font so m var dynför liten när man s
+00:51:46 000:053 > ändrade storlekt på em n font so m var dynför liten när man sz
+00:51:46 000:054 > ändrade storlekt på em n font so m var dynför liten när man szo
+00:51:46 000:055 > ändrade storlekt på em n font so m var dynför liten när man szoo
+00:51:46 000:056 > ändrade storlekt på em n font so m var dynför liten när man szoom
+00:51:46 000:057 > ändrade storlekt på em n font so m var dynför liten när man szooma
+00:51:47 000:058 > ändrade storlekt på em n font so m var dynför liten när man szoomad
+00:51:47 000:059 > ändrade storlekt på em n font so m var dynför liten när man szoomade
+00:51:48 000:061 > ändrade storlekt på em n font so m var dynför liten när man szoomade u
+00:51:53 000:053 > ändrade storlekt på em n font so m var dynför liten när man szoomade uä
+00:51:53 000:054 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär
+00:51:54 000:056 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär d
+00:51:58 000:053 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dz
+00:51:58 000:054 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzo
+00:51:58 000:055 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoo
+00:51:58 000:056 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoom
+00:51:59 000:057 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzooma
+00:51:59 000:058 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomar
+00:52:01 000:053 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarh
+00:52:01 000:054 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarha
+00:52:01 000:055 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarhar
+00:52:01 000:057 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarhar m
+00:52:02 000:058 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarhar mo
+00:52:02 000:059 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarhar moo
+00:52:02 000:060 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarhar moob
+00:52:02 000:061 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarhar moobi
+00:52:03 000:059 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarhar moobib
+00:52:03 000:060 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarhar moobibu
+00:52:04 000:060 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarhar moobibui
+00:52:04 000:061 > ändrade storlekt på em n font so m var dynför liten när man szoomade uär dzoomarhar moobibuil
+00:52:08 270:000 > font-size: Clamp(1rem, 4vw, 2.3rem);
+}
+.kontainer main .innehåll {
+  font-size: Clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+h1 {
+  font-weight: 900;
+}
+
+.kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  /* att elementen bara tar platsen de behöver.*/
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px var(--dark-green);
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+.kontainer main .innehåll .om-oss {
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+.kontainer main .innehåll .om-oss h3 {
+  font-size: Clamp(1rem, 3vw, 2.3rem);
+  padding: 20px;
+  color: rgb(185, 14, 42);
+}
+/*mörkt läge*/
+
+body.mörkt-läge-på,
+.kontainer main h1.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på,
+.kontainer main .innehåll.mörkt-läge-på {
+  --mörkt-läge: #1a1a1a;
+  background-color: var(--mörkt-läge);
+  color: white;
+}
+.kontainer footer.mörkt-läge-på {
+  background-color: #131313;
+}
+.kontainer .kontakta-oss-kontainer.mörkt-läge-på {
+  color: var(--mörkt-läge);
+}
+
+/*Responsiv Design*/
+@media (max-width: 700px) {
+  .kontainer .alternativ,
+  .kontainer nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .kontainer main .alternativ-kontainer {
+    position: relative;
+  }

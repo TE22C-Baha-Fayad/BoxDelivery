@@ -1,0 +1,518 @@
+24-05-19 01:04 Session started
+----------------------------------------
+01:04:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:04:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+01:04:44 197:001 > *
+01:04:44 197:002 > **
+01:04:46 197:001 > ***
+01:05:00 197:001 > ****
+01:06:46 075:001 > z-index: 1;
+
+01:07:24 119:000 > a
+01:07:24 119:001 > aw
+01:07:25 119:002 > awd
+01:07:25 119:003 > awda
+01:07:25 119:004 > awdaw
+01:07:25 119:005 > awdawd
+01:07:25 119:006 > {}
+01:07:33 119:000 > .
+01:07:48 116:000 > .kontainer main {
+  margin: 0 0 50px 0;
+}
+
+01:07:56 121:002 > c
+01:07:56 121:003 > co
+01:07:56 121:004 > col
+01:07:57 121:005 > colo
+01:07:57 121:002 > color: ;
+01:07:57 121:009 > a
+01:07:58 121:009 > aliceblue
+01:11:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:11:45 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:11:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+01:11:50 119:000 > d
+01:11:50 119:001 > da
+01:11:50 119:002 > dad
+01:11:51 119:003 > {}
+01:11:55 119:000 > .
+01:11:57 119:000 > .aktiv-sida
+01:21:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:21:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+01:22:07 040:012 > i
+01:22:07 040:013 > im
+01:22:08 040:014 > img
+01:22:08 040:012 > <img src="" alt="">
+01:22:10 040:022 > .
+01:22:10 040:023 > ()
+01:22:11 040:023 > /
+01:22:11 040:024 > bilder/
+01:22:13 040:031 > cat.jpg
+01:22:15 040:045 > k
+01:22:16 040:046 > ka
+01:22:16 040:047 > kat
+01:22:16 040:048 > katt
+01:22:34 041:012 > <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
+01:22:36 041:911 > /
+01:22:36 041:746 > /    /
+
+01:22:36 040:050 > /
+01:23:27 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:23:29 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:23:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+01:23:47 064:044 > ;
+
+01:24:05 041:911 > /
+01:24:05 041:746 > /    /
+
+01:24:05 040:050 > /
+
+01:24:24 064:044 > ;
+01:25:24 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:26:02 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+01:27:09 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+01:27:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:27:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+01:27:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+01:27:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+01:27:22 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:27:23 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+
+01:27:31 000:000 > v
+01:27:31 000:001 > vi
+01:27:31 000:002 > vik
+01:27:31 000:003 > vikt
+01:27:31 000:004 > vikti
+01:27:31 000:005 > viktig
+01:27:38 000:007 > viktig  k
+01:27:39 000:008 > viktig  ko
+01:27:40 000:007 > viktig  koc
+01:27:40 000:008 > viktig  koco
+01:27:40 000:009 > viktig  kocom
+01:27:40 000:010 > viktig  kocomm
+01:27:41 000:011 > viktig  kocommi
+01:27:41 000:012 > viktig  kocommit
+01:27:41 000:014 > viktig  kocommit f
+01:27:41 000:015 > viktig  kocommit fl
+01:27:42 000:015 > viktig  kocommit flö
+01:27:42 000:016 > viktig  kocommit flör
+01:27:46 000:018 > viktig  kocommit flör h
+01:27:46 000:019 > viktig  kocommit flör hs
+01:27:47 000:018 > viktig  kocommit flör hsj
+01:27:47 000:019 > viktig  kocommit flör hsjs
+01:28:05 025:023 > ".copyright-referens p",
+  ".kontainer main h1",
+  ".kontainer nav .mörkt-läge-kontainer a",
+  ".kontainer header a",
+  ".kontainer footer",
+  ".kontainer nav",
+  ".kontainer .kontakta-oss-kontainer",
+];
+
+function VäxlaMörktLäge() {
+  document.body.classList.toggle("mörkt-läge-på");
+  elementToModify.forEach(VäxleElementLäge);
+
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  localStorage.setItem(mörktLägeNyckel, ärMörktläge !== "true");
+}
+
+function VäxleElementLäge(cssSelector) {
+  let allaElement = document.querySelectorAll(cssSelector);
+  allaElement.forEach((element) => {
+    if (element) {
+      element.classList.toggle("mörkt-läge-på");
+    }
+  });
+}
+
+function LäggTillMörktLägeKlasser() {
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel) === "true";
+
+  if (ärMörktläge) {
+    document.body.classList.add("mörkt-läge-på");
+    elementToModify.forEach(LäggTillMörktLägeKlass);
+    UppdateraMörktLägesIkon();
+  }
+}
+
+function LäggTillMörktLägeKlass(cssSelector) {
+  let element = document.querySelector(cssSelector);
+  if (element) {
+    element.classList.add("mörkt-läge-på");
+  }
+}
+
+LäggTillMörktLägeKlasser();
+01:28:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+01:28:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:28:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+01:28:21 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+01:30:17 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:30:32 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+01:43:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:43:50 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:44:03 069:012 > <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pac-Man -->
+  <circle cx="100" cy="100" r="80" fill="yellow" stroke="black" stroke-width="2"/>
+  <polygon points="100,100 180,50 180,150" fill="black"/>
+
+  <!-- Ghost -->
+  <g transform="translate(50, 50)">
+    <rect x="100" y="100" width="80" height="60" fill="red" stroke="black" stroke-width="2" />
+    <circle cx="120" cy="110" r="10" fill="white" stroke="black" stroke-width="2"/>
+    <circle cx="160" cy="110" r="10" fill="white" stroke="black" stroke-width="2"/>
+    <circle cx="120" cy="110" r="5" fill="blue"/>
+    <circle cx="160" cy="110" r="5" fill="blue"/>
+    <path d="M100 160 Q110 150, 120 160 Q130 150, 140 160 Q150 150, 160 160 Q170 150, 180 160 L180 180 L100 180 Z" fill="red" stroke="black" stroke-width="2"/>
+  </g>
+</svg>
+01:44:11 069:012 > This page features royalty-free images, videos, and text.
+01:44:12 069:012 > <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pac-Man -->
+  <circle cx="100" cy="100" r="80" fill="yellow" stroke="black" stroke-width="2"/>
+  <polygon points="100,100 180,50 180,150" fill="black"/>
+
+  <!-- Ghost -->
+  <g transform="translate(50, 50)">
+    <rect x="100" y="100" width="80" height="60" fill="red" stroke="black" stroke-width="2" />
+    <circle cx="120" cy="110" r="10" fill="white" stroke="black" stroke-width="2"/>
+    <circle cx="160" cy="110" r="10" fill="white" stroke="black" stroke-width="2"/>
+    <circle cx="120" cy="110" r="5" fill="blue"/>
+    <circle cx="160" cy="110" r="5" fill="blue"/>
+    <path d="M100 160 Q110 150, 120 160 Q130 150, 140 160 Q150 150, 160 160 Q170 150, 180 160 L180 180 L100 180 Z" fill="red" stroke="black" stroke-width="2"/>
+  </g>
+</svg>
+01:44:22 069:012 > This page features royalty-free images, videos, and text.
+01:44:33 069:012 > <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+01:44:43 069:014 > class="copyright-info"
+01:45:07 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:45:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:45:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+01:45:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:45:47 084:010 > <p class="copyright-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+01:45:47 113:010 > <p class="copyright-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+01:45:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:45:47 113:010 > <p class="copyright-info">
+            This page features royalty-free images, videos, and text.
+          </p>
+01:45:47 113:010 > <p class="copyright-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+01:45:48 113:010 > <p class="copyright-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+01:45:48 142:010 > <p class="copyright-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+01:45:48 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+01:45:48 142:010 > <p class="copyright-info">
+            This page features royalty-free images, videos, and text.
+          </p>
+01:45:48 142:010 > <p class="copyright-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+01:45:49 142:010 > <p class="copyright-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+01:45:49 142:010 > <p class="copyright-info">
+            This page features royalty-free images, videos, and text.
+          </p>
+01:45:49 142:010 > <p class="copyright-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+01:45:49 142:010 > <p class="copyright-info">
+            This page features royalty-free images, videos, and text.
+          </p>
+01:45:49 142:010 > <p class="copyright-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.flickr.com/photos/alisdair/111897917">More of Meg in a box. When in a photo drought, post old cat pictures.</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.flickr.com/photos/alisdair/">alisdair</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+01:45:49 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+01:46:07 086:010 > </p>
+
+01:46:07 084:944 > /
+01:46:07 084:779 > /    /
+01:46:07 084:011 > <p
+
+01:46:11 123:021 > 2
+01:46:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+
+01:46:15 068:934 > /
+01:46:15 068:769 > /    /
+
+01:46:17 105:021 > 2
+01:46:19 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+
+01:46:20 113:944 > /
+01:46:20 113:779 > /    /
+01:46:20 113:010 > <p
+
+01:46:26 150:021 > 2
+01:46:30 Document switched to: extension-output-esbenp.prettier-vscode-#3-Prettier
+----------------------------------------
+01:46:32 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:46:39 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+
+01:46:42 142:944 > /
+01:46:42 142:779 > /    /
+01:46:42 142:010 > <p
+
+01:46:42 040:050 > /
+
+01:46:45 178:021 > 2
+01:47:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+01:48:08 322:020 > c
+01:48:09 322:020 > calc()
+01:48:10 322:020 > c
+01:48:11 322:021 > cs
+01:48:11 322:020 > chartreuse
+01:48:15 322:020 > rgb(57, 107, 6)
+01:48:37 322:020 > rgb(35, 65, 5)
+01:48:41 322:020 > rgb(57, 107, 6)
+01:48:41 322:020 > chartreuse
+01:48:42 322:020 > cs
+01:48:43 322:020 > var(--celadon-2)
+01:49:05 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+01:49:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+
+01:49:24 064:002 > f
+01:49:25 064:003 > fo
+01:49:25 064:004 > for
+01:49:27 064:002 > fore
+01:49:27 064:003 > forel
+01:49:27 064:004 > forele
+01:50:04 057:016 > ra
+01:50:04 057:011 > AttÄn
+01:50:04 037:014 > ra
+01:50:04 037:009 > AttÄn
+01:50:04 025:016 > ra
+01:50:04 025:011 > AttÄn
+01:50:41 059:003 > function LäggTillMörktLägeKlass(cssSelector) {
+  let element = document.querySelector(cssSelector);
+  
+  if (element) {
+    element.classList.add("mörkt-läge-på");
+  }
+}
+
+01:51:11 061:040 > s
+01:51:13 061:040 > ss
+01:51:16 061:027 > querySelectorAll
+01:51:19 061:015 > s
+
+01:51:20 062:008 > s
+01:51:25 062:008 > se
+01:51:25 062:009 > sel
+01:51:25 062:010 > sele
+01:51:25 062:011 > selem
+01:51:25 062:012 > seleme
+01:51:25 062:013 > selemen
+01:51:26 062:014 > selement
+01:51:29 062:004 > selementf
+01:51:30 062:005 > selementfo
+01:51:30 062:006 > selementfor
+01:51:31 062:007 > selementfore
+01:51:31 062:008 > selementforea
+01:51:31 062:004 > array.forEach(element => {
+      
+    });
+01:51:35 062:004 > e
+01:51:35 062:005 > el
+01:51:35 062:006 > ele
+01:51:35 062:007 > elem
+01:51:36 062:008 > eleme
+01:51:36 062:009 > elemen
+01:51:37 062:010 > element
+01:51:37 062:011 > elements
+01:51:37 062:004 > elements
+01:51:44 063:006 > if (element) {
+      element.classList.add("mörkt-läge-på");
+    }
+
+01:51:52 061:008 > a
+01:51:52 061:009 > al
+01:51:52 061:010 > ala
+01:51:53 061:010 > alal
+01:51:53 061:011 > alala
+01:51:54 061:008 > allaElement
+01:52:02 064:006 > allaElement
+
+01:52:03 062:028 > )
+01:52:03 062:021 > )(
+01:52:06 064:006 > element
+01:52:10 062:004 > allaElement
+01:53:09 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+01:53:55 342:002 > padding: 8px;
+  border-radius: 10px;
+
+01:54:37 352:019 > ,
+01:54:45 352:026 > ,,
+
+01:54:47 353:000 > .
+01:54:48 353:001 > .c
+01:54:49 353:002 > .co
+01:54:50 353:003 > .cop
+01:54:50 353:004 > .copr
+01:54:50 353:000 > .copyright-info
+01:54:52 353:016 >  a
+01:54:53 353:017 >  a:
+01:54:53 353:018 >  a:l
+01:54:53 353:019 >  a:li
+01:54:54 353:020 >  a:lin
+01:54:54 353:017 > :link
+01:54:55 353:022 > ,
+
+01:55:38 391:035 > ,
+01:55:39 392:000 > .copyright-info
+
+01:55:41 392:015 > .
+01:55:42 392:016 > .m
+01:55:43 392:017 > .mö
+01:55:43 392:018 > .mör
+01:55:43 392:019 > .mörk
+01:55:43 392:020 > .mörkt
+01:55:45 392:021 > .mörktl
+01:55:46 392:021 > .mörktl-
+01:55:47 392:022 > .mörktl-l
+01:55:47 392:023 > .mörktl-lä
+01:55:48 392:024 > .mörktl-läg
+01:55:48 392:025 > .mörktl-läge
+01:55:49 392:026 > .mörktl-läge_
+01:55:49 392:026 > .mörktl-läge_-
+01:55:51 392:027 > .mörktl-läge_-p
+01:55:51 392:028 > .mörktl-läge_-på
+01:56:15 392:026 > .mörktl-läge_-på _
+01:56:16 392:021 > .mörktl-läge_-på _l
+01:56:22 391:036 > .copyright-info
+
+01:56:47 390:015 > .
+01:56:47 390:016 > .m
+01:56:47 390:017 > .mä
+01:56:48 390:018 > .mär
+01:56:48 390:019 > .märl
+01:56:50 390:017 > .märlö
+01:56:50 390:018 > .märlör
+01:56:50 390:019 > .märlörk
+01:56:51 390:015 > .mörkt-läge-kontainer
+01:56:53 390:027 > p
+01:56:53 390:028 > på
+01:56:54 390:015 > .innehåll.mörkt-läge-på
+01:57:51 390:031 > .copyright-referens p.mörkt-läge-på,
+01:57:52 389:031 > .kontainer main .innehåll.mörkt-läge-på,
+01:57:53 388:031 > .kontainer header a.mörkt-läge-på,
+01:57:53 387:031 > .kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+01:57:53 386:031 > .kontainer nav.mörkt-läge-på,
+01:57:53 385:031 > .kontainer main h1.mörkt-läge-på,
+01:57:53 384:031 > body.mörkt-läge-på,
+01:57:54 383:000 > body.mörkt-läge-på,
+01:57:55 384:000 > .kontainer main h1.mörkt-läge-på,
+01:57:55 385:000 > .kontainer nav.mörkt-läge-på,
+01:57:56 386:000 > .kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+01:57:56 387:000 > .kontainer header a.mörkt-läge-på,
+01:57:56 388:000 > .kontainer main .innehåll.mörkt-läge-på,
+01:57:56 389:000 > .copyright-referens p.mörkt-läge-på,
+01:58:11 389:000 > .copyright-info.mörkt-läge-på
+
+01:58:14 389:000 > ,
+01:58:57 389:035 > .copyright-info
+01:59:05 389:035 > ,
+01:59:06 389:036 > .copyright-info
+
+01:59:20 390:015 > .
+01:59:30 390:016 > .m
+01:59:30 390:017 > .mö
+01:59:37 390:015 > .innehåll.mörkt-läge-på
+01:59:54 Document switched to: extension-output-esbenp.prettier-vscode-#3-Prettier
+----------------------------------------
+01:59:57 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:00:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+02:00:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:00:14 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+02:00:15 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:00:51 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+02:01:01 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:01:16 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+02:01:17 026:002 > .copyright-info
+
+02:01:19 026:017 > "
+02:01:19 026:002 > ""
+02:01:21 026:019 > "",
+02:01:40 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+02:01:42 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:01:44 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+02:01:48 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+02:02:12 328:000 > g
+02:02:12 328:001 > ga
+02:02:14 328:002 > gap
+02:02:14 328:000 > gap: ;
+02:02:15 328:005 > 1
+02:02:16 328:006 > 10
+02:02:17 328:007 > 10p
+02:02:18 328:008 > 10px
+02:02:27 328:007 > 10px2
+02:02:28 328:008 > 10px20
+
+02:05:51 354:027 > ,
+02:05:52 355:000 > .copyright-info a:link
+
+02:06:05 355:018 > h
+02:06:06 355:019 > ho
+02:06:06 355:020 > hov
+02:06:06 355:021 > hove
+02:06:06 355:022 > hover
+02:06:06 355:017 > :hover
+
+02:06:16 359:029 > ,
+02:06:16 360:000 > .copyright-info a
+
+02:06:18 360:017 > :
+02:06:19 360:018 > :v
+02:06:19 360:019 > :vi
+02:06:19 360:020 > :vis
+02:06:19 360:017 > :visited

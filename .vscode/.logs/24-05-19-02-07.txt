@@ -1,0 +1,1822 @@
+24-05-19 02:07 Session started
+----------------------------------------
+02:07:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:15:11 375:001 > .kontainer main .innehåll .om-oss {
+  margin: 100px auto 0 auto;
+  background-color: rgb(255, 209, 100);
+  border: solid 10px rgb(87, 87, 87);
+  border-radius: 20px;
+  color: rgb(0, 0, 0);
+  width: 50%;
+}
+
+02:15:16 376:034 > i
+02:15:16 376:035 > im
+02:15:16 376:036 > img
+
+02:15:21 377:001 > s
+02:15:22 377:002 > sc
+02:15:22 377:003 > sca
+02:15:23 377:001 > scale: ;
+02:15:24 377:001 > t
+02:15:25 377:002 > tr
+02:15:25 377:003 > tra
+02:15:25 377:004 > tran
+02:15:25 377:005 > trans
+02:15:25 377:001 > transform:
+02:15:26 377:012 > s
+02:15:26 377:013 > sc
+02:15:26 377:014 > sca
+02:15:27 377:012 > scale()
+02:15:27 377:018 > 1
+02:15:28 377:019 > 1.
+02:15:28 377:020 > 1.2
+02:15:29 377:021 > 1.2x
+02:15:35 377:020 > 1.2x1
+
+02:15:39 376:037 > :
+02:15:40 376:038 > :h
+02:15:40 376:039 > :ho
+02:15:40 376:040 > :hov
+02:15:40 376:041 > :hovr
+02:15:40 376:037 > :hover
+
+02:15:49 377:002 > t
+02:15:49 377:003 > tr
+02:15:49 377:004 > tra
+02:15:50 377:005 > tran
+02:15:50 377:006 > trans
+02:15:50 377:002 > transform: ;
+02:15:52 377:002 > t
+02:15:52 377:003 > tr
+02:15:53 377:004 > tra
+02:15:53 377:005 > tran
+02:15:53 377:006 > trans
+02:15:53 377:007 > transs
+02:15:55 377:002 > transition:
+02:15:56 377:014 > s
+02:15:56 377:015 > sc
+02:15:56 377:016 > sca
+02:15:57 377:017 > scal
+02:15:57 377:018 > scale
+02:15:57 377:019 > scaler
+02:15:58 377:014 > scalert
+02:15:58 377:015 > scalertr
+02:15:58 377:016 > scalertra
+02:15:59 377:017 > scalertran
+02:15:59 377:018 > scalertrans
+02:15:59 377:019 > scalertranso
+02:16:00 377:020 > scalertransof
+02:16:01 377:012 > scalertransof:
+02:16:04 377:013 > all
+02:16:05 377:017 >  1
+02:16:05 377:018 >  10
+02:16:05 377:019 >  100
+02:16:05 377:020 >  100m
+02:16:06 377:021 >  100ms
+02:16:06 377:017 > 100ms
+
+02:17:29 379:001 > b
+02:17:30 379:002 > bo
+02:17:30 379:003 > box
+02:17:32 379:001 > box-shadow: ;
+02:17:32 379:013 > 1
+02:17:33 379:014 > 10
+02:17:35 379:016 > 10 2
+02:17:35 379:017 > 10 20
+02:17:36 379:016 > 10 201
+02:17:36 379:017 > 10 2010
+02:17:38 379:019 > 10 2010 1
+02:17:38 379:020 > 10 2010 10
+02:17:40 379:021 > 10 2010 10p
+02:17:40 379:022 > 10 2010 10px
+02:17:41 379:019 > 10px
+02:17:42 379:018 > p
+02:17:42 379:019 > px
+02:17:46 379:015 > pxp
+02:17:46 379:016 > pxpx
+02:17:50 379:028 > pxpx s
+02:17:51 379:028 > pxpx sb
+02:17:51 379:029 > pxpx sbl
+02:17:51 379:030 > pxpx sbla
+02:17:51 379:031 > pxpx sblac
+02:17:52 379:028 > black
+02:17:59 379:028 >  1
+02:18:00 379:029 >  10
+02:18:01 379:030 >  10p
+02:18:01 379:031 >  10px
+02:18:01 379:028 > 10px
+02:18:06 379:013 > -
+02:18:08 379:019 > --
+02:18:17 379:019 > --0
+02:18:20 379:013 > --00
+
+02:18:29 377:017 > 2
+02:18:44 379:031 > rgb(255, 255, 255)
+
+02:18:56 379:026 > 4
+02:19:13 379:000 > 4b
+02:19:14 379:001 > 4bo
+02:19:14 379:002 > 4bor
+02:19:14 379:003 > 4borr
+02:19:14 379:004 > 4borra
+02:19:14 379:000 > border-radius: ;
+02:19:16 379:015 > 1
+02:19:16 379:016 > 15
+02:19:17 379:017 > 15p
+02:19:17 379:018 > 15px
+02:19:17 379:015 > 15px
+02:19:33 378:000 > .kontainer main .innehåll .om-oss img:hover {
+  transition: all 200ms;
+  transform: scale(1.1);
+  border-radius: 15px;
+}
+02:19:33 376:000 > .kontainer main .innehåll .om-oss img:hover {
+  transition: all 200ms;
+  transform: scale(1.1);
+  border-radius: 15px;
+}
+
+02:19:54 380:000 > }
+
+02:20:10 383:017 > 2
+02:20:10 383:018 > 20
+02:20:29 377:002 > transition: all 200ms;
+
+02:21:13 000:000 > S
+02:21:14 000:001 > Si
+02:21:14 000:002 > Sid
+02:21:14 000:003 > Sida
+02:21:15 000:004 > Sida n
+02:21:15 000:005 > Sida ns
+02:21:19 000:006 > Sida ns  k
+02:21:19 000:007 > Sida ns  kL
+02:21:20 000:008 > Sida ns  kLA
+02:21:21 000:006 > Sida ns  kLAK
+02:21:21 000:007 > Sida ns  kLAKl
+02:21:21 000:008 > Sida ns  kLAKla
+02:21:22 000:009 > Sida ns  kLAKlar
+02:21:22 000:010 > Sida ns  kLAKlar,
+02:21:24 000:010 > Sida ns  kLAKlar, ,
+02:21:25 000:012 > Sida ns  kLAKlar, , k
+02:21:25 000:013 > Sida ns  kLAKlar, , ko
+02:21:25 000:014 > Sida ns  kLAKlar, , kom
+02:21:26 000:015 > Sida ns  kLAKlar, , komm
+02:21:26 000:016 > Sida ns  kLAKlar, , komme
+02:21:26 000:017 > Sida ns  kLAKlar, , kommen
+02:21:26 000:018 > Sida ns  kLAKlar, , komment
+02:21:26 000:019 > Sida ns  kLAKlar, , kommenta
+02:21:26 000:020 > Sida ns  kLAKlar, , kommentar
+02:21:26 000:021 > Sida ns  kLAKlar, , kommentare
+02:21:27 000:022 > Sida ns  kLAKlar, , kommentarer
+02:21:27 000:024 > Sida ns  kLAKlar, , kommentarer k
+02:21:28 000:025 > Sida ns  kLAKlar, , kommentarer kv
+02:21:28 000:026 > Sida ns  kLAKlar, , kommentarer kva
+02:21:28 000:027 > Sida ns  kLAKlar, , kommentarer kvar
+02:21:28 000:029 > Sida ns  kLAKlar, , kommentarer kvar o
+02:21:29 000:030 > Sida ns  kLAKlar, , kommentarer kvar oc
+02:21:29 000:031 > Sida ns  kLAKlar, , kommentarer kvar och
+02:21:36 000:024 > Sida ns  kLAKlar, , kommentarer kvar och o
+02:21:36 000:025 > Sida ns  kLAKlar, , kommentarer kvar och oc
+02:21:36 000:026 > Sida ns  kLAKlar, , kommentarer kvar och och
+02:21:41 000:028 > Sida ns  kLAKlar, , kommentarer kvar och och f
+02:21:41 000:029 > Sida ns  kLAKlar, , kommentarer kvar och och fl
+02:21:42 000:030 > Sida ns  kLAKlar, , kommentarer kvar och och flr
+02:21:42 000:029 > Sida ns  kLAKlar, , kommentarer kvar och och flrö
+02:21:43 000:030 > Sida ns  kLAKlar, , kommentarer kvar och och flrör
+02:21:43 000:031 > Sida ns  kLAKlar, , kommentarer kvar och och flrörn
+02:21:44 000:031 > Sida ns  kLAKlar, , kommentarer kvar och och flrörne
+02:21:44 000:032 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnen
+02:21:44 000:033 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnenk
+02:21:44 000:034 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnenkl
+02:21:44 000:035 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnenkli
+02:21:45 000:036 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnenklin
+02:21:45 000:037 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnenkling
+02:21:46 000:039 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnenkling k
+02:21:46 000:040 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnenkling kv
+02:21:46 000:041 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnenkling kva
+02:21:46 000:042 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnenkling kvar
+02:21:47 000:043 > Sida ns  kLAKlar, , kommentarer kvar och och flrörnenkling kvar.
+02:21:51 120:000 > .kontainer main .kontakta-oss-formulär {
+  background-color: var(--celadon);
+  font-size: Clamp(1rem, 1vw, 1.3rem);
+  margin-top: 7%;
+  width: 50%;
+  max-width: 400px;
+  display: grid;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 3px var(--cambridge-blue);
+  border: solid 5px rgb(87, 87, 87);
+  padding: 20px;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto 0 auto;
+  grid-template-columns: auto 1fr;
+  gap: 25px;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+  font-size: Clamp(1rem, 3vw, 2.1rem);
+  padding: Clamp(5px, 2%, 15px);
+  margin: 20px 20px;
+  display: inline-block;
+  border: solid 3px rgb(87, 87, 87);
+  border-radius: 4px;
+  background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+  grid-column: 1;
+  width: 100%;
+}
+
+.kontainer main .kontakta-oss-formulär input {
+  height: Clamp(35px, 4vh, 150px);
+}
+
+.kontainer main .kontakta-oss-formulär textarea {
+  resize: none;
+  height: Clamp(100px, 15vw, 200px);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+  justify-self: center;
+  grid-column: 2;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: Clamp(125px, 15vw, 200px);
+  border: solid 3px rgb(87, 87, 87);
+  background-color: var(--nyanza);
+  border-radius: 4px;
+  padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+  outline: 5px solid var(--nyanza);
+  background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+  outline: 5px solid var(--nyanza);
+}
+
+.kontainer main .kontakta-oss-formulär #submit {
+  font-weight: 900;
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+  cursor: pointer;
+}
+
+.kontainer main .kontakta-oss-kontainer #sändningsmeddelande {
+  grid-column: 2;
+  margin: 20px 0;
+  display: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  width: 50%;
+  margin: 25px auto;
+}
+.kontainer main .våraleveransplaner-kontainer li a {
+  text-decoration: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer li {
+  transition: all 100ms;
+  --side-padding: clamp(0px, 1vw, 25px);
+  --border-color: rgb(87, 87, 87);
+  justify-content: center;
+  border: solid 5px var(--border-color);
+  padding: 20px var(--side-padding) 50px var(--side-padding);
+  background-color: var(--sea-green);
+  box-shadow: 0px 0px 10px 3px rgb(87, 87, 87);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+  transform: scale(1.1);
+  border-color: var(--nyanza);
+  box-shadow: 0px 0px 10px 3px var(--nyanza);
+  cursor: pointer;
+}
+
+.kontainer main .leveransplan {
+  width: Clamp(160px, 30vw, 200px);
+}
+
+.kontainer main .våraleveransplaner-kontainer .delivery-video {
+  width: Clamp(50px, 90vw, 1200px);
+  border: solid 10px rgb(87, 87, 87);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan img {
+  width: 80%;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+  color: var(--dark-green);
+  text-shadow: 3px 1px 2px var(--celadon);
+  margin-top: 10px;
+  font-family: "Alfa Slab One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: Clamp(1.3rem, 3vw, 1.7rem);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan p {
+  color: var(--dark-green);
+}
+.kontainer main .våraleveransplaner-kontainer .leveransplan .premium {
+  color: rgb(255, 198, 27);
+  text-shadow: 3px 3px var(--dark-green);
+  margin-top: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  font-size: Clamp(1.5rem, 5vw, 1.9rem);
+}
+
+.kontainer main h1 {
+  color: var(--dark-green);
+  padding: Clamp(0px, 1vw, 20px);
+  font-size: Clamp(1rem, 4vw, 2.3rem);
+}
+.kontainer main .innehåll {
+  font-size: Clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+h1 {
+  font-weight: 900;
+}
+
+.kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: Clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  /* att elementen bara tar platsen de behöver.*/
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px rgb(87, 87, 87);
+}
+.kontainer footer .rubrik {
+  justify-content: center;
+}
+.copyright-kontainer {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+}
+.copyright-referens {
+  grid-column: 2;
+  margin: auto;
+  display: flex;
+  gap: 20px;
+}
+.copyright-info {
+  align-content: center;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.copyright-referens p {
+  color: var(--dark-green);
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.copyright-referens a:link,
+.copyright-info a:link {
+  color: rgb(15, 27, 182);
+}
+.copyright-referens a:hover,
+.copyright-info a:hover {
+  color: rgb(7, 7, 102);
+}
+
+.copyright-referens a:visited,
+.copyright-info a:visited {
+  color: #12510b;
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+.kontainer main .innehåll .om-oss {
+  margin: 100px auto 0 auto;
+  background-color: rgb(255, 209, 100);
+  border: solid 10px rgb(87, 87, 87);
+  border-radius: 20px;
+  color: rgb(0, 0, 0);
+  width: 50%;
+}
+.kontainer main .innehåll .om-oss img {
+  transition: all 200ms;
+  border-radius: 15px;
+}
+
+.kontainer main .innehåll .om-oss img:hover {
+  transition: all 200ms;
+  transform: scale(1.1);
+}
+.kontainer main .innehåll .om-oss h2 {
+  font-size: Clamp(1.5rem, 3vw, 2.5rem);
+}
+.kontainer main .innehåll .om-oss h3 {
+  font-size: Clamp(1.4rem, 2vw, 2.2rem);
+  padding: 20px;
+  color: rgb(15, 27, 182);
+}
+/*mörkt läge*/
+body.mörkt-läge-på,
+.kontainer main h1.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på,
+.kontainer main .innehåll.mörkt-läge-på,
+.copyright-referens p.mörkt-läge-på,
+.copyright-info.mörkt-läge-på {
+02:24:08 000:000 > /* Enkel CSS-reset */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Sidans regler */
+
+:root {
+  --nyanza: #d8f3dcff;
+  --celadon: #b7e4c7ff;
+  --celadon-2: rgb(149, 213, 178);
+  --mint: #74c69dff;
+  --mint-2: #52b788ff;
+  --sea-green: #52ad87;
+  --dartmouth-green: #2d6a4fff;
+  --brunswick-green: #1b4332ff;
+  --dark-green: #081c15ff;
+  --ash-gray: #cad2c5ff;
+  --cambridge-blue: #84a98cff;
+  --hookers-green: #52796fff;
+  --dark-slate-gray: #354f52ff;
+  --charcoal: #2f3e46ff;
+}
+
+body {
+  background-color: var(--celadon-2);
+}
+
+.kontainer {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.kontainer header {
+  font-size: clamp(1.5rem, 5vw, 2.5rem);
+}
+
+.kontainer header a {
+  text-decoration: none;
+  color: var(--dark-green);
+}
+
+.kontainer nav {
+  font-size: clamp(0.8rem, 1.4vw, 1rem);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background-color: var(--celadon-2);
+  z-index: 1;
+  align-items: center;
+  padding: 15px;
+  border-bottom: solid 3px rgb(87, 87, 87);
+}
+
+.kontainer nav .ikon img {
+  width: 59px;
+}
+
+.kontainer nav .mörkt-läge-kontainer a {
+  color: var(--dark-green);
+}
+
+.kontainer nav .mörkt-läge-kontainer .material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 900, "GRAD" 0, "opsz" 48;
+  font-size: 50px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.kontainer .alternativ {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.kontainer nav .alternativ a {
+  transition: all 100ms;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 15px;
+  color: var(--celadon-2);
+  background-color: var(--dark-green);
+  border-radius: 5px;
+  border: 4px solid transparent;
+}
+
+.kontainer nav .alternativ a:hover {
+  border-color: white;
+}
+
+.kontainer main {
+  margin: 0 0 50px 0;
+}
+
+.kontainer main .kontakta-oss-formulär {
+  background-color: var(--celadon);
+  font-size: clamp(1rem, 1vw, 1.3rem);
+  margin-top: 7%;
+  width: 50%;
+  max-width: 400px;
+  display: grid;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 3px var(--cambridge-blue);
+  border: solid 5px rgb(87, 87, 87);
+  padding: 20px;
+  grid-template-columns: auto 1fr;
+  gap: 25px;
+  margin: 0 auto;
+}
+
+.kontainer main .kontakta-oss-kontainer h1 {
+  font-size: clamp(1rem, 3vw, 2.1rem);
+  padding: clamp(5px, 2%, 15px);
+  margin: 20px 20px;
+  display: inline-block;
+  border: solid 3px rgb(87, 87, 87);
+  border-radius: 4px;
+  background-color: var(--celadon);
+}
+
+.kontainer main .kontakta-oss-formulär label {
+  grid-column: 1;
+  width: 100%;
+}
+
+.kontainer main .kontakta-oss-formulär input {
+  height: clamp(35px, 4vh, 150px);
+}
+
+.kontainer main .kontakta-oss-formulär textarea {
+  resize: none;
+  height: clamp(100px, 15vw, 200px);
+}
+
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+  justify-self: center;
+  grid-column: 2;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: clamp(125px, 15vw, 200px);
+  border: solid 3px rgb(87, 87, 87);
+  background-color: var(--nyanza);
+  border-radius: 4px;
+  padding: 2%;
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus,
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+  outline: 5px solid var(--nyanza);
+}
+
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+  background-color: var(--mint-2);
+}
+
+.kontainer main .kontakta-oss-formulär #submit {
+  font-weight: 900;
+}
+
+.kontainer main .kontakta-oss-formulär #submit:hover {
+  cursor: pointer;
+}
+
+.kontainer main .kontakta-oss-kontainer #sändningsmeddelande {
+  grid-column: 2;
+  margin: 20px 0;
+  display: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  width: 50%;
+  margin: 25px auto;
+}
+
+.kontainer main .våraleveransplaner-kontainer li a {
+  text-decoration: none;
+}
+
+.kontainer main .våraleveransplaner-kontainer li {
+  transition: all 100ms;
+  --side-padding: clamp(0px, 1vw, 25px);
+  --border-color: rgb(87, 87, 87);
+  justify-content: center;
+  border: solid 5px var(--border-color);
+  padding: 20px var(--side-padding) 50px var(--side-padding);
+  background-color: var(--sea-green);
+  box-shadow: 0px 0px 10px 3px rgb(87, 87, 87);
+}
+
+.kontainer main .våraleveransplaner-kontainer li:hover {
+  transform: scale(1.1);
+  border-color: var(--nyanza);
+  box-shadow: 0px 0px 10px 3px var(--nyanza);
+  cursor: pointer;
+}
+
+.kontainer main .leveransplan {
+  width: clamp(160px, 30vw, 200px);
+}
+
+.kontainer main .våraleveransplaner-kontainer .delivery-video {
+  width: clamp(50px, 90vw, 1200px);
+  border: solid 10px rgb(87, 87, 87);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan img {
+  width: 80%;
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+  color: var(--dark-green);
+  text-shadow: 3px 1px 2px var(--celadon);
+  margin-top: 10px;
+  font-family: "Alfa Slab One", sans-serif;
+  font-weight: 400;
+  font-size: clamp(1.3rem, 3vw, 1.7rem);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan p {
+  color: var(--dark-green);
+}
+
+.kontainer main .våraleveransplaner-kontainer .leveransplan .premium {
+  color: rgb(255, 198, 27);
+  text-shadow: 3px 3px var(--dark-green);
+  margin-top: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  font-size: clamp(1.5rem, 5vw, 1.9rem);
+}
+
+.kontainer main h1 {
+  color: var(--dark-green);
+  padding: clamp(0px, 1vw, 20px);
+  font-size: clamp(1rem, 4vw, 2.3rem);
+}
+
+.kontainer main .innehåll {
+  font-size: clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+.kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  margin: 10px auto;
+}
+
+.kontainer main .alternativ-kontainer a:hover {
+  border: 0.3vw solid white;
+}
+
+.kontainer main .innehåll img {
+  display: block;
+  margin: 50px auto;
+  width: 70%;
+  box-shadow: 10px 10px 8px black;
+}
+
+.kontainer footer {
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  background-color: var(--celadon-2);
+  border-top: solid 3px rgb(87, 87, 87);
+}
+
+.kontainer footer .rubrik {
+  justify-content: center;
+}
+
+.copyright-kontainer {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+}
+
+.copyright-referens {
+  grid-column: 2;
+  margin: auto;
+  display: flex;
+  gap: 20px;
+}
+
+.copyright-info {
+  align-content: center;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.copyright-referens p {
+  color: var(--dark-green);
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.copyright-referens a:link,
+.copyright-info a:link {
+  color: rgb(15, 27, 182);
+}
+
+.copyright-referens a:hover,
+.copyright-info a:hover {
+  color: rgb(7, 7, 102);
+}
+
+.copyright-referens a:visited,
+.copyright-info a:visited {
+  color: #12510b;
+}
+
+.kontainer nav .alternativ .aktiv-sida {
+  color: white;
+}
+
+.kontainer main .innehåll .om-oss {
+  margin: 100px auto 0 auto;
+  background-color: rgb(255, 209, 100);
+  border: solid 10px rgb(87, 87, 87);
+  border-radius: 20px;
+  color: rgb(0, 0, 0);
+  width: 50%;
+}
+
+.kontainer main .innehåll .om-oss img {
+  transition: all 200ms;
+  border-radius: 15px;
+}
+
+.kontainer main .innehåll .om-oss img:hover {
+  transition: all 200ms;
+  transform: scale(1.1);
+}
+
+.kontainer main .innehåll .om-oss h2 {
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+}
+
+.kontainer main .innehåll .om-oss h3 {
+  font-size: clamp(1.4rem, 2vw, 2.2rem);
+  padding: 20px;
+  color: rgb(15, 27, 182);
+}
+
+/* Mörkt läge */
+body.mörkt-läge-på,
+.kontainer main h1.mörkt-läge-på,
+.kontainer nav.mörkt-läge-på,
+.kontainer nav .mörkt-läge-kontainer a.mörkt-läge-på,
+.kontainer header a.mörkt-läge-på,
+.kontainer main .innehåll.mörkt-läge-på,
+.copyright-referens p.mörkt-läge-på,
+.copyright-info.mörkt-läge-på {
+  --mörkt-läge: #1a1a1a;
+  background-color: var(--mörkt-läge);
+  color: white;
+}
+
+.kontainer footer.mörkt-läge-på {
+  background-color: #131313;
+}
+
+.kontainer .kontakta-oss-kontainer.mörkt-läge-på {
+  color: var(--mörkt-läge);
+}
+
+/* Responsiv Design */
+@media (max-width: 700px) {
+  .kontainer .alternativ,
+  .kontainer nav {
+    position: relative;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .kontainer main .alternativ-kontainer {
+    position: relative;
+  }
+
+  .kontainer main .innehåll {
+    display: grid;
+  }
+
+  .copyright-kontainer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .copyright-referens {
+    flex-direction: column;
+    width: 40%;
+  }
+
+  .kontainer nav .alternativ a {
+    padding: 5px;
+  }
+
+  .kontainer nav .ikon img {
+    width: 35px;
+  }
+
+  .kontainer main .kontakta-oss-formulär {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+02:24:13 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:24:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:24:34 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:27:27 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+
+02:27:44 046:000 > /
+02:27:46 046:001 > /*
+02:27:47 046:002 > /*k
+02:27:47 046:003 > /*ko
+02:27:48 046:004 > /*kon
+02:27:48 046:005 > /*kont
+02:27:48 046:006 > /*konta
+02:27:48 046:007 > /*kontai
+02:27:49 046:008 > /*kontain
+02:27:49 046:009 > /*kontaine
+02:27:49 046:010 > /*kontainer
+02:27:50 046:011 > /*kontainern
+02:27:52 046:011 > /*kontainernn
+02:27:52 046:012 > /*kontainernns
+02:27:53 046:014 > /*kontainernns r
+02:27:53 046:015 > /*kontainernns re
+02:27:53 046:016 > /*kontainernns reg
+02:27:53 046:017 > /*kontainernns regl
+02:27:54 046:018 > /*kontainernns regle
+02:27:54 046:019 > /*kontainernns regler
+02:27:55 046:020 > /*kontainernns regler*
+02:27:55 046:021 > /*kontainernns regler*(
+02:27:56 046:021 > /*kontainernns regler*(/
+
+02:28:03 052:026 > /
+02:28:03 052:027 > //
+02:28:05 052:028 > //b
+02:28:05 052:029 > //by
+02:28:06 052:027 > //by*
+02:28:07 052:028 > //by*g
+02:28:07 052:029 > //by*gö
+02:28:08 052:030 > //by*gör
+02:28:09 052:032 > //by*gör a
+02:28:09 052:033 > //by*gör at
+02:28:10 052:034 > //by*gör att
+02:28:33 052:037 > //by*gör att  i
+02:28:34 052:036 > //by*gör att  ii
+02:28:34 052:037 > //by*gör att  iin
+02:28:34 052:038 > //by*gör att  iinn
+02:28:34 052:039 > //by*gör att  iinne
+02:28:35 052:040 > //by*gör att  iinneh
+02:28:35 052:041 > //by*gör att  iinnehå
+02:28:35 052:042 > //by*gör att  iinnehål
+02:28:36 052:043 > //by*gör att  iinnehåll
+02:28:36 052:044 > //by*gör att  iinnehålle
+02:28:36 052:045 > //by*gör att  iinnehållet
+02:28:37 052:047 > //by*gör att  iinnehållet v
+02:28:38 052:048 > //by*gör att  iinnehållet vä
+02:28:38 052:049 > //by*gör att  iinnehållet väx
+02:28:38 052:050 > //by*gör att  iinnehållet växe
+02:28:38 052:051 > //by*gör att  iinnehållet växer
+02:28:39 052:053 > //by*gör att  iinnehållet växer n
+02:28:40 052:054 > //by*gör att  iinnehållet växer ne
+02:28:40 052:055 > //by*gör att  iinnehållet växer ner
+02:28:40 052:056 > //by*gör att  iinnehållet växer nerå
+02:28:40 052:057 > //by*gör att  iinnehållet växer neråt
+02:28:41 052:058 > //by*gör att  iinnehållet växer neråt.
+02:28:42 052:058 > //by*gör att  iinnehållet växer neråt..
+02:28:42 052:059 > //by*gör att  iinnehållet växer neråt..*
+02:28:43 052:060 > //by*gör att  iinnehållet växer neråt..*/
+02:29:02 052:018 > //by*gör att  iinnehållet växer neråt..*/r
+02:29:02 052:018 > row
+02:29:13 052:018 > r
+02:29:14 052:018 > column
+
+02:29:33 072:014 > /
+02:29:34 072:015 > //
+02:29:36 072:015 > //*
+02:29:37 072:016 > //*g
+02:29:37 072:017 > //*gö
+02:29:37 072:018 > //*gör
+02:29:38 072:020 > //*gör a
+02:29:39 072:021 > //*gör at
+02:29:39 072:022 > //*gör att
+02:29:51 072:024 > //*gör att n
+02:29:51 072:025 > //*gör att na
+02:29:51 072:026 > //*gör att nav
+02:29:52 072:028 > //*gör att nav v
+02:29:52 072:029 > //*gör att nav vi
+02:29:52 072:030 > //*gör att nav vis
+02:29:53 072:031 > //*gör att nav visa
+02:29:53 072:032 > //*gör att nav visas
+02:29:55 072:034 > //*gör att nav visas p
+02:29:55 072:035 > //*gör att nav visas på
+02:29:56 072:037 > //*gör att nav visas på t
+02:29:56 072:038 > //*gör att nav visas på to
+02:29:56 072:039 > //*gör att nav visas på top
+02:29:59 072:037 > //*gör att nav visas på top ö
+02:30:02 072:028 > //*gör att nav visas på top öp
+02:30:02 072:029 > //*gör att nav visas på top öpr
+02:30:02 072:030 > //*gör att nav visas på top öpri
+02:30:02 072:031 > //*gör att nav visas på top öprio
+02:30:03 072:032 > //*gör att nav visas på top öprior
+02:30:03 072:033 > //*gör att nav visas på top öpriori
+02:30:03 072:034 > //*gör att nav visas på top öpriorit
+02:30:03 072:035 > //*gör att nav visas på top öpriorite
+02:30:03 072:036 > //*gör att nav visas på top öprioriter
+02:30:04 072:037 > //*gör att nav visas på top öprioritera
+02:30:04 072:038 > //*gör att nav visas på top öprioriteras
+02:30:05 072:040 > //*gör att nav visas på top öprioriteras ö
+02:30:05 072:041 > //*gör att nav visas på top öprioriteras öv
+02:30:05 072:042 > //*gör att nav visas på top öprioriteras öve
+02:30:05 072:043 > //*gör att nav visas på top öprioriteras över
+02:30:06 072:045 > //*gör att nav visas på top öprioriteras över b
+02:30:06 072:046 > //*gör att nav visas på top öprioriteras över bi
+02:30:06 072:047 > //*gör att nav visas på top öprioriteras över bil
+02:30:06 072:048 > //*gör att nav visas på top öprioriteras över bild
+02:30:07 072:049 > //*gör att nav visas på top öprioriteras över bilde
+02:30:07 072:050 > //*gör att nav visas på top öprioriteras över bilden
+02:30:08 072:051 > //*gör att nav visas på top öprioriteras över bilden .
+02:30:08 072:052 > //*gör att nav visas på top öprioriteras över bilden .*
+02:30:09 072:053 > //*gör att nav visas på top öprioriteras över bilden .*(
+02:30:09 072:053 > //*gör att nav visas på top öprioriteras över bilden .*(/
+02:30:16 072:053 > //*gör att nav visas på top öprioriteras över bilden .*(/ n
+02:30:16 072:054 > //*gör att nav visas på top öprioriteras över bilden .*(/ nä
+02:30:16 072:055 > //*gör att nav visas på top öprioriteras över bilden .*(/ när
+02:30:17 072:057 > //*gör att nav visas på top öprioriteras över bilden .*(/ när m
+02:30:17 072:058 > //*gör att nav visas på top öprioriteras över bilden .*(/ när ma
+02:30:17 072:059 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man
+02:30:17 072:061 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man s
+02:30:18 072:062 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man sk
+02:30:18 072:063 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man skr
+02:30:18 072:064 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man skro
+02:30:18 072:065 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man skrol
+02:30:18 072:066 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man skroll
+02:30:19 072:067 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man skrolla
+02:30:19 072:068 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man skrollar
+02:30:20 072:069 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man skrollar)
+02:30:23 072:053 > //*gör att nav visas på top öprioriteras över bilden .*(/ när man skrollar)(
+
+02:30:27 073:023 > /
+02:30:28 073:024 > //
+02:30:31 073:024 > // *
+02:30:36 073:026 > // * c
+02:30:36 073:027 > // * ce
+02:30:36 073:028 > // * cen
+02:30:36 073:029 > // * cent
+02:30:36 073:030 > // * centr
+02:30:37 073:031 > // * centre
+02:30:37 073:032 > // * centrer
+02:30:37 073:033 > // * centrera
+02:30:37 073:034 > // * centrerar
+02:30:38 073:036 > // * centrerar v
+02:30:38 073:037 > // * centrerar ve
+02:30:38 073:038 > // * centrerar ver
+02:30:38 073:039 > // * centrerar vert
+02:30:38 073:040 > // * centrerar verti
+02:30:39 073:041 > // * centrerar vertik
+02:30:39 073:042 > // * centrerar vertika
+02:30:39 073:043 > // * centrerar vertikal
+02:30:39 073:044 > // * centrerar vertikalt
+02:30:40 073:045 > // * centrerar vertikalt.
+02:30:40 073:046 > // * centrerar vertikalt.*
+02:30:41 073:047 > // * centrerar vertikalt.*(
+02:30:42 073:047 > // * centrerar vertikalt.*((
+02:30:42 073:047 > // * centrerar vertikalt.*((/
+
+02:30:49 068:034 > /
+02:30:51 068:035 > /*
+02:30:53 068:036 > /*s
+02:30:53 068:037 > /*sp
+02:30:53 068:038 > /*spr
+02:30:53 068:039 > /*spri
+02:30:53 068:040 > /*sprit
+02:30:54 068:040 > /*spritd
+02:30:54 068:041 > /*spritde
+02:30:54 068:042 > /*spritder
+02:30:55 068:044 > /*spritder u
+02:30:55 068:045 > /*spritder ut
+02:31:00 068:047 > /*spritder ut e
+02:31:01 068:048 > /*spritder ut el
+02:31:02 068:049 > /*spritder ut ele
+02:31:03 068:050 > /*spritder ut elem
+02:31:03 068:051 > /*spritder ut eleme
+02:31:03 068:052 > /*spritder ut elemen
+02:31:04 068:053 > /*spritder ut element
+02:31:04 068:054 > /*spritder ut elemente
+02:31:04 068:055 > /*spritder ut elementen
+02:31:04 068:057 > /*spritder ut elementen s
+02:31:05 068:058 > /*spritder ut elementen så
+02:31:06 068:060 > /*spritder ut elementen så a
+02:31:06 068:061 > /*spritder ut elementen så at
+02:31:06 068:062 > /*spritder ut elementen så att
+02:31:11 068:064 > /*spritder ut elementen så att h
+02:31:12 068:064 > /*spritder ut elementen så att hd
+02:31:13 068:065 > /*spritder ut elementen så att hde
+02:31:14 068:067 > /*spritder ut elementen så att hde h
+02:31:14 068:068 > /*spritder ut elementen så att hde ha
+02:31:14 068:069 > /*spritder ut elementen så att hde har
+02:31:14 068:071 > /*spritder ut elementen så att hde har s
+02:31:14 068:072 > /*spritder ut elementen så att hde har så
+02:31:15 068:074 > /*spritder ut elementen så att hde har så m
+02:31:15 068:075 > /*spritder ut elementen så att hde har så my
+02:31:15 068:076 > /*spritder ut elementen så att hde har så myc
+02:31:16 068:077 > /*spritder ut elementen så att hde har så myck
+02:31:16 068:078 > /*spritder ut elementen så att hde har så mycke
+02:31:16 068:079 > /*spritder ut elementen så att hde har så mycket
+02:31:16 068:081 > /*spritder ut elementen så att hde har så mycket p
+02:31:17 068:082 > /*spritder ut elementen så att hde har så mycket pl
+02:31:17 068:083 > /*spritder ut elementen så att hde har så mycket pla
+02:31:17 068:084 > /*spritder ut elementen så att hde har så mycket plat
+02:31:17 068:085 > /*spritder ut elementen så att hde har så mycket plats
+02:31:19 068:074 > /*spritder ut elementen så att hde har så mycket platsr
+02:31:19 068:075 > /*spritder ut elementen så att hde har så mycket platsru
+02:31:20 068:076 > /*spritder ut elementen så att hde har så mycket platsrum
+02:31:21 068:078 > /*spritder ut elementen så att hde har så mycket platsrum s
+02:31:21 068:079 > /*spritder ut elementen så att hde har så mycket platsrum so
+02:31:22 068:080 > /*spritder ut elementen så att hde har så mycket platsrum som
+02:31:22 068:082 > /*spritder ut elementen så att hde har så mycket platsrum som m
+02:31:22 068:083 > /*spritder ut elementen så att hde har så mycket platsrum som mö
+02:31:23 068:084 > /*spritder ut elementen så att hde har så mycket platsrum som möj
+02:31:24 068:085 > /*spritder ut elementen så att hde har så mycket platsrum som möjl
+02:31:25 068:086 > /*spritder ut elementen så att hde har så mycket platsrum som möjli
+02:31:25 068:087 > /*spritder ut elementen så att hde har så mycket platsrum som möjlig
+02:31:25 068:088 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt
+02:31:25 068:090 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt f
+02:31:25 068:091 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt fr
+02:31:26 068:092 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt frå
+02:31:26 068:093 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från
+02:31:26 068:095 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från v
+02:31:26 068:096 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från va
+02:31:27 068:097 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från var
+02:31:27 068:098 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från vara
+02:31:27 068:099 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från varan
+02:31:27 068:100 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från varand
+02:31:27 068:101 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från varandr
+02:31:27 068:102 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från varandra
+02:31:27 068:103 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från varandra.
+02:31:49 068:104 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från varandra.*
+02:31:50 068:105 > /*spritder ut elementen så att hde har så mycket platsrum som möjligt från varandra.*/
+
+02:34:38 000:000 > r
+02:34:38 000:001 > re
+02:34:39 000:002 > res
+02:34:39 000:000 > html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+02:34:42 036:011 > ""
+02:34:45 117:011 > ''
+02:34:46 000:000 > res
+02:34:46 000:000 > /* Enkel CSS-reset */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Sidans regler */
+02:38:20 000:000 > /* Enkel CSS-reset */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Sidans regler */
+
+/* Definierar variabler för färgtema */
+:root {
+  --nyanza: #d8f3dcff;
+  --celadon: #b7e4c7ff;
+  --celadon-2: rgb(149, 213, 178);
+  --mint: #74c69dff;
+  --mint-2: #52b788ff;
+  --sea-green: #52ad87;
+  --dartmouth-green: #2d6a4fff;
+  --brunswick-green: #1b4332ff;
+  --dark-green: #081c15ff;
+  --ash-gray: #cad2c5ff;
+  --cambridge-blue: #84a98cff;
+  --hookers-green: #52796fff;
+  --dark-slate-gray: #354f52ff;
+  --charcoal: #2f3e46ff;
+}
+
+/* Grundläggande sidan-stil */
+body {
+  background-color: var(--celadon-2);
+}
+
+/* Stil för huvudkontainern */
+.kontainer {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  text-align: center;
+  display: flex;
+  flex-direction: column; /* Gör att innehållet växer neråt */
+}
+
+/* Stil för rubriker i huvudkontainern */
+.kontainer header {
+  font-size: clamp(1.5rem, 5vw, 2.5rem);
+}
+
+/* Stil för länkar i huvudkontainerns rubrik */
+.kontainer header a {
+  text-decoration: none;
+  color: var(--dark-green);
+}
+
+/* Stil för navigationsmenyn */
+.kontainer nav {
+  font-size: clamp(0.8rem, 1.4vw, 1rem);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* Sprider ut elementen så att de har så rum som möjligt från varandra */
+  position: sticky;
+  top: 0;
+  background-color: var(--celadon-2);
+  z-index: 1; /* Gör att nav prioriteras över bilden när man skrollar */
+  align-items: center; /* Centrerar vertikalt */
+  padding: 15px;
+  border-bottom: solid 3px rgb(87, 87, 87);
+}
+
+/* Stil för ikonen i navigationsmenyn */
+.kontainer nav .ikon img {
+  width: 59px;
+}
+
+/* Stil för länkar i navigationsmenyn i mörkt läge */
+.kontainer nav .mörkt-läge-kontainer a {
+  color: var(--dark-green);
+}
+
+/* Stil för ikon i navigationsmenyn i mörkt läge */
+.kontainer nav .mörkt-läge-kontainer .material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 900, "GRAD" 0, "opsz" 48;
+  font-size: 50px;
+  user-select: none;
+  cursor: pointer;
+}
+
+/* Stil för alternativ i navigationsmenyn */
+.kontainer .alternativ {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+/* Stil för länkar i navigationsmenyns alternativ */
+.kontainer nav .alternativ a {
+  transition: all 100ms;
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 15px;
+  color: var(--celadon-2);
+  background-color: var(--dark-green);
+  border-radius: 5px;
+  border: 4px solid transparent;
+}
+
+/* Effekt när man hoverar över länkar i navigationsmenyns alternativ */
+.kontainer nav .alternativ a:hover {
+  border-color: white;
+}
+
+/* Stil för huvudinnehållet */
+.kontainer main {
+  margin: 0 0 50px 0;
+}
+
+/* Stil för kontakta-oss-formuläret */
+.kontainer main .kontakta-oss-formulär {
+  background-color: var(--celadon);
+  font-size: clamp(1rem, 1vw, 1.3rem);
+  margin-top: 7%;
+  width: 50%;
+  max-width: 400px;
+  display: grid;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 3px var(--cambridge-blue);
+  border: solid 5px rgb(87, 87, 87);
+  padding: 20px;
+  grid-template-columns: auto 1fr;
+  gap: 25px;
+  margin: 0 auto;
+}
+
+/* Stil för rubriken "Kontakta oss" */
+.kontainer main .kontakta-oss-kontainer h1 {
+  font-size: clamp(1rem, 3vw, 2.1rem);
+  padding: clamp(5px, 2%, 15px);
+  margin: 20px 20px;
+  display: inline-block;
+  border: solid 3px rgb(87, 87, 87);
+  border-radius: 4px;
+  background-color: var(--celadon);
+}
+
+/* Stil för etiketter i kontakta-oss-formuläret */
+.kontainer main .kontakta-oss-formulär label {
+  grid-column: 1;
+  width: 100%;
+}
+
+/* Stil för input-fält i kontakta-oss-formuläret */
+.kontainer main .kontakta-oss-formulär input {
+  height: clamp(35px, 4vh, 150px);
+}
+
+/* Stil för textarea-fält i kontakta-oss-formuläret */
+.kontainer main .kontakta-oss-formulär textarea {
+  resize: none;
+  height: clamp(100px, 15vw, 200px);
+}
+
+/* Gemensam stil för input- och textarea-fält i kontakta-oss-formuläret */
+.kontainer main .kontakta-oss-formulär input,
+.kontainer main .kontakta-oss-formulär textarea {
+  justify-self: center;
+  grid-column: 2;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+02:39:20 182:001 > Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: clamp(125px, 15vw, 200px);
+  border: solid 3px rgb(87, 87, 87);
+  background-color: var(--nyanza);
+  border-radius: 4px;
+  padding: 2%;
+}
+
+/* Effekt när input- och textarea-fält är i fokus eller hoverad */
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus,
+.kontainer main .kontakta-oss-formulär input:hover,
+.kontainer main .kontakta-oss-formulär textarea:hover {
+  outline: 5px solid var(--nyanza);
+}
+
+/* Speciell effekt när input- och textarea-fält är i fokus */
+.kontainer main .kontakta-oss-formulär input:focus,
+.kontainer main .kontakta-oss-formulär textarea:focus {
+  background-color: var(--mint-2);
+}
+
+/* Stil för submit-knappen i kontakta-oss-formuläret */
+.kontainer main .kontakta-oss-formulär #submit {
+  font-weight: 900;
+}
+
+/* Effekt när man hoverar över submit-knappen i kontakta-oss-formuläret */
+.kontainer main .kontakta-oss-formulär #submit:hover {
+  cursor: pointer;
+}
+
+/* Stil för meddelandet efter att ett formulär skickats */
+.kontainer main .kontakta-oss-kontainer #sändningsmeddelande {
+  grid-column: 2;
+  margin: 20px 0;
+  display: none;
+}
+
+/* Stil för leveransplaner */
+.kontainer main .våraleveransplaner-kontainer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  width: 50%;
+  margin: 25px auto;
+}
+
+/* Stil för länkar i leveransplaner */
+.kontainer main .våraleveransplaner-kontainer li a {
+  text-decoration: none;
+}
+
+/* Stil för enskilda leveransplaner */
+.kontainer main .våraleveransplaner-kontainer li {
+  transition: all 100ms;
+  --side-padding: clamp(0px, 1vw, 25px);
+  --border-color: rgb(87, 87, 87);
+  justify-content: center;
+  border: solid 5px var(--border-color);
+  padding: 20px var(--side-padding) 50px var(--side-padding);
+  background-color: var(--sea-green);
+  box-shadow: 0px 0px 10px 3px rgb(87, 87, 87);
+}
+
+/* Effekt när man hoverar över en leveransplan */
+.kontainer main .våraleveransplaner-kontainer li:hover {
+  transform: scale(1.1);
+  border-color: var(--nyanza);
+  box-shadow: 0px 0px 10px 3px var(--nyanza);
+  cursor: pointer;
+}
+
+/* Stil för leveransplanens bild */
+.kontainer main .leveransplan {
+  width: clamp(160px, 30vw, 200px);
+}
+
+/* Stil för videor i leveransplaner */
+.kontainer main .våraleveransplaner-kontainer .delivery-video {
+  width: clamp(50px, 90vw, 1200px);
+  border: solid 10px rgb(87, 87, 87);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 3px var(--dark-green);
+}
+
+/* Stil för bilder i leveransplaner */
+.kontainer main .våraleveransplaner-kontainer .leveransplan img {
+  width: 80%;
+}
+
+/* Stil för rubriker i leveransplaner */
+.kontainer main .våraleveransplaner-kontainer .leveransplan h2 {
+  color: var(--dark-green);
+  text-shadow: 3px 1px 2px var(--celadon);
+  margin-top: 10px;
+  font-family: "Alfa Slab One", sans-serif;
+  font-weight: 400;
+  font-size: clamp(1.3rem, 3vw, 1.7rem);
+}
+
+/* Stil för text i leveransplaner */
+.kontainer main .våraleveransplaner-kontainer .leveransplan p {
+  color: var(--dark-green);
+}
+
+/* Stil för premium-text i leveransplaner */
+.kontainer main .våraleveransplaner-kontainer .leveransplan .premium {
+  color: rgb(255, 198, 27);
+  text-shadow: 3px 3px var(--dark-green);
+  margin-top: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  font-size: clamp(1.5rem, 5vw, 1.9rem);
+}
+
+/* Stil för huvudrubrikar */
+.kontainer main h1 {
+  color: var(--dark-green);
+  padding: clamp(0px, 1vw, 20px);
+  font-size: clamp(1rem, 4vw, 2.3rem);
+}
+
+/* Stil för innehållssektion */
+.kontainer main .innehåll {
+  font-size: clamp(1rem, 2.3vw, 1.5rem);
+  position: relative;
+}
+
+/* Stil för huvudinnehållssektionen "Om oss" */
+.kontainer main .alternativ-kontainer {
+  color: var(--dark-green);
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3%;
+  text-align: center;
+  border: solid 5px var(--sea-green);
+  background-color: rgba(149, 213, 178, 0.6);
+}
+
+/* Stil för länkar i alternativ-kontainern */
+.kontainer main .alternativ-kontainer a {
+  transition: all 100ms;
+  text-decoration: none;
+  display: block;
+  color: var(--dark-green);
+  border: clamp(3px, 0.3vw, 5px) solid var(--dark-green);
+  padding: 2% 4%;
+  width: fit-content;
+  margin: 10px auto;
+02:41:55 339:000 > /* Effekt när man hoverar över länkar i alternativ-kontainern */
+02:41:59 343:000 > /* Stil för bilder i huvudinnehållssektionen */
+02:42:05 350:000 > /* Stil för sidfoten */
+02:42:12 358:000 > /* Stil för rubriken i sidfoten */
+02:42:17 362:000 > /* Stil för copyright-sektionen */
+02:42:24 369:000 > /* Stil för referenserna i copyright-sektionen */
+02:42:28 376:000 > /* Stil för copyright-informationen */
+02:42:32 382:000 > /* Stil för text i copyright-referenserna */
+02:42:36 388:000 > /* Stil för länkar i copyright-referenserna */
+/* Stil för länkar i copyright-informationen */
+02:42:41 394:000 > /* Effekt när man hoverar över länkar i copyright-referenserna */
+/* Effekt när man hoverar över länkar i copyright-informationen */
+02:42:45 400:000 > /* Stil för besökta länkar i copyright-referenserna */
+/* Stil för besökta länkar i copyright-informationen */
+02:42:56 406:000 > /* Stil för aktiv sida i navigationsmenyn */
+02:43:04 410:000 > /* Stil för innehållet i sektionen "Om oss" */
+02:43:10 419:000 > /* Stil för bilder i sektionen "Om oss" */
+02:43:17 424:000 > /* Effekt när man hoverar över bilder i sektionen "Om oss" */
+02:43:30 429:000 > /* Stil för rubriker i sektionen "Om oss" */
+02:43:37 433:000 > /* Stil för underrubriker i sektionen "Om oss" */
+02:43:46 441:000 > /* Stil för element när mörkt läge är aktiverat */
+02:43:53 454:000 > /* Stil för sidfoten i mörkt läge */
+02:43:57 458:000 > /* Stil för kontakta-oss-sektionen i mörkt läge */
+02:44:03 464:000 > /* Stil för element när skärmbredden är mindre än 700px */
+02:44:14 466:002 > /* Stil för navigationsmenyn och alternativ när skärmbredden är mindre än 700px */
+02:44:41 473:002 > /* Stil för alternativ-kontainer när skärmbredden är mindre än 700px */
+02:44:46 477:000 > /* Stil för huvudinnehållssektionen när skärmbredden är mindre än 700px */
+02:44:51 481:000 > /* Stil för copyright-sektionen när skärmbredden är mindre än 700px */
+02:45:02 486:000 > /* Stil för referenserna i copyright-sektionen när skärmbredden är mindre än 700px */
+02:45:10 491:000 > /* Stil för länkar i navigationsmenyn när skärmbredden är mindre än 700px */
+02:45:20 495:000 > /* Stil för ikonen i navigationsmenyn när skärmbredden är mindre än 700px */
+02:45:43 500:000 > /* Stil för kontakta-oss-formuläret när skärmbredden är mindre än 700px */
+02:45:48 000:000 > k
+02:45:52 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+02:46:45 000:000 > // Hämta referensen till knappen för att växla mellan mörkt läge och ljusläge
+let mörktLägeKnappen = document.querySelector("#mörkt-läge-knappen");
+// Lägg till en händelselyssnare för klick på knappen
+mörktLägeKnappen.addEventListener("click", OnMörktLägeClicked);
+
+// Definiera nyckeln för lagring av mörkt läge i localStorage
+let mörktLägeNyckel = "mörktLägeStatus";
+// Hämta värdet för mörkt läge från localStorage
+let ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+
+// Uppdatera ikonen för mörkt läge baserat på det lagrade värdet
+UppdateraMörktLägesIkon();
+
+// Funktion för att uppdatera ikonen för mörkt läge
+function UppdateraMörktLägesIkon() {
+  // Hämta värdet för mörkt läge från localStorage
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  // Uppdatera ikonen beroende på om mörkt läge är aktiverat eller inte
+  if (ärMörktläge === "true") {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>light_mode</span>";
+  } else {
+    mörktLägeKnappen.innerHTML =
+      "<span class='material-symbols-outlined'>dark_mode</span>";
+  }
+}
+
+// Funktion som körs när användaren klickar på knappen för att växla mörkt läge
+function OnMörktLägeClicked() {
+  // Hämta värdet för mörkt läge från localStorage
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  // Växla mörkt läge
+  VäxlaMörktLäge();
+  // Uppdatera ikonen för mörkt läge
+  UppdateraMörktLägesIkon();
+}
+
+// Array som innehåller CSS-selektorer för element som ska ändra färg vid växling av mörkt läge
+let elementAttÄndra = [
+  ".copyright-info",
+  ".copyright-referens p",
+  ".kontainer main h1",
+  ".kontainer nav .mörkt-läge-kontainer a",
+  ".kontainer header a",
+  ".kontainer footer",
+  ".kontainer nav",
+  ".kontainer .kontakta-oss-kontainer",
+];
+
+// Funktion för att växla mörkt läge
+function VäxlaMörktLäge() {
+  // Lägg till/ta bort klassen för mörkt läge på body-elementet
+  document.body.classList.toggle("mörkt-läge-på");
+  // Loopa igenom arrayen av element som ska ändra färg och växla deras läge
+  elementAttÄndra.forEach(VäxleElementLäge);
+
+  // Hämta värdet för mörkt läge från localStorage
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel);
+  // Uppdatera värdet för mörkt läge i localStorage till motsatsen av det nuvarande värdet
+  localStorage.setItem(mörktLägeNyckel, ärMörktläge !== "true");
+}
+
+// Funktion för att växla mörkt läge för specifika element
+function VäxleElementLäge(cssSelector) {
+  // Hämta alla element som matchar CSS-selektorn
+  let allaElement = document.querySelectorAll(cssSelector);
+  // Loopa igenom och växla läge för varje element
+  allaElement.forEach((element) => {
+    if (element) {
+      element.classList.toggle("mörkt-läge-på");
+    }
+  });
+}
+
+// Funktion för att lägga till klasser för mörkt läge vid sidans laddning
+function LäggTillMörktLägeKlasser() {
+  // Kontrollera om mörkt läge är aktiverat baserat på lagrat värde
+  ärMörktläge = localStorage.getItem(mörktLägeNyckel) === "true";
+
+  // Om mörkt läge är aktiverat, lägg till klasser för mörkt läge på specifika element
+  if (ärMörktläge) {
+    document.body.classList.add("mörkt-läge-på");
+    elementAttÄndra.forEach(LäggTillMörktLägeKlass);
+    // Uppdatera ikonen för mörkt läge
+    UppdateraMörktLägesIkon();
+  }
+
+  // Funktion för att lägga till klasser för mörkt läge på specifika element
+  function LäggTillMörktLägeKlass(cssSelector) {
+    // Hämta alla element som matchar CSS-selektorn
+    let allaElement = document.querySelectorAll(cssSelector);
+    // Loopa igenom och lägg till klass för mörkt läge för varje element
+    allaElement.forEach(element => {
+      if (element) {
+        element.classList.add("mörkt-läge-på");
+      }
+    });
+  }
+}
+
+// Köra funktionen för att lägga till klasser för mörkt läge vid sidans laddning
+LäggTillMörktLägeKlasser();
+02:48:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+02:53:28 000:000 > // Hämta referensen till knappen för att skicka formuläret
+let submitBtn = document.querySelector("#submit");
+// Lägg till en händelselyssnare för klick på knappen
+submitBtn.addEventListener("click", OnSubmitClicked);
+
+// Hämta referensen till elementet som visar sändningsmeddelandet
+let sändningsmeddelande = document.getElementById("sändningsmeddelande");
+
+// Funktion som körs när användaren klickar på knappen för att skicka formuläret
+function OnSubmitClicked() {
+  // Visa sändningsmeddelandet
+  sändningsmeddelande.style.display = "block";
+
+  // Hämta referensen till alla input-element i formuläret
+  let inputVärden = document.querySelectorAll("form input");
+
+  // Loopa igenom varje input-element för att kontrollera om det är ifyllt och validera e-postadressen
+  for (let i = 0; i < inputVärden.length; i++) {
+    // Kontrollera om det aktuella input-elementet är obligatoriskt och inte ifyllt
+    if (
+      inputVärden[i].hasAttribute("required") &&
+      inputVärden[i].value === ""
+    ) {
+      // Visa meddelande om att alla obligatoriska fält måste fyllas i
+      sändningsmeddelande.style.color = "red";
+      sändningsmeddelande.textContent =
+        "Fyll i alla rutor som krävs, alla rutor som är markerade med (*).";
+      console.log(inputVärden[i].attributes);
+      return;
+    }
+  }
+
+  // Kontrollera om e-postadressen är korrekt ifylld
+  if (!inputVärden[2].value.includes("@")) {
+    // Visa meddelande om att e-postadressen är felaktig
+    sändningsmeddelande.style.color = "red";
+    sändningsmeddelande.textContent =
+      "Skriv Korrekt mailadress. Symbolen (@) saknas i rutan.";
+    return;
+  } else {
+    // Visa meddelande om att formuläret har skickats framgångsrikt
+    sändningsmeddelande.style.color = "green";
+    sändningsmeddelande.textContent = "Formuläret har nu skickats!";
+    return;
+  }
+}
+02:57:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+02:57:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+02:57:24 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+02:57:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+02:58:06 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+02:58:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+02:58:34 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakt-script.js
+----------------------------------------
+03:02:08 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+03:06:19 000:000 > k
+03:06:19 000:001 > ko
+03:06:20 000:002 > kom
+03:06:20 000:003 > komm
+03:06:20 000:004 > komme
+03:06:20 000:005 > kommen
+03:06:20 000:006 > komment
+03:06:20 000:007 > kommente
+03:06:21 000:008 > kommenter
+03:06:21 000:009 > kommentera
+03:06:21 000:010 > kommenterad
+03:06:21 000:011 > kommenterade
+03:06:22 000:013 > kommenterade k
+03:06:22 000:014 > kommenterade ko
+03:06:22 000:015 > kommenterade kod
+03:06:22 000:016 > kommenterade kode
+03:06:22 000:017 > kommenterade koden
+03:06:23 000:019 > kommenterade koden o
+03:06:23 000:020 > kommenterade koden oc
+03:06:23 000:021 > kommenterade koden och
+03:06:24 000:023 > kommenterade koden och k
+03:06:24 000:024 > kommenterade koden och kl
+03:06:24 000:025 > kommenterade koden och kla
+03:06:24 000:026 > kommenterade koden och klar

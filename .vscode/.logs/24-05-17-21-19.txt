@@ -1,0 +1,302 @@
+24-05-17 21:19 Session started
+----------------------------------------
+21:19:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+
+23:18:53 038:009 > d
+23:18:53 038:010 > di
+23:18:53 038:011 > div
+23:18:54 038:009 > div
+
+23:18:56 055:010 > d
+23:18:56 055:009 > /div
+23:19:23 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\.git\COMMIT_EDITMSG
+----------------------------------------
+
+23:19:29 000:000 > b
+23:19:30 000:000 > bö
+23:19:30 000:001 > bön
+23:19:31 000:000 > bönä
+23:19:31 000:001 > bönän
+23:19:32 000:002 > bönänd
+23:19:33 000:001 > bönändd
+23:19:33 000:001 > bönänddn
+23:19:33 000:002 > bönänddnd
+23:19:34 000:003 > bönänddndr
+23:19:34 000:004 > bönänddndra
+23:19:34 000:005 > bönänddndrad
+23:19:34 000:006 > bönänddndrade
+23:19:35 000:008 > bönänddndrade s
+23:19:35 000:009 > bönänddndrade se
+23:19:36 000:010 > bönänddndrade sec
+23:19:36 000:011 > bönänddndrade sect
+23:19:36 000:012 > bönänddndrade secti
+23:19:36 000:013 > bönänddndrade sectio
+23:19:36 000:014 > bönänddndrade section
+23:19:37 000:016 > bönänddndrade section t
+23:19:37 000:017 > bönänddndrade section ta
+23:19:37 000:018 > bönänddndrade section tag
+23:19:37 000:019 > bönänddndrade section tagg
+23:19:38 000:020 > bönänddndrade section tagge
+23:19:38 000:021 > bönänddndrade section taggen
+23:19:38 000:023 > bönänddndrade section taggen t
+23:19:38 000:024 > bönänddndrade section taggen ti
+23:19:38 000:025 > bönänddndrade section taggen til
+23:19:38 000:026 > bönänddndrade section taggen till
+23:19:39 000:028 > bönänddndrade section taggen till d
+23:19:39 000:029 > bönänddndrade section taggen till di
+23:19:39 000:030 > bönänddndrade section taggen till dic
+23:19:39 000:030 > bönänddndrade section taggen till dicv
+23:19:50 012:000 > ändrade section taggen till div
+23:19:56 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+23:20:12 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\.vscode\.logs\24-05-17-21-19.txt
+----------------------------------------
+23:20:30 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+23:36:59 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+23:37:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+23:37:00 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+23:37:18 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\leveransplaner.html
+----------------------------------------
+23:37:51 097:012 > autoplay
+23:37:53 098:012 > loop
+23:42:25 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\hem.html
+----------------------------------------
+23:42:26 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\mörkt-läge-script.js
+----------------------------------------
+23:42:27 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+23:44:41 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+23:44:47 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+23:44:49 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+23:49:29 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\kontakta-oss.html
+----------------------------------------
+23:49:32 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\om-oss.html
+----------------------------------------
+23:49:34 Document switched to: c:\Users\bahaa\Desktop\WebSlutProject\slutprojekt-TE22C-Baha-Fayad\Webbplats\style.css
+----------------------------------------
+23:50:17 335:009 > rgb(0, 240, 228)
+23:50:17 335:009 > rgb(1, 202, 192)
+23:50:18 335:009 > rgb(9, 189, 180)
+23:50:21 335:009 > rgb(3, 95, 90)
+23:50:21 335:009 > rgb(17, 95, 91)
+23:50:22 335:009 > rgb(17, 28, 95)
+23:50:24 335:009 > rgb(17, 41, 95)
+23:50:25 335:009 > rgb(17, 18, 95)
+23:50:26 335:009 > rgb(17, 77, 95)
+23:50:26 335:009 > rgb(4, 65, 83)
+23:50:29 335:009 > rgb(4, 81, 83)
+23:50:32 335:009 > rgb(4, 83, 40)
+23:50:36 335:009 > rgb(4, 83, 17)
+23:50:38 335:009 > rgb(17, 83, 4)
+23:50:42 335:009 > rgb(41, 230, 3)
+23:50:44 335:009 > rgb(207, 255, 197)
+23:50:45 335:009 > rgb(0, 0, 0)
+23:50:47 335:009 > rgb(54, 58, 53)
+23:50:49 335:009 > rgb(35, 36, 35)
+23:50:51 335:009 > rgb(36, 35, 35)
+23:50:52 335:009 > rgb(207, 19, 82)
+23:50:54 335:009 > rgb(185, 14, 71)
+23:50:57 335:009 > rgb(185, 14, 22)
+23:50:58 335:009 > rgb(185, 14, 42)
+23:51:34 000:000 > p
+23:51:34 000:001 > pu
+23:51:34 000:002 > pus
+23:51:35 000:003 > push
+23:51:37 000:000 > pushb
+23:51:37 000:001 > pushby
+23:51:38 000:002 > pushbyt
+23:51:38 000:003 > pushbytt
+23:51:38 000:004 > pushbytte
+23:51:38 000:006 > pushbytte f
+23:51:38 000:007 > pushbytte fr
+23:51:39 000:008 > pushbytte frä
+23:51:39 000:007 > pushbytte frää
+23:51:39 000:008 > pushbytte fräär
+23:51:40 000:009 > pushbytte fräärg
+23:51:44 335:000 > color: rgb(185, 14, 42);
+
+00:20:29 231:009 > 8
+00:20:29 231:010 > 80
+00:20:29 231:011 > 80&
+00:20:30 231:011 > 80&%
+00:20:31 231:009 > 80%
+00:20:38 231:009 > 80%
+00:20:39 231:011 > &
+00:20:39 231:009 > Clamp(160px, 30vw, 200px)
+
+00:22:04 138:020 > .
+00:22:04 138:021 > .5
+00:22:05 138:020 > 1.5rem
+00:22:07 138:020 > 5
+00:22:07 138:020 > 5,
+00:22:07 138:021 > 5,5
+00:22:08 138:020 > 5,5.
+00:22:08 138:021 > 5,5.5
+00:22:09 138:020 > 1.5rem
+00:22:29 138:021 > 4
+00:22:31 138:021 > 48
+00:22:37 138:021 > 489
+00:22:41 138:027 > 4897
+00:22:45 138:027 > 48973
+00:22:45 138:021 > 489738
+00:22:47 138:021 > 4897384
+00:22:50 138:021 > 48973848
+00:22:59 138:002 > font-size: Clamp(1.8rem, 3vw, 2.1rem);
+00:23:01 138:021 > 4
+00:23:01 138:021 > 45
+00:23:01 138:019 > 451
+00:23:02 138:020 > .5
+00:23:02 138:020 > ,5
+00:23:02 138:020 > 5
+00:23:03 138:020 > 1.5rem
+00:23:03 138:020 > .5rem
+00:23:04 335:009 > rgb(185, 14, 22)
+00:23:07 335:009 > rgb(185, 14, 42)
+00:23:08 138:020 > .5
+00:23:10 335:009 > rgb(185, 14, 22)
+00:23:19 335:009 > rgb(185, 14, 42)
+00:23:19 138:020 > .5
+
+00:24:35 270:019 > 1
+00:26:16 385:002 > .kontainer main .leveransplan {
+  width: Clamp(160px, 30vw, 200px);
+}
+
+00:26:21 387:003 > }
+00:26:21 386:005 > align-items: center;
+00:26:21 385:005 > flex-direction: column;
+00:26:21 384:005 > display: flex;
+00:26:21 383:005 > .kontainer main .kontakta-oss-formulär {
+
+00:26:22 381:003 > }
+00:26:22 380:005 > width: 35px;
+00:26:22 379:005 > .kontainer nav .ikon img {
+
+00:26:22 377:003 > }
+00:26:22 376:005 > padding: 5px;
+00:26:22 375:005 > .kontainer nav .alternativ a {
+
+00:26:22 373:003 > }
+00:26:22 372:005 > display: grid;
+00:26:23 371:005 > .kontainer main .innehåll {
+
+00:26:33 368:011 > 5
+00:26:33 368:012 > 50
+00:26:33 368:013 > 50%
+00:27:13 367:019 > våraleveransplaner-kontainer
+
+00:27:21 367:048 > .
+00:27:22 367:049 > .l
+00:27:22 367:050 > .le
+00:27:23 367:051 > .lev
+00:27:23 367:048 > .leveransplan
+00:27:27 367:049 > l
+00:27:28 367:050 > li
+00:27:28 367:051 > lis
+00:27:29 367:048 > lisu
+00:27:29 367:049 > lisul
+00:27:31 367:051 > lisul l
+00:27:31 367:052 > lisul li
+
+00:27:55 368:011 > 8
+00:27:56 368:012 > 80
+
+00:28:17 367:054 > ,
+
+00:28:19 368:002 > .
+00:28:19 368:003 > .k
+00:28:19 368:004 > .ko
+00:28:20 368:005 > .kon
+00:28:20 368:006 > .kont
+00:28:20 368:007 > .konta
+00:28:20 368:002 > .kontainer
+00:28:21 368:013 >  m
+00:28:21 368:014 >  ma
+00:28:22 368:015 >  mai
+00:28:22 368:016 >  main
+00:28:23 368:018 >  main .
+00:28:24 368:019 >  main .v
+00:28:25 368:018 > .våraleveransplaner-kontainer
+00:28:27 368:048 >  .
+00:28:28 368:049 >  .l
+00:28:28 368:050 >  .le
+00:28:28 368:051 >  .lev
+00:28:28 368:048 > .leveransplan
+00:28:29 368:061 > .
+00:29:10 369:002 > .kontainer main .våraleveransplaner-kontainer .leveransplan
+
+00:29:11 369:062 > a
+
+00:29:25 368:061 > ,
+
+00:32:34 371:004 > c
+00:32:34 371:005 > cp
+00:32:36 371:005 > cpi
+00:32:37 371:005 > cpio
+00:32:37 371:006 > cpiol
+00:32:37 371:007 > cpiolo
+00:32:37 371:008 > cpiolor
+00:32:38 371:009 > cpiolor :
+00:32:39 371:010 > cpiolor :b
+00:32:39 371:011 > cpiolor :bl
+00:32:39 371:010 > black
+00:32:42 371:010 > l
+00:32:42 371:011 > lb
+00:32:42 371:010 > lbb
+00:32:42 371:011 > lbbl
+00:32:42 371:012 > lbblu
+00:32:43 371:013 > lbblue
+00:32:43 371:010 > blue
+00:32:47 371:014 > ;
+
+00:33:42 369:048 > u
+00:33:43 369:049 > ul
+00:33:44 369:051 > ul i
+00:33:44 369:051 > ul il
+00:33:45 369:052 > ul ili
+00:34:00 369:056 > .kontainer main .våraleveransplaner-kontainer .leveransplan,
+
+00:34:03 368:055 > ,
+
+00:34:11 369:061 > {
+
+00:35:42 371:004 > d
+00:35:43 371:005 > di
+00:35:43 371:006 > dis
+00:35:43 371:007 > disp
+00:35:43 371:004 > display: ;
+00:35:44 371:013 > r
+00:35:44 371:014 > re
+00:35:44 371:014 > rel
+00:35:46 371:004 > relp
+00:35:46 371:005 > relpo
+00:35:47 371:006 > relpos
+00:35:49 371:004 > relposs
+00:35:49 371:005 > relpossi
+00:35:49 371:006 > relpossiz
+00:35:50 371:004 > size:
+00:35:50 371:010 > r
+00:35:50 371:011 > re
+00:35:50 371:012 > rel
+00:35:50 371:013 > rela
+00:35:52 371:004 > relap
+00:35:52 371:005 > relapo
+00:35:52 371:006 > relapos
+00:35:52 371:004 > position: relative;
+
+00:38:40 213:002 > w
+00:38:40 213:003 > wi
+00:38:40 213:004 > wid
+00:38:41 213:002 > width: ;
+00:38:43 213:009 > 8
+00:38:45 213:010 > 80
+00:38:46 213:011 > 80%
+00:38:47 213:009 > 80%

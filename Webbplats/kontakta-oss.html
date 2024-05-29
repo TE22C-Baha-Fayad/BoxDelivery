@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, ,initial-scale=1" />
+    <title>Box Delivery &trade;</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href=./ikoner/679821.png type="image/x-icon">
+    <meta
+      name="description"
+      content="Box Delivery, Ditt val att leverera paket för både kvalitet och tillänglighet."
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+  </head>
+
+  <body>
+    <div class="kontainer">
+      <header><a href="hem.html">Box Delivery &TRADE;</a></header>
+      <nav>
+        <div class="ikon"><img src=./ikoner/679821.png alt="ikon"></div>
+        <div class="alternativ">
+          <a href="hem.html">Hem</a>
+          <a href="leveransplaner.html">Leveransplaner</a>
+          <a class="aktiv-sida" href="kontakta-oss.html">Kontakta oss</a>
+          <a href="om-oss.html">Om oss</a>
+        </div>
+        <div class="mörkt-läge-kontainer">
+          <a id="mörkt-läge-knappen" href="#"></a>
+        </div>
+      </nav>
+      <main>
+        <div class="kontakta-oss-kontainer">
+          <h1>Fyll i formuläret nedan</h1>
+          <form class="kontakta-oss-formulär" action="/action_page.php">
+            <label for="fname">*Förnamn:</label>
+            <input
+              type="text"
+              placeholder="Anders"
+              id="fname"
+              name="fname"
+              required
+            />
+            <label for="lname">Efternamn:</label>
+            <input type="text" placeholder="Eriksson" id="lname" name="lname" />
+            <label for="email">*Email:</label>
+            <input
+              type="email"
+              placeholder="Ex: Anderseriksson@gmail.com"
+              id="email"
+              name="email"
+              required
+            />
+            <label for="kommentar">*Kommentar:</label>
+            <textarea
+              placeholder="Beskriv kontakt orsaken."
+              id="kommentar"
+              name="kommentar"
+              required
+            ></textarea>
+            <input id="submit" type="button" value="Skicka" />
+          </form>
+          <p id="sändningsmeddelande">Formuläret har nu skickats!</p>
+        </div>
+      </main>
+      <footer>
+        <p class="rubrik">
+          Copyright &copy; 2024 BoxDelivery. All Rights Reserved
+        </p>
+        <div class="copyright-kontainer">
+          <div class="copyright-referens">
+            <p>
+              <a
+                href="https://www.flaticon.com/free-icons/package"
+                target="_blank"
+                title="package icons"
+                >Package icons created by Freepik - Flaticon</a
+              >
+            </p>
+            <p>
+              Ui -
+              <a href="https://fonts.google.com/" target="_blank"
+                >Google Fonts</a
+              >
+            </p>
+            <p>
+              media -
+              <a href="https://www.pexels.com/search/boxes/" target="_blank"
+                >Pexels</a
+              >
+            </p>
+          </div>
+          <p
+            class="copyright-info"
+            xmlns:cc="http://creativecommons.org/ns#"
+            xmlns:dct="http://purl.org/dc/terms/"
+          >
+            <a
+              property="dct:title"
+              rel="cc:attributionURL"
+              href="https://www.flickr.com/photos/alisdair/111897917"
+              >More of Meg in a box. When in a photo drought, post old cat
+              pictures.</a
+            >
+            by
+            <a
+              rel="cc:attributionURL dct:creator"
+              property="cc:attributionName"
+              href="https://www.flickr.com/photos/alisdair/"
+              >alisdair</a
+            >
+            is licensed under
+            <a
+              href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"
+              target="_blank"
+              rel="license noopener noreferrer"
+              style="display: inline-block"
+              >CC BY 2.0<img
+                style="
+                  height: 22px !important;
+                  margin-left: 3px;
+                  vertical-align: text-bottom;
+                "
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
+                alt="" /><img
+                style="
+                  height: 22px !important;
+                  margin-left: 3px;
+                  vertical-align: text-bottom;
+                "
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"
+                alt=""
+            /></a>
+          </p>
+        </div>
+      </footer>
+    </div>
+    <script src="./kontakt-script.js"></script>
+    <script src="mörkt-läge-script.js"></script>
+  </body>
+</html>
